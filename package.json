@@ -1,0 +1,60 @@
+{
+  "name": "infinique",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "next dev",
+    "dev": "cross-env INIT_CWD=$PWD next dev",
+    "build": "cross-env INIT_CWD=$PWD next build",
+    "serve": "next start",
+    "analyze": "cross-env ANALYZE=true next build",
+    "lint": "next lint --fix --dir app --dir components",
+    "format": "prettier --write .",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@headlessui/react": "2.2.0",
+    "@next/bundle-analyzer": "15.2.4",
+    "@tailwindcss/forms": "^0.5.9",
+    "@tailwindcss/postcss": "^4.0.5",
+    "@tailwindcss/typography": "^0.5.15",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "clsx": "^2.1.0",
+    "lightningcss": "^1.29.1",
+    "next": "15.2.4",
+    "next-themes": "^0.4.6",
+    "pliny": "0.4.1",
+    "postcss": "^8.4.24",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "tailwindcss": "^4.0.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.2.0",
+    "@eslint/js": "^9.16.0",
+    "@svgr/webpack": "^8.0.1",
+    "@types/react": "^19.0.8",
+    "@typescript-eslint/eslint-plugin": "^8.12.0",
+    "@typescript-eslint/parser": "^8.12.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^9.14.0",
+    "eslint-config-next": "15.2.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.0",
+    "globals": "^15.12.0",
+    "husky": "^9.0.0",
+    "lint-staged": "^13.0.0",
+    "prettier": "3.6.2",
+    "prettier-plugin-tailwindcss": "0.6.11",
+    "typescript": "^5.1.3"
+  },
+  "lint-staged": {
+    "*.+(js|jsx|ts|tsx)": [
+      "eslint --fix"
+    ],
+    "*.+(js|jsx|ts|tsx|json|css|md)": [
+      "prettier --write"
+    ]
+  },
+  "packageManager": "yarn@3.6.1"
+}
