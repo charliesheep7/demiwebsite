@@ -1,73 +1,82 @@
 @import 'tailwindcss';
 @plugin "@tailwindcss/forms";
 @plugin '@tailwindcss/typography';
-@source '../node_modules/pliny';
-@custom-variant dark (&:where(.dark, .dark *));
 
-/* Core theme configuration */
 @theme {
-  /* Font families */
-  --font-sans:
-    var(--font-inter), ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui,
-    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  --font-serif: var(--font-dm-serif), ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  /* Fonts */
+  --font-serif: var(--font-serif), ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  --font-body: var(--font-body), ui-serif, Georgia, serif;
+  --font-ui: var(--font-ui), system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
-  /* Colors — Monochrome / Apple-inspired */
+  /* Cream paper base */
+  --color-cream: #faf4ea;
+  --color-cream-2: #f5ecdc;
+  --color-cream-deep: #ede0c8;
 
-  /* Accent color scale (cool blue-gray) */
-  --color-accent-50: #f0f4f8;
-  --color-accent-100: #d9e2ec;
-  --color-accent-200: #bcccdc;
-  --color-accent-300: #9fb3c8;
-  --color-accent-400: #829ab1;
-  --color-accent-500: #627d98;
-  --color-accent-600: #486581;
-  --color-accent-700: #334e68;
-  --color-accent-800: #243b53;
-  --color-accent-900: #102a43;
-  --color-accent-950: #0a1929;
+  /* Ink — 4-step text scale */
+  --color-ink: #2a2339;
+  --color-ink-2: #564a6a;
+  --color-ink-dim: #8a7e9c;
+  --color-ink-faint: #c4bccf;
 
-  /* Map primary to accent for compatibility */
-  --color-primary-50: #f0f4f8;
-  --color-primary-100: #d9e2ec;
-  --color-primary-200: #bcccdc;
-  --color-primary-300: #9fb3c8;
-  --color-primary-400: #829ab1;
-  --color-primary-500: #627d98;
-  --color-primary-600: #486581;
-  --color-primary-700: #334e68;
-  --color-primary-800: #243b53;
-  --color-primary-900: #102a43;
-  --color-primary-950: #0a1929;
+  /* Lavender — primary accent */
+  --color-lav-50: #f3efff;
+  --color-lav-100: #e6deff;
+  --color-lav-200: #cfc0ff;
+  --color-lav-300: #b29cf5;
+  --color-lav-400: #9578e0;
+  --color-lav-500: #7a58c9;
 
-  /* Neutral colors — True grays */
-  --color-bg: #fafafa;
-  --color-surface: #f5f5f5;
-  --color-text: #1a1a1a;
+  /* Yellow — rare accent */
+  --color-yel-50: #fff7d6;
+  --color-yel-100: #ffecab;
+  --color-yel-200: #ffdf7a;
+  --color-yel-300: #ffc94a;
 
-  /* Extended neutral scale */
-  --color-gray-50: #fafafa;
-  --color-gray-100: #f5f5f5;
-  --color-gray-200: #e5e5e5;
-  --color-gray-300: #d4d4d4;
-  --color-gray-400: #a3a3a3;
-  --color-gray-500: #737373;
-  --color-gray-600: #525252;
-  --color-gray-700: #404040;
-  --color-gray-800: #262626;
-  --color-gray-900: #171717;
-  --color-gray-950: #0a0a0a;
+  /* Blush — soft urgency */
+  --color-blush: #f4a7b9;
+  --color-blush-deep: #d97a94;
 
-  /* Line heights */
-  --line-height-11: 2.75rem;
-  --line-height-12: 3rem;
-  --line-height-13: 3.25rem;
-  --line-height-14: 3.5rem;
+  /* Lines */
+  --color-line: #e6dcc8;
+  --color-line-soft: #efe6d3;
 
-  /* Z-index values */
-  --z-60: 60;
-  --z-70: 70;
-  --z-80: 80;
+  /* Radii */
+  --radius-xs: 10px;
+  --radius-sm: 14px;
+  --radius-md: 18px;
+  --radius-lg: 22px;
+  --radius-xl: 32px;
+  --radius-2xl: 48px;
+  --radius-full: 9999px;
+
+  /* Shadows — lavender-tinted */
+  --shadow-sd-1: 0 1px 2px rgba(42, 35, 57, 0.06), 0 1px 4px rgba(122, 88, 201, 0.04);
+  --shadow-sd-2: 0 4px 12px rgba(42, 35, 57, 0.04), 0 8px 24px -8px rgba(122, 88, 201, 0.12);
+  --shadow-sd-3:
+    0 1px 0 rgba(42, 35, 57, 0.03), 0 20px 40px -20px rgba(122, 88, 201, 0.2),
+    0 4px 12px rgba(42, 35, 57, 0.04);
+  --shadow-sd-lift: 0 30px 60px -20px rgba(122, 88, 201, 0.25), 0 12px 24px rgba(42, 35, 57, 0.08);
+  --shadow-sd-glow: 0 0 40px rgba(255, 223, 122, 0.55), 0 8px 30px rgba(178, 156, 245, 0.3);
+}
+
+/* Base body + atmosphere */
+html,
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+}
+
+body {
+  background:
+    radial-gradient(ellipse 60% 50% at 10% -5%, rgba(178, 156, 245, 0.3), transparent 55%),
+    radial-gradient(ellipse 50% 40% at 95% 15%, rgba(255, 223, 122, 0.32), transparent 55%),
+    radial-gradient(ellipse 45% 35% at 5% 60%, rgba(244, 167, 185, 0.22), transparent 55%),
+    radial-gradient(ellipse 55% 40% at 100% 85%, rgba(178, 156, 245, 0.2), transparent 55%),
+    var(--color-cream);
+  background-attachment: fixed;
+  font-family: var(--font-body);
+  color: var(--color-ink);
 }
 
 @layer base {
@@ -76,73 +85,318 @@
   ::before,
   ::backdrop,
   ::file-selector-button {
-    border-color: var(--color-gray-200, currentColor);
-  }
-
-  a,
-  button {
-    outline-color: var(--color-primary-500);
+    border-color: var(--color-line);
   }
 
   a:focus-visible,
-  button:focus-visible {
-    outline: 2px solid;
-    border-radius: var(--radius-sm);
-    outline-color: var(--color-primary-500);
+  button:focus-visible,
+  summary:focus-visible,
+  input:focus-visible {
+    outline: 2px solid var(--color-lav-400);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background: var(--color-lav-200);
+    color: var(--color-ink);
   }
 }
 
 @layer utilities {
-  .prose {
-    & a {
-      color: var(--color-primary-600);
-
-      &:hover {
-        color: var(--color-primary-700);
-      }
-
-      & code {
-        color: var(--color-primary-500);
-      }
-    }
-
-    & :where(h1, h2) {
-      font-weight: 700;
-      letter-spacing: var(--tracking-tight);
-    }
-
-    & h3 {
-      font-weight: 600;
-    }
-
-    & :where(code):not(pre code) {
-      color: var(--color-indigo-500);
-    }
+  /* Display */
+  .t-hero {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(72px, 11vw, 144px);
+    line-height: 0.88;
+    letter-spacing: -0.035em;
+  }
+  .t-display {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(56px, 7vw, 96px);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+  }
+  .t-h1 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(48px, 5.5vw, 72px);
+    line-height: 1.05;
+    letter-spacing: -0.025em;
+  }
+  .t-h2 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(36px, 4vw, 52px);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+  .t-h3 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.2;
+    letter-spacing: -0.015em;
   }
 
-  .prose-invert {
-    & a {
-      color: var(--color-primary-400);
+  .t-quote {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: clamp(28px, 3vw, 42px);
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+    color: var(--color-lav-500);
+  }
+  .t-lead {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: clamp(18px, 1.6vw, 22px);
+    line-height: 1.55;
+    color: var(--color-ink-2);
+  }
 
-      &:hover {
-        color: var(--color-primary-300);
-      }
+  .t-body-l {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.65;
+  }
+  .t-body {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--color-ink-2);
+  }
+  .t-body-s {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-ink-2);
+  }
 
-      & code {
-        color: var(--color-primary-400);
-      }
+  .t-eyebrow {
+    font-family: var(--font-ui);
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 1.4;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--color-ink-dim);
+  }
+  .t-meta {
+    font-family: var(--font-ui);
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.4;
+    color: var(--color-ink-dim);
+  }
+
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+  .font-body {
+    font-family: var(--font-body);
+  }
+  .font-ui {
+    font-family: var(--font-ui);
+  }
+}
+
+/* Blog post prose — Demi typography */
+.prose-demi {
+  font-family: var(--font-body);
+  color: var(--color-ink);
+  font-size: 18px;
+  line-height: 1.75;
+}
+.prose-demi > * + * {
+  margin-top: 1.25em;
+}
+.prose-demi p {
+  color: var(--color-ink-2);
+}
+.prose-demi h2 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(28px, 3.2vw, 38px);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+  margin-top: 2.4em;
+  margin-bottom: 0.5em;
+}
+.prose-demi h3 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.2;
+  letter-spacing: -0.015em;
+  color: var(--color-ink);
+  margin-top: 1.8em;
+  margin-bottom: 0.4em;
+}
+.prose-demi a {
+  color: var(--color-lav-500);
+  text-decoration: underline;
+  text-decoration-color: var(--color-lav-200);
+  text-underline-offset: 4px;
+  transition: color 200ms ease;
+}
+.prose-demi a:hover {
+  color: var(--color-lav-400);
+}
+.prose-demi strong {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.prose-demi em {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--color-lav-500);
+}
+.prose-demi blockquote {
+  border-left: 1px solid var(--color-lav-300);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  color: var(--color-ink-2);
+}
+.prose-demi blockquote p {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: clamp(22px, 2.4vw, 28px);
+  line-height: 1.35;
+  color: var(--color-lav-500);
+}
+.prose-demi ul,
+.prose-demi ol {
+  padding-left: 1.5rem;
+  color: var(--color-ink-2);
+}
+.prose-demi ul {
+  list-style: disc;
+}
+.prose-demi ol {
+  list-style: decimal;
+}
+.prose-demi li + li {
+  margin-top: 0.4em;
+}
+.prose-demi hr {
+  border: none;
+  text-align: center;
+  margin: 3rem 0;
+  color: var(--color-yel-300);
+}
+.prose-demi hr::after {
+  content: '— ✦ —';
+  font-size: 1.25rem;
+}
+.prose-demi code {
+  background: var(--color-cream-2);
+  color: var(--color-ink);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.prose-demi pre {
+  background: var(--color-cream-2);
+  color: var(--color-ink);
+  padding: 1.25rem;
+  border-radius: 10px;
+  overflow-x: auto;
+  font-size: 0.9em;
+}
+.prose-demi pre code {
+  background: transparent;
+  padding: 0;
+}
+.prose-demi img {
+  border-radius: 14px;
+  margin: 2rem auto;
+}
+
+/* Animations — respect prefers-reduced-motion */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes slow-spin {
+    from {
+      transform: rotate(0deg);
     }
-
-    & :where(h1, h2, h3, h4, h5, h6) {
-      color: var(--color-gray-100);
+    to {
+      transform: rotate(360deg);
     }
+  }
+  .animate-slow-spin {
+    animation: slow-spin 40s linear infinite;
+  }
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
+
+  @keyframes gold-breathe {
+    0%,
+    100% {
+      box-shadow:
+        0 0 30px rgba(255, 223, 122, 0.4),
+        0 4px 20px rgba(178, 156, 245, 0.2);
+    }
+    50% {
+      box-shadow:
+        0 0 45px rgba(255, 223, 122, 0.65),
+        0 8px 30px rgba(178, 156, 245, 0.3);
+    }
+  }
+  .animate-gold-breathe {
+    animation: gold-breathe 3.5s ease-in-out infinite;
+  }
+
+  @keyframes float-gentle {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-6px);
+    }
+  }
+  .animate-float-gentle {
+    animation: float-gentle 4s ease-in-out infinite;
+  }
+
+  @keyframes fade-rise {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  .reveal {
+    animation: fade-rise linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 60%;
   }
 }
 
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
-
 .no-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
@@ -153,48 +407,4 @@ input:-webkit-autofill:focus {
   transition:
     background-color 600000s 0s,
     color 600000s 0s;
-}
-
-/* Custom animations */
-@keyframes fade-in {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes blob {
-  0%,
-  100% {
-    transform: translate(0, 0) scale(1);
-  }
-
-  33% {
-    transform: translate(30px, -50px) scale(1.1);
-  }
-
-  66% {
-    transform: translate(-20px, 20px) scale(0.9);
-  }
-}
-
-.animate-fade-in {
-  animation: fade-in 0.8s ease-out forwards;
-}
-
-.animate-blob {
-  animation: blob 7s infinite;
-}
-
-.animation-delay-2000 {
-  animation-delay: 2s;
-}
-
-.animation-delay-4000 {
-  animation-delay: 4s;
 }

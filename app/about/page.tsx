@@ -1,65 +1,65 @@
 import { Metadata } from 'next'
+import { Em } from '@/components/Em'
+import { Eyebrow } from '@/components/Eyebrow'
+import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
+import { JsonLd } from '@/components/JsonLd'
+import siteMetadata from '@/data/siteMetadata'
 
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'Infinique, Inc. is a Delaware C-Corporation building software and platforms that feel like magic.',
+    'Demi is a small, independent studio in San Francisco building a ritual for people who half-believe.',
+  alternates: { canonical: '/about' },
+  openGraph: {
+    title: 'About · Demi',
+    description:
+      'Demi is a small, independent studio in San Francisco building a ritual for people who half-believe.',
+    url: '/about',
+    type: 'website',
+  },
+}
+
+const aboutSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  url: `${siteMetadata.siteUrl}/about`,
+  name: 'About · Demi',
+  description:
+    'Demi is a small, independent studio in San Francisco building a ritual for people who half-believe.',
+  isPartOf: { '@id': `${siteMetadata.siteUrl}#website` },
+  about: { '@id': `${siteMetadata.siteUrl}#organization` },
+  mainEntity: { '@id': `${siteMetadata.siteUrl}#organization` },
 }
 
 export default function AboutPage() {
   return (
-    <div className="mx-auto max-w-3xl px-6 py-20 sm:py-28">
-      <div className="animate-fade-in">
-        <h1 className="mb-8 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-white">
-          About Infinique
-        </h1>
+    <div className="mx-auto max-w-[760px] px-5 py-24 md:px-8 md:py-32">
+      <JsonLd data={aboutSchema} />
+      <BreadcrumbSchema
+        crumbs={[
+          { name: 'Home', path: '' },
+          { name: 'About', path: '/about' },
+        ]}
+      />
+      <Eyebrow>about</Eyebrow>
+      <h1 className="t-h1 mt-6 mb-12">
+        A small studio, making one <Em>small thing.</Em>
+      </h1>
 
-        <div className="space-y-6 text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-          <p>
-            Infinique, Inc. is a technology company incorporated in the State of Delaware as a
-            C-Corporation. We design, develop, and operate software products and digital platforms.
-          </p>
-
-          <p>
-            Our name comes from the combination of "infinite" and "unique" — reflecting our belief
-            that great software should feel boundless in possibility yet singular in experience.
-            Every product we build is crafted with intention, precision, and a relentless focus on
-            the people who use it.
-          </p>
-
-          <h2 className="pt-4 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            Our approach
-          </h2>
-
-          <p>
-            We believe the best technology disappears into the experience. It doesn't demand
-            attention — it earns trust. Our work sits at the intersection of design, engineering,
-            and product strategy, where thoughtful decisions compound into exceptional outcomes.
-          </p>
-
-          <h2 className="pt-4 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            Company details
-          </h2>
-
-          <ul className="space-y-2 text-base text-gray-500 dark:text-gray-400">
-            <li>
-              <span className="font-medium text-gray-700 dark:text-gray-200">Legal name:</span>{' '}
-              Infinique, Inc.
-            </li>
-            <li>
-              <span className="font-medium text-gray-700 dark:text-gray-200">Entity type:</span>{' '}
-              Delaware C-Corporation
-            </li>
-            <li>
-              <span className="font-medium text-gray-700 dark:text-gray-200">Industry:</span>{' '}
-              Technology / Software Development
-            </li>
-            <li>
-              <span className="font-medium text-gray-700 dark:text-gray-200">Headquarters:</span>{' '}
-              Wilmington, Delaware, United States
-            </li>
-          </ul>
-        </div>
+      <div className="space-y-6">
+        <p className="t-body-l">
+          Demi is built by a small, independent team in San Francisco. We make one product, very
+          carefully, on a long timeline.
+        </p>
+        <p className="t-body-l">
+          We&rsquo;re former designers and engineers who got tired of the gap between the Tuesday we
+          had and the Tuesday we wanted. We built the ritual for ourselves first. We&rsquo;re
+          sharing it because enough friends asked.
+        </p>
+        <p className="t-body-l">
+          No venture capital. No investors waiting for a return. We sell a gentle subscription so
+          the company can stay small and weird for as long as it wants.
+        </p>
       </div>
     </div>
   )

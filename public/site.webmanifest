@@ -1,0 +1,13 @@
+{
+  "name": "Demi",
+  "short_name": "Demi",
+  "description": "Manifest to make it come true.",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/apple-icon.svg", "sizes": "180x180", "type": "image/svg+xml", "purpose": "maskable" }
+  ],
+  "theme_color": "#faf4ea",
+  "background_color": "#faf4ea",
+  "display": "standalone",
+  "start_url": "/"
+}

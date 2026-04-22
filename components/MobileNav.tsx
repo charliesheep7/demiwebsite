@@ -5,34 +5,33 @@ import { disableBodyScroll, enableBodyScroll, clearAllBodyScrollLocks } from 'bo
 import { Fragment, useState, useEffect, useRef } from 'react'
 import Link from './Link'
 import headerNavLinks from '@/data/headerNavLinks'
+import { AppStoreButton } from './AppStoreButton'
 
-const MobileNav = () => {
+export default function MobileNav() {
   const [navShow, setNavShow] = useState(false)
-  const navRef = useRef(null)
+  const navRef = useRef<HTMLDivElement | null>(null)
 
-  const onToggleNav = () => {
-    setNavShow((status) => {
-      if (status) {
-        enableBodyScroll(navRef.current)
-      } else {
-        disableBodyScroll(navRef.current)
-      }
-      return !status
+  const onToggle = () =>
+    setNavShow((s) => {
+      if (s) enableBodyScroll(navRef.current as unknown as HTMLElement)
+      else disableBodyScroll(navRef.current as unknown as HTMLElement)
+      return !s
     })
-  }
 
-  useEffect(() => {
-    return clearAllBodyScrollLocks
-  })
+  useEffect(() => clearAllBodyScrollLocks, [])
 
   return (
     <>
-      <button aria-label="Toggle Menu" onClick={onToggleNav} className="sm:hidden">
+      <button
+        aria-label="Open menu"
+        onClick={onToggle}
+        className="text-ink hover:text-lav-500 p-2 transition-colors"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 20 20"
           fill="currentColor"
-          className="h-6 w-6 text-gray-700 dark:text-gray-300"
+          className="h-6 w-6"
         >
           <path
             fillRule="evenodd"
@@ -41,8 +40,9 @@ const MobileNav = () => {
           />
         </svg>
       </button>
+
       <Transition appear show={navShow} as={Fragment} unmount={false}>
-        <Dialog as="div" onClose={onToggleNav} unmount={false}>
+        <Dialog as="div" onClose={onToggle} unmount={false}>
           <TransitionChild
             as={Fragment}
             enter="ease-out duration-300"
@@ -53,42 +53,50 @@ const MobileNav = () => {
             leaveTo="opacity-0"
             unmount={false}
           >
-            <div className="fixed inset-0 z-60 bg-black/25" />
+            <div className="fixed inset-0 z-[60] bg-[rgb(42_35_57_/_0.2)] backdrop-blur-sm" />
           </TransitionChild>
 
           <TransitionChild
             as={Fragment}
-            enter="transition ease-in-out duration-300 transform"
-            enterFrom="translate-x-full opacity-0"
-            enterTo="translate-x-0 opacity-95"
+            enter="transition ease-out duration-300 transform"
+            enterFrom="opacity-0 translate-y-2"
+            enterTo="opacity-100 translate-y-0"
             leave="transition ease-in duration-200 transform"
-            leaveFrom="translate-x-0 opacity-95"
-            leaveTo="translate-x-full opacity-0"
+            leaveFrom="opacity-100 translate-y-0"
+            leaveTo="opacity-0 translate-y-2"
             unmount={false}
           >
-            <DialogPanel className="fixed top-0 left-0 z-70 h-full w-full bg-white/95 duration-300 dark:bg-gray-950/98">
-              <nav
+            <DialogPanel className="fixed inset-0 z-[70] bg-[rgb(250_244_234_/_0.96)] backdrop-blur-2xl">
+              <div
                 ref={navRef}
-                className="mt-8 flex h-full basis-0 flex-col items-start overflow-y-auto pt-2 pl-12 text-left"
+                className="flex h-full flex-col items-start justify-center gap-8 px-8"
               >
                 {headerNavLinks.map((link) => (
                   <Link
                     key={link.title}
                     href={link.href}
-                    className="mb-4 py-2 pr-4 text-2xl font-bold tracking-widest text-gray-900 hover:text-gray-500 dark:text-gray-100 dark:hover:text-gray-400"
-                    onClick={onToggleNav}
+                    onClick={onToggle}
+                    className="t-h3 text-ink hover:text-lav-500 font-serif transition-colors"
                   >
                     {link.title}
                   </Link>
                 ))}
-              </nav>
+                <div className="mt-8">
+                  <AppStoreButton size="md" />
+                </div>
+              </div>
 
               <button
-                className="fixed top-7 right-4 z-80 h-16 w-16 p-4 text-gray-900 hover:text-gray-500 dark:text-gray-100 dark:hover:text-gray-400"
-                aria-label="Toggle Menu"
-                onClick={onToggleNav}
+                onClick={onToggle}
+                aria-label="Close menu"
+                className="text-ink hover:text-lav-500 fixed top-5 right-5 z-[80] p-3"
               >
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  className="h-6 w-6"
+                >
                   <path
                     fillRule="evenodd"
                     d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
@@ -103,5 +111,3 @@ const MobileNav = () => {
     </>
   )
 }
-
-export default MobileNav

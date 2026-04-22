@@ -1,0 +1,12 @@
+/* TEAM */
+  Team: Demi
+  Site: https://demimanifest.com
+  Contact: hello [at] demimanifest.com
+  Location: San Francisco, California
+
+/* SITE */
+  Last update: 2026/04/23
+  Language: English
+  Standards: HTML5, CSS3
+  Components: Next.js, React, Tailwind CSS
+  Software: Figma, VS Code

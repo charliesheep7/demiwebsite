@@ -1,0 +1,3 @@
+Contact: mailto:hello@demimanifest.com
+Preferred-Languages: en
+Canonical: https://demimanifest.com/.well-known/security.txt

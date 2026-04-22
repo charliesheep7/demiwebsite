@@ -1,0 +1,37 @@
+# Demi
+
+> A ritual for people who half-believe. Demi is a 30-second daily focus ritual that holds your future self in view, so the ordinary Tuesday she lives inside can finally find you. Built by a small, independent studio in San Francisco.
+
+## About
+
+Demi (formally Demimanifest) is an iOS app for daily intention-setting. It is not a religion app, not a crystals app, and not therapy. It is a 30-second attention practice that works the way a workout works — not because you believe in it, but because you keep doing it.
+
+Your goal, streak, and taps live on your device. Nothing leaves unless you explicitly sync. The goal is end-to-end encrypted.
+
+## Core pages
+
+- [Home](https://demimanifest.com/): the manifesto, how it works, the ten rituals, and FAQ
+- [About](https://demimanifest.com/about): the team and philosophy
+- [Contact](https://demimanifest.com/contact): press, feedback, collaboration
+- [Privacy](https://demimanifest.com/privacy): what we collect and why (very little)
+- [Terms](https://demimanifest.com/terms): terms of service
+
+## How the ritual works
+
+1. Name your future self — one sentence, one Tuesday
+2. Open Demi once a day, for 30 seconds
+3. Tap through the ritual — read, breathe, hold it
+4. Close the app and go live the day
+
+Thirty seconds. Daily. Two weeks to feel the difference.
+
+## Key principles
+
+- Half-belief is welcome. "Demi-" means half.
+- The woo is aesthetic; the practice is just attention, placed on purpose.
+- One product, made carefully, on a long timeline. No venture capital.
+- Privacy by design: end-to-end encryption, anonymous analytics off by default.
+
+## Contact
+
+hello@demimanifest.com

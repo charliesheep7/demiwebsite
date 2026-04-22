@@ -21,6 +21,7 @@
       "@/data/*": ["data/*"],
       "@/css/*": ["css/*"],
       "@/app/*": ["app/*"],
+      "@/lib/*": ["lib/*"],
       "pliny/*": ["node_modules/pliny/*"]
     },
     "plugins": [

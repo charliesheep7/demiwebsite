@@ -37,11 +37,11 @@ const securityHeaders = [
   },
   {
     key: 'Strict-Transport-Security',
-    value: 'max-age=31536000; includeSubDomains',
+    value: 'max-age=63072000; includeSubDomains; preload',
   },
   {
     key: 'Permissions-Policy',
-    value: 'camera=(), microphone=(), geolocation=()',
+    value: 'camera=(), microphone=(), geolocation=(), interest-cohort=()',
   },
 ]
 
@@ -60,17 +60,39 @@ module.exports = () => {
     reactStrictMode: true,
     trailingSlash: false,
     pageExtensions: ['ts', 'tsx', 'js', 'jsx'],
+    compress: true,
+    poweredByHeader: false,
     eslint: {
       dirs: ['app', 'components'],
     },
     images: {
       unoptimized,
+      formats: ['image/avif', 'image/webp'],
     },
     async headers() {
       return [
         {
           source: '/(.*)',
           headers: securityHeaders,
+        },
+        {
+          source: '/static/favicons/(.*)',
+          headers: [{ key: 'Cache-Control', value: 'public, max-age=604800, must-revalidate' }],
+        },
+        {
+          source: '/static/images/(.*)',
+          headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],
+        },
+        {
+          source: '/sitemap.xml',
+          headers: [
+            { key: 'Cache-Control', value: 'public, max-age=3600, must-revalidate' },
+            { key: 'Content-Type', value: 'application/xml' },
+          ],
+        },
+        {
+          source: '/robots.txt',
+          headers: [{ key: 'Cache-Control', value: 'public, max-age=3600, must-revalidate' }],
         },
       ]
     },

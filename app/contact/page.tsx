@@ -1,47 +1,70 @@
 import { Metadata } from 'next'
-import Link from '@/components/Link'
+import { Em } from '@/components/Em'
+import { Eyebrow } from '@/components/Eyebrow'
+import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
+import { JsonLd } from '@/components/JsonLd'
+import siteMetadata from '@/data/siteMetadata'
 
 export const metadata: Metadata = {
   title: 'Contact',
-  description: 'Get in touch with Infinique, Inc.',
+  description: 'Get in touch with the team behind Demi.',
+  alternates: { canonical: '/contact' },
+  openGraph: {
+    title: 'Contact · Demi',
+    description: 'Get in touch with the team behind Demi.',
+    url: '/contact',
+    type: 'website',
+  },
+}
+
+const contactSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  url: `${siteMetadata.siteUrl}/contact`,
+  name: 'Contact · Demi',
+  description: 'Get in touch with the team behind Demi.',
+  isPartOf: { '@id': `${siteMetadata.siteUrl}#website` },
+  about: { '@id': `${siteMetadata.siteUrl}#organization` },
 }
 
 export default function ContactPage() {
   return (
-    <div className="mx-auto max-w-3xl px-6 py-20 sm:py-28">
-      <div className="animate-fade-in">
-        <h1 className="mb-8 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-white">
-          Contact
-        </h1>
+    <div className="mx-auto max-w-[720px] px-5 py-24 md:px-8 md:py-32">
+      <JsonLd data={contactSchema} />
+      <BreadcrumbSchema
+        crumbs={[
+          { name: 'Home', path: '' },
+          { name: 'Contact', path: '/contact' },
+        ]}
+      />
+      <Eyebrow>contact</Eyebrow>
+      <h1 className="t-h1 mt-6 mb-10">
+        Say hello — we <Em>read everything.</Em>
+      </h1>
 
-        <p className="mb-12 text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-          We&rsquo;d love to hear from you. Whether you have a question, a partnership inquiry, or
-          just want to say hello — reach out anytime.
-        </p>
+      <p className="t-lead mb-10">
+        Press, feedback, collaboration, or a quiet note about how the ritual is going. Any of it is
+        welcome.
+      </p>
 
-        <div className="space-y-8">
-          <div>
-            <h2 className="mb-2 text-sm font-semibold tracking-widest text-gray-400 uppercase dark:text-gray-500">
-              Email
-            </h2>
-            <Link
-              href="mailto:hello@infinique.org"
-              className="text-lg text-gray-900 underline decoration-gray-300 underline-offset-4 transition-colors hover:decoration-gray-900 dark:text-white dark:decoration-gray-600 dark:hover:decoration-white"
-            >
-              hello@infinique.org
-            </Link>
-          </div>
-
-          <div>
-            <h2 className="mb-2 text-sm font-semibold tracking-widest text-gray-400 uppercase dark:text-gray-500">
-              Location
-            </h2>
-            <p className="text-lg text-gray-600 dark:text-gray-300">
-              Wilmington, Delaware
-              <br />
-              United States
-            </p>
-          </div>
+      <div className="space-y-6">
+        <div>
+          <div className="t-eyebrow mb-2">email</div>
+          <a
+            href="mailto:hello@demimanifest.com"
+            className="text-ink hover:text-lav-500 font-serif text-2xl italic transition-colors"
+          >
+            hello@demimanifest.com
+          </a>
+        </div>
+        <div>
+          <div className="t-eyebrow mb-2">press</div>
+          <a
+            href="mailto:press@demimanifest.com"
+            className="text-ink hover:text-lav-500 font-serif text-2xl italic transition-colors"
+          >
+            press@demimanifest.com
+          </a>
         </div>
       </div>
     </div>
