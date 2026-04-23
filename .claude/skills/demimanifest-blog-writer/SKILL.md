@@ -243,7 +243,7 @@ Allowed markdown:
 
 **Not allowed** (would break rendering): MDX JSX components like `<Image>`, `<Callout>`, `<YouTube>`. This is a markdown pipeline, not MDX-with-components.
 
-HTML entities for curly quotes are fine (`&rsquo;`, `&ldquo;`) — the existing post uses them.
+**Quotes — use real Unicode, not HTML entities.** Write `'` (U+2019), `"` (U+201C), `"` (U+201D), `'` (U+2018) directly in the MDX source. Do NOT write `&rsquo;` / `&ldquo;` / etc. HTML entities render correctly only inside the markdown body; in the YAML frontmatter (title, description) they render **literally as `doesn&rsquo;t`** because Next.js sends the title through React as plain text, not HTML. The prettier pre-commit hook also auto-converts entities to Unicode, so using entities is just churn. Use the real characters everywhere.
 
 Show: filename, title, description, word count, tags.
 
@@ -329,6 +329,31 @@ Then **append every targeted keyword** (primary + secondary clustered keywords) 
 
 Show: confirmation that written.csv was updated and the post appears when `getAllSlugs()` is re-run (or just that the file exists at the expected path).
 
+### Step 8.5: Submit to IndexNow
+
+After the new post is committed and pushed, ping the [IndexNow](https://www.indexnow.org/) API so Bing, Yandex, Naver, Seznam, and Yep all crawl the new URL within minutes. Google does not currently consume IndexNow but no harm done.
+
+**Site key**: `3bf2a5027424c5e431b202d16a344dc6`
+**Key file (already deployed)**: `https://demimanifest.com/3bf2a5027424c5e431b202d16a344dc6.txt`
+
+**Submit the URL** with a single curl POST:
+
+```bash
+SLUG="<the-slug-just-published>"
+curl -s -o /dev/null -w "IndexNow: HTTP %{http_code}\n" \
+  -X POST "https://api.indexnow.org/indexnow" \
+  -H "Content-Type: application/json" \
+  -d "{\"host\":\"demimanifest.com\",\"key\":\"3bf2a5027424c5e431b202d16a344dc6\",\"keyLocation\":\"https://demimanifest.com/3bf2a5027424c5e431b202d16a344dc6.txt\",\"urlList\":[\"https://demimanifest.com/blog/${SLUG}\"]}"
+```
+
+**Expected response codes**:
+
+- `200` — submitted, will be processed
+- `202` — submitted, key validation pending (also fine on first call)
+- `400` / `403` / `422` — bad request / wrong key / invalid URL → log and continue, don't block
+
+Do not retry aggressively on failure — IndexNow is a best-effort hint, not a critical path. One ping per published URL is enough.
+
 ### Step 9: Summary
 
 ```
@@ -361,6 +386,7 @@ Checklist:
 - [ ] CTA mentions Demi + demimanifest.com once or twice, fits the topic
 - [ ] Hero image generated (or skipped with note)
 - [ ] written.csv updated with all targeted keywords
+- [ ] IndexNow ping returned 200/202 (or logged failure code)
 ```
 
 ---
