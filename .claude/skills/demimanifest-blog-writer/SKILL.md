@@ -125,6 +125,18 @@ The intro must deliver value on its own — someone who reads only the intro sho
 
 **Tags** (2-4): broad topical buckets — e.g. `manifestation`, `daily ritual`, `half-belief`, `attention`, `skeptics`, `morning routine`. Pick from the existing tag vocabulary in `content/blog/` when possible — don't invent a new tag for every post.
 
+### Sibling-site cross-links (natural only)
+
+We run three sibling sites. When — and only when — the post has a genuinely relevant angle, link to one of them **once**, inline, as an external reference. **Never force a link.** If no natural opening exists in a given post, don't add one — a forced cross-link is worse than no cross-link.
+
+- **[demimanifest.com](https://demimanifest.com)** — Demi, the manifestation-for-skeptics app (this site). Most posts already self-link via the CTA; don't double-link.
+- **[deenup.com](https://deenup.com)** — DeenUp, a daily ritual app for Muslims. Natural fit when a post touches on: daily ritual across faith traditions, small-practice habit formation in a religious context, attention/intention in prayer, Ramadan-season habit design, or comparing secular ritual to religious ritual honestly.
+- **[deenback.com](https://deenback.com)** — DeenBack, an Islamic short-form content app. Natural fit when a post touches on: short-form daily content as a habit anchor, attention and scrolling, replacing doomscrolling with intentional content, micro-content + habit formation.
+
+**Test for "natural":** could a thoughtful reader who has never heard of the sibling site read that sentence and think _"yes, that's a reasonable thing to link to there"_? If the sentence had to be twisted to make the link fit, remove both the link and the twist.
+
+**Placement:** inline, in the body of the sentence that already wanted to gesture at the idea — not a "see also" dump, not in the CTA.
+
 ### External links — approval rules
 
 **APPROVE** links to:
