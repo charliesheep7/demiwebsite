@@ -69,17 +69,34 @@ export default function BlogIndexPage() {
             <li key={post.slug} className="py-10">
               <Link
                 href={`/blog/${post.slug}`}
-                className="group grid gap-6 md:grid-cols-[160px_1fr]"
+                className="group grid gap-6 md:grid-cols-[240px_1fr] md:gap-8"
               >
-                <time dateTime={post.frontmatter.date} className="t-meta text-ink-dim">
-                  {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </time>
+                {post.frontmatter.image ? (
+                  <img
+                    src={post.frontmatter.image}
+                    alt={post.frontmatter.title}
+                    width={1200}
+                    height={630}
+                    className="border-line-soft aspect-[1200/630] w-full rounded-[var(--radius-md)] border object-cover"
+                  />
+                ) : (
+                  <time dateTime={post.frontmatter.date} className="t-meta text-ink-dim">
+                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    })}
+                  </time>
+                )}
                 <div>
-                  <h2 className="group-hover:text-lav-500 font-serif text-[30px] leading-tight tracking-tight transition-colors md:text-[36px]">
+                  <time dateTime={post.frontmatter.date} className="t-meta text-ink-dim">
+                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    })}
+                  </time>
+                  <h2 className="group-hover:text-lav-500 mt-2 font-serif text-[30px] leading-tight tracking-tight transition-colors md:text-[36px]">
                     {post.frontmatter.title}
                   </h2>
                   <p className="t-body mt-3 max-w-[680px]">{post.frontmatter.description}</p>

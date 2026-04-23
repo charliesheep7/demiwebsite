@@ -87,6 +87,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <h1 className="t-h1 mt-6 mb-8">{post.frontmatter.title}</h1>
 
+      {post.frontmatter.image ? (
+        <img
+          src={post.frontmatter.image}
+          alt={post.frontmatter.title}
+          width={1200}
+          height={630}
+          className="border-line-soft mb-10 aspect-[1200/630] w-full rounded-[var(--radius-lg)] border object-cover"
+        />
+      ) : null}
+
       <p className="t-lead mb-10">{post.frontmatter.description}</p>
 
       <div className="border-line-soft text-ink-dim mb-14 flex flex-wrap items-center gap-4 border-t border-b py-4">
