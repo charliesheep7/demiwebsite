@@ -224,6 +224,8 @@ image: '/blog/[slug]/hero.jpg'
 ---
 ```
 
+**YAML quoting rule**: always wrap `title` and `description` in **double-quote** YAML delimiters (`"…"`). These fields contain natural prose and often include curly apostrophes (`'` U+2019) or em dashes — characters that can confuse YAML parsers when the field is wrapped in single quotes. Double-quoted YAML strings handle any Unicode character safely. Use single-quote YAML delimiters (`'…'`) only for technical fields that never contain prose: `author`, `image`, date fields, individual tag/keyword strings.
+
 - `title` is the H1 shown in the post layout (`page.tsx` renders it from frontmatter). **Do NOT repeat the title as an `# H1` inside the body** — it would render twice.
 - `description` feeds both meta description and the lead paragraph shown in the layout (`t-lead mb-10`). Write it once, write it well.
 - `date` and `updated` — use **2026** for the year.
@@ -244,6 +246,8 @@ Allowed markdown:
 **Not allowed** (would break rendering): MDX JSX components like `<Image>`, `<Callout>`, `<YouTube>`. This is a markdown pipeline, not MDX-with-components.
 
 **Quotes — use real Unicode, not HTML entities.** Write `'` (U+2019), `"` (U+201C), `"` (U+201D), `'` (U+2018) directly in the MDX source. Do NOT write `&rsquo;` / `&ldquo;` / etc. HTML entities render correctly only inside the markdown body; in the YAML frontmatter (title, description) they render **literally as `doesn&rsquo;t`** because Next.js sends the title through React as plain text, not HTML. The prettier pre-commit hook also auto-converts entities to Unicode, so using entities is just churn. Use the real characters everywhere.
+
+**YAML safety**: because `title` and `description` are wrapped in double-quote YAML delimiters (see §3.1), curly apostrophes and em dashes are safe inside them — no escaping needed. Never switch these two fields back to single-quote YAML delimiters; a curly apostrophe like the one in `Here's` or `doesn't` will terminate a single-quoted YAML string early and break the build.
 
 Show: filename, title, description, word count, tags.
 
