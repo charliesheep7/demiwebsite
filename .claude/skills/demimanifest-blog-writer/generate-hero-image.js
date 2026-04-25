@@ -27,7 +27,7 @@ const fs = require('fs')
 const path = require('path')
 const crypto = require('crypto')
 
-const PROJECT_ROOT = '/Users/sihancheng/Projects/demimanifest'
+const PROJECT_ROOT = process.env.DEMI_PROJECT_ROOT || '/home/user/demiwebsite'
 const WIDTH = 1200
 const HEIGHT = 630
 
