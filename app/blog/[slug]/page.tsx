@@ -4,6 +4,7 @@ import Link from '@/components/Link'
 import { Em } from '@/components/Em'
 import { Eyebrow } from '@/components/Eyebrow'
 import { JsonLd } from '@/components/JsonLd'
+import { ShareButtons } from '@/components/ShareButtons'
 import { getAllSlugs, getPostBySlug, renderPost } from '@/lib/blog'
 import siteMetadata from '@/data/siteMetadata'
 
@@ -98,6 +99,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       ) : null}
 
       <p className="t-lead mb-10">{post.frontmatter.description}</p>
+
+      <div className="mb-10">
+        <ShareButtons url={url} title={post.frontmatter.title} />
+      </div>
 
       <div className="border-line-soft text-ink-dim mb-14 flex flex-wrap items-center gap-4 border-t border-b py-4">
         <time dateTime={post.frontmatter.date} className="t-meta">
