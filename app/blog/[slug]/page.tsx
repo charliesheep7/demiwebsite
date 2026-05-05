@@ -1,10 +1,12 @@
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
+import Image from 'next/image'
 import Link from '@/components/Link'
 import { Em } from '@/components/Em'
 import { Eyebrow } from '@/components/Eyebrow'
 import { JsonLd } from '@/components/JsonLd'
 import { ShareButtons } from '@/components/ShareButtons'
+import { BlogCTA } from '@/components/BlogCTA'
 import { getAllSlugs, getPostBySlug, renderPost } from '@/lib/blog'
 import siteMetadata from '@/data/siteMetadata'
 
@@ -89,11 +91,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <h1 className="t-h1 mt-6 mb-8">{post.frontmatter.title}</h1>
 
       {post.frontmatter.image ? (
-        <img
+        <Image
           src={post.frontmatter.image}
           alt={post.frontmatter.title}
           width={1200}
           height={630}
+          sizes="(min-width: 808px) 760px, calc(100vw - 40px)"
+          priority
           className="border-line-soft mb-10 aspect-[1200/630] w-full rounded-[var(--radius-lg)] border object-cover"
         />
       ) : null}
@@ -130,11 +134,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <div className="prose-demi" dangerouslySetInnerHTML={{ __html: rendered.html }} />
 
-      <div className="border-line-soft mt-20 border-t pt-10">
-        <p className="t-body">
-          Like this? <Em>Read more essays</Em> or{' '}
-          <Link href="/" className="text-lav-500 decoration-lav-200 underline underline-offset-4">
-            download Demi
+      <BlogCTA />
+
+      <div className="border-line-soft mt-12 border-t pt-8">
+        <p className="t-body-s text-ink-dim">
+          Like this? <Em>Read more essays</Em> on the{' '}
+          <Link
+            href="/blog"
+            className="text-lav-500 decoration-lav-200 underline underline-offset-4"
+          >
+            Demi journal
           </Link>
           .
         </p>
