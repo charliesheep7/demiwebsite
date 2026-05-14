@@ -304,26 +304,32 @@ Show: list of internal links and where they were placed.
 
 ### Step 7: Generate Hero Image
 
-Hero image rules:
+**Default — always use the local generator.** The skill ships with a deterministic, brand-correct generator next to this file. It uses `sharp` (already in the demimanifest project's `node_modules` because Next.js depends on it) to render an SVG of a Demi-palette gradient + grain + the title to a real 1200×630 JPEG. Output is guaranteed-valid binary — no decode step, no base64 traps.
 
-- One clear, central visual concept — a single object or scene
-- Mood: quiet, natural light, lived-in — not glossy
-- Palette: soft neutrals + one lavender or blush accent (Demi's brand leans lavender — see `lav-500` in the theme)
-- No text in the image
-- No stock-photo clichés (no "woman meditating on beach at sunset", no vision boards, no sparkles, no cosmic galaxies)
-- Prefer concrete: a windowsill, a single ceramic mug, a hand on a phone, morning light on a pillow, a half-open notebook
+Run it from the project root:
 
-**Good prompts:**
+```bash
+DEMI_PROJECT_ROOT="$(pwd)" node .claude/skills/demimanifest-blog-writer/generate-hero-image.js "<slug>"
+```
 
-- "A single ceramic mug on a sunlit windowsill, soft morning light, muted palette, editorial photography"
-- "A hand holding a phone on a kitchen counter at dawn, soft lavender accent, unstyled, editorial"
-- "An unmade bed catching first morning light, one pillow dented, quiet domestic scene, film photography"
+That writes `public/blog/<slug>/hero.jpg`. Confirm with `file public/blog/<slug>/hero.jpg` — it must report `JPEG image data, … 1200x630`. If it reports `ASCII text`, the file is base64 written verbatim — delete it and re-run the script.
 
-Save to `public/blog/[slug]/hero.jpg` (the path referenced by `image` in frontmatter).
+**Do NOT** call an external image-gen MCP/API tool and then `Write` its response to `hero.jpg`. Those tools return base64-encoded JPEGs as strings; writing the string straight to disk produces a `.jpg` that browsers can't render (this exact bug shipped 9 broken heroes once already — don't repeat it). If you ever do use such a tool, you must base64-decode into a Buffer and write the binary, not the string.
 
-If no image-gen tool is available in the environment, **skip with a note** in the summary — don't block publishing. The existing fallback is `/og.png`; use that as `image` if no hero was generated.
+**Optional args** if you want to override the auto-pick:
 
-Show: image path, status.
+- Palette (2nd arg): `lavender-dawn`, `blush-dusk`, `cream-halo`, `yellow-morning`, `lavender-blush`, `midnight-lav`. Default: hashed from slug (stable).
+- Title override (3rd arg): 3–5 words centered as the cover title. Default: derived from the slug.
+
+**Hero design rules** (already baked into the generator — listed for context):
+
+- Soft Demi-palette gradient (cream / lavender / blush / yellow), grain overlay, vignette
+- 3–5 word serif title centered, ~40% canvas width
+- No stock-photo clichés, no people, no woo iconography
+
+**If `sharp` is genuinely unavailable** (script exits with `Error: sharp is not installed`), then — and only then — skip with a note in the summary and set `image: '/og.png'` in frontmatter. Don't block publishing.
+
+Show: image path, file size, output of `file <path>` confirming JPEG.
 
 ### Step 8: Register Blog Post
 
