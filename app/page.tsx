@@ -13,8 +13,19 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: { absolute: 'Demi — manifest to make it come true.' },
-  description: 'Manifest to make it come true.',
+  description: siteMetadata.description,
   alternates: { canonical: '/' },
+  openGraph: {
+    title: 'Demi — manifest to make it come true.',
+    description: siteMetadata.description,
+    url: '/',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Demi — manifest to make it come true.',
+    description: siteMetadata.description,
+  },
 }
 
 const homepageGraph = {
@@ -72,39 +83,39 @@ const homepageGraph = {
         '@type': 'Offer',
         price: '0',
         priceCurrency: 'USD',
-        availability: 'https://schema.org/PreOrder',
+        availability: 'https://schema.org/InStock',
       },
     },
     {
       '@type': 'HowTo',
       '@id': `${siteMetadata.siteUrl}/#ritual`,
-      name: 'The 30-second Demi ritual',
-      description: 'A 30-second daily focus ritual that holds your future self in view.',
-      totalTime: 'PT30S',
+      name: 'The daily Demi manifestation ritual',
+      description:
+        'A daily manifestation practice: claim it on the orb, read your day, script the scene, build the vision board, keep the streak.',
       step: [
         {
           '@type': 'HowToStep',
           position: 1,
-          name: 'Name your future self',
-          text: 'Write one sentence about the Tuesday your future self lives inside.',
+          name: 'Claim it on the orb',
+          text: 'Whisper your manifestation — SP, money, move, a version of you — and tap the orb to hold it.',
         },
         {
           '@type': 'HowToStep',
           position: 2,
-          name: 'Open Demi once a day',
-          text: 'Open the app at a consistent moment — morning coffee, commute, before bed.',
+          name: 'Read your day at a glance',
+          text: 'Check today’s lucky number, the signs to watch for, the dos and don’ts, and the affirmation for the day.',
         },
         {
           '@type': 'HowToStep',
           position: 3,
-          name: 'Tap through the ritual',
-          text: 'Read, breathe, hold the image of your future self for thirty seconds.',
+          name: 'Script and visualize',
+          text: 'Write the manifestation in the past tense — as if it already happened — and pin images to your vision board.',
         },
         {
           '@type': 'HowToStep',
           position: 4,
-          name: 'Close the app and go live the day',
-          text: 'Let the attention you placed carry into the ordinary Tuesday.',
+          name: 'Keep the streak',
+          text: 'Show up tomorrow. The longer you tune in, the louder the signs get.',
         },
       ],
     },

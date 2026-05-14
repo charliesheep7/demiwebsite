@@ -4,24 +4,24 @@ import { FeatureCard } from '../FeatureCard'
 const STEPS = [
   {
     numeral: 'i.',
-    kicker: 'set a goal',
-    title: 'You pick the',
-    emphasis: 'life.',
-    body: 'Love, money, body, career, or something you don’t have words for yet. One goal. Short or long. We’ll hold it for you.',
+    kicker: 'claim it',
+    title: 'Whisper it to',
+    emphasis: 'the orb.',
+    body: 'Your SP, your dream career, the move, the money — anything, anyone. One claim, made daily. The orb holds it until it lands.',
   },
   {
     numeral: 'ii.',
-    kicker: 'tune in daily',
-    title: 'Thirty seconds.',
-    emphasis: 'hold the orb.',
-    body: 'Charge it with your attention. The universe is listening — but only after you’ve tuned your own frequency.',
+    kicker: 'tune in',
+    title: 'Read the day',
+    emphasis: 'the universe sent.',
+    body: 'Your lucky number, the signs to watch for, the dos and don’ts, the affirmation for today. A 30-second check-in that aligns your frequency before the world starts pulling at it.',
   },
   {
     numeral: 'iii.',
-    kicker: 'watch for signs',
-    title: 'Scenes arrive.',
-    emphasis: 'so do signs.',
-    body: 'You start noticing what was always already here. The ordinary Tuesday your future self lives inside begins to meet you halfway.',
+    kicker: 'do the work',
+    title: 'Script it.',
+    emphasis: 'see it. keep showing up.',
+    body: 'Write the scene as if it’s already happened. Pin it to your vision board. Keep your streak. The longer you tune in, the louder the signs get.',
   },
 ]
 

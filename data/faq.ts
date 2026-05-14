@@ -2,12 +2,16 @@ export type FAQItem = { q: string; a: string }
 
 export const FAQ_ITEMS: FAQItem[] = [
   {
-    q: 'Is this a religion or crystals thing?',
-    a: 'No. Demi is a daily focus ritual dressed in ritual clothing. The woo is aesthetic; the practice is just attention, placed on purpose.',
+    q: 'Can I manifest a specific person?',
+    a: 'Yes. The Claiming Orb is built for SP work, but it’s just as good for a job, a move, a number in your account, a version of you. Whisper it. Tap. Show up tomorrow.',
   },
   {
-    q: 'Does it really work?',
-    a: 'It works the way a workout works. Not because you believe in it, but because you keep doing it. Thirty seconds. Daily. You’ll feel the difference in two weeks.',
+    q: 'Does manifestation actually work?',
+    a: 'You already know it does — the song that played twice, the name you wrote down before they texted. Demi is the daily practice that turns those moments into method. Two weeks of showing up and the signs get loud.',
+  },
+  {
+    q: 'What’s the difference between scripting and a vision board?',
+    a: 'Scripting is the rehearsal in words — you write the day your manifestation lands, in the past tense, as if it already happened. The vision board is the rehearsal in images. Most people use both. Demi gives you a place for each.',
   },
   {
     q: 'Will it track my data?',
@@ -23,10 +27,10 @@ export const FAQ_ITEMS: FAQItem[] = [
   },
   {
     q: 'Who made this?',
-    a: 'A small team in San Francisco who got tired of the gap between the Tuesday they had and the Tuesday they wanted.',
+    a: 'A small team in San Francisco who got tired of the gap between the life they were scripting and the life they were living. So we built the app we wanted to open every morning.',
   },
   {
     q: 'Why "Demi"?',
-    a: 'Demi- means half. Half-belief is welcome here. We think it’s actually the honest starting place for anything worth doing.',
+    a: 'Demi means half — the space between asking and receiving. You’ve already done the asking. Demi is for the part where you hold it, daily, until it lands.',
   },
 ]

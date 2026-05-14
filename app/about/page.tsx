@@ -8,12 +8,12 @@ import siteMetadata from '@/data/siteMetadata'
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'Demi is a small, independent studio in San Francisco building a ritual for people who half-believe.',
+    'Demi is a small, independent studio in San Francisco building the daily manifestation app.',
   alternates: { canonical: '/about' },
   openGraph: {
     title: 'About · Demi',
     description:
-      'Demi is a small, independent studio in San Francisco building a ritual for people who half-believe.',
+      'Demi is a small, independent studio in San Francisco building the daily manifestation app.',
     url: '/about',
     type: 'website',
   },
@@ -25,7 +25,7 @@ const aboutSchema = {
   url: `${siteMetadata.siteUrl}/about`,
   name: 'About · Demi',
   description:
-    'Demi is a small, independent studio in San Francisco building a ritual for people who half-believe.',
+    'Demi is a small, independent studio in San Francisco building the daily manifestation app.',
   isPartOf: { '@id': `${siteMetadata.siteUrl}#website` },
   about: { '@id': `${siteMetadata.siteUrl}#organization` },
   mainEntity: { '@id': `${siteMetadata.siteUrl}#organization` },

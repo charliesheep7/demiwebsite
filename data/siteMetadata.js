@@ -1,11 +1,11 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Demi — a ritual for people who half-believe',
+  title: 'Demi — manifest to make it come true.',
   author: 'Demi',
   authorSlug: 'demimanifest',
   headerTitle: 'Demi',
   description:
-    'Manifest to make it come true. A 30-second daily ritual that holds your future self in view — so the ordinary Tuesday she lives inside can finally find you.',
+    'A daily manifestation app. Claim your SP on the orb, script your scenes, build your vision board, and read the signs the universe is already sending. Demi holds your manifestation until it lands.',
   language: 'en-us',
   theme: 'light',
   siteUrl: 'https://demimanifest.com',

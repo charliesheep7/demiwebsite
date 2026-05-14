@@ -21,22 +21,18 @@ export default function RareModule() {
         </div>
 
         <h2 className="t-h1 mb-6">
-          A major signal is <Em>coming.</Em>
+          The signal you&rsquo;ve been waiting for is <Em>already here.</Em>
         </h2>
-        <p className="t-lead mx-auto max-w-[560px]">Be first to the TestFlight.</p>
+        <p className="t-lead mx-auto max-w-[560px]">
+          Open Demi. Claim it. Tomorrow you do it again.
+        </p>
 
         <div className="mt-12 flex flex-col items-center justify-center gap-4 md:flex-row md:gap-6">
           <AppStoreButton size="lg" />
-          <a
-            href="mailto:hello@demimanifest.com?subject=TestFlight"
-            className="border-line hover:border-lav-300 font-ui text-ink-2 hover:text-lav-500 inline-flex h-14 items-center rounded-full border bg-white/70 px-8 text-[11px] font-semibold tracking-[0.3em] uppercase backdrop-blur-md transition-all duration-200"
-          >
-            join the waitlist →
-          </a>
         </div>
 
         <p className="font-ui text-ink-dim mt-8 text-[10px] tracking-[0.25em] uppercase">
-          no spam. one email when the signal lands.
+          free to download · iOS · made in San Francisco
         </p>
       </div>
     </section>

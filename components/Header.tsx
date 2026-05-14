@@ -1,31 +1,13 @@
-'use client'
-
-import { useEffect, useState } from 'react'
-import clsx from 'clsx'
 import Link from './Link'
 import headerNavLinks from '@/data/headerNavLinks'
 import MobileNav from './MobileNav'
 import { AppStoreButton } from './AppStoreButton'
 
 export default function Header() {
-  const [scrolled, setScrolled] = useState(false)
-
-  useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 40)
-    onScroll()
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
-  }, [])
-
   return (
     <header
       role="banner"
-      className={clsx(
-        'fixed top-0 right-0 left-0 z-50 transition-all duration-300',
-        scrolled
-          ? 'border-line shadow-sd-1 border-b bg-[rgb(250_244_234_/_0.9)] backdrop-blur-xl'
-          : 'border-b border-transparent bg-[rgb(250_244_234_/_0.75)] backdrop-blur-md'
-      )}
+      className="border-line/70 shadow-sd-1 fixed top-0 right-0 left-0 z-50 border-b bg-[rgb(250_244_234_/_0.9)] backdrop-blur-md"
     >
       <div className="mx-auto flex h-16 w-full max-w-[1280px] items-center justify-between px-5 md:h-[72px] md:px-8">
         <Link href="/" aria-label="Demi" className="group flex items-center gap-2">

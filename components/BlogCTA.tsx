@@ -21,14 +21,15 @@ export function BlogCTA() {
 
       <div className="relative px-7 py-12 md:px-12 md:py-14">
         <p className="font-ui text-ink-dim mb-4 text-[10px] font-semibold tracking-[0.3em] uppercase">
-          a 30-second ritual
+          your daily manifestation app
         </p>
         <h2 className="t-h2 mb-4">
-          Try it on one <Em>ordinary Tuesday.</Em>
+          Claim it. Script it. <Em>Watch it land.</Em>
         </h2>
         <p className="t-body-l text-ink-2 mb-8 max-w-[520px]">
-          Demi is a manifestation app for skeptics. No affirmations to perform. No vision boards.
-          Open it once, hold your future self in view for thirty seconds, close it, go live the day.
+          Demi is the daily practice: tap the orb to claim your SP or anything you&rsquo;re calling
+          in, read today&rsquo;s lucky number and signs, write it in your script, pin it to your
+          vision board. Show up. Keep the streak.
         </p>
         <div className="flex flex-col items-start gap-4 md:flex-row md:items-center md:gap-6">
           <AppStoreButton size="lg" />

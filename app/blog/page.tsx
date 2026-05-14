@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Image from 'next/image'
 import Link from '@/components/Link'
 import { Em } from '@/components/Em'
 import { Eyebrow } from '@/components/Eyebrow'
@@ -10,12 +11,12 @@ import siteMetadata from '@/data/siteMetadata'
 export const metadata: Metadata = {
   title: 'Blog',
   description:
-    'Essays on half-belief, daily ritual, and the ordinary Tuesdays where manifestation actually happens.',
+    'Manifestation, scripting, SP, vision boards, and the daily practices that make it real. Essays from the Demi journal.',
   alternates: { canonical: '/blog' },
   openGraph: {
     title: 'Blog · Demi',
     description:
-      'Essays on half-belief, daily ritual, and the ordinary Tuesdays where manifestation actually happens.',
+      'Manifestation, scripting, SP, vision boards, and the daily practices that make it real. Essays from the Demi journal.',
     url: '/blog',
     type: 'website',
   },
@@ -30,7 +31,8 @@ export default function BlogIndexPage() {
     '@id': `${siteMetadata.siteUrl}/blog`,
     url: `${siteMetadata.siteUrl}/blog`,
     name: 'Demi blog',
-    description: 'Essays on half-belief, daily ritual, and ordinary Tuesdays.',
+    description:
+      'Manifestation, scripting, SP, vision boards, and the practices that make it real.',
     publisher: { '@id': `${siteMetadata.siteUrl}#organization` },
     blogPost: posts.map((p) => ({
       '@type': 'BlogPosting',
@@ -54,29 +56,31 @@ export default function BlogIndexPage() {
 
       <Eyebrow>the journal</Eyebrow>
       <h1 className="t-h1 mt-6 mb-6">
-        Essays on <Em>ordinary Tuesdays.</Em>
+        The <Em>manifestation</Em> journal.
       </h1>
       <p className="t-lead mb-20 max-w-[640px]">
-        Notes on half-belief, daily ritual, and how the life you&rsquo;re after quietly finds you
-        when you keep showing up.
+        Scripting, SP, vision boards, signs, and the daily practices that turn what you&rsquo;re
+        calling in into what arrives.
       </p>
 
       {posts.length === 0 ? (
         <p className="t-body text-ink-dim">No posts yet. Something is on its way.</p>
       ) : (
         <ul className="border-line-soft divide-line-soft divide-y border-t border-b">
-          {posts.map((post) => (
+          {posts.map((post, index) => (
             <li key={post.slug} className="py-10">
               <Link
                 href={`/blog/${post.slug}`}
                 className="group grid gap-6 md:grid-cols-[240px_1fr] md:gap-8"
               >
                 {post.frontmatter.image ? (
-                  <img
+                  <Image
                     src={post.frontmatter.image}
                     alt={post.frontmatter.title}
                     width={1200}
                     height={630}
+                    sizes="(min-width: 768px) 240px, calc(100vw - 40px)"
+                    priority={index === 0}
                     className="border-line-soft aspect-[1200/630] w-full rounded-[var(--radius-md)] border object-cover"
                   />
                 ) : (

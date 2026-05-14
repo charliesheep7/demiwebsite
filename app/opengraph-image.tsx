@@ -1,6 +1,6 @@
 import { ImageResponse } from 'next/og'
 
-export const alt = 'Demi — a ritual for people who half-believe'
+export const alt = 'Demi — manifest to make it come true.'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
@@ -46,7 +46,7 @@ export default async function OpengraphImage() {
               marginBottom: 28,
             }}
           >
-            A ritual for people who half-believe.
+            Manifest to make it come true.
           </div>
           <div
             style={{
@@ -57,8 +57,8 @@ export default async function OpengraphImage() {
               maxWidth: 880,
             }}
           >
-            Manifest to make it come true. A 30-second daily ritual that holds your future self in
-            view.
+            Claim your SP. Script the scene. Build your vision board. Demi is the daily practice
+            that holds your manifestation until it lands.
           </div>
         </div>
 

@@ -4,11 +4,11 @@ import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
 
 export const metadata: Metadata = {
   title: 'Support',
-  description: 'Get help with Demi — the 30-second daily ritual app.',
+  description: 'Get help with Demi — your daily manifestation app.',
   alternates: { canonical: '/support' },
   openGraph: {
     title: 'Support · Demi',
-    description: 'Get help with Demi — the 30-second daily ritual app.',
+    description: 'Get help with Demi — your daily manifestation app.',
     url: '/support',
     type: 'website',
   },

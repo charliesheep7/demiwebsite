@@ -5,13 +5,13 @@ export default function Manifesto() {
   return (
     <EditorialSection id="manifesto" roman="I" label="the manifesto">
       <h2 className="t-h1 mb-10">
-        You don&rsquo;t need to believe. <Em>You need to show up.</Em>
+        Manifestation isn&rsquo;t magic. <Em>It&rsquo;s frequency.</Em>
       </h2>
 
       <p className="t-lead mb-10">
-        Most manifestation apps ask you to perform belief. Demi asks you to perform attention.
-        Thirty seconds, once a day, placed on the life you actually want. That&rsquo;s it. The rest
-        of the method takes care of itself.
+        You&rsquo;ve felt it. The song that plays twice. The name you wrote down before they texted.
+        The Tuesday that arrived exactly the way you scripted it. Demi is the daily practice that
+        turns those moments from coincidence into method.
       </p>
 
       <div className="text-yel-300 my-14 text-center text-xl" aria-hidden="true">
@@ -20,24 +20,24 @@ export default function Manifesto() {
 
       <blockquote className="border-lav-300 my-12 border-l pl-8">
         <p className="t-quote">
-          Demi is for people who would roll their eyes at a manifestation app, and open it anyway.
+          What you place attention on, you call in. Demi is the place you put it.
         </p>
       </blockquote>
 
       <div className="space-y-6">
         <p className="t-body-l">
-          Half-belief is the only honest posture. You know the science isn&rsquo;t quite there. You
-          also know the Tuesdays you&rsquo;ve spent scrolling through someone else&rsquo;s life. You
-          know which of those two you&rsquo;d like to end.
+          Claim it on the orb. Script the scene. Pin it to your vision board. Read the signs the
+          universe is already sending — the lucky number, the dos and don&rsquo;ts, the affirmation
+          for the day. Six small practices, one quiet app, every morning.
         </p>
         <p className="t-body-l">
-          The app is small on purpose. There&rsquo;s no streak shame. No 12-step plan. No guru
-          voice. Just a quiet place to put the thing you want, so it stops dissolving every time a
-          Slack message lands.
+          Whether it&rsquo;s your SP, the money, the move, the version of you on the other side of
+          this — Demi holds it for you. Daily. Without losing the thread. Without letting the world
+          dissolve it the second a Slack message lands.
         </p>
         <p className="t-body-l">
-          Show up for thirty seconds. Hold the orb. Notice what arrives. The life you want is{' '}
-          <Em>already underway</Em> — this ritual is how you start catching up to it.
+          Your streak is your signal. The longer you tune in, the closer it gets. The life you want
+          is <Em>already on its way</Em> — Demi is how you meet it halfway.
         </p>
       </div>
     </EditorialSection>
