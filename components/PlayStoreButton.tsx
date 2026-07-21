@@ -50,7 +50,9 @@ export function PlayStoreButton({
         <span className={`${kickerSize[size]} mb-0.5 font-medium tracking-[0.2em] opacity-70`}>
           DOWNLOAD ON THE
         </span>
-        <span className={`${labelSize[size]} font-bold tracking-tight normal-case`}>Play Store</span>
+        <span className={`${labelSize[size]} font-bold tracking-tight normal-case`}>
+          Play Store
+        </span>
       </span>
     </a>
   )
