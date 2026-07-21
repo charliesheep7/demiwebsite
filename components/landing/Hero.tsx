@@ -1,4 +1,5 @@
 import { AppStoreButton } from '../AppStoreButton'
+import { PlayStoreButton } from '../PlayStoreButton'
 
 export default function Hero() {
   return (
@@ -21,13 +22,8 @@ export default function Hero() {
           </h1>
 
           <div className="mt-12 flex flex-col items-start gap-4 md:mt-16 md:flex-row md:items-center md:gap-6">
-            <AppStoreButton size="lg" className="w-full justify-center md:w-auto" />
-            <a
-              href="#manifesto"
-              className="border-line hover:border-lav-300 font-ui text-ink-2 hover:text-lav-500 inline-flex h-14 items-center gap-2 rounded-full border bg-white/60 px-8 text-[11px] font-semibold tracking-[0.3em] uppercase backdrop-blur-md transition-all duration-200"
-            >
-              read the manifesto →
-            </a>
+            <AppStoreButton size="xl" className="w-full justify-center md:w-auto" />
+            <PlayStoreButton size="xl" className="w-full justify-center md:w-auto" />
           </div>
         </div>
       </div>
