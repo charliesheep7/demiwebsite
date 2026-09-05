@@ -73,9 +73,22 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     url,
   }
 
+  // Breadcrumbs are one of the few structured-data types that still earn a
+  // visible search result. The homepage had one; posts did not.
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteMetadata.siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteMetadata.siteUrl}/blog` },
+      { '@type': 'ListItem', position: 3, name: post.frontmatter.title, item: url },
+    ],
+  }
+
   return (
     <article className="mx-auto max-w-[760px] px-5 py-24 md:px-8 md:py-32">
       <JsonLd data={articleSchema} />
+      <JsonLd data={breadcrumbSchema} />
 
       <div className="mb-10">
         <Link

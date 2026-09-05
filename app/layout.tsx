@@ -171,7 +171,13 @@ const graph = {
           availableLanguage: ['English'],
         },
       ],
-      sameAs: [],
+      // The identities we can prove: the two store listings the site already
+      // links to, both verified live before being cited here. This was an empty
+      // array, which tells an engine nothing about which Demi this is.
+      sameAs: [
+        'https://apps.apple.com/vn/app/demi-manifest-affirm/id6763245058',
+        'https://play.google.com/store/apps/details?id=com.demimanifest',
+      ],
     },
     {
       '@type': 'WebSite',
