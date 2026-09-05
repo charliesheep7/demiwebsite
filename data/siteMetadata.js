@@ -8,7 +8,7 @@ const siteMetadata = {
     'A daily manifestation app. Claim your SP on the orb, script your scenes, build your vision board, and read the signs the universe is already sending. Demi holds your manifestation until it lands.',
   language: 'en-us',
   theme: 'light',
-  siteUrl: 'https://demimanifest.com',
+  siteUrl: 'https://www.demimanifest.com',
   siteRepo: '',
   siteLogo: '',
   socialBanner: '/og.png',

@@ -22,11 +22,14 @@ const STATIC_ROUTES: Route[] = [
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = siteMetadata.siteUrl
-  const today = new Date().toISOString().split('T')[0]
+  // Static pages carry the date their copy last changed — bump this when it
+  // does. They used to carry the build date, which re-dated every page on
+  // every deploy; Google only trusts <lastmod> it can verify against the page.
+  const STATIC_PAGES_UPDATED = '2026-09-06'
 
   const staticEntries = STATIC_ROUTES.map(({ path, priority, changeFrequency }) => ({
     url: path ? `${siteUrl}/${path}` : siteUrl,
-    lastModified: today,
+    lastModified: STATIC_PAGES_UPDATED,
     changeFrequency,
     priority,
   }))
