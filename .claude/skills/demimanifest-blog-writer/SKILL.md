@@ -68,6 +68,26 @@ Every article ends with a moderate, natural CTA (2-3 sentences) that ties the to
 
 ---
 
+## Screen the pick for a near-duplicate
+
+Run this **before writing**, and skip anything it flags.
+
+```bash
+python3 .claude/skills/demimanifest-blog-writer/dupecheck.py \
+  --posts-dir content/blog --posts-ext .mdx \
+  --keywords .claude/skills/demimanifest-blog-writer/keywords.csv \
+  --written .claude/skills/demimanifest-blog-writer/written.csv --queue 15
+```
+
+The tracker decides a keyword is unwritten by exact slug match, which misses
+the case that actually costs traffic: two keywords meaning the same thing, whose
+pages then compete for one query. Here `--written` points at the tracker so finished keywords are not re-checked.
+
+`⚠ DUPLICATE` means **skip it and take the next keyword**, noting the skip in the
+report. `· overlaps` lines are context only and are usually fine. The script
+exits 1 when it flags something — expected, not a failure. It needs no network
+and no `~/.claude`, so it works in a cloud checkout.
+
 ## Writing Guidelines (inline)
 
 ### Tone & voice
