@@ -50,8 +50,18 @@ STOP = {
     "why", "when", "where", "which", "who", "your", "you", "my", "me", "i", "it",
     "its", "that", "this", "these", "those", "there", "here", "get", "got",
     "make", "made", "guide", "tips", "best", "top", "vs", "versus", "about",
-    "some", "any", "more", "most", "much", "many", "s",
+    "some", "any", "s",
+    # Qualifiers that never create a distinct page. "average life expectancy of
+    # a dog" and "how long do dogs live" are one query; the word "average" was
+    # enough to clear the adds-nothing test and let the duplicate through.
+    "average", "expected", "typical", "usual", "normal", "mean",
 }
+
+# NOT stopwords, though they look like filler: quantity words carry the whole
+# question in several of these niches. Dropping "much" made "how much should my
+# dog eat" collapse to {dog, eat} and read as a duplicate of "can dogs eat
+# maize" — a portion-size query and a specific-food query are different pages.
+# Kept here as a reminder not to re-add them: more, most, much, many.
 
 # Near-synonyms folded together so "increase" and "boost" do not read as
 # different topics. Deliberately small — an aggressive list creates false
@@ -64,6 +74,24 @@ SYN = {
     "exercise": "exercise", "exercises": "exercise", "workout": "exercise",
     "benefit": "benefit", "benefits": "benefit", "advantage": "benefit",
     "meaning": "meaning", "definition": "meaning", "means": "meaning",
+    # Ingredient names that differ by region. "can dogs eat maize" sat in the
+    # queue behind four live corn posts and passed every check, because nothing
+    # told the script that maize and corn are the same thing.
+    "maize": "corn", "corn": "corn",
+    "aubergine": "eggplant", "eggplant": "eggplant",
+    "courgette": "zucchini", "zucchini": "zucchini",
+    "rocket": "arugula", "arugula": "arugula",
+    "prawn": "shrimp", "shrimp": "shrimp",
+    "coriander": "cilantro", "cilantro": "cilantro",
+    "pennis": "penis", "penis": "penis",
+    # "How long do dogs live", "dog lifespan", "dog life expectancy" and
+    # "average life span of a dog" are one query wearing four hats. Without
+    # this, "dog lifespan" shares only the word "dog" with the live
+    # how-long-do-dogs-live post and sails through. 89 keywords in one queue
+    # belonged to this family.
+    "lifespan": "lifespan", "life": "lifespan", "span": "lifespan",
+    "expectancy": "lifespan", "live": "lifespan", "lives": "lifespan",
+    "living": "lifespan",
 }
 
 
