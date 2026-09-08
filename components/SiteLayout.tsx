@@ -7,6 +7,8 @@ import { PaperGrain } from '@/components/PaperGrain'
 import { JsonLd } from '@/components/JsonLd'
 import siteMetadata from '@/data/siteMetadata'
 import { Metadata, Viewport } from 'next'
+import { BlogLocale } from '@/lib/blog-locales'
+import { NativeBlogHeader, NativeBlogFooter } from '@/components/blog/NativeBlogChrome'
 
 const serif = Instrument_Serif({
   weight: '400',
@@ -186,16 +188,22 @@ const graph = {
       alternateName: 'Demimanifest',
       url: siteMetadata.siteUrl,
       description: siteMetadata.description,
-      inLanguage: 'en-US',
+      inLanguage: ['en-US', 'de-DE', 'fr-FR', 'tr-TR', 'it-IT'],
       publisher: { '@id': `${siteMetadata.siteUrl}#organization` },
     },
   ],
 }
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function SiteLayout({
+  children,
+  locale = 'en',
+}: {
+  children: React.ReactNode
+  locale?: BlogLocale
+}) {
   return (
     <html
-      lang="en"
+      lang={locale}
       className={`${serif.variable} ${body.variable} ${ui.variable} scroll-smooth`}
       suppressHydrationWarning
     >
@@ -203,9 +211,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <JsonLd data={graph} />
         <PaperGrain />
         <div className="relative flex min-h-screen flex-col">
-          <Header />
+          {locale === 'en' ? <Header /> : <NativeBlogHeader locale={locale} />}
           <main className="flex-1 pt-16 md:pt-[72px]">{children}</main>
-          <Footer />
+          {locale === 'en' ? <Footer /> : <NativeBlogFooter locale={locale} />}
         </div>
       </body>
     </html>

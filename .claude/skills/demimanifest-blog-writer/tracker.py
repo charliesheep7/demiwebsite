@@ -5,8 +5,8 @@ Usage: tracker.py next [N] --locale en|de|fr|tr|it
        tracker.py stats [--locale en]
        tracker.py refresh [--locale en]
 
-Native queues are research-ready. They are not publish-ready until the site has
-locale routes; the JSON output states this explicitly. No command publishes.
+Native readiness is derived from the locale configuration and route files.
+No command publishes content.
 """
 import argparse
 import csv
@@ -51,7 +51,7 @@ def read_rows(locale):
 
 def published(locale):
     directory = SITE / 'content/blog' if locale == 'en' else SITE / f'content/blog/{locale}'
-    return list(directory.glob('*.mdx'))
+    return sorted([*directory.glob('*.mdx'), *directory.glob('*.md')])
 
 
 def covered_terms(locale):
@@ -87,6 +87,14 @@ def candidates(locale):
     return rows
 
 
+def publish_ready(locale):
+    if locale == 'en':
+        return True
+    config = SITE / 'data/blogLocales.json'
+    routes = ['app/[locale]/layout.tsx', 'app/[locale]/blog/page.tsx', 'app/[locale]/blog/[slug]/page.tsx']
+    return config.exists() and locale in json.loads(config.read_text()) and all((SITE / path).exists() for path in routes)
+
+
 def available(locale):
     covered, slugs = covered_terms(locale)
     seen_terms, seen_slugs, out = set(), set(), []
@@ -107,9 +115,11 @@ def available(locale):
             existing.append(words)
         seen_terms.update(terms)
         seen_slugs.add(row['slug'])
-        out.append(dict(row, publish_ready=locale == 'en',
-                        readiness_note='English blog route exists.' if locale == 'en' else
-                        'Research queue only: implement and verify this locale’s blog routes before publishing.'))
+        out.append(dict(row, publish_ready=publish_ready(locale),
+                        content_path=f'content/blog/{row["slug"]}.mdx' if locale == 'en' else f'content/blog/{locale}/{row["slug"]}.mdx',
+                        url_path=f'/blog/{row["slug"]}' if locale == 'en' else f'/{locale}/blog/{row["slug"]}',
+                        image_directory=f'public/blog/{row["slug"]}' if locale == 'en' else f'public/blog/{locale}/{row["slug"]}',
+                        readiness_note='Locale blog routes are configured; publish in the returned content_path.' if publish_ready(locale) else 'Locale routes are not configured.'))
     return out
 
 
@@ -130,7 +140,7 @@ def main():
             'locale': args.locale, 'researched_rows_saved': len(read_rows(args.locale)),
             'researched_available': sum(r['queue'] == 'researched' for r in rows),
             'legacy_available': sum(r['queue'] == 'legacy' for r in rows),
-            'published_posts': len(published(args.locale)), 'publish_ready': args.locale == 'en'}
+            'published_posts': len(published(args.locale)), 'publish_ready': publish_ready(args.locale)}
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
 

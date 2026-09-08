@@ -30,9 +30,13 @@ const labelSize: Record<Size, string> = {
 
 export function AppStoreButton({
   size = 'lg',
+  label = 'Download Demi on the App Store',
+  kicker = 'DOWNLOAD ON THE',
   href = 'https://apps.apple.com/vn/app/demi-manifest-affirm/id6763245058',
   className = '',
 }: {
+  label?: string
+  kicker?: string
   size?: Size
   href?: string
   className?: string
@@ -40,7 +44,7 @@ export function AppStoreButton({
   return (
     <a
       href={href}
-      aria-label="Download Demi on the App Store"
+      aria-label={label}
       className={`group relative inline-flex items-center ${sizeClasses[size]} text-ink from-yel-200 to-yel-300 font-ui shadow-sd-glow rounded-full bg-gradient-to-br font-bold tracking-[0.18em] uppercase transition-all duration-300 hover:-translate-y-0.5 active:translate-y-0 ${className}`}
     >
       <svg viewBox="0 0 384 512" className={`${iconSize[size]} fill-ink`} aria-hidden="true">
@@ -48,7 +52,7 @@ export function AppStoreButton({
       </svg>
       <span className="flex flex-col items-start leading-none">
         <span className={`${kickerSize[size]} mb-0.5 font-medium tracking-[0.2em] opacity-70`}>
-          DOWNLOAD ON THE
+          {kicker}
         </span>
         <span className={`${labelSize[size]} font-bold tracking-tight normal-case`}>App Store</span>
       </span>

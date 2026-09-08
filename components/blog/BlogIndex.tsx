@@ -7,32 +7,48 @@ import { JsonLd } from '@/components/JsonLd'
 import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
 import { getAllPosts } from '@/lib/blog'
 import siteMetadata from '@/data/siteMetadata'
+import { BlogLocale, blogCopy, blogPath, formatBlogDate } from '@/lib/blog-locales'
+import { BlogLanguageNav } from './BlogLanguageNav'
 
-export const metadata: Metadata = {
-  title: 'Blog',
-  description:
-    'Manifestation, scripting, SP, vision boards, and the daily practices that make it real. Essays from the Demi journal.',
-  alternates: { canonical: '/blog' },
-  openGraph: {
-    title: 'Blog · Demi',
-    description:
-      'Manifestation, scripting, SP, vision boards, and the daily practices that make it real. Essays from the Demi journal.',
-    url: '/blog',
-    type: 'website',
-  },
+export function blogIndexMetadata(locale: BlogLocale = 'en'): Metadata {
+  const copy = blogCopy(locale)
+  const url = blogPath(locale)
+  return {
+    title: copy.blog,
+    description: copy.description,
+    keywords: [],
+    alternates: { canonical: url },
+    robots: getAllPosts(locale).length
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
+    openGraph: {
+      title: `${copy.blog} · Demi`,
+      description: copy.description,
+      url,
+      type: 'website',
+      locale: copy.ogLocale,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${copy.blog} · Demi`,
+      description: copy.description,
+    },
+  }
 }
 
-export default function BlogIndexPage() {
-  const posts = getAllPosts()
+export default function BlogIndex({ locale = 'en' }: { locale?: BlogLocale }) {
+  const posts = getAllPosts(locale)
+  const copy = blogCopy(locale)
+  const base = blogPath(locale)
 
   const listSchema = {
     '@context': 'https://schema.org',
     '@type': 'Blog',
-    '@id': `${siteMetadata.siteUrl}/blog`,
-    url: `${siteMetadata.siteUrl}/blog`,
-    name: 'Demi blog',
-    description:
-      'Manifestation, scripting, SP, vision boards, and the practices that make it real.',
+    '@id': `${siteMetadata.siteUrl}${base}`,
+    url: `${siteMetadata.siteUrl}${base}`,
+    name: `${copy.blog} · Demi`,
+    inLanguage: locale,
+    description: copy.description,
     publisher: { '@id': `${siteMetadata.siteUrl}#organization` },
     blogPost: posts.map((p) => ({
       '@type': 'BlogPosting',
@@ -40,7 +56,7 @@ export default function BlogIndexPage() {
       description: p.frontmatter.description,
       datePublished: p.frontmatter.date,
       dateModified: p.frontmatter.updated ?? p.frontmatter.date,
-      url: `${siteMetadata.siteUrl}/blog/${p.slug}`,
+      url: `${siteMetadata.siteUrl}${blogPath(locale, p.slug)}`,
     })),
   }
 
@@ -49,28 +65,43 @@ export default function BlogIndexPage() {
       <JsonLd data={listSchema} />
       <BreadcrumbSchema
         crumbs={[
-          { name: 'Home', path: '' },
-          { name: 'Blog', path: '/blog' },
+          { name: copy.home, path: '' },
+          { name: copy.blog, path: base },
         ]}
       />
 
-      <Eyebrow>the journal</Eyebrow>
+      <div className="mb-12">
+        <BlogLanguageNav locale={locale} />
+      </div>
+      <Eyebrow>{copy.journal}</Eyebrow>
       <h1 className="t-h1 mt-6 mb-6">
-        The <Em>manifestation</Em> journal.
+        {locale === 'en' ? (
+          <>
+            The <Em>manifestation</Em> journal.
+          </>
+        ) : (
+          copy.title
+        )}
       </h1>
       <p className="t-lead mb-20 max-w-[640px]">
-        Scripting, SP, vision boards, signs, and the daily practices that turn what you&rsquo;re
-        calling in into what arrives.
+        {locale === 'en' ? (
+          <>
+            Scripting, SP, vision boards, signs, and the daily practices that turn what you&rsquo;re
+            calling in into what arrives.
+          </>
+        ) : (
+          copy.description
+        )}
       </p>
 
       {posts.length === 0 ? (
-        <p className="t-body text-ink-dim">No posts yet. Something is on its way.</p>
+        <p className="t-body text-ink-dim">{copy.empty}</p>
       ) : (
         <ul className="border-line-soft divide-line-soft divide-y border-t border-b">
           {posts.map((post, index) => (
             <li key={post.slug} className="py-10">
               <Link
-                href={`/blog/${post.slug}`}
+                href={blogPath(locale, post.slug)}
                 className="group grid gap-6 md:grid-cols-[240px_1fr] md:gap-8"
               >
                 {post.frontmatter.image ? (
@@ -85,20 +116,12 @@ export default function BlogIndexPage() {
                   />
                 ) : (
                   <time dateTime={post.frontmatter.date} className="t-meta text-ink-dim">
-                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric',
-                    })}
+                    {formatBlogDate(post.frontmatter.date, locale)}
                   </time>
                 )}
                 <div>
                   <time dateTime={post.frontmatter.date} className="t-meta text-ink-dim">
-                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric',
-                    })}
+                    {formatBlogDate(post.frontmatter.date, locale)}
                   </time>
                   <h2 className="group-hover:text-lav-500 mt-2 font-serif text-[30px] leading-tight tracking-tight transition-colors md:text-[36px]">
                     {post.frontmatter.title}

@@ -9,6 +9,7 @@ import remarkRehype from 'remark-rehype'
 import rehypeRaw from 'rehype-raw'
 import rehypeSlug from 'rehype-slug'
 import rehypeStringify from 'rehype-stringify'
+import { BlogLocale, blogCopy, isBlogLocale } from './blog-locales'
 
 export type PostFrontmatter = {
   title: string
@@ -24,6 +25,7 @@ export type PostFrontmatter = {
 
 export type Post = {
   slug: string
+  locale: BlogLocale
   frontmatter: PostFrontmatter
   content: string
   readingTime: string
@@ -33,22 +35,25 @@ export type RenderedPost = Post & { html: string }
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'blog')
 
-function ensureDir() {
-  if (!fs.existsSync(CONTENT_DIR)) fs.mkdirSync(CONTENT_DIR, { recursive: true })
+function contentDir(locale: BlogLocale) {
+  if (!isBlogLocale(locale)) throw new Error(`Unsupported blog locale: ${locale}`)
+  return locale === 'en' ? CONTENT_DIR : path.join(CONTENT_DIR, locale)
 }
 
-export function getAllSlugs(): string[] {
-  ensureDir()
+export function getAllSlugs(locale: BlogLocale = 'en'): string[] {
+  const directory = contentDir(locale)
+  if (!fs.existsSync(directory)) return []
   return fs
-    .readdirSync(CONTENT_DIR)
+    .readdirSync(directory)
     .filter((f) => f.endsWith('.mdx') || f.endsWith('.md'))
     .map((f) => f.replace(/\.mdx?$/, ''))
 }
 
-export function getPostBySlug(slug: string): Post | null {
-  ensureDir()
-  const mdxPath = path.join(CONTENT_DIR, `${slug}.mdx`)
-  const mdPath = path.join(CONTENT_DIR, `${slug}.md`)
+export function getPostBySlug(slug: string, locale: BlogLocale = 'en'): Post | null {
+  if (!/^[a-zA-Z0-9][a-zA-Z0-9_-]*$/.test(slug)) return null
+  const directory = contentDir(locale)
+  const mdxPath = path.join(directory, `${slug}.mdx`)
+  const mdPath = path.join(directory, `${slug}.md`)
   const filePath = fs.existsSync(mdxPath) ? mdxPath : fs.existsSync(mdPath) ? mdPath : null
   if (!filePath) return null
 
@@ -59,15 +64,19 @@ export function getPostBySlug(slug: string): Post | null {
 
   return {
     slug,
+    locale,
     frontmatter: fm,
     content,
-    readingTime: readingTime(content).text,
+    readingTime:
+      locale === 'en'
+        ? readingTime(content).text
+        : `${Math.max(1, Math.ceil(readingTime(content).minutes))} ${blogCopy(locale).minutes}`,
   }
 }
 
-export function getAllPosts(): Post[] {
-  return getAllSlugs()
-    .map((slug) => getPostBySlug(slug))
+export function getAllPosts(locale: BlogLocale = 'en'): Post[] {
+  return getAllSlugs(locale)
+    .map((slug) => getPostBySlug(slug, locale))
     .filter((p): p is Post => p !== null)
     .sort((a, b) => (a.frontmatter.date < b.frontmatter.date ? 1 : -1))
 }

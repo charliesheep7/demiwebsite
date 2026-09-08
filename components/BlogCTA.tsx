@@ -1,7 +1,20 @@
 import { AppStoreButton } from './AppStoreButton'
 import { Em } from './Em'
+import { BlogLocale, blogCopy } from '@/lib/blog-locales'
 
-export function BlogCTA() {
+export function BlogCTA({ locale = 'en' }: { locale?: BlogLocale }) {
+  const copy = blogCopy(locale)
+  if (locale !== 'en')
+    return (
+      <aside
+        aria-label={copy.download}
+        className="not-prose bg-cream-2 mt-20 rounded-[var(--radius-lg)] px-7 py-12 md:px-12"
+      >
+        <h2 className="t-h2 mb-4">{copy.ctaTitle}</h2>
+        <p className="t-body-l mb-8">{copy.ctaBody}</p>
+        <AppStoreButton size="lg" label={copy.download} kicker={copy.downloadOn} />
+      </aside>
+    )
   return (
     <aside
       aria-label="Download Demi"

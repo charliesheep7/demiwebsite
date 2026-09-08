@@ -1,5 +1,7 @@
 # Saved keyword research wired — 8 September 2026
 
+**Routing update:** Keyword changes have been pushed. Native Demi blog routes are now implemented; see [the routing report](localized-blog-routes-2026-09-08.md). The readiness and local-only statements below describe the earlier wiring checkpoint.
+
 The user stopped research after Semrush exhausted its daily quota and requested wiring the usable research already captured. The local canonical writers now read separate researched queues for all ten site/locale combinations. No article was published and no schedule changed during this integration. Repository changes are local and have not been pushed to remote cloud routines.
 
 | Site     | Locale | Researched rows saved | Researched rows available now | Legacy rows also available | Publishing routes ready |

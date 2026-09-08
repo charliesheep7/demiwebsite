@@ -1,15 +1,17 @@
 'use client'
 
 import { useState } from 'react'
+import { blogCopy } from '@/lib/blog-locales'
 
 type Props = {
   url: string
   title: string
+  labels?: ReturnType<typeof blogCopy>
 }
 
 type Toast = 'link' | 'instagram' | null
 
-export function ShareButtons({ url, title }: Props) {
+export function ShareButtons({ url, title, labels = blogCopy('en') }: Props) {
   const [toast, setToast] = useState<Toast>(null)
 
   const showToast = (kind: Exclude<Toast, null>) => {
@@ -22,7 +24,7 @@ export function ShareButtons({ url, title }: Props) {
       await navigator.clipboard.writeText(url)
       showToast(kind)
     } catch {
-      window.prompt('Copy this link:', url)
+      window.prompt(labels.copyPrompt, url)
     }
   }
 
@@ -35,7 +37,7 @@ export function ShareButtons({ url, title }: Props) {
   return (
     <div className="flex flex-col items-start gap-3">
       <span className="text-ink-dim font-ui text-[12px] font-semibold tracking-[0.3em] uppercase">
-        share
+        {labels.share}
       </span>
       <div className="flex flex-wrap items-center gap-2.5">
         <a
@@ -43,7 +45,7 @@ export function ShareButtons({ url, title }: Props) {
           target="_blank"
           rel="noopener noreferrer"
           className={buttonClass}
-          aria-label="Share on X"
+          aria-label={`${labels.shareOn} X`}
         >
           <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="currentColor">
             <path d="M18.244 2H21.5l-7.5 8.57L23 22h-6.844l-5.36-6.99L4.6 22H1.34l8.02-9.166L1 2h7.02l4.84 6.4L18.244 2Zm-2.4 18h1.9L7.25 4H5.27l10.574 16Z" />
@@ -54,7 +56,7 @@ export function ShareButtons({ url, title }: Props) {
           type="button"
           onClick={() => copy('instagram')}
           className={buttonClass}
-          aria-label="Copy link to share on Instagram"
+          aria-label={`${labels.copy} · Instagram`}
         >
           <svg
             viewBox="0 0 24 24"
@@ -76,7 +78,7 @@ export function ShareButtons({ url, title }: Props) {
           target="_blank"
           rel="noopener noreferrer"
           className={buttonClass}
-          aria-label="Share on Reddit"
+          aria-label={`${labels.shareOn} Reddit`}
         >
           <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="currentColor">
             <path d="M22 12.07a2.18 2.18 0 0 0-3.69-1.57 10.8 10.8 0 0 0-5.84-1.84l1-4.7 3.27.7a1.56 1.56 0 1 0 .16-.94l-3.65-.78a.47.47 0 0 0-.55.36l-1.12 5.36a10.8 10.8 0 0 0-5.92 1.84A2.18 2.18 0 1 0 3.2 14.4a4.27 4.27 0 0 0-.05.67c0 3.4 3.95 6.16 8.83 6.16s8.83-2.76 8.83-6.16a4.27 4.27 0 0 0-.05-.66A2.18 2.18 0 0 0 22 12.07Zm-14.83 1.5a1.46 1.46 0 1 1 1.46 1.46 1.46 1.46 0 0 1-1.46-1.46Zm8.21 3.85a5.18 5.18 0 0 1-2.85.83h-.01a5.18 5.18 0 0 1-2.85-.83.4.4 0 1 1 .44-.66 4.42 4.42 0 0 0 2.41.69h.01a4.42 4.42 0 0 0 2.41-.69.4.4 0 1 1 .44.66Zm-.18-2.39a1.46 1.46 0 1 1 1.46-1.46 1.46 1.46 0 0 1-1.46 1.46Z" />
@@ -87,7 +89,7 @@ export function ShareButtons({ url, title }: Props) {
           type="button"
           onClick={() => copy('link')}
           className={buttonClass}
-          aria-label="Copy link"
+          aria-label={labels.copy}
         >
           <svg
             viewBox="0 0 24 24"
@@ -103,7 +105,7 @@ export function ShareButtons({ url, title }: Props) {
             <path d="M10 14a4 4 0 0 0 5.66 0l3-3a4 4 0 1 0-5.66-5.66l-1 1" />
             <path d="M14 10a4 4 0 0 0-5.66 0l-3 3a4 4 0 1 0 5.66 5.66l1-1" />
           </svg>
-          Copy link
+          {labels.copy}
         </button>
       </div>
       <span
@@ -112,11 +114,7 @@ export function ShareButtons({ url, title }: Props) {
           toast ? 'opacity-100' : 'opacity-0'
         }`}
       >
-        {toast === 'instagram'
-          ? 'link copied — paste in your story'
-          : toast === 'link'
-            ? 'link copied'
-            : ' '}
+        {toast === 'instagram' ? labels.instagramCopied : toast === 'link' ? labels.copied : ' '}
       </span>
     </div>
   )

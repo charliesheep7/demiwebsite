@@ -191,10 +191,23 @@ written ledgers on every run.
 python3 .claude/skills/demimanifest-blog-writer/tracker.py next 1 --locale en
 ```
 
-Use `de`, `fr`, `tr`, or `it` for the corresponding native research queue. Those
-rows currently return `publish_ready: false`: Demi only has English blog routes.
-Keep them in their own locale; implement and verify the locale routes before
-publishing them. Do not silently publish native topics in the English tree.
+Use `de`, `fr`, `tr`, or `it` for the corresponding native queue. All five
+locale blog routes are implemented. The picker returns `publish_ready`,
+`content_path`, `url_path`, and `image_directory`; use those destinations exactly.
+These native output paths override English-only path examples later in this skill.
+English posts remain in `content/blog/<slug>.mdx` at `/blog/<slug>`. Native posts
+go in `content/blog/<locale>/<slug>.mdx` at `/<locale>/blog/<slug>`.
+
+Write natively in the selected language using its researched keyword and angle.
+Do not translate an English article merely to fill the queue. Native hero images
+belong in `public/blog/<locale>/<slug>/hero.jpg`, with frontmatter image
+`/blog/<locale>/<slug>/hero.jpg`. Link to other posts in the same locale and to
+`/<locale>/blog`. Only reference existing pages; with an empty locale, the blog
+index is the available native internal destination. Product and legal pages
+remain English at their existing root URLs. Do not invent `/<locale>/about` or
+localized product pages. The blog loader, canonical metadata and sitemap discover
+native posts automatically. Empty locale indexes are noindexed until a native
+post is published. Independent articles are not automatic hreflang pairs.
 
 Use the returned `keyword`, explicit `slug`, `angle`, `secondary_keywords`, and
 `sources`. Cover the variants in one article and retain the distinction between
@@ -216,8 +229,7 @@ Show the picked keyword, slug, locale, and readiness. Keep the existing near-dup
 review before writing; the picker cannot replace editorial intent review.
 
 After publishing, append every targeted keyword (primary and secondary) to
-`.claude/skills/demimanifest-blog-writer/written.csv`. Native locales use `written-<locale>.csv` beside it once publishing is
-implemented. Published post frontmatter remains an additional source of truth.
+`.claude/skills/demimanifest-blog-writer/written.csv`. Native locales use `written-<locale>.csv` beside it. Published post frontmatter remains an additional source of truth.
 
 ### Step 2: Research
 
@@ -378,9 +390,9 @@ Show: image path, file size, output of `file <path>` confirming JPEG.
 
 ### Step 8: Register Blog Post
 
-There is **no separate registry** — `lib/blog.ts` auto-discovers posts by globbing `content/blog/*.mdx`. So registration is automatic once the file is saved.
+There is **no separate registry** — `lib/blog.ts` auto-discovers English posts in `content/blog/` and native posts in `content/blog/<locale>/`. So registration is automatic once the file is saved.
 
-Then **append every targeted keyword** (primary + secondary clustered keywords) to `.claude/skills/demimanifest-blog-writer/written.csv`.
+Then **append every targeted keyword** (primary + secondary clustered keywords) to `.claude/skills/demimanifest-blog-writer/written.csv` for English, or `written-<locale>.csv` beside it for a native locale.
 
 Show: confirmation that written.csv was updated and the post appears when `getAllSlugs()` is re-run (or just that the file exists at the expected path).
 

@@ -2,28 +2,19 @@ import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from '@/components/Link'
-import { Em } from '@/components/Em'
 import { Eyebrow } from '@/components/Eyebrow'
 import { JsonLd } from '@/components/JsonLd'
 import { ShareButtons } from '@/components/ShareButtons'
 import { BlogCTA } from '@/components/BlogCTA'
-import { getAllSlugs, getPostBySlug, renderPost } from '@/lib/blog'
+import { getPostBySlug, renderPost } from '@/lib/blog'
 import siteMetadata from '@/data/siteMetadata'
+import { BlogLocale, blogCopy, blogPath, formatBlogDate } from '@/lib/blog-locales'
 
-export function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ slug }))
-}
-
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ slug: string }>
-}): Promise<Metadata> {
-  const { slug } = await params
-  const post = getPostBySlug(slug)
-  if (!post) return { title: 'Not found' }
+export function blogArticleMetadata(slug: string, locale: BlogLocale = 'en'): Metadata {
+  const post = getPostBySlug(slug, locale)
+  if (!post) return { title: blogCopy(locale).notFound, robots: { index: false } }
   const { title, description, date, updated, image, keywords } = post.frontmatter
-  const url = `/blog/${slug}`
+  const url = blogPath(locale, slug)
   return {
     title,
     description,
@@ -33,6 +24,7 @@ export async function generateMetadata({
       title: `${title} · Demi`,
       description,
       type: 'article',
+      locale: blogCopy(locale).ogLocale,
       url,
       publishedTime: date,
       modifiedTime: updated ?? date,
@@ -48,16 +40,23 @@ export async function generateMetadata({
   }
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params
-  const post = getPostBySlug(slug)
+export default async function BlogArticle({
+  slug,
+  locale = 'en',
+}: {
+  slug: string
+  locale?: BlogLocale
+}) {
+  const post = getPostBySlug(slug, locale)
+  const copy = blogCopy(locale)
   if (!post) notFound()
 
   const rendered = await renderPost(post)
-  const url = `${siteMetadata.siteUrl}/blog/${slug}`
+  const url = `${siteMetadata.siteUrl}${blogPath(locale, slug)}`
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
+    inLanguage: locale,
     '@id': url,
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     headline: post.frontmatter.title,
@@ -79,8 +78,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: siteMetadata.siteUrl },
-      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteMetadata.siteUrl}/blog` },
+      { '@type': 'ListItem', position: 1, name: copy.home, item: siteMetadata.siteUrl },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: copy.blog,
+        item: `${siteMetadata.siteUrl}${blogPath(locale)}`,
+      },
       { '@type': 'ListItem', position: 3, name: post.frontmatter.title, item: url },
     ],
   }
@@ -92,14 +96,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <div className="mb-10">
         <Link
-          href="/blog"
+          href={blogPath(locale)}
           className="text-ink-dim hover:text-lav-500 font-ui text-[11px] font-semibold tracking-[0.3em] uppercase transition-colors"
         >
-          ← all essays
+          ← {copy.back}
         </Link>
       </div>
 
-      <Eyebrow>{post.frontmatter.tags?.[0] ?? 'the journal'}</Eyebrow>
+      <Eyebrow>{post.frontmatter.tags?.[0] ?? copy.journal}</Eyebrow>
 
       <h1 className="t-h1 mt-6 mb-8">{post.frontmatter.title}</h1>
 
@@ -118,16 +122,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <p className="t-lead mb-10">{post.frontmatter.description}</p>
 
       <div className="mb-10">
-        <ShareButtons url={url} title={post.frontmatter.title} />
+        <ShareButtons url={url} title={post.frontmatter.title} labels={copy} />
       </div>
 
       <div className="border-line-soft text-ink-dim mb-14 flex flex-wrap items-center gap-4 border-t border-b py-4">
         <time dateTime={post.frontmatter.date} className="t-meta">
-          {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric',
-          })}
+          {formatBlogDate(post.frontmatter.date, locale)}
         </time>
         <span aria-hidden="true">·</span>
         <span className="t-meta">{post.readingTime}</span>
@@ -135,11 +135,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           <>
             <span aria-hidden="true">·</span>
             <span className="t-meta">
-              updated{' '}
-              {new Date(post.frontmatter.updated).toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-              })}
+              {copy.updated} {formatBlogDate(post.frontmatter.updated, locale, false)}
             </span>
           </>
         ) : null}
@@ -147,18 +143,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <div className="prose-demi" dangerouslySetInnerHTML={{ __html: rendered.html }} />
 
-      <BlogCTA />
+      <BlogCTA locale={locale} />
 
       <div className="border-line-soft mt-12 border-t pt-8">
         <p className="t-body-s text-ink-dim">
-          Like this? <Em>Read more essays</Em> on the{' '}
           <Link
-            href="/blog"
+            href={blogPath(locale)}
             className="text-lav-500 decoration-lav-200 underline underline-offset-4"
           >
-            Demi journal
+            {copy.more}
           </Link>
-          .
         </p>
       </div>
     </article>
