@@ -1,0 +1,3392 @@
+{
+  "schema_version": 1,
+  "locale": "it",
+  "observed_on": "2026-09-08",
+  "status": "wired",
+  "metrics_note": "Volume is source-specific: rounded page-cluster estimates or individual keyword estimates as labeled. Never sum variants or source occurrences.",
+  "rows": [
+    {
+      "keyword": "frasi motivazionali",
+      "locale": "it",
+      "intent_key": "frasi-motivazionali",
+      "slug": "frasi-motivazionali",
+      "category": "reflection-practice",
+      "angle": "frasi motivazionali: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi motivazionali",
+          "volume": 68700,
+          "kd": 25,
+          "displayed_volume": "68.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi motivazionali",
+          "volume": 58000,
+          "kd": 25,
+          "displayed_volume": "58K"
+        }
+      ],
+      "metric_keyword": "frasi motivazionali",
+      "cluster_volume": 68700,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 1962.86,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numeri doppi significato",
+      "locale": "it",
+      "intent_key": "numeri-doppi-significato",
+      "slug": "numeri-doppi-significato",
+      "category": "reflection-practice",
+      "angle": "numeri doppi significato: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numeri doppi significato",
+          "volume": 32900,
+          "kd": 17,
+          "displayed_volume": "32.9K"
+        }
+      ],
+      "metric_keyword": "numeri doppi significato",
+      "cluster_volume": 32900,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 1218.52,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero angelico",
+      "locale": "it",
+      "intent_key": "numero-angelico",
+      "slug": "numero-angelico",
+      "category": "reflection-practice",
+      "angle": "numero angelico: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero angelico",
+          "volume": 17700,
+          "kd": 18,
+          "displayed_volume": "17.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "significati dei numeri",
+          "volume": 2800,
+          "kd": 11,
+          "displayed_volume": "2.8K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numeri angelici da 0 a 100",
+          "volume": 1100,
+          "kd": 12,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "numero angelico",
+      "cluster_volume": 17700,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 632.14,
+      "secondary_keywords": ["significati dei numeri", "numeri angelici da 0 a 100"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "frasi su di se stessi",
+      "locale": "it",
+      "intent_key": "frasi-su-di-se-stessi",
+      "slug": "frasi-su-di-se-stessi",
+      "category": "reflection-practice",
+      "angle": "frasi su di se stessi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi su di se stessi",
+          "volume": 14500,
+          "kd": 20,
+          "displayed_volume": "14.5K"
+        }
+      ],
+      "metric_keyword": "frasi su di se stessi",
+      "cluster_volume": 14500,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 483.33,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "frasi di incoraggiamento per momenti difficili",
+      "locale": "it",
+      "intent_key": "frasi-di-incoraggiamento-per-momenti-difficili",
+      "slug": "frasi-di-incoraggiamento-per-momenti-difficili",
+      "category": "reflection-practice",
+      "angle": "frasi di incoraggiamento per momenti difficili: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi di incoraggiamento per momenti difficili",
+          "volume": 13900,
+          "kd": 24,
+          "displayed_volume": "13.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi di incoraggiamento per momenti difficili",
+          "volume": 8600,
+          "kd": 26,
+          "displayed_volume": "8.6K"
+        }
+      ],
+      "metric_keyword": "frasi di incoraggiamento per momenti difficili",
+      "cluster_volume": 13900,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 408.82,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "111 significato angelico",
+      "locale": "it",
+      "intent_key": "number-111",
+      "slug": "numero-angelico-111",
+      "category": "reflection-practice",
+      "angle": "111 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "111 significato angelico",
+          "volume": 12200,
+          "kd": 23,
+          "displayed_volume": "12.2K"
+        }
+      ],
+      "metric_keyword": "111 significato angelico",
+      "cluster_volume": 12200,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 369.7,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "vision board",
+      "locale": "it",
+      "intent_key": "vision-board",
+      "slug": "vision-board",
+      "category": "reflection-practice",
+      "angle": "vision board: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board",
+          "volume": 13100,
+          "kd": 30,
+          "displayed_volume": "13.1K"
+        }
+      ],
+      "metric_keyword": "vision board",
+      "cluster_volume": 13100,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 327.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "777 significato angelico",
+      "locale": "it",
+      "intent_key": "number-777",
+      "slug": "numero-angelico-777",
+      "category": "reflection-practice",
+      "angle": "777 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "777 significato angelico",
+          "volume": 9100,
+          "kd": 18,
+          "displayed_volume": "9.1K"
+        }
+      ],
+      "metric_keyword": "777 significato angelico",
+      "cluster_volume": 9100,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 325.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "autostima",
+      "locale": "it",
+      "intent_key": "autostima",
+      "slug": "autostima",
+      "category": "reflection-practice",
+      "angle": "autostima: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "autostima",
+          "volume": 10500,
+          "kd": 30,
+          "displayed_volume": "10.5K"
+        }
+      ],
+      "metric_keyword": "autostima",
+      "cluster_volume": 10500,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 262.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bullet journal",
+      "locale": "it",
+      "intent_key": "bullet-journal",
+      "slug": "bullet-journal",
+      "category": "reflection-practice",
+      "angle": "bullet journal: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bullet journal",
+          "volume": 7900,
+          "kd": 22,
+          "displayed_volume": "7.9K"
+        }
+      ],
+      "metric_keyword": "bullet journal",
+      "cluster_volume": 7900,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 246.88,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1919 significato angelico",
+      "locale": "it",
+      "intent_key": "number-1919",
+      "slug": "numero-angelico-1919",
+      "category": "reflection-practice",
+      "angle": "1919 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1919 significato angelico",
+          "volume": 6300,
+          "kd": 16,
+          "displayed_volume": "6.3K"
+        }
+      ],
+      "metric_keyword": "1919 significato angelico",
+      "cluster_volume": 6300,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 242.31,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "888 significato angelico",
+      "locale": "it",
+      "intent_key": "number-888",
+      "slug": "numero-angelico-888",
+      "category": "reflection-practice",
+      "angle": "888 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "888 significato angelico",
+          "volume": 7600,
+          "kd": 25,
+          "displayed_volume": "7.6K"
+        }
+      ],
+      "metric_keyword": "888 significato angelico",
+      "cluster_volume": 7600,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 217.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1313 significato angelico",
+      "locale": "it",
+      "intent_key": "number-1313",
+      "slug": "numero-angelico-1313",
+      "category": "reflection-practice",
+      "angle": "1313 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1313 significato angelico",
+          "volume": 6000,
+          "kd": 20,
+          "displayed_volume": "6K"
+        }
+      ],
+      "metric_keyword": "1313 significato angelico",
+      "cluster_volume": 6000,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 200.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1010 significato angelico",
+      "locale": "it",
+      "intent_key": "number-1010",
+      "slug": "numero-angelico-1010",
+      "category": "reflection-practice",
+      "angle": "1010 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1010 significato angelico",
+          "volume": 5300,
+          "kd": 18,
+          "displayed_volume": "5.3K"
+        }
+      ],
+      "metric_keyword": "1010 significato angelico",
+      "cluster_volume": 5300,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 189.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "journaling",
+      "locale": "it",
+      "intent_key": "journaling",
+      "slug": "journaling",
+      "category": "reflection-practice",
+      "angle": "journaling: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "diario per scrivere pensieri",
+          "volume": 160,
+          "kd": 14,
+          "displayed_volume": "160"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journaling",
+          "volume": 6800,
+          "kd": 27,
+          "displayed_volume": "6.8K"
+        }
+      ],
+      "metric_keyword": "journaling",
+      "cluster_volume": 6800,
+      "kd": 27,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 183.78,
+      "secondary_keywords": ["diario per scrivere pensieri"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "frasi motivazionali lavoro",
+      "locale": "it",
+      "intent_key": "frasi-motivazionali-lavoro",
+      "slug": "frasi-motivazionali-lavoro",
+      "category": "reflection-practice",
+      "angle": "frasi motivazionali lavoro: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi motivazionali lavoro",
+          "volume": 5400,
+          "kd": 20,
+          "displayed_volume": "5.4K"
+        }
+      ],
+      "metric_keyword": "frasi motivazionali lavoro",
+      "cluster_volume": 5400,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 180.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "pensieri positivi",
+      "locale": "it",
+      "intent_key": "pensieri-positivi",
+      "slug": "pensieri-positivi",
+      "category": "reflection-practice",
+      "angle": "pensieri positivi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensiero positivo frasi",
+          "volume": 3300,
+          "kd": 18,
+          "displayed_volume": "3.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensiero positivo frasi",
+          "volume": 1100,
+          "kd": 16,
+          "displayed_volume": "1.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensieri positivi",
+          "volume": 3500,
+          "kd": 12,
+          "displayed_volume": "3.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi positive brevi",
+          "volume": 43900,
+          "kd": 20,
+          "displayed_volume": "43.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensiero positivo frasi",
+          "volume": 2100,
+          "kd": 17,
+          "displayed_volume": "2.1K"
+        }
+      ],
+      "metric_keyword": "pensieri positivi",
+      "cluster_volume": 3500,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 159.09,
+      "secondary_keywords": ["pensiero positivo frasi", "frasi positive brevi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "21 12 significato",
+      "locale": "it",
+      "intent_key": "number-2112",
+      "slug": "numero-angelico-2112",
+      "category": "reflection-practice",
+      "angle": "21 12 significato: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "21 12 significato",
+          "volume": 3200,
+          "kd": 15,
+          "displayed_volume": "3.2K"
+        }
+      ],
+      "metric_keyword": "21 12 significato",
+      "cluster_volume": 3200,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 128.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "0808 significato angelico",
+      "locale": "it",
+      "intent_key": "number-808",
+      "slug": "numero-angelico-808",
+      "category": "reflection-practice",
+      "angle": "0808 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "0808 significato angelico",
+          "volume": 3600,
+          "kd": 22,
+          "displayed_volume": "3.6K"
+        }
+      ],
+      "metric_keyword": "0808 significato angelico",
+      "cluster_volume": 3600,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 112.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "legge dell attrazione",
+      "locale": "it",
+      "intent_key": "legge-dell-attrazione",
+      "slug": "legge-dell-attrazione",
+      "category": "reflection-practice",
+      "angle": "legge dell attrazione: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "legge dell attrazione",
+          "volume": 3000,
+          "kd": 20,
+          "displayed_volume": "3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "legge dell attrazione",
+          "volume": 2500,
+          "kd": 20,
+          "displayed_volume": "2.5K"
+        }
+      ],
+      "metric_keyword": "legge dell attrazione",
+      "cluster_volume": 3000,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 100.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 4 significato",
+      "locale": "it",
+      "intent_key": "number-4",
+      "slug": "numero-angelico-4",
+      "category": "reflection-practice",
+      "angle": "numero 4 significato: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 4 significato",
+          "volume": 2100,
+          "kd": 14,
+          "displayed_volume": "2.1K"
+        }
+      ],
+      "metric_keyword": "numero 4 significato",
+      "cluster_volume": 2100,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 87.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "amare se stessi",
+      "locale": "it",
+      "intent_key": "amare-se-stessi",
+      "slug": "amare-se-stessi",
+      "category": "reflection-practice",
+      "angle": "amare se stessi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "amare se stessi",
+          "volume": 1800,
+          "kd": 11,
+          "displayed_volume": "1.8K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "volersi bene",
+          "volume": 1300,
+          "kd": 14,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensare a se stessi",
+          "volume": 890,
+          "kd": 14,
+          "displayed_volume": "890"
+        }
+      ],
+      "metric_keyword": "amare se stessi",
+      "cluster_volume": 1800,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 85.71,
+      "secondary_keywords": ["volersi bene", "pensare a se stessi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "frasi per un traguardo raggiunto",
+      "locale": "it",
+      "intent_key": "frasi-per-un-traguardo-raggiunto",
+      "slug": "frasi-per-un-traguardo-raggiunto",
+      "category": "reflection-practice",
+      "angle": "frasi per un traguardo raggiunto: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi per un traguardo raggiunto",
+          "volume": 2300,
+          "kd": 17,
+          "displayed_volume": "2.3K"
+        }
+      ],
+      "metric_keyword": "frasi per un traguardo raggiunto",
+      "cluster_volume": 2300,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 85.19,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "autostima aumentare",
+      "locale": "it",
+      "intent_key": "autostima-aumentare",
+      "slug": "autostima-aumentare",
+      "category": "reflection-practice",
+      "angle": "autostima aumentare: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "credere in se stessi",
+          "volume": 1700,
+          "kd": 12,
+          "displayed_volume": "1.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "autostima aumentare",
+          "volume": 2000,
+          "kd": 15,
+          "displayed_volume": "2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "autostima esercizi",
+          "volume": 460,
+          "kd": 10,
+          "displayed_volume": "460"
+        }
+      ],
+      "metric_keyword": "autostima aumentare",
+      "cluster_volume": 2000,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 80.0,
+      "secondary_keywords": ["credere in se stessi", "autostima esercizi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "messaggio angeli",
+      "locale": "it",
+      "intent_key": "messaggio-angeli",
+      "slug": "messaggio-angeli",
+      "category": "reflection-practice",
+      "angle": "messaggio angeli: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "messaggio angeli",
+          "volume": 2300,
+          "kd": 19,
+          "displayed_volume": "2.3K"
+        }
+      ],
+      "metric_keyword": "messaggio angeli",
+      "cluster_volume": 2300,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 79.31,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "morning routine",
+      "locale": "it",
+      "intent_key": "morning-routine",
+      "slug": "morning-routine",
+      "category": "reflection-practice",
+      "angle": "morning routine: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "morning routine",
+          "volume": 2000,
+          "kd": 16,
+          "displayed_volume": "2K"
+        }
+      ],
+      "metric_keyword": "morning routine",
+      "cluster_volume": 2000,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 76.92,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 8 significato angelico",
+      "locale": "it",
+      "intent_key": "number-8",
+      "slug": "numero-angelico-8",
+      "category": "reflection-practice",
+      "angle": "numero 8 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 8 significato angelico",
+          "volume": 1500,
+          "kd": 10,
+          "displayed_volume": "1.5K"
+        }
+      ],
+      "metric_keyword": "numero 8 significato angelico",
+      "cluster_volume": 1500,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 75.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 7 significato angelico",
+      "locale": "it",
+      "intent_key": "number-7",
+      "slug": "numero-angelico-7",
+      "category": "reflection-practice",
+      "angle": "numero 7 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 7 significato angelico",
+          "volume": 1700,
+          "kd": 13,
+          "displayed_volume": "1.7K"
+        }
+      ],
+      "metric_keyword": "numero 7 significato angelico",
+      "cluster_volume": 1700,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 73.91,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "amare se stessi frasi",
+      "locale": "it",
+      "intent_key": "amare-se-stessi-frasi",
+      "slug": "amare-se-stessi-frasi",
+      "category": "reflection-practice",
+      "angle": "amare se stessi frasi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "amare se stessi frasi",
+          "volume": 1500,
+          "kd": 15,
+          "displayed_volume": "1.5K"
+        }
+      ],
+      "metric_keyword": "amare se stessi frasi",
+      "cluster_volume": 1500,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 60.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "attirare una persona con la forza del pensiero",
+      "locale": "it",
+      "intent_key": "attirare-una-persona-con-la-forza-del-pensiero",
+      "slug": "attirare-una-persona-con-la-forza-del-pensiero",
+      "category": "reflection-practice",
+      "angle": "attirare una persona con la forza del pensiero: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "attirare una persona con la forza del pensiero",
+          "volume": 1100,
+          "kd": 11,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "attirare una persona con la forza del pensiero",
+      "cluster_volume": 1100,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 52.38,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "12 12 numero angelico",
+      "locale": "it",
+      "intent_key": "number-1212",
+      "slug": "numero-angelico-1212",
+      "category": "reflection-practice",
+      "angle": "12 12 numero angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "12 12 numero angelico",
+          "volume": 1200,
+          "kd": 14,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "12 12 numero angelico",
+      "cluster_volume": 1200,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 50.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 18 significato angelico",
+      "locale": "it",
+      "intent_key": "number-18",
+      "slug": "numero-angelico-18",
+      "category": "reflection-practice",
+      "angle": "numero 18 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 18 significato angelico",
+          "volume": 1100,
+          "kd": 12,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "numero 18 significato angelico",
+      "cluster_volume": 1100,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 50.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "diario della gratitudine",
+      "locale": "it",
+      "intent_key": "diario-della-gratitudine",
+      "slug": "diario-della-gratitudine",
+      "category": "reflection-practice",
+      "angle": "diario della gratitudine: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "diario della gratitudine",
+          "volume": 880,
+          "kd": 9,
+          "displayed_volume": "880"
+        }
+      ],
+      "metric_keyword": "diario della gratitudine",
+      "cluster_volume": 880,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 46.32,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "frasi di soddisfazione",
+      "locale": "it",
+      "intent_key": "frasi-di-soddisfazione",
+      "slug": "frasi-di-soddisfazione",
+      "category": "reflection-practice",
+      "angle": "frasi di soddisfazione: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "frasi di soddisfazione",
+          "volume": 1200,
+          "kd": 16,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "frasi di soddisfazione",
+      "cluster_volume": 1200,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 46.15,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 9 significato angelico",
+      "locale": "it",
+      "intent_key": "number-9",
+      "slug": "numero-angelico-9",
+      "category": "reflection-practice",
+      "angle": "numero 9 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 9 significato angelico",
+          "volume": 1100,
+          "kd": 14,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "numero 9 significato angelico",
+      "cluster_volume": 1100,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 45.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 13 significato angelico",
+      "locale": "it",
+      "intent_key": "number-13",
+      "slug": "numero-angelico-13",
+      "category": "reflection-practice",
+      "angle": "numero 13 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 13 significato angelico",
+          "volume": 1100,
+          "kd": 17,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "numero 13 significato angelico",
+      "cluster_volume": 1100,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 40.74,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "raggiungere gli obiettivi",
+      "locale": "it",
+      "intent_key": "raggiungere-gli-obiettivi",
+      "slug": "raggiungere-gli-obiettivi",
+      "category": "reflection-practice",
+      "angle": "raggiungere gli obiettivi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "raggiungere gli obiettivi",
+          "volume": 730,
+          "kd": 8,
+          "displayed_volume": "730"
+        }
+      ],
+      "metric_keyword": "raggiungere gli obiettivi",
+      "cluster_volume": 730,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 40.56,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 14 significato angelico",
+      "locale": "it",
+      "intent_key": "number-14",
+      "slug": "numero-angelico-14",
+      "category": "reflection-practice",
+      "angle": "numero 14 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 14 significato angelico",
+          "volume": 910,
+          "kd": 13,
+          "displayed_volume": "910"
+        }
+      ],
+      "metric_keyword": "numero 14 significato angelico",
+      "cluster_volume": 910,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 39.57,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "23 32 significato",
+      "locale": "it",
+      "intent_key": "number-2332",
+      "slug": "numero-angelico-2332",
+      "category": "reflection-practice",
+      "angle": "23 32 significato: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "23 32 significato",
+          "volume": 1200,
+          "kd": 21,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "23 32 significato",
+      "cluster_volume": 1200,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 38.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "prendersi cura di se stessi",
+      "locale": "it",
+      "intent_key": "prendersi-cura-di-se-stessi",
+      "slug": "prendersi-cura-di-se-stessi",
+      "category": "reflection-practice",
+      "angle": "prendersi cura di se stessi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "prendersi cura di se stessi",
+          "volume": 1000,
+          "kd": 16,
+          "displayed_volume": "1K"
+        }
+      ],
+      "metric_keyword": "prendersi cura di se stessi",
+      "cluster_volume": 1000,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 38.46,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 19 significato angelico",
+      "locale": "it",
+      "intent_key": "number-19",
+      "slug": "numero-angelico-19",
+      "category": "reflection-practice",
+      "angle": "numero 19 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 19 significato angelico",
+          "volume": 1000,
+          "kd": 17,
+          "displayed_volume": "1K"
+        }
+      ],
+      "metric_keyword": "numero 19 significato angelico",
+      "cluster_volume": 1000,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 37.04,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "2255 significato angelico",
+      "locale": "it",
+      "intent_key": "number-2255",
+      "slug": "numero-angelico-2255",
+      "category": "reflection-practice",
+      "angle": "2255 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "2255 significato angelico",
+          "volume": 930,
+          "kd": 16,
+          "displayed_volume": "930"
+        }
+      ],
+      "metric_keyword": "2255 significato angelico",
+      "cluster_volume": 930,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 35.77,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "0909 numero angelico",
+      "locale": "it",
+      "intent_key": "number-909",
+      "slug": "numero-angelico-909",
+      "category": "reflection-practice",
+      "angle": "0909 numero angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "0909 numero angelico",
+          "volume": 780,
+          "kd": 13,
+          "displayed_volume": "780"
+        }
+      ],
+      "metric_keyword": "0909 numero angelico",
+      "cluster_volume": 780,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 33.91,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 24 significato angelico",
+      "locale": "it",
+      "intent_key": "number-24",
+      "slug": "numero-angelico-24",
+      "category": "reflection-practice",
+      "angle": "numero 24 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 24 significato angelico",
+          "volume": 630,
+          "kd": 9,
+          "displayed_volume": "630"
+        }
+      ],
+      "metric_keyword": "numero 24 significato angelico",
+      "cluster_volume": 630,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 33.16,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "significato numero 222",
+      "locale": "it",
+      "intent_key": "number-222",
+      "slug": "numero-angelico-222",
+      "category": "reflection-practice",
+      "angle": "significato numero 222: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "significato numero 222",
+          "volume": 750,
+          "kd": 16,
+          "displayed_volume": "750"
+        }
+      ],
+      "metric_keyword": "significato numero 222",
+      "cluster_volume": 750,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.85,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "routine quotidiana",
+      "locale": "it",
+      "intent_key": "routine-quotidiana",
+      "slug": "routine-quotidiana",
+      "category": "reflection-practice",
+      "angle": "routine quotidiana: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "routine quotidiana",
+          "volume": 680,
+          "kd": 14,
+          "displayed_volume": "680"
+        }
+      ],
+      "metric_keyword": "routine quotidiana",
+      "cluster_volume": 680,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.33,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "14 41 significato angelico",
+      "locale": "it",
+      "intent_key": "number-1441",
+      "slug": "numero-angelico-1441",
+      "category": "reflection-practice",
+      "angle": "14 41 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "14 41 significato angelico",
+          "volume": 560,
+          "kd": 11,
+          "displayed_volume": "560"
+        }
+      ],
+      "metric_keyword": "14 41 significato angelico",
+      "cluster_volume": 560,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 26.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione guidata per rilassare mente e corpo",
+      "locale": "it",
+      "intent_key": "meditazione-guidata-per-rilassare-mente-e-corpo",
+      "slug": "meditazione-guidata-per-rilassare-mente-e-corpo",
+      "category": "reflection-practice",
+      "angle": "meditazione guidata per rilassare mente e corpo: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata per rilassare mente e corpo",
+          "volume": 950,
+          "kd": 27,
+          "displayed_volume": "950"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata per rilassare mente e corpo",
+          "volume": 1600,
+          "kd": 28,
+          "displayed_volume": "1.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata rilassamento profondo",
+          "volume": 230,
+          "kd": 29,
+          "displayed_volume": "230"
+        }
+      ],
+      "metric_keyword": "meditazione guidata per rilassare mente e corpo",
+      "cluster_volume": 950,
+      "kd": 27,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 25.68,
+      "secondary_keywords": ["meditazione guidata rilassamento profondo"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "come farlo tornare col pensiero",
+      "locale": "it",
+      "intent_key": "come-farlo-tornare-col-pensiero",
+      "slug": "come-farlo-tornare-col-pensiero",
+      "category": "reflection-practice",
+      "angle": "come farlo tornare col pensiero: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "come farlo tornare col pensiero",
+          "volume": 400,
+          "kd": 7,
+          "displayed_volume": "400"
+        }
+      ],
+      "metric_keyword": "come farlo tornare col pensiero",
+      "cluster_volume": 400,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 23.53,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1551 significato fiamme gemelle",
+      "locale": "it",
+      "intent_key": "number-1551",
+      "slug": "numero-angelico-1551",
+      "category": "reflection-practice",
+      "angle": "1551 significato fiamme gemelle: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1551 significato fiamme gemelle",
+          "volume": 430,
+          "kd": 9,
+          "displayed_volume": "430"
+        }
+      ],
+      "metric_keyword": "1551 significato fiamme gemelle",
+      "cluster_volume": 430,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 22.63,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "consapevolezza di se",
+      "locale": "it",
+      "intent_key": "consapevolezza-di-se",
+      "slug": "consapevolezza-di-se",
+      "category": "reflection-practice",
+      "angle": "consapevolezza di se: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "consapevolezza di se",
+          "volume": 670,
+          "kd": 22,
+          "displayed_volume": "670"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "consapevolezza significato",
+          "volume": 4500,
+          "kd": 34,
+          "displayed_volume": "4.5K"
+        }
+      ],
+      "metric_keyword": "consapevolezza di se",
+      "cluster_volume": 670,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.94,
+      "secondary_keywords": ["consapevolezza significato"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "migliore app meditazione gratis",
+      "locale": "it",
+      "intent_key": "migliore-app-meditazione-gratis",
+      "slug": "migliore-app-meditazione-gratis",
+      "category": "reflection-practice",
+      "angle": "migliore app meditazione gratis: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "migliore app meditazione gratis",
+          "volume": 780,
+          "kd": 28,
+          "displayed_volume": "780"
+        }
+      ],
+      "metric_keyword": "migliore app meditazione gratis",
+      "cluster_volume": 780,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.53,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero angelico 5",
+      "locale": "it",
+      "intent_key": "number-5",
+      "slug": "numero-angelico-5",
+      "category": "reflection-practice",
+      "angle": "numero angelico 5: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero angelico 5",
+          "volume": 520,
+          "kd": 16,
+          "displayed_volume": "520"
+        }
+      ],
+      "metric_keyword": "numero angelico 5",
+      "cluster_volume": 520,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive",
+      "locale": "it",
+      "intent_key": "affermazioni-positive",
+      "slug": "affermazioni-positive",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affermazioni positive",
+          "volume": 2400,
+          "kd": 18,
+          "displayed_volume": "2.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affermazioni positive",
+          "volume": 2200,
+          "kd": 19,
+          "displayed_volume": "2.2K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive",
+          "volume": 720,
+          "kd": 27,
+          "displayed_volume": "720"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazione positiva",
+          "volume": 320,
+          "kd": 17,
+          "displayed_volume": "320"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazione positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive potenti",
+          "volume": 320,
+          "kd": 16,
+          "displayed_volume": "320"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive esempi",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazione positiva del giorno",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive giornaliere",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "cosa sono le affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "esempi affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "esempi di affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "frasi affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "le affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive",
+      "cluster_volume": 720,
+      "kd": 27,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 19.46,
+      "secondary_keywords": [
+        "affermazione positiva",
+        "affermazione positive",
+        "affermazioni positive potenti",
+        "affermazioni positive esempi",
+        "affermazione positiva del giorno",
+        "affermazioni positive giornaliere",
+        "cosa sono le affermazioni positive",
+        "esempi affermazioni positive",
+        "esempi di affermazioni positive",
+        "frasi affermazioni positive",
+        "le affermazioni positive"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 30 significato angelico",
+      "locale": "it",
+      "intent_key": "number-30",
+      "slug": "numero-angelico-30",
+      "category": "reflection-practice",
+      "angle": "numero 30 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 30 significato angelico",
+          "volume": 350,
+          "kd": 8,
+          "displayed_volume": "350"
+        }
+      ],
+      "metric_keyword": "numero 30 significato angelico",
+      "cluster_volume": 350,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 19.44,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "16 significato angelico",
+      "locale": "it",
+      "intent_key": "number-16",
+      "slug": "numero-angelico-16",
+      "category": "reflection-practice",
+      "angle": "16 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "16 significato angelico",
+          "volume": 380,
+          "kd": 11,
+          "displayed_volume": "380"
+        }
+      ],
+      "metric_keyword": "16 significato angelico",
+      "cluster_volume": 380,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.1,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "visualizzazioni guidate",
+      "locale": "it",
+      "intent_key": "visualizzazioni-guidate",
+      "slug": "visualizzazioni-guidate",
+      "category": "reflection-practice",
+      "angle": "visualizzazioni guidate: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "visualizzazioni guidate",
+          "volume": 380,
+          "kd": 11,
+          "displayed_volume": "380"
+        }
+      ],
+      "metric_keyword": "visualizzazioni guidate",
+      "cluster_volume": 380,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.1,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sagge frasi spirituali",
+      "locale": "it",
+      "intent_key": "sagge-frasi-spirituali",
+      "slug": "sagge-frasi-spirituali",
+      "category": "reflection-practice",
+      "angle": "sagge frasi spirituali: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "sagge frasi spirituali",
+          "volume": 490,
+          "kd": 18,
+          "displayed_volume": "490"
+        }
+      ],
+      "metric_keyword": "sagge frasi spirituali",
+      "cluster_volume": 490,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 17.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "obiettivi nella vita",
+      "locale": "it",
+      "intent_key": "obiettivi-nella-vita",
+      "slug": "obiettivi-nella-vita",
+      "category": "reflection-practice",
+      "angle": "obiettivi nella vita: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "obiettivi nella vita",
+          "volume": 380,
+          "kd": 12,
+          "displayed_volume": "380"
+        }
+      ],
+      "metric_keyword": "obiettivi nella vita",
+      "cluster_volume": 380,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 17.27,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 50 significato angelico",
+      "locale": "it",
+      "intent_key": "number-50",
+      "slug": "numero-angelico-50",
+      "category": "reflection-practice",
+      "angle": "numero 50 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 50 significato angelico",
+          "volume": 280,
+          "kd": 8,
+          "displayed_volume": "280"
+        }
+      ],
+      "metric_keyword": "numero 50 significato angelico",
+      "cluster_volume": 280,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 15.56,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "credenze limitanti",
+      "locale": "it",
+      "intent_key": "credenze-limitanti",
+      "slug": "credenze-limitanti",
+      "category": "reflection-practice",
+      "angle": "credenze limitanti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "credenze limitanti",
+          "volume": 250,
+          "kd": 7,
+          "displayed_volume": "250"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "credenze limitanti",
+          "volume": 250,
+          "kd": 7,
+          "displayed_volume": "250"
+        }
+      ],
+      "metric_keyword": "credenze limitanti",
+      "cluster_volume": 250,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 14.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 0 significato angelico",
+      "locale": "it",
+      "intent_key": "number-0",
+      "slug": "numero-angelico-0",
+      "category": "reflection-practice",
+      "angle": "numero 0 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 0 significato angelico",
+          "volume": 340,
+          "kd": 16,
+          "displayed_volume": "340"
+        }
+      ],
+      "metric_keyword": "numero 0 significato angelico",
+      "cluster_volume": 340,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 13.08,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 39 significato angelico",
+      "locale": "it",
+      "intent_key": "number-39",
+      "slug": "numero-angelico-39",
+      "category": "reflection-practice",
+      "angle": "numero 39 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 39 significato angelico",
+          "volume": 250,
+          "kd": 10,
+          "displayed_volume": "250"
+        }
+      ],
+      "metric_keyword": "numero 39 significato angelico",
+      "cluster_volume": 250,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 12.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione guidata 10 minuti",
+      "locale": "it",
+      "intent_key": "meditazione-guidata-10-minuti",
+      "slug": "meditazione-guidata-10-minuti",
+      "category": "reflection-practice",
+      "angle": "meditazione guidata 10 minuti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata 10 minuti",
+          "volume": 430,
+          "kd": 30,
+          "displayed_volume": "430"
+        }
+      ],
+      "metric_keyword": "meditazione guidata 10 minuti",
+      "cluster_volume": 430,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.75,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numeri tripli significato",
+      "locale": "it",
+      "intent_key": "numeri-tripli-significato",
+      "slug": "numeri-tripli-significato",
+      "category": "reflection-practice",
+      "angle": "numeri tripli significato: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numeri tripli significato",
+          "volume": 180,
+          "kd": 7,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "numeri tripli significato",
+      "cluster_volume": 180,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.59,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "56 significato angelico",
+      "locale": "it",
+      "intent_key": "number-56",
+      "slug": "numero-angelico-56",
+      "category": "reflection-practice",
+      "angle": "56 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "56 significato angelico",
+          "volume": 200,
+          "kd": 9,
+          "displayed_volume": "200"
+        }
+      ],
+      "metric_keyword": "56 significato angelico",
+      "cluster_volume": 200,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.53,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "51 significato angelico",
+      "locale": "it",
+      "intent_key": "number-51",
+      "slug": "numero-angelico-51",
+      "category": "reflection-practice",
+      "angle": "51 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "51 significato angelico",
+          "volume": 220,
+          "kd": 12,
+          "displayed_volume": "220"
+        }
+      ],
+      "metric_keyword": "51 significato angelico",
+      "cluster_volume": 220,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numero 45 significato angelico",
+      "locale": "it",
+      "intent_key": "number-45",
+      "slug": "numero-angelico-45",
+      "category": "reflection-practice",
+      "angle": "numero 45 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numero 45 significato angelico",
+          "volume": 180,
+          "kd": 8,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "numero 45 significato angelico",
+      "cluster_volume": 180,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1244 significato angelico",
+      "locale": "it",
+      "intent_key": "number-1244",
+      "slug": "numero-angelico-1244",
+      "category": "reflection-practice",
+      "angle": "1244 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1244 significato angelico",
+          "volume": 200,
+          "kd": 11,
+          "displayed_volume": "200"
+        }
+      ],
+      "metric_keyword": "1244 significato angelico",
+      "cluster_volume": 200,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 9.52,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "00 11 significato angelico",
+      "locale": "it",
+      "intent_key": "number-11",
+      "slug": "numero-angelico-11",
+      "category": "reflection-practice",
+      "angle": "00 11 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "00 11 significato angelico",
+          "volume": 180,
+          "kd": 9,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "00 11 significato angelico",
+      "cluster_volume": 180,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 9.47,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "action plan esempio",
+      "locale": "it",
+      "intent_key": "action-plan-esempio",
+      "slug": "action-plan-esempio",
+      "category": "reflection-practice",
+      "angle": "action plan esempio: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "action plan esempio",
+          "volume": 320,
+          "kd": 24,
+          "displayed_volume": "320"
+        }
+      ],
+      "metric_keyword": "action plan esempio",
+      "cluster_volume": 320,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 9.41,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "73 significato angelico",
+      "locale": "it",
+      "intent_key": "number-73",
+      "slug": "numero-angelico-73",
+      "category": "reflection-practice",
+      "angle": "73 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "73 significato angelico",
+          "volume": 180,
+          "kd": 10,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "73 significato angelico",
+      "cluster_volume": 180,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 9.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "legge degli assunti",
+      "locale": "it",
+      "intent_key": "legge-degli-assunti",
+      "slug": "legge-degli-assunti",
+      "category": "reflection-practice",
+      "angle": "legge degli assunti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "legge degli assunti",
+          "volume": 200,
+          "kd": 13,
+          "displayed_volume": "200"
+        }
+      ],
+      "metric_keyword": "legge degli assunti",
+      "cluster_volume": 200,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 8.7,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione principianti",
+      "locale": "it",
+      "intent_key": "meditazione-principianti",
+      "slug": "meditazione-principianti",
+      "category": "reflection-practice",
+      "angle": "meditazione principianti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione giornaliera",
+          "volume": 490,
+          "kd": 28,
+          "displayed_volume": "490"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione principianti",
+          "volume": 260,
+          "kd": 21,
+          "displayed_volume": "260"
+        }
+      ],
+      "metric_keyword": "meditazione principianti",
+      "cluster_volume": 260,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 8.39,
+      "secondary_keywords": ["meditazione giornaliera"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "come calmarsi dal nervoso",
+      "locale": "it",
+      "intent_key": "come-calmarsi-dal-nervoso",
+      "slug": "come-calmarsi-dal-nervoso",
+      "category": "reflection-practice",
+      "angle": "come calmarsi dal nervoso: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "come calmarsi dal nervoso",
+          "volume": 220,
+          "kd": 18,
+          "displayed_volume": "220"
+        }
+      ],
+      "metric_keyword": "come calmarsi dal nervoso",
+      "cluster_volume": 220,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 7.86,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "manifesting significato",
+      "locale": "it",
+      "intent_key": "manifesting-significato",
+      "slug": "manifesting-significato",
+      "category": "reflection-practice",
+      "angle": "manifesting significato: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "come manifestare qualcosa",
+          "volume": 1400,
+          "kd": 14,
+          "displayed_volume": "1.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manifesting significato",
+          "volume": 210,
+          "kd": 17,
+          "displayed_volume": "210"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "come manifestare qualcosa",
+          "volume": 800,
+          "kd": 17,
+          "displayed_volume": "800"
+        }
+      ],
+      "metric_keyword": "manifesting significato",
+      "cluster_volume": 210,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 7.78,
+      "secondary_keywords": ["come manifestare qualcosa"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "29 significato angelico",
+      "locale": "it",
+      "intent_key": "number-29",
+      "slug": "numero-angelico-29",
+      "category": "reflection-practice",
+      "angle": "29 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "29 significato angelico",
+          "volume": 180,
+          "kd": 14,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "29 significato angelico",
+      "cluster_volume": 180,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 7.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "accettarsi per come si è",
+      "locale": "it",
+      "intent_key": "accettarsi-per-come-si-e",
+      "slug": "accettarsi-per-come-si-e",
+      "category": "reflection-practice",
+      "angle": "accettarsi per come si è: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "accettarsi per come si è",
+          "volume": 140,
+          "kd": 10,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "accettarsi per come si è",
+      "cluster_volume": 140,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 7.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione guidata per dormire 10 minuti",
+      "locale": "it",
+      "intent_key": "meditazione-guidata-per-dormire-10-minuti",
+      "slug": "meditazione-guidata-per-dormire-10-minuti",
+      "category": "reflection-practice",
+      "angle": "meditazione guidata per dormire 10 minuti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata per dormire 10 minuti",
+          "volume": 250,
+          "kd": 29,
+          "displayed_volume": "250"
+        }
+      ],
+      "metric_keyword": "meditazione guidata per dormire 10 minuti",
+      "cluster_volume": 250,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.41,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "esempi di crescita personale",
+      "locale": "it",
+      "intent_key": "esempi-di-crescita-personale",
+      "slug": "esempi-di-crescita-personale",
+      "category": "reflection-practice",
+      "angle": "esempi di crescita personale: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "esempi di crescita personale",
+          "volume": 180,
+          "kd": 22,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "esempi di crescita personale",
+      "cluster_volume": 180,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 5.62,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "metodo 369 esempi",
+      "locale": "it",
+      "intent_key": "metodo-369-esempi",
+      "slug": "metodo-369-esempi",
+      "category": "reflection-practice",
+      "angle": "metodo 369 esempi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "metodo 369 esempi",
+          "volume": 180,
+          "kd": 23,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "metodo 369 esempi",
+      "cluster_volume": 180,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 5.45,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive del mattino",
+      "locale": "it",
+      "intent_key": "affermazioni positive del mattino",
+      "slug": "affermazioni-positive-del-mattino",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive del mattino: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive del mattino",
+          "volume": 110,
+          "kd": 13,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive mattina",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per iniziare la giornata",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per la mattina",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive del mattino",
+      "cluster_volume": 110,
+      "kd": 13,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.78,
+      "secondary_keywords": [
+        "affermazioni positive mattina",
+        "affermazioni positive per iniziare la giornata",
+        "affermazioni positive per la mattina"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "metodi per manifestare scrivendo",
+      "locale": "it",
+      "intent_key": "metodi-per-manifestare-scrivendo",
+      "slug": "metodi-per-manifestare-scrivendo",
+      "category": "reflection-practice",
+      "angle": "metodi per manifestare scrivendo: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710601.json",
+          "source_list_id": "6710601/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "metodi per manifestare scrivendo",
+          "volume": 70,
+          "kd": 9,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "metodi per manifestare scrivendo",
+      "cluster_volume": 70,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 3.68,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "intelligenza emotiva",
+      "locale": "it",
+      "intent_key": "intelligenza-emotiva",
+      "slug": "intelligenza-emotiva",
+      "category": "reflection-practice",
+      "angle": "intelligenza emotiva: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "intelligenza emotiva",
+          "volume": 18200,
+          "kd": 31,
+          "displayed_volume": "18.2K"
+        }
+      ],
+      "metric_keyword": "intelligenza emotiva",
+      "cluster_volume": 18200,
+      "kd": 31,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 443.9,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione guidata",
+      "locale": "it",
+      "intent_key": "meditazione-guidata",
+      "slug": "meditazione-guidata",
+      "category": "reflection-practice",
+      "angle": "meditazione guidata: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazioni guidate gratis",
+          "volume": 180,
+          "kd": 12,
+          "displayed_volume": "180"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata",
+          "volume": 7400,
+          "kd": 32,
+          "displayed_volume": "7.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazioni guidate gratis",
+          "volume": 180,
+          "kd": 12,
+          "displayed_volume": "180"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione guidata",
+          "volume": 7400,
+          "kd": 32,
+          "displayed_volume": "7.4K"
+        }
+      ],
+      "metric_keyword": "meditazione guidata",
+      "cluster_volume": 7400,
+      "kd": 32,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 176.19,
+      "secondary_keywords": ["meditazioni guidate gratis"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione mindfulness",
+      "locale": "it",
+      "intent_key": "meditazione-mindfulness",
+      "slug": "meditazione-mindfulness",
+      "category": "reflection-practice",
+      "angle": "meditazione mindfulness: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-it-6710646.json",
+          "source_list_id": "6710646",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione mindfulness",
+          "volume": 1500,
+          "kd": 33,
+          "displayed_volume": "1.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "metodo mindfulness",
+          "volume": 500,
+          "kd": 14,
+          "displayed_volume": "500"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-it-6710662.json",
+          "source_list_id": "6710662",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditazione mindfulness",
+          "volume": 1900,
+          "kd": 32,
+          "displayed_volume": "1.9K"
+        }
+      ],
+      "metric_keyword": "meditazione mindfulness",
+      "cluster_volume": 1500,
+      "kd": 33,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 34.88,
+      "secondary_keywords": ["metodo mindfulness"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive abbondanza",
+      "locale": "it",
+      "intent_key": "affermazioni positive abbondanza",
+      "slug": "affermazioni-positive-abbondanza",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive abbondanza: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive abbondanza",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive denaro",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per attrarre denaro",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive abbondanza",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [
+        "affermazioni positive denaro",
+        "affermazioni positive per attrarre denaro"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive amore",
+      "locale": "it",
+      "intent_key": "affermazioni positive amore",
+      "slug": "affermazioni-positive-amore",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive amore: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive amore",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive amore",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive autostima",
+      "locale": "it",
+      "intent_key": "affermazioni positive autostima",
+      "slug": "affermazioni-positive-autostima",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive autostima: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive autostima",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per autostima",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive autostima",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affermazioni positive per autostima"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive funzionano",
+      "locale": "it",
+      "intent_key": "affermazioni positive funzionano",
+      "slug": "affermazioni-positive-funzionano",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive funzionano: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive funzionano",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "le affermazioni positive funzionano",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive psicologia",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "il potere delle affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "potere delle affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "a cosa servono le affermazioni positive",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "affermazioni positive funzionano",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [
+        "le affermazioni positive funzionano",
+        "affermazioni positive psicologia",
+        "il potere delle affermazioni positive",
+        "potere delle affermazioni positive",
+        "a cosa servono le affermazioni positive"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive io sono",
+      "locale": "it",
+      "intent_key": "affermazioni positive io sono",
+      "slug": "affermazioni-positive-io-sono",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive io sono: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive io sono",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive io sono",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive lavoro",
+      "locale": "it",
+      "intent_key": "affermazioni positive lavoro",
+      "slug": "affermazioni-positive-lavoro",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive lavoro: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive lavoro",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive sul lavoro",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive lavoro",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affermazioni positive sul lavoro"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive pdf",
+      "locale": "it",
+      "intent_key": "affermazioni positive pdf",
+      "slug": "affermazioni-positive-pdf",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive pdf: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive pdf",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive pdf",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive per attrarre una persona specifica",
+      "locale": "it",
+      "intent_key": "affermazioni positive per attrarre una persona specifica",
+      "slug": "affermazioni-positive-per-attrarre-una-persona-specifica",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive per attrarre una persona specifica: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per attrarre una persona specifica",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per attrarre una persona",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive per attrarre una persona specifica",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affermazioni positive per attrarre una persona"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive per dormire",
+      "locale": "it",
+      "intent_key": "affermazioni positive per dormire",
+      "slug": "affermazioni-positive-per-dormire",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive per dormire: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per dormire",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per la sera",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive prima di dormire",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive sera",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive serali",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per la notte",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "affermazioni positive per dormire",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [
+        "affermazioni positive per la sera",
+        "affermazioni positive prima di dormire",
+        "affermazioni positive sera",
+        "affermazioni positive serali",
+        "affermazioni positive per la notte"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive per il cambiamento",
+      "locale": "it",
+      "intent_key": "affermazioni positive per il cambiamento",
+      "slug": "affermazioni-positive-per-il-cambiamento",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive per il cambiamento: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive per il cambiamento",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive sulla vita",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive per il cambiamento",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affermazioni positive sulla vita"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive subliminali",
+      "locale": "it",
+      "intent_key": "affermazioni positive subliminali",
+      "slug": "affermazioni-positive-subliminali",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive subliminali: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive subliminali",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affermazioni positive subliminali",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditazione affermazioni positive",
+      "locale": "it",
+      "intent_key": "meditazione affermazioni positive",
+      "slug": "meditazione-affermazioni-positive",
+      "category": "reflection-practice",
+      "angle": "meditazione affermazioni positive: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditazione affermazioni positive",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "meditazione affermazioni positive",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affermazioni positive successo",
+      "locale": "it",
+      "intent_key": "affermazioni positive successo",
+      "slug": "affermazioni-positive-successo",
+      "category": "reflection-practice",
+      "angle": "affermazioni positive successo: esempi concreti e una breve pratica quotidiana, con formulazioni credibili e limiti chiari; nessuna promessa di risultati o controllo sulle altre persone.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-it-affermazioni-positive.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affermazioni+positive&db=it&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8Vzhs75lShCFpjUkgMIbKoq6r%2BXls7d7nx3fhf4fBZSVs7JCXUSWLd9AV%2F8FIFjZG%2Biz%2BkF02F40HAXcOpUlQKsEaXRAh3FRgSsCK%2FRLveKjeZyasfJiwVykg8ejNsCldr432arUS0uEqqN81%2FItn8IPYudP8Ij19Ccz5b0G78BagdMxN4AAAA%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affermazioni positive successo",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "affermazioni positive successo",
+      "cluster_volume": 10,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    }
+  ]
+}

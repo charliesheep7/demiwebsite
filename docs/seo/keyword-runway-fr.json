@@ -1,0 +1,2306 @@
+{
+  "observed_on": "2026-09-08",
+  "locale": "fr",
+  "status": "reviewed_partial_batch_not_live_queue",
+  "scope": "All three structured lists captured for this locale. Additional Keyword Magic research still needs consolidation.",
+  "metrics": "Cluster volume is the displayed rounded source value, not individual keyword volume. Never sum overlapping source occurrences.",
+  "runway_status": "Incomplete. Not a certification of a 90-day publishing runway. Not yet imported into the publishing routine.",
+  "assumed_posts_per_day": 3,
+  "required_unwritten_assignments": 270,
+  "assignment_count": 120,
+  "assignments": [
+    {
+      "locale": "fr",
+      "intent_key": "attire-le-positif",
+      "slug": "attire-le-positif",
+      "primary_keyword": "attire le positif",
+      "article_angle": "attire le positif : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "attire le positif",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "vision-board",
+      "slug": "vision-board",
+      "primary_keyword": "vision board",
+      "article_angle": "vision board : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "tableau de visualisation",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "1.9K"
+        },
+        {
+          "keyword": "visualisation board",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "32",
+          "displayed_cluster_volume": "1.2K"
+        },
+        {
+          "keyword": "vision board",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "13.3K"
+        },
+        {
+          "keyword": "tableau de visualisation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "1.9K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "rituel-du-coucher",
+      "slug": "rituel-du-coucher",
+      "primary_keyword": "rituel du coucher",
+      "article_angle": "rituel du coucher : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "rituel du coucher",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "310"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "affirmation-positive-confiance-en-soi",
+      "slug": "affirmation-positive-confiance-en-soi",
+      "primary_keyword": "affirmation positive confiance en soi",
+      "article_angle": "affirmation positive confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "affirmation positive confiance en soi",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "2.1K"
+        },
+        {
+          "keyword": "affirmation positive confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "pensees-positives",
+      "slug": "pensees-positives",
+      "primary_keyword": "pensées positives",
+      "article_angle": "pensées positives : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "pensées positives",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "35",
+          "displayed_cluster_volume": "31.6K"
+        },
+        {
+          "keyword": "bonheur pensée positive",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "450"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "elevation-spirituelle",
+      "slug": "elevation-spirituelle",
+      "primary_keyword": "elevation spirituelle",
+      "article_angle": "elevation spirituelle : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "elevation spirituelle",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "460"
+        },
+        {
+          "keyword": "eveil spirituel",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "1.5K"
+        },
+        {
+          "keyword": "eveil spirituel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "1.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "phrase-pour-encourager-quelqu-un",
+      "slug": "phrase-pour-encourager-quelqu-un",
+      "primary_keyword": "phrase pour encourager quelqu un",
+      "article_angle": "phrase pour encourager quelqu un : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "phrase pour encourager quelqu un",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "320"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "phrases-qui-remonte-le-moral",
+      "slug": "phrases-qui-remonte-le-moral",
+      "primary_keyword": "phrases qui remonte le moral",
+      "article_angle": "phrases qui remonte le moral : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "phrases qui remonte le moral",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "140"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "affirmation-positive",
+      "slug": "affirmation-positive",
+      "primary_keyword": "affirmation positive",
+      "article_angle": "affirmation positive : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "affirmation positive",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "7K"
+        },
+        {
+          "keyword": "affirmation positive",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "loi-de-l-attraction",
+      "slug": "loi-de-l-attraction",
+      "primary_keyword": "loi de l'attraction",
+      "article_angle": "loi de l'attraction : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "loi de l'attraction",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "34",
+          "displayed_cluster_volume": "4.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "imagerie-mentale",
+      "slug": "imagerie-mentale",
+      "primary_keyword": "imagerie mentale",
+      "article_angle": "imagerie mentale : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "imagerie mentale",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "790"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "syndrome-de-l-imposteur",
+      "slug": "syndrome-de-l-imposteur",
+      "primary_keyword": "syndrome de l imposteur",
+      "article_angle": "syndrome de l imposteur : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "syndrome de l imposteur",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "43",
+          "displayed_cluster_volume": "7.5K"
+        },
+        {
+          "keyword": "syndrome de l imposteur",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 43,
+          "displayed_cluster_volume": "7.5K"
+        },
+        {
+          "keyword": "syndrome de l imposteur",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "43",
+          "displayed_cluster_volume": "7.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "pensee-positive-du-soir",
+      "slug": "pensee-positive-du-soir",
+      "primary_keyword": "pensée positive du soir",
+      "article_angle": "pensée positive du soir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "pensée positive du soir",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "27",
+          "displayed_cluster_volume": "580"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "comment-manifester",
+      "slug": "comment-manifester",
+      "primary_keyword": "comment manifester",
+      "article_angle": "comment manifester : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "comment manifester",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "840"
+        },
+        {
+          "keyword": "technique de manifestation puissante",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "140"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "couple-et-confiance",
+      "slug": "couple-et-confiance",
+      "primary_keyword": "couple et confiance",
+      "article_angle": "couple et confiance : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "couple et confiance",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 10,
+          "displayed_cluster_volume": "750"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "travailler-sur-soi",
+      "slug": "travailler-sur-soi",
+      "primary_keyword": "travailler sur soi",
+      "article_angle": "travailler sur soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "travailler sur soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 12,
+          "displayed_cluster_volume": "260"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "manque-de-confiance-en-soi",
+      "slug": "manque-de-confiance-en-soi",
+      "primary_keyword": "manque de confiance en soi",
+      "article_angle": "manque de confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "manque de confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 37,
+          "displayed_cluster_volume": "17.4K"
+        },
+        {
+          "keyword": "12 signes de manque de confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "1.8K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "mieux-se-connaitre",
+      "slug": "mieux-se-connaitre",
+      "primary_keyword": "mieux se connaitre",
+      "article_angle": "mieux se connaitre : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "comment faire une introspection de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 19,
+          "displayed_cluster_volume": "660"
+        },
+        {
+          "keyword": "mieux se connaitre",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "470"
+        },
+        {
+          "keyword": "bilan personnel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 23,
+          "displayed_cluster_volume": "550"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "comment-refaire-confiance",
+      "slug": "comment-refaire-confiance",
+      "primary_keyword": "comment refaire confiance",
+      "article_angle": "comment refaire confiance : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "comment refaire confiance",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "190"
+        },
+        {
+          "keyword": "confiance en personne",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "160"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-pleine-conscience",
+      "slug": "meditation-pleine-conscience",
+      "primary_keyword": "méditation pleine conscience",
+      "article_angle": "méditation pleine conscience : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "méditation pleine conscience",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 45,
+          "displayed_cluster_volume": "9.5K"
+        },
+        {
+          "keyword": "la pleine conscience",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "41",
+          "displayed_cluster_volume": "11.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "amour-de-soi",
+      "slug": "amour-de-soi",
+      "primary_keyword": "amour de soi",
+      "article_angle": "amour de soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "s aimer soi même",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 25,
+          "displayed_cluster_volume": "500"
+        },
+        {
+          "keyword": "amour propre def",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 34,
+          "displayed_cluster_volume": "4.5K"
+        },
+        {
+          "keyword": "amour de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "640"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "journal-intime-fille",
+      "slug": "journal-intime-fille",
+      "primary_keyword": "journal intime fille",
+      "article_angle": "journal intime fille : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "journal intime fille",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "7.2K"
+        },
+        {
+          "keyword": "journal intime fille",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "3.9K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "exercice-sur-la-confiance-en-soi",
+      "slug": "exercice-sur-la-confiance-en-soi",
+      "primary_keyword": "exercice sur la confiance en soi",
+      "article_angle": "exercice sur la confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "exercice sur la confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 13,
+          "displayed_cluster_volume": "650"
+        },
+        {
+          "keyword": "développement personnel confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "160"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "communication-assertive",
+      "slug": "communication-assertive",
+      "primary_keyword": "communication assertive",
+      "article_angle": "communication assertive : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "communication assertive",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "2K"
+        },
+        {
+          "keyword": "assertivité définition",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 34,
+          "displayed_cluster_volume": "13.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "roue-de-la-vie",
+      "slug": "roue-de-la-vie",
+      "primary_keyword": "roue de la vie",
+      "article_angle": "roue de la vie : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "roue de la vie",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "1.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "livre-confiance-en-soi",
+      "slug": "livre-confiance-en-soi",
+      "primary_keyword": "livre confiance en soi",
+      "article_angle": "livre confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "livre confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 23,
+          "displayed_cluster_volume": "2.6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "question-existentielle",
+      "slug": "question-existentielle",
+      "primary_keyword": "question existentielle",
+      "article_angle": "question existentielle : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "question existentielle",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "2.1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "exemple-de-phrase-de-gratitude",
+      "slug": "exemple-de-phrase-de-gratitude",
+      "primary_keyword": "exemple de phrase de gratitude",
+      "article_angle": "exemple de phrase de gratitude : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "exemple de phrase de gratitude",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 13,
+          "displayed_cluster_volume": "160"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "stress-au-travail-manque-de-confiance-en-soi",
+      "slug": "stress-au-travail-manque-de-confiance-en-soi",
+      "primary_keyword": "stress au travail manque de confiance en soi",
+      "article_angle": "stress au travail manque de confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "stress au travail manque de confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "100"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "estime-de-soi-confiance-en-soi",
+      "slug": "estime-de-soi-confiance-en-soi",
+      "primary_keyword": "estime de soi confiance en soi",
+      "article_angle": "estime de soi confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "estime de soi confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 23,
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "estime de soi confiance en soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "estime-de-soi",
+      "slug": "estime-de-soi",
+      "primary_keyword": "estime de soi",
+      "article_angle": "estime de soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "manque d estime de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 20,
+          "displayed_cluster_volume": "580"
+        },
+        {
+          "keyword": "estime de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 31,
+          "displayed_cluster_volume": "8.6K"
+        },
+        {
+          "keyword": "faible estime de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "320"
+        },
+        {
+          "keyword": "estime de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "8.6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "journal-intime",
+      "slug": "journal-intime",
+      "primary_keyword": "journal intime",
+      "article_angle": "journal intime : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "définition du journal intime",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 25,
+          "displayed_cluster_volume": "410"
+        },
+        {
+          "keyword": "journal intime",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 31,
+          "displayed_cluster_volume": "7.8K"
+        },
+        {
+          "keyword": "journal intime adulte",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "840"
+        },
+        {
+          "keyword": "journal intime",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "33",
+          "displayed_cluster_volume": "6.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-bienfait",
+      "slug": "meditation-bienfait",
+      "primary_keyword": "meditation bienfait",
+      "article_angle": "meditation bienfait : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation bienfait",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 33,
+          "displayed_cluster_volume": "490"
+        },
+        {
+          "keyword": "meditation bienfait",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "33",
+          "displayed_cluster_volume": "630"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "confiance-en-soi-definition",
+      "slug": "confiance-en-soi-definition",
+      "primary_keyword": "confiance en soi definition",
+      "article_angle": "confiance en soi definition : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "confiance en soi definition",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 37,
+          "displayed_cluster_volume": "280"
+        },
+        {
+          "keyword": "etre sur de soi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "4.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "pratiquer-la-gratitude",
+      "slug": "pratiquer-la-gratitude",
+      "primary_keyword": "pratiquer la gratitude",
+      "article_angle": "pratiquer la gratitude : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "pratiquer la gratitude",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "450"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "journal-de-gratitude",
+      "slug": "journal-de-gratitude",
+      "primary_keyword": "journal de gratitude",
+      "article_angle": "journal de gratitude : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "journal de gratitude",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "4.4K"
+        },
+        {
+          "keyword": "journal de gratitude",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "2.8K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "valeurs-humaines",
+      "slug": "valeurs-humaines",
+      "primary_keyword": "valeurs humaines",
+      "article_angle": "valeurs humaines : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "valeurs humaines",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "7.8K"
+        },
+        {
+          "keyword": "qu est ce qu une valeur",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 43,
+          "displayed_cluster_volume": "3.6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-guidee",
+      "slug": "meditation-guidee",
+      "primary_keyword": "meditation guidee",
+      "article_angle": "meditation guidee : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "méditation guidée",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 41,
+          "displayed_cluster_volume": "4.6K"
+        },
+        {
+          "keyword": "meditation gratuite",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "32",
+          "displayed_cluster_volume": "2.9K"
+        },
+        {
+          "keyword": "séance de méditation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "36",
+          "displayed_cluster_volume": "1.1K"
+        },
+        {
+          "keyword": "meditation guidee",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "40",
+          "displayed_cluster_volume": "1.6K"
+        },
+        {
+          "keyword": "méditation relaxation guidée gratuite",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "44",
+          "displayed_cluster_volume": "230"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "estime-de-soi-livre",
+      "slug": "estime-de-soi-livre",
+      "primary_keyword": "estime de soi livre",
+      "article_angle": "estime de soi livre : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "estime de soi livre",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "800"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "application-meditation",
+      "slug": "application-meditation",
+      "primary_keyword": "application méditation",
+      "article_angle": "application méditation : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "application méditation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+          "displayed_page_kd": 50,
+          "displayed_cluster_volume": "350"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1818",
+      "slug": "signification-1818",
+      "primary_keyword": "heure miroir 18h18",
+      "article_angle": "heure miroir 18h18 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 18h18",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "21.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "atteindre-ses-objectif",
+      "slug": "atteindre-ses-objectif",
+      "primary_keyword": "atteindre ses objectif",
+      "article_angle": "atteindre ses objectif : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "atteindre ses objectif",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1919",
+      "slug": "signification-1919",
+      "primary_keyword": "heure miroir 19h19",
+      "article_angle": "heure miroir 19h19 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 19h19",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "30.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1515",
+      "slug": "signification-1515",
+      "primary_keyword": "heure miroir 15h15",
+      "article_angle": "heure miroir 15h15 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 15h15",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "19.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2222",
+      "slug": "signification-2222",
+      "primary_keyword": "heure miroir 22h22",
+      "article_angle": "heure miroir 22h22 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 22h22",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "127.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1212",
+      "slug": "signification-1212",
+      "primary_keyword": "heure miroir 12h12",
+      "article_angle": "heure miroir 12h12 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 12h12",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "24.1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1414",
+      "slug": "signification-1414",
+      "primary_keyword": "heure miroir 14h14",
+      "article_angle": "heure miroir 14h14 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 14h14",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "19.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1616",
+      "slug": "signification-1616",
+      "primary_keyword": "heure miroir 16h16",
+      "article_angle": "heure miroir 16h16 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 16h16",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "21.6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "nombre-des-anges",
+      "slug": "nombre-des-anges",
+      "primary_keyword": "nombre des anges",
+      "article_angle": "nombre des anges : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "nombre des anges",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "2K"
+        },
+        {
+          "keyword": "signification nombres",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "440"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1202",
+      "slug": "signification-1202",
+      "primary_keyword": "12h02 signification",
+      "article_angle": "12h02 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "12h02 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1330",
+      "slug": "signification-1330",
+      "primary_keyword": "13h30 signification",
+      "article_angle": "13h30 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "13h30 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "410"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2212",
+      "slug": "signification-2212",
+      "primary_keyword": "22h12 signification",
+      "article_angle": "22h12 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "22h12 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1010",
+      "slug": "signification-1010",
+      "primary_keyword": "heure miroir 10h10",
+      "article_angle": "heure miroir 10h10 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 10h10",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "26K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1001",
+      "slug": "signification-1001",
+      "primary_keyword": "10h01 signification",
+      "article_angle": "10h01 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "10h01 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "15.8K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-808",
+      "slug": "signification-808",
+      "primary_keyword": "heure miroir 08h08",
+      "article_angle": "heure miroir 08h08 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 08h08",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "14.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1221",
+      "slug": "signification-1221",
+      "primary_keyword": "heure miroir 12h21",
+      "article_angle": "heure miroir 12h21 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 12h21",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "6.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1313",
+      "slug": "signification-1313",
+      "primary_keyword": "heure miroir 13h13",
+      "article_angle": "heure miroir 13h13 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 13h13",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "23.9K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-101",
+      "slug": "signification-101",
+      "primary_keyword": "heure miroir 01h01",
+      "article_angle": "heure miroir 01h01 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 01h01",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1717",
+      "slug": "signification-1717",
+      "primary_keyword": "heure miroir 17h17",
+      "article_angle": "heure miroir 17h17 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 17h17",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "32K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-0",
+      "slug": "signification-0",
+      "primary_keyword": "heure miroir 00h00",
+      "article_angle": "heure miroir 00h00 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 00h00",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "16.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-606",
+      "slug": "signification-606",
+      "primary_keyword": "heure miroir 06h06",
+      "article_angle": "heure miroir 06h06 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 06h06",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "6.6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-909",
+      "slug": "signification-909",
+      "primary_keyword": "heure miroir 09h09 signification",
+      "article_angle": "heure miroir 09h09 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 09h09 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "13.4K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-202",
+      "slug": "signification-202",
+      "primary_keyword": "heure miroir 02h02",
+      "article_angle": "heure miroir 02h02 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 02h02",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "4.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1505",
+      "slug": "signification-1505",
+      "primary_keyword": "15h05 signification",
+      "article_angle": "15h05 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "15h05 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "700"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1707",
+      "slug": "signification-1707",
+      "primary_keyword": "17h07 signification",
+      "article_angle": "17h07 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "17h07 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "1.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-404",
+      "slug": "signification-404",
+      "primary_keyword": "heure miroir 04h04",
+      "article_angle": "heure miroir 04h04 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 04h04",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "3.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-707",
+      "slug": "signification-707",
+      "primary_keyword": "heure miroir 07h07",
+      "article_angle": "heure miroir 07h07 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 07h07",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "13.1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1441",
+      "slug": "signification-1441",
+      "primary_keyword": "heure miroir 14h41",
+      "article_angle": "heure miroir 14h41 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 14h41",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "4.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2002",
+      "slug": "signification-2002",
+      "primary_keyword": "heure miroir 20h02",
+      "article_angle": "heure miroir 20h02 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 20h02",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "4.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2020",
+      "slug": "signification-2020",
+      "primary_keyword": "heure miroir 20h20",
+      "article_angle": "heure miroir 20h20 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 20h20",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "20.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2121",
+      "slug": "signification-2121",
+      "primary_keyword": "heure miroir 21h21",
+      "article_angle": "heure miroir 21h21 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 21h21",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "27.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-333",
+      "slug": "signification-333",
+      "primary_keyword": "heure miroir 3 h 33",
+      "article_angle": "heure miroir 3 h 33 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 3 h 33",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "3.6K"
+        },
+        {
+          "keyword": "heure miroir 03h33",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "760"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1011",
+      "slug": "signification-1011",
+      "primary_keyword": "10h11 signification",
+      "article_angle": "10h11 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "10h11 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "930"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1000",
+      "slug": "signification-1000",
+      "primary_keyword": "heure miroir 10h00",
+      "article_angle": "heure miroir 10h00 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 10h00",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "860"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2333",
+      "slug": "signification-2333",
+      "primary_keyword": "heure miroir 23h33",
+      "article_angle": "heure miroir 23h33 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 23h33",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1333",
+      "slug": "signification-1333",
+      "primary_keyword": "heures miroir 13h33",
+      "article_angle": "heures miroir 13h33 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heures miroir 13h33",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1551",
+      "slug": "signification-1551",
+      "primary_keyword": "heures miroirs 15h51",
+      "article_angle": "heures miroirs 15h51 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heures miroirs 15h51",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "3.4K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-111",
+      "slug": "signification-111",
+      "primary_keyword": "heures miroirs 1h11",
+      "article_angle": "heures miroirs 1h11 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heures miroirs 1h11",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "1.8K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-11",
+      "slug": "signification-11",
+      "primary_keyword": "11 signification spirituelle",
+      "article_angle": "11 signification spirituelle : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "11 signification spirituelle",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "500"
+        },
+        {
+          "keyword": "00h11 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-22",
+      "slug": "signification-22",
+      "primary_keyword": "00h22 signification amour",
+      "article_angle": "00h22 signification amour : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "00h22 signification amour",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "390"
+        },
+        {
+          "keyword": "22 signification spirituelle",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "550"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1300",
+      "slug": "signification-1300",
+      "primary_keyword": "13h00 signification",
+      "article_angle": "13h00 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "13h00 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1404",
+      "slug": "signification-1404",
+      "primary_keyword": "14h04 signification",
+      "article_angle": "14h04 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "14h04 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "680"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1808",
+      "slug": "signification-1808",
+      "primary_keyword": "18h08 signification",
+      "article_angle": "18h08 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "18h08 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "1.5K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2200",
+      "slug": "signification-2200",
+      "primary_keyword": "22h00 signification",
+      "article_angle": "22h00 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "22h00 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "950"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-303",
+      "slug": "signification-303",
+      "primary_keyword": "heure miroir 03h03",
+      "article_angle": "heure miroir 03h03 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 03h03",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "4.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-505",
+      "slug": "signification-505",
+      "primary_keyword": "heures miroir 05h05",
+      "article_angle": "heures miroir 05h05 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heures miroir 05h05",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "2.9K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "numerologie-tableau",
+      "slug": "numerologie-tableau",
+      "primary_keyword": "numerologie tableau",
+      "article_angle": "numerologie tableau : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "numerologie tableau",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "370"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1303",
+      "slug": "signification-1303",
+      "primary_keyword": "13h03 signification",
+      "article_angle": "13h03 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "13h03 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "800"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1606",
+      "slug": "signification-1606",
+      "primary_keyword": "16h06 signification",
+      "article_angle": "16h06 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "16h06 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2010",
+      "slug": "signification-2010",
+      "primary_keyword": "20h10 signification",
+      "article_angle": "20h10 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "20h10 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "480"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2100",
+      "slug": "signification-2100",
+      "primary_keyword": "21h00 signification",
+      "article_angle": "21h00 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "21h00 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "530"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2211",
+      "slug": "signification-2211",
+      "primary_keyword": "22h11 signification",
+      "article_angle": "22h11 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "22h11 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "5.8K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-717",
+      "slug": "signification-717",
+      "primary_keyword": "7h17 signification",
+      "article_angle": "7h17 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "7h17 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "1.6K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-818",
+      "slug": "signification-818",
+      "primary_keyword": "8h18 signification",
+      "article_angle": "8h18 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "8h18 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2000",
+      "slug": "signification-2000",
+      "primary_keyword": "heures miroir 20h00",
+      "article_angle": "heures miroir 20h00 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heures miroir 20h00",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "620"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-10",
+      "slug": "signification-10",
+      "primary_keyword": "00h10 signification",
+      "article_angle": "00h10 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "00h10 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "5",
+          "displayed_cluster_volume": "240"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2101",
+      "slug": "signification-2101",
+      "primary_keyword": "21h01 signification",
+      "article_angle": "21h01 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "21h01 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "480"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2111",
+      "slug": "signification-2111",
+      "primary_keyword": "21h11 signification flamme jumelle separation",
+      "article_angle": "21h11 signification flamme jumelle separation : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "21h11 signification flamme jumelle separation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2131",
+      "slug": "signification-2131",
+      "primary_keyword": "21h31 signification",
+      "article_angle": "21h31 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "21h31 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "6",
+          "displayed_cluster_volume": "460"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2332",
+      "slug": "signification-2332",
+      "primary_keyword": "23h32 signification",
+      "article_angle": "23h32 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "23h32 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "12.9K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-2022",
+      "slug": "signification-2022",
+      "primary_keyword": "heure miroir 20h22",
+      "article_angle": "heure miroir 20h22 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir 20h22",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "190"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "routine-matinale",
+      "slug": "routine-matinale",
+      "primary_keyword": "routine matinale",
+      "article_angle": "routine matinale : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "routine matinale",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-609",
+      "slug": "signification-609",
+      "primary_keyword": "06 09 signification",
+      "article_angle": "06 09 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "06 09 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "630"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1122",
+      "slug": "signification-1122",
+      "primary_keyword": "11h22 signification amour célibataire",
+      "article_angle": "11h22 signification amour célibataire : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "11h22 signification amour célibataire",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "450"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "exemple-objectif-professionnel",
+      "slug": "exemple-objectif-professionnel",
+      "primary_keyword": "exemple objectif professionnel",
+      "article_angle": "exemple objectif professionnel : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "exemple objectif professionnel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "680"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-12",
+      "slug": "signification-12",
+      "primary_keyword": "chiffre 12 signification spirituelle",
+      "article_angle": "chiffre 12 signification spirituelle : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "chiffre 12 signification spirituelle",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "520"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-1322",
+      "slug": "signification-1322",
+      "primary_keyword": "13h22 signification",
+      "article_angle": "13h22 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "13h22 signification",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "200"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "croyance-limitante",
+      "slug": "croyance-limitante",
+      "primary_keyword": "croyance limitante",
+      "article_angle": "croyance limitante : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "croyance limitante",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "1.7K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "100-objectifs-de-vie",
+      "slug": "100-objectifs-de-vie",
+      "primary_keyword": "100 objectifs de vie",
+      "article_angle": "100 objectifs de vie : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "100 objectifs de vie",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "420"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "la-visualisation-positive",
+      "slug": "la-visualisation-positive",
+      "primary_keyword": "la visualisation positive",
+      "article_angle": "la visualisation positive : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "la visualisation positive",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "140"
+        },
+        {
+          "keyword": "visualisation créatrice",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "340"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-pour-dormir",
+      "slug": "meditation-pour-dormir",
+      "primary_keyword": "meditation pour dormir",
+      "article_angle": "meditation pour dormir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation pour s endormir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "1.5K"
+        },
+        {
+          "keyword": "meditation pour dormir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "20.3K"
+        },
+        {
+          "keyword": "meditation pour dormir et lacher prise",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "2.5K"
+        },
+        {
+          "keyword": "méditation pour se rendormir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "600"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "number-13",
+      "slug": "signification-13",
+      "primary_keyword": "13 signification spirituelle",
+      "article_angle": "13 signification spirituelle : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "source_occurrences": [
+        {
+          "keyword": "13 signification spirituelle",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "160"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "heure-miroir",
+      "slug": "heure-miroir",
+      "primary_keyword": "heure miroir",
+      "article_angle": "heure miroir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "heure miroir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "37",
+          "displayed_cluster_volume": "180.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-definition",
+      "slug": "meditation-definition",
+      "primary_keyword": "meditation definition",
+      "article_angle": "meditation definition : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation definition",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "35",
+          "displayed_cluster_volume": "820"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "synchronicite-amoureuse",
+      "slug": "synchronicite-amoureuse",
+      "primary_keyword": "synchronicité amoureuse",
+      "article_angle": "synchronicité amoureuse : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "synchronicité amoureuse",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "34",
+          "displayed_cluster_volume": "5.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-du-soir",
+      "slug": "meditation-du-soir",
+      "primary_keyword": "méditation du soir",
+      "article_angle": "méditation du soir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation du soir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "13.1K"
+        },
+        {
+          "keyword": "méditation du soir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "32",
+          "displayed_cluster_volume": "2.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "relaxation-meditation",
+      "slug": "relaxation-meditation",
+      "primary_keyword": "relaxation meditation",
+      "article_angle": "relaxation meditation : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "relaxation meditation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "33",
+          "displayed_cluster_volume": "1.9K"
+        },
+        {
+          "keyword": "séance relaxation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "33",
+          "displayed_cluster_volume": "740"
+        },
+        {
+          "keyword": "meditation calme profond",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "38",
+          "displayed_cluster_volume": "200"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "petit-bambou-gratuit",
+      "slug": "petit-bambou-gratuit",
+      "primary_keyword": "petit bambou gratuit",
+      "article_angle": "petit bambou gratuit : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "petit bambou gratuit",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "38",
+          "displayed_cluster_volume": "2.2K"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "meditation-courte",
+      "slug": "meditation-courte",
+      "primary_keyword": "meditation courte",
+      "article_angle": "meditation courte : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation courte",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "280"
+        },
+        {
+          "keyword": "10 minutes de méditation de pleine conscience",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "32",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "fr",
+      "intent_key": "scan-corporel",
+      "slug": "scan-corporel",
+      "primary_keyword": "scan corporel",
+      "article_angle": "scan corporel : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "source_occurrences": [
+        {
+          "keyword": "scan corporel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    }
+  ],
+  "rejected_occurrences": [
+    {
+      "keyword": "éveil spirituel symptômes physiques",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "17",
+      "displayed_cluster_volume": "350",
+      "reason": "Health symptom query; avoid attributing symptoms to spirituality."
+    },
+    {
+      "keyword": "proverbe de la vie touchant",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "41",
+      "displayed_cluster_volume": "310",
+      "reason": "Broad quotation intent without a specific Demi practice."
+    },
+    {
+      "keyword": "proverbes citation penser à soi",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "28",
+      "displayed_cluster_volume": "390",
+      "reason": "Broad quotation intent without a specific Demi practice."
+    },
+    {
+      "keyword": "encouragement citation sur la vie et l espoir",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "38",
+      "displayed_cluster_volume": "530",
+      "reason": "Broad quotation intent without a specific Demi practice."
+    },
+    {
+      "keyword": "qst a poser a un mec",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 23,
+      "displayed_cluster_volume": "740",
+      "reason": "Dating conversation list outside this reflection batch."
+    },
+    {
+      "keyword": "enfant confiance",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 16,
+      "displayed_cluster_volume": "190",
+      "reason": "Child-development drift."
+    },
+    {
+      "keyword": "comment ne plus avoir peur",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 25,
+      "displayed_cluster_volume": "240",
+      "reason": "Overbroad anxiety/clinical intent."
+    },
+    {
+      "keyword": "quelle question poser a une femme",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 21,
+      "displayed_cluster_volume": "140",
+      "reason": "Dating conversation list outside this reflection batch."
+    },
+    {
+      "keyword": "question existentielle drole",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 20,
+      "displayed_cluster_volume": "690",
+      "reason": "Entertainment intent."
+    },
+    {
+      "keyword": "journal intime kidi secret",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 19,
+      "displayed_cluster_volume": "230",
+      "reason": "Unrelated branded toy."
+    },
+    {
+      "keyword": "questionnaire meilleure amie",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 29,
+      "displayed_cluster_volume": "270",
+      "reason": "Friendship quiz outside this reflection batch."
+    },
+    {
+      "keyword": "thérapie écriture",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 20,
+      "displayed_cluster_volume": "520",
+      "reason": "Clinical therapy intent."
+    },
+    {
+      "keyword": "gratitude journal diary",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710642%2F444444444&tab=0",
+      "displayed_page_kd": 46,
+      "displayed_cluster_volume": "950",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "50 exercices de visualisation créatrice pdf",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "11",
+      "displayed_cluster_volume": "260",
+      "reason": "Specific copyrighted-book download intent."
+    },
+    {
+      "keyword": "éveil spirituel symptômes physiques",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "16",
+      "displayed_cluster_volume": "580",
+      "reason": "Health symptom query; avoid attributing symptoms to spirituality."
+    },
+    {
+      "keyword": "se réveiller plusieurs fois dans la nuit signification spirituelle",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "12",
+      "displayed_cluster_volume": "780",
+      "reason": "Sleep symptom query; avoid spiritual diagnosis."
+    },
+    {
+      "keyword": "toucher son nez signification heure miroir",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "31",
+      "displayed_cluster_volume": "300",
+      "reason": "Unrelated bodily-sign superstition."
+    },
+    {
+      "keyword": "cohérence cardiaque pour dormir",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "16",
+      "displayed_cluster_volume": "1,000",
+      "reason": "Physiological/health technique outside this batch."
+    },
+    {
+      "keyword": "centre de méditation",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "51",
+      "displayed_cluster_volume": "570",
+      "reason": "Local service intent."
+    },
+    {
+      "keyword": "meditation retraite",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "11",
+      "displayed_cluster_volume": "350",
+      "reason": "Retreat/travel intent."
+    },
+    {
+      "keyword": "mindfulness mindfulness",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "25",
+      "displayed_cluster_volume": "2K",
+      "reason": "Wrong-language/duplicate wording."
+    },
+    {
+      "keyword": "cohérence cardiaque méditation",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "23",
+      "displayed_cluster_volume": "1.6K",
+      "reason": "Physiological/health technique outside this batch."
+    },
+    {
+      "keyword": "exercice de cohérence cardiaque sur des sonorités méditatives",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "22",
+      "displayed_cluster_volume": "460",
+      "reason": "Specific physiological/audio exercise intent."
+    },
+    {
+      "keyword": "méditation jan et olivia sommeil",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "27",
+      "displayed_cluster_volume": "330",
+      "reason": "Creator-specific playback intent."
+    },
+    {
+      "keyword": "mike méditation nettoyage émotionnel",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "28",
+      "displayed_cluster_volume": "540",
+      "reason": "Creator-specific playback intent."
+    },
+    {
+      "keyword": "nicole bordeleau méditation",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "29",
+      "displayed_cluster_volume": "710",
+      "reason": "Creator-specific playback intent."
+    },
+    {
+      "keyword": "méditation cédric michel apaisement",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "29",
+      "displayed_cluster_volume": "380",
+      "reason": "Creator-specific playback intent."
+    },
+    {
+      "keyword": "15 minute meditation",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "29",
+      "displayed_cluster_volume": "180",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "méditation transcendantale mantra",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710663%2F444444444&tab=0",
+      "displayed_page_kd": "69",
+      "displayed_cluster_volume": "5.9K",
+      "reason": "Specific meditation tradition outside this product batch."
+    }
+  ]
+}

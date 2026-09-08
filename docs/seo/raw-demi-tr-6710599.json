@@ -1,0 +1,27 @@
+{
+  "site": "demi",
+  "locale": "tr",
+  "list_id": "6710599/444444444",
+  "expected_pages": 15,
+  "rows": [
+    ["olumlama cümleleri", "15", "4.2K"],
+    ["evrensel yasa", "19", "3.5K"],
+    ["olumlama nedir", "17", "1.6K"],
+    ["evrene enerji nasıl gönderilir", "20", "210"],
+    ["çekim yasası kitap", "23", "640"],
+    ["sünnetullah yasaları", "23", "370"],
+    ["evrenin kuralları", "19", "60"],
+    ["evlilik olumlama cümleleri", "20", "220"],
+    ["manifest kodları", "28", "3.6K"],
+    ["başarı olumlamaları", "27", "230"],
+    ["para olumlama cümleleri", "29", "250"],
+    ["varsayım yasası nedir", "22", "1.3K"],
+    ["manifestasyon nedir", "26", "220"],
+    ["çekim yasası", "30", "2.4K"],
+    ["manifesto ne demek", "37", "30.4K"]
+  ],
+  "captured_pages": [1],
+  "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+  "observed_on": "2026-09-08",
+  "metrics_note": "Displayed Page KD and rounded cluster volume; not exact individual-keyword volume."
+}

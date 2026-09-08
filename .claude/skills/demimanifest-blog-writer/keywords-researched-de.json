@@ -1,0 +1,3740 @@
+{
+  "schema_version": 1,
+  "locale": "de",
+  "observed_on": "2026-09-08",
+  "status": "wired",
+  "metrics_note": "Volume is source-specific: rounded page-cluster estimates or individual keyword estimates as labeled. Never sum variants or source occurrences.",
+  "rows": [
+    {
+      "keyword": "21 21 uhr bedeutet",
+      "locale": "de",
+      "intent_key": "number-2121",
+      "slug": "engelszahl-2121",
+      "category": "reflection-practice",
+      "angle": "21 21 uhr bedeutet: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "21 21 uhr bedeutet",
+          "volume": 42500,
+          "kd": 18,
+          "displayed_volume": "42.5K"
+        }
+      ],
+      "metric_keyword": "21 21 uhr bedeutet",
+      "cluster_volume": 42500,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 1517.86,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "vision board",
+      "locale": "de",
+      "intent_key": "vision-board",
+      "slug": "vision-board",
+      "category": "reflection-practice",
+      "angle": "vision board: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board",
+          "volume": 53200,
+          "kd": 29,
+          "displayed_volume": "53.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board bilder",
+          "volume": 980,
+          "kd": 28,
+          "displayed_volume": "980"
+        }
+      ],
+      "metric_keyword": "vision board",
+      "cluster_volume": 53200,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 1364.1,
+      "secondary_keywords": ["vision board bilder"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive sprüche",
+      "locale": "de",
+      "intent_key": "positive-spruche",
+      "slug": "positive-spruche",
+      "category": "reflection-practice",
+      "angle": "positive sprüche: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive sprüche",
+          "volume": 38800,
+          "kd": 30,
+          "displayed_volume": "38.8K"
+        }
+      ],
+      "metric_keyword": "positive sprüche",
+      "cluster_volume": 38800,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 970.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was bedeuten 777",
+      "locale": "de",
+      "intent_key": "number-777",
+      "slug": "engelszahl-777",
+      "category": "reflection-practice",
+      "angle": "was bedeuten 777: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeuten 777",
+          "volume": 22400,
+          "kd": 19,
+          "displayed_volume": "22.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeutet 777",
+          "volume": 7500,
+          "kd": 15,
+          "displayed_volume": "7.5K"
+        }
+      ],
+      "metric_keyword": "was bedeuten 777",
+      "cluster_volume": 22400,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 772.41,
+      "secondary_keywords": ["was bedeutet 777"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive affirmationen",
+      "locale": "de",
+      "intent_key": "positive-affirmationen",
+      "slug": "positive-affirmationen",
+      "category": "reflection-practice",
+      "angle": "positive affirmationen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "100 positive affirmationen",
+          "volume": 900,
+          "kd": 6,
+          "displayed_volume": "900"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive affirmation",
+          "volume": 820,
+          "kd": 24,
+          "displayed_volume": "820"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive affirmationen",
+          "volume": 18800,
+          "kd": 23,
+          "displayed_volume": "18.8K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "100 positive affirmationen",
+          "volume": 900,
+          "kd": 6,
+          "displayed_volume": "900"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive affirmationen",
+          "volume": 18800,
+          "kd": 23,
+          "displayed_volume": "18.8K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive affirmation",
+          "volume": 930,
+          "kd": 29,
+          "displayed_volume": "930"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive affirmationen",
+          "volume": 15500,
+          "kd": 24,
+          "displayed_volume": "15.5K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen",
+          "volume": 4400,
+          "kd": 36,
+          "displayed_volume": "4,400"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "was sind affirmationen",
+          "volume": 720,
+          "kd": 23,
+          "displayed_volume": "720"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen bedeutung",
+          "volume": 260,
+          "kd": 26,
+          "displayed_volume": "260"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen liste",
+          "volume": 590,
+          "kd": 13,
+          "displayed_volume": "590"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "beispiele affirmationen",
+          "volume": 480,
+          "kd": 33,
+          "displayed_volume": "480"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen beispiele",
+          "volume": 210,
+          "kd": 21,
+          "displayed_volume": "210"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "tägliche affirmationen",
+          "volume": 110,
+          "kd": 23,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen deutsch",
+          "volume": 90,
+          "kd": 32,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen liste",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen für den tag",
+          "volume": 720,
+          "kd": 21,
+          "displayed_volume": "720"
+        }
+      ],
+      "metric_keyword": "positive affirmationen",
+      "cluster_volume": 18800,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 569.7,
+      "secondary_keywords": [
+        "100 positive affirmationen",
+        "positive affirmation",
+        "affirmationen",
+        "was sind affirmationen",
+        "affirmationen bedeutung",
+        "positive affirmationen liste",
+        "beispiele affirmationen",
+        "affirmationen beispiele",
+        "tägliche affirmationen",
+        "affirmationen deutsch",
+        "affirmationen liste",
+        "affirmationen für den tag"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahlen",
+      "locale": "de",
+      "intent_key": "engelszahlen",
+      "slug": "engelszahlen",
+      "category": "reflection-practice",
+      "angle": "engelszahlen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahlen",
+          "volume": 16400,
+          "kd": 20,
+          "displayed_volume": "16.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "4 stellige zahlen mit bedeutung",
+          "volume": 310,
+          "kd": 15,
+          "displayed_volume": "310"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "zahlen bedeutung",
+          "volume": 6900,
+          "kd": 21,
+          "displayed_volume": "6.9K"
+        }
+      ],
+      "metric_keyword": "engelszahlen",
+      "cluster_volume": 16400,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 546.67,
+      "secondary_keywords": ["4 stellige zahlen mit bedeutung", "zahlen bedeutung"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "manifestieren bedeutung",
+      "locale": "de",
+      "intent_key": "manifestieren-bedeutung",
+      "slug": "manifestieren-bedeutung",
+      "category": "reflection-practice",
+      "angle": "manifestieren bedeutung: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manifestieren bedeutung",
+          "volume": 14900,
+          "kd": 29,
+          "displayed_volume": "14.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeutet manifestation",
+          "volume": 390,
+          "kd": 27,
+          "displayed_volume": "390"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manifestieren bedeutung",
+          "volume": 10800,
+          "kd": 29,
+          "displayed_volume": "10.8K"
+        }
+      ],
+      "metric_keyword": "manifestieren bedeutung",
+      "cluster_volume": 14900,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 382.05,
+      "secondary_keywords": ["was bedeutet manifestation"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "lernen zu meditieren",
+      "locale": "de",
+      "intent_key": "lernen-zu-meditieren",
+      "slug": "lernen-zu-meditieren",
+      "category": "reflection-practice",
+      "angle": "lernen zu meditieren: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "lernen zu meditieren",
+          "volume": 11700,
+          "kd": 29,
+          "displayed_volume": "11.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was ist meditation",
+          "volume": 2800,
+          "kd": 29,
+          "displayed_volume": "2.8K"
+        }
+      ],
+      "metric_keyword": "lernen zu meditieren",
+      "cluster_volume": 11700,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 300.0,
+      "secondary_keywords": ["was ist meditation"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "11 11 engelszahl",
+      "locale": "de",
+      "intent_key": "number-1111",
+      "slug": "engelszahl-1111",
+      "category": "reflection-practice",
+      "angle": "11 11 engelszahl: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "11 11 engelszahl",
+          "volume": 7800,
+          "kd": 20,
+          "displayed_volume": "7.8K"
+        }
+      ],
+      "metric_keyword": "11 11 engelszahl",
+      "cluster_volume": 7800,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 260.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "444 bedeutung liebe",
+      "locale": "de",
+      "intent_key": "number-444",
+      "slug": "engelszahl-444",
+      "category": "reflection-practice",
+      "angle": "444 bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "444 bedeutung liebe",
+          "volume": 5700,
+          "kd": 17,
+          "displayed_volume": "5.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "wofür steht 444",
+          "volume": 990,
+          "kd": 35,
+          "displayed_volume": "990"
+        }
+      ],
+      "metric_keyword": "444 bedeutung liebe",
+      "cluster_volume": 5700,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 211.11,
+      "secondary_keywords": ["wofür steht 444"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahlen 555 bedeutung",
+      "locale": "de",
+      "intent_key": "number-555",
+      "slug": "engelszahl-555",
+      "category": "reflection-practice",
+      "angle": "engelszahlen 555 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahlen 555 bedeutung",
+          "volume": 4000,
+          "kd": 13,
+          "displayed_volume": "4K"
+        }
+      ],
+      "metric_keyword": "engelszahlen 555 bedeutung",
+      "cluster_volume": 4000,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 173.91,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was bedeutet 111",
+      "locale": "de",
+      "intent_key": "number-111",
+      "slug": "engelszahl-111",
+      "category": "reflection-practice",
+      "angle": "was bedeutet 111: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeutet 111",
+          "volume": 3300,
+          "kd": 14,
+          "displayed_volume": "3.3K"
+        }
+      ],
+      "metric_keyword": "was bedeutet 111",
+      "cluster_volume": 3300,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 137.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "16 16 bedeutung",
+      "locale": "de",
+      "intent_key": "number-1616",
+      "slug": "engelszahl-1616",
+      "category": "reflection-practice",
+      "angle": "16 16 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "16 16 bedeutung",
+          "volume": 2800,
+          "kd": 12,
+          "displayed_volume": "2.8K"
+        }
+      ],
+      "metric_keyword": "16 16 bedeutung",
+      "cluster_volume": 2800,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 127.27,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahl 22 33",
+      "locale": "de",
+      "intent_key": "number-2233",
+      "slug": "engelszahl-2233",
+      "category": "reflection-practice",
+      "angle": "engelszahl 22 33: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahl 22 33",
+          "volume": 3300,
+          "kd": 17,
+          "displayed_volume": "3.3K"
+        }
+      ],
+      "metric_keyword": "engelszahl 22 33",
+      "cluster_volume": 3300,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 122.22,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahlen rechner",
+      "locale": "de",
+      "intent_key": "engelszahlen-rechner",
+      "slug": "engelszahlen-rechner",
+      "category": "reflection-practice",
+      "angle": "engelszahlen rechner: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahlen rechner",
+          "volume": 2300,
+          "kd": 10,
+          "displayed_volume": "2.3K"
+        }
+      ],
+      "metric_keyword": "engelszahlen rechner",
+      "cluster_volume": 2300,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 115.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "achtsamkeit übungen",
+      "locale": "de",
+      "intent_key": "achtsamkeit-ubungen",
+      "slug": "achtsamkeit-ubungen",
+      "category": "reflection-practice",
+      "angle": "achtsamkeit übungen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "achtsamkeit übungen",
+          "volume": 4400,
+          "kd": 30,
+          "displayed_volume": "4.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation achtsamkeit",
+          "volume": 570,
+          "kd": 27,
+          "displayed_volume": "570"
+        }
+      ],
+      "metric_keyword": "achtsamkeit übungen",
+      "cluster_volume": 4400,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 110.0,
+      "secondary_keywords": ["meditation achtsamkeit"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "dankbarkeitstagebuch",
+      "locale": "de",
+      "intent_key": "dankbarkeitstagebuch",
+      "slug": "dankbarkeitstagebuch",
+      "category": "reflection-practice",
+      "angle": "dankbarkeitstagebuch: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "dankbarkeits tagebuch",
+          "volume": 390,
+          "kd": 24,
+          "displayed_volume": "390"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "dankbarkeitstagebuch",
+          "volume": 3300,
+          "kd": 28,
+          "displayed_volume": "3.3K"
+        }
+      ],
+      "metric_keyword": "dankbarkeitstagebuch",
+      "cluster_volume": 3300,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 86.84,
+      "secondary_keywords": ["dankbarkeits tagebuch"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "geführte meditation",
+      "locale": "de",
+      "intent_key": "gefuhrte-meditation",
+      "slug": "gefuhrte-meditation",
+      "category": "reflection-practice",
+      "angle": "geführte meditation: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "geführte meditation",
+          "volume": 3100,
+          "kd": 30,
+          "displayed_volume": "3.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "kostenlose meditationen",
+          "volume": 4400,
+          "kd": 46,
+          "displayed_volume": "4.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation auf deutsch",
+          "volume": 280,
+          "kd": 38,
+          "displayed_volume": "280"
+        }
+      ],
+      "metric_keyword": "geführte meditation",
+      "cluster_volume": 3100,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 77.5,
+      "secondary_keywords": ["kostenlose meditationen", "meditation auf deutsch"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engel symbol",
+      "locale": "de",
+      "intent_key": "engel-symbol",
+      "slug": "engel-symbol",
+      "category": "reflection-practice",
+      "angle": "engel symbol: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engel symbol",
+          "volume": 2600,
+          "kd": 24,
+          "displayed_volume": "2.6K"
+        }
+      ],
+      "metric_keyword": "engel symbol",
+      "cluster_volume": 2600,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 76.47,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "berechnung namenszahl",
+      "locale": "de",
+      "intent_key": "berechnung-namenszahl",
+      "slug": "berechnung-namenszahl",
+      "category": "reflection-practice",
+      "angle": "berechnung namenszahl: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "berechnung namenszahl",
+          "volume": 2100,
+          "kd": 20,
+          "displayed_volume": "2.1K"
+        }
+      ],
+      "metric_keyword": "berechnung namenszahl",
+      "cluster_volume": 2100,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 70.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "gesetz anziehung",
+      "locale": "de",
+      "intent_key": "gesetz-anziehung",
+      "slug": "gesetz-anziehung",
+      "category": "reflection-practice",
+      "angle": "gesetz anziehung: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "gesetz anziehung",
+          "volume": 2200,
+          "kd": 23,
+          "displayed_volume": "2.2K"
+        }
+      ],
+      "metric_keyword": "gesetz anziehung",
+      "cluster_volume": 2200,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 66.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "journaling deutsch",
+      "locale": "de",
+      "intent_key": "journaling-deutsch",
+      "slug": "journaling-deutsch",
+      "category": "reflection-practice",
+      "angle": "journaling deutsch: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journaling deutsch",
+          "volume": 2200,
+          "kd": 25,
+          "displayed_volume": "2.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journaling deutsch",
+          "volume": 2200,
+          "kd": 25,
+          "displayed_volume": "2.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journaling deutsch",
+          "volume": 1400,
+          "kd": 25,
+          "displayed_volume": "1.4K"
+        }
+      ],
+      "metric_keyword": "journaling deutsch",
+      "cluster_volume": 2200,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 62.86,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "glaubenssätze auflösen",
+      "locale": "de",
+      "intent_key": "glaubenssatze-auflosen",
+      "slug": "glaubenssatze-auflosen",
+      "category": "reflection-practice",
+      "angle": "glaubenssätze auflösen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "glaubenssätze auflösen",
+          "volume": 1300,
+          "kd": 11,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "negative glaubenssätze liste",
+          "volume": 2100,
+          "kd": 18,
+          "displayed_volume": "2.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "glaubenssätze auflösen",
+          "volume": 1200,
+          "kd": 11,
+          "displayed_volume": "1.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "negative glaubenssätze liste pdf",
+          "volume": 2700,
+          "kd": 15,
+          "displayed_volume": "2.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "glaubenssätze auflösen",
+          "volume": 1200,
+          "kd": 11,
+          "displayed_volume": "1.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "negative glaubenssätze liste pdf",
+          "volume": 2700,
+          "kd": 15,
+          "displayed_volume": "2.7K"
+        }
+      ],
+      "metric_keyword": "glaubenssätze auflösen",
+      "cluster_volume": 1300,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 61.9,
+      "secondary_keywords": ["negative glaubenssätze liste", "negative glaubenssätze liste pdf"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive gedanken für den tag",
+      "locale": "de",
+      "intent_key": "positive-gedanken-fur-den-tag",
+      "slug": "positive-gedanken-fur-den-tag",
+      "category": "reflection-practice",
+      "angle": "positive gedanken für den tag: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive gedanken für den tag",
+          "volume": 1700,
+          "kd": 19,
+          "displayed_volume": "1.7K"
+        }
+      ],
+      "metric_keyword": "positive gedanken für den tag",
+      "cluster_volume": 1700,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 58.62,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "4444 bedeutung liebe",
+      "locale": "de",
+      "intent_key": "number-4444",
+      "slug": "engelszahl-4444",
+      "category": "reflection-practice",
+      "angle": "4444 bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "4444 bedeutung liebe",
+          "volume": 1100,
+          "kd": 9,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "4444 bedeutung liebe",
+      "cluster_volume": 1100,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 57.89,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "geld manifestieren",
+      "locale": "de",
+      "intent_key": "geld-manifestieren",
+      "slug": "geld-manifestieren",
+      "category": "reflection-practice",
+      "angle": "geld manifestieren: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "geld manifestieren",
+          "volume": 1200,
+          "kd": 12,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "geld manifestieren",
+      "cluster_volume": 1200,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 54.55,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bedeutung zahl 3",
+      "locale": "de",
+      "intent_key": "number-3",
+      "slug": "engelszahl-3",
+      "category": "reflection-practice",
+      "angle": "bedeutung zahl 3: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bedeutung zahl 3",
+          "volume": 1200,
+          "kd": 13,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "bedeutung zahl 3",
+      "cluster_volume": 1200,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 52.17,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "0303 uhrzeit bedeutung",
+      "locale": "de",
+      "intent_key": "number-303",
+      "slug": "engelszahl-303",
+      "category": "reflection-practice",
+      "angle": "0303 uhrzeit bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "0303 uhrzeit bedeutung",
+          "volume": 980,
+          "kd": 9,
+          "displayed_volume": "980"
+        }
+      ],
+      "metric_keyword": "0303 uhrzeit bedeutung",
+      "cluster_volume": 980,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 51.58,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive glaubenssätze",
+      "locale": "de",
+      "intent_key": "positive-glaubenssatze",
+      "slug": "positive-glaubenssatze",
+      "category": "reflection-practice",
+      "angle": "positive glaubenssätze: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive glaubenssätze liste pdf",
+          "volume": 640,
+          "kd": 2,
+          "displayed_volume": "640"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive glaubenssätze",
+          "volume": 1300,
+          "kd": 16,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive glaubenssätze liste pdf",
+          "volume": 370,
+          "kd": 2,
+          "displayed_volume": "370"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive glaubenssätze",
+          "volume": 1300,
+          "kd": 16,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "positive glaubenssätze",
+      "cluster_volume": 1300,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 50.0,
+      "secondary_keywords": ["positive glaubenssätze liste pdf"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "44 bedeutung engelszahl",
+      "locale": "de",
+      "intent_key": "number-44",
+      "slug": "engelszahl-44",
+      "category": "reflection-practice",
+      "angle": "44 bedeutung engelszahl: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "44 bedeutung engelszahl",
+          "volume": 990,
+          "kd": 10,
+          "displayed_volume": "990"
+        }
+      ],
+      "metric_keyword": "44 bedeutung engelszahl",
+      "cluster_volume": 990,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 49.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "vision board vorlage kostenlos",
+      "locale": "de",
+      "intent_key": "vision-board-vorlage-kostenlos",
+      "slug": "vision-board-vorlage-kostenlos",
+      "category": "reflection-practice",
+      "angle": "vision board vorlage kostenlos: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board vorlage kostenlos",
+          "volume": 1500,
+          "kd": 28,
+          "displayed_volume": "1.5K"
+        }
+      ],
+      "metric_keyword": "vision board vorlage kostenlos",
+      "cluster_volume": 1500,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 39.47,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was bedeuten 666",
+      "locale": "de",
+      "intent_key": "number-666",
+      "slug": "engelszahl-666",
+      "category": "reflection-practice",
+      "angle": "was bedeuten 666: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeuten 666",
+          "volume": 1300,
+          "kd": 23,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "666 bedeutung spirituell",
+          "volume": 1100,
+          "kd": 11,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "was bedeuten 666",
+      "cluster_volume": 1300,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 39.39,
+      "secondary_keywords": ["666 bedeutung spirituell"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "zahl 5 bedeutung spirituell",
+      "locale": "de",
+      "intent_key": "number-5",
+      "slug": "engelszahl-5",
+      "category": "reflection-practice",
+      "angle": "zahl 5 bedeutung spirituell: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "zahl 5 bedeutung spirituell",
+          "volume": 700,
+          "kd": 8,
+          "displayed_volume": "700"
+        }
+      ],
+      "metric_keyword": "zahl 5 bedeutung spirituell",
+      "cluster_volume": 700,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 38.89,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "dankbarkeitstagebuch vorlage",
+      "locale": "de",
+      "intent_key": "dankbarkeitstagebuch-vorlage",
+      "slug": "dankbarkeitstagebuch-vorlage",
+      "category": "reflection-practice",
+      "angle": "dankbarkeitstagebuch vorlage: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "dankbarkeitstagebuch vorlage",
+          "volume": 660,
+          "kd": 8,
+          "displayed_volume": "660"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "dankbarkeitstagebuch vorlage",
+          "volume": 660,
+          "kd": 8,
+          "displayed_volume": "660"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "dankbarkeitstagebuch vorlage",
+          "volume": 660,
+          "kd": 8,
+          "displayed_volume": "660"
+        }
+      ],
+      "metric_keyword": "dankbarkeitstagebuch vorlage",
+      "cluster_volume": 660,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 36.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen selbstliebe",
+      "locale": "de",
+      "intent_key": "affirmationen-selbstliebe",
+      "slug": "affirmationen-selbstliebe",
+      "category": "reflection-practice",
+      "angle": "affirmationen selbstliebe: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmationen selbstliebe",
+          "volume": 2900,
+          "kd": 16,
+          "displayed_volume": "2.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmationen selbstliebe",
+          "volume": 2700,
+          "kd": 17,
+          "displayed_volume": "2.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmationen selbstliebe",
+          "volume": 2700,
+          "kd": 17,
+          "displayed_volume": "2.7K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen selbstliebe",
+          "volume": 720,
+          "kd": 11,
+          "displayed_volume": "720"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "selbstliebe affirmationen",
+          "volume": 140,
+          "kd": 10,
+          "displayed_volume": "140"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen selbstliebe",
+          "volume": 260,
+          "kd": 17,
+          "displayed_volume": "260"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen für selbstliebe",
+          "volume": 90,
+          "kd": 10,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen selbstwert",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "affirmationen selbstliebe",
+      "cluster_volume": 720,
+      "kd": 11,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 34.29,
+      "secondary_keywords": [
+        "selbstliebe affirmationen",
+        "positive affirmationen selbstliebe",
+        "affirmationen für selbstliebe",
+        "affirmationen selbstwert"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1818 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-1818",
+      "slug": "engelszahl-1818",
+      "category": "reflection-practice",
+      "angle": "1818 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1818 bedeutung engel",
+          "volume": 610,
+          "kd": 8,
+          "displayed_volume": "610"
+        }
+      ],
+      "metric_keyword": "1818 bedeutung engel",
+      "cluster_volume": 610,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 33.89,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bedeutung zahl 2",
+      "locale": "de",
+      "intent_key": "number-2",
+      "slug": "engelszahl-2",
+      "category": "reflection-practice",
+      "angle": "bedeutung zahl 2: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bedeutung zahl 2",
+          "volume": 660,
+          "kd": 10,
+          "displayed_volume": "660"
+        }
+      ],
+      "metric_keyword": "bedeutung zahl 2",
+      "cluster_volume": 660,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 33.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "ziele erreichen",
+      "locale": "de",
+      "intent_key": "ziele-erreichen",
+      "slug": "ziele-erreichen",
+      "category": "reflection-practice",
+      "angle": "ziele erreichen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "ziele erreichen",
+          "volume": 990,
+          "kd": 21,
+          "displayed_volume": "990"
+        }
+      ],
+      "metric_keyword": "ziele erreichen",
+      "cluster_volume": 990,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 31.94,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "88 bedeutung engelszahl",
+      "locale": "de",
+      "intent_key": "number-88",
+      "slug": "engelszahl-88",
+      "category": "reflection-practice",
+      "angle": "88 bedeutung engelszahl: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "88 bedeutung engelszahl",
+          "volume": 500,
+          "kd": 6,
+          "displayed_volume": "500"
+        }
+      ],
+      "metric_keyword": "88 bedeutung engelszahl",
+      "cluster_volume": 500,
+      "kd": 6,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 31.25,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "2255 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-2255",
+      "slug": "engelszahl-2255",
+      "category": "reflection-practice",
+      "angle": "2255 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "2255 bedeutung engel",
+          "volume": 450,
+          "kd": 5,
+          "displayed_volume": "450"
+        }
+      ],
+      "metric_keyword": "2255 bedeutung engel",
+      "cluster_volume": 450,
+      "kd": 5,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 30.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "morgenroutine ideen",
+      "locale": "de",
+      "intent_key": "morgenroutine-ideen",
+      "slug": "morgenroutine-ideen",
+      "category": "reflection-practice",
+      "angle": "morgenroutine ideen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "morgenroutine ideen",
+          "volume": 1100,
+          "kd": 28,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "morgenroutine ideen",
+      "cluster_volume": 1100,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.95,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "achtsamkeit gelassenheit spruch positives denken",
+      "locale": "de",
+      "intent_key": "achtsamkeit-gelassenheit-spruch-positives-denken",
+      "slug": "achtsamkeit-gelassenheit-spruch-positives-denken",
+      "category": "reflection-practice",
+      "angle": "achtsamkeit gelassenheit spruch positives denken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "achtsamkeit gelassenheit spruch positives denken",
+          "volume": 910,
+          "kd": 22,
+          "displayed_volume": "910"
+        }
+      ],
+      "metric_keyword": "achtsamkeit gelassenheit spruch positives denken",
+      "cluster_volume": 910,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.44,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "liebe positive gedanken",
+      "locale": "de",
+      "intent_key": "liebe-positive-gedanken",
+      "slug": "liebe-positive-gedanken",
+      "category": "reflection-practice",
+      "angle": "liebe positive gedanken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "liebe positive gedanken",
+          "volume": 640,
+          "kd": 13,
+          "displayed_volume": "640"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "liebe positive gedanken",
+          "volume": 640,
+          "kd": 13,
+          "displayed_volume": "640"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive liebevolle gedanken",
+          "volume": 430,
+          "kd": 34,
+          "displayed_volume": "430"
+        }
+      ],
+      "metric_keyword": "liebe positive gedanken",
+      "cluster_volume": 640,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 27.83,
+      "secondary_keywords": ["positive liebevolle gedanken"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1444 bedeutung zwillingsflammen",
+      "locale": "de",
+      "intent_key": "number-1444",
+      "slug": "engelszahl-1444",
+      "category": "reflection-practice",
+      "angle": "1444 bedeutung zwillingsflammen: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1444 bedeutung zwillingsflammen",
+          "volume": 580,
+          "kd": 11,
+          "displayed_volume": "580"
+        }
+      ],
+      "metric_keyword": "1444 bedeutung zwillingsflammen",
+      "cluster_volume": 580,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 27.62,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bedeutung der zahl 77",
+      "locale": "de",
+      "intent_key": "number-77",
+      "slug": "engelszahl-77",
+      "category": "reflection-practice",
+      "angle": "bedeutung der zahl 77: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bedeutung der zahl 77",
+          "volume": 630,
+          "kd": 13,
+          "displayed_volume": "630"
+        }
+      ],
+      "metric_keyword": "bedeutung der zahl 77",
+      "cluster_volume": 630,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 27.39,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "setzen von zielen",
+      "locale": "de",
+      "intent_key": "setzen-von-zielen",
+      "slug": "setzen-von-zielen",
+      "category": "reflection-practice",
+      "angle": "setzen von zielen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "setzen von zielen",
+          "volume": 790,
+          "kd": 20,
+          "displayed_volume": "790"
+        }
+      ],
+      "metric_keyword": "setzen von zielen",
+      "cluster_volume": 790,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 26.33,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "2244 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-2244",
+      "slug": "engelszahl-2244",
+      "category": "reflection-practice",
+      "angle": "2244 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "2244 bedeutung engel",
+          "volume": 510,
+          "kd": 10,
+          "displayed_volume": "510"
+        }
+      ],
+      "metric_keyword": "2244 bedeutung engel",
+      "cluster_volume": 510,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 25.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1919 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-1919",
+      "slug": "engelszahl-1919",
+      "category": "reflection-practice",
+      "angle": "1919 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1919 bedeutung engel",
+          "volume": 580,
+          "kd": 14,
+          "displayed_volume": "580"
+        }
+      ],
+      "metric_keyword": "1919 bedeutung engel",
+      "cluster_volume": 580,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 24.17,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positiv guten morgen motivation",
+      "locale": "de",
+      "intent_key": "positiv-guten-morgen-motivation",
+      "slug": "positiv-guten-morgen-motivation",
+      "category": "reflection-practice",
+      "angle": "positiv guten morgen motivation: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positiv guten morgen motivation",
+          "volume": 470,
+          "kd": 13,
+          "displayed_volume": "470"
+        }
+      ],
+      "metric_keyword": "positiv guten morgen motivation",
+      "cluster_volume": 470,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1010 spirituelle bedeutung",
+      "locale": "de",
+      "intent_key": "number-1010",
+      "slug": "engelszahl-1010",
+      "category": "reflection-practice",
+      "angle": "1010 spirituelle bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1010 spirituelle bedeutung",
+          "volume": 360,
+          "kd": 8,
+          "displayed_volume": "360"
+        }
+      ],
+      "metric_keyword": "1010 spirituelle bedeutung",
+      "cluster_volume": 360,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "2211 uhr bedeutung liebe",
+      "locale": "de",
+      "intent_key": "number-2211",
+      "slug": "engelszahl-2211",
+      "category": "reflection-practice",
+      "angle": "2211 uhr bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "2211 uhr bedeutung liebe",
+          "volume": 480,
+          "kd": 14,
+          "displayed_volume": "480"
+        }
+      ],
+      "metric_keyword": "2211 uhr bedeutung liebe",
+      "cluster_volume": 480,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was bedeutet die zahl 888",
+      "locale": "de",
+      "intent_key": "number-888",
+      "slug": "engelszahl-888",
+      "category": "reflection-practice",
+      "angle": "was bedeutet die zahl 888: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeutet die zahl 888",
+          "volume": 510,
+          "kd": 16,
+          "displayed_volume": "510"
+        }
+      ],
+      "metric_keyword": "was bedeutet die zahl 888",
+      "cluster_volume": 510,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 19.62,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "motivation positive gedanken",
+      "locale": "de",
+      "intent_key": "motivation-positive-gedanken",
+      "slug": "motivation-positive-gedanken",
+      "category": "reflection-practice",
+      "angle": "motivation positive gedanken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "motivation positive gedanken",
+          "volume": 580,
+          "kd": 21,
+          "displayed_volume": "580"
+        }
+      ],
+      "metric_keyword": "motivation positive gedanken",
+      "cluster_volume": 580,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1144 uhr bedeutung liebe",
+      "locale": "de",
+      "intent_key": "number-1144",
+      "slug": "engelszahl-1144",
+      "category": "reflection-practice",
+      "angle": "1144 uhr bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1144 uhr bedeutung liebe",
+          "volume": 410,
+          "kd": 12,
+          "displayed_volume": "410"
+        }
+      ],
+      "metric_keyword": "1144 uhr bedeutung liebe",
+      "cluster_volume": 410,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.64,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bestimmte person manifestieren erfahrungen",
+      "locale": "de",
+      "intent_key": "bestimmte-person-manifestieren-erfahrungen",
+      "slug": "bestimmte-person-manifestieren-erfahrungen",
+      "category": "reflection-practice",
+      "angle": "bestimmte person manifestieren erfahrungen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bestimmte person manifestieren erfahrungen",
+          "volume": 500,
+          "kd": 17,
+          "displayed_volume": "500"
+        }
+      ],
+      "metric_keyword": "bestimmte person manifestieren erfahrungen",
+      "cluster_volume": 500,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.52,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahl 5555 bedeutung",
+      "locale": "de",
+      "intent_key": "number-5555",
+      "slug": "engelszahl-5555",
+      "category": "reflection-practice",
+      "angle": "engelszahl 5555 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahl 5555 bedeutung",
+          "volume": 460,
+          "kd": 15,
+          "displayed_volume": "460"
+        }
+      ],
+      "metric_keyword": "engelszahl 5555 bedeutung",
+      "cluster_volume": 460,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.4,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahl 8888 bedeutung",
+      "locale": "de",
+      "intent_key": "number-8888",
+      "slug": "engelszahl-8888",
+      "category": "reflection-practice",
+      "angle": "engelszahl 8888 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahl 8888 bedeutung",
+          "volume": 430,
+          "kd": 14,
+          "displayed_volume": "430"
+        }
+      ],
+      "metric_keyword": "engelszahl 8888 bedeutung",
+      "cluster_volume": 430,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 17.92,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "lebensmotto positiv",
+      "locale": "de",
+      "intent_key": "lebensmotto-positiv",
+      "slug": "lebensmotto-positiv",
+      "category": "reflection-practice",
+      "angle": "lebensmotto positiv: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "lebensmotto positiv",
+          "volume": 570,
+          "kd": 24,
+          "displayed_volume": "570"
+        }
+      ],
+      "metric_keyword": "lebensmotto positiv",
+      "cluster_volume": 570,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.76,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "2323 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-2323",
+      "slug": "engelszahl-2323",
+      "category": "reflection-practice",
+      "angle": "2323 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "2323 bedeutung engel",
+          "volume": 350,
+          "kd": 11,
+          "displayed_volume": "350"
+        }
+      ],
+      "metric_keyword": "2323 bedeutung engel",
+      "cluster_volume": 350,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahl 9999 bedeutung",
+      "locale": "de",
+      "intent_key": "number-9999",
+      "slug": "engelszahl-9999",
+      "category": "reflection-practice",
+      "angle": "engelszahl 9999 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahl 9999 bedeutung",
+          "volume": 350,
+          "kd": 11,
+          "displayed_volume": "350"
+        }
+      ],
+      "metric_keyword": "engelszahl 9999 bedeutung",
+      "cluster_volume": 350,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "1555 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-1555",
+      "slug": "engelszahl-1555",
+      "category": "reflection-practice",
+      "angle": "1555 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "1555 bedeutung engel",
+          "volume": 280,
+          "kd": 7,
+          "displayed_volume": "280"
+        }
+      ],
+      "metric_keyword": "1555 bedeutung engel",
+      "cluster_volume": 280,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.47,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "journaling fragen",
+      "locale": "de",
+      "intent_key": "journaling-fragen",
+      "slug": "journaling-fragen",
+      "category": "reflection-practice",
+      "angle": "journaling fragen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journaling fragen",
+          "volume": 390,
+          "kd": 14,
+          "displayed_volume": "390"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journaling fragen",
+          "volume": 390,
+          "kd": 14,
+          "displayed_volume": "390"
+        }
+      ],
+      "metric_keyword": "journaling fragen",
+      "cluster_volume": 390,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.25,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "engelszahl 1414 bedeutung",
+      "locale": "de",
+      "intent_key": "number-1414",
+      "slug": "engelszahl-1414",
+      "category": "reflection-practice",
+      "angle": "engelszahl 1414 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "engelszahl 1414 bedeutung",
+          "volume": 350,
+          "kd": 14,
+          "displayed_volume": "350"
+        }
+      ],
+      "metric_keyword": "engelszahl 1414 bedeutung",
+      "cluster_volume": 350,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 14.58,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "7 spirituelle bedeutung",
+      "locale": "de",
+      "intent_key": "number-7",
+      "slug": "engelszahl-7",
+      "category": "reflection-practice",
+      "angle": "7 spirituelle bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "7 spirituelle bedeutung",
+          "volume": 320,
+          "kd": 12,
+          "displayed_volume": "320"
+        }
+      ],
+      "metric_keyword": "7 spirituelle bedeutung",
+      "cluster_volume": 320,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 14.55,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "selfcare ideen",
+      "locale": "de",
+      "intent_key": "selfcare-ideen",
+      "slug": "selfcare-ideen",
+      "category": "reflection-practice",
+      "angle": "selfcare ideen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "selfcare ideen",
+          "volume": 300,
+          "kd": 11,
+          "displayed_volume": "300"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "selbstfürsorge ideen",
+          "volume": 400,
+          "kd": 21,
+          "displayed_volume": "400"
+        }
+      ],
+      "metric_keyword": "selfcare ideen",
+      "cluster_volume": 300,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 14.29,
+      "secondary_keywords": ["selbstfürsorge ideen"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "lebenszahl 11 charakter",
+      "locale": "de",
+      "intent_key": "lebenszahl-11-charakter",
+      "slug": "lebenszahl-11-charakter",
+      "category": "reflection-practice",
+      "angle": "lebenszahl 11 charakter: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "lebenszahl 11 charakter",
+          "volume": 270,
+          "kd": 10,
+          "displayed_volume": "270"
+        }
+      ],
+      "metric_keyword": "lebenszahl 11 charakter",
+      "cluster_volume": 270,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 13.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was bedeutet 99",
+      "locale": "de",
+      "intent_key": "number-99",
+      "slug": "engelszahl-99",
+      "category": "reflection-practice",
+      "angle": "was bedeutet 99: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was bedeutet 99",
+          "volume": 270,
+          "kd": 10,
+          "displayed_volume": "270"
+        }
+      ],
+      "metric_keyword": "was bedeutet 99",
+      "cluster_volume": 270,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 13.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "wie lange meditieren",
+      "locale": "de",
+      "intent_key": "wie-lange-meditieren",
+      "slug": "wie-lange-meditieren",
+      "category": "reflection-practice",
+      "angle": "wie lange meditieren: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "wie lange meditieren",
+          "volume": 340,
+          "kd": 16,
+          "displayed_volume": "340"
+        }
+      ],
+      "metric_keyword": "wie lange meditieren",
+      "cluster_volume": 340,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 13.08,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "lebensziele finden",
+      "locale": "de",
+      "intent_key": "lebensziele-finden",
+      "slug": "lebensziele-finden",
+      "category": "reflection-practice",
+      "angle": "lebensziele finden: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was will ich im leben",
+          "volume": 840,
+          "kd": 7,
+          "displayed_volume": "840"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "lebens ziele",
+          "volume": 720,
+          "kd": 16,
+          "displayed_volume": "720"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "lebensziele finden",
+          "volume": 330,
+          "kd": 16,
+          "displayed_volume": "330"
+        }
+      ],
+      "metric_keyword": "lebensziele finden",
+      "cluster_volume": 330,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 12.69,
+      "secondary_keywords": ["was will ich im leben", "lebens ziele"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "atmung meditation",
+      "locale": "de",
+      "intent_key": "atmung-meditation",
+      "slug": "atmung-meditation",
+      "category": "reflection-practice",
+      "angle": "atmung meditation: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "atmung meditation",
+          "volume": 280,
+          "kd": 13,
+          "displayed_volume": "280"
+        }
+      ],
+      "metric_keyword": "atmung meditation",
+      "cluster_volume": 280,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 12.17,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "2111 bedeutung engel",
+      "locale": "de",
+      "intent_key": "number-2111",
+      "slug": "engelszahl-2111",
+      "category": "reflection-practice",
+      "angle": "2111 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "2111 bedeutung engel",
+          "volume": 230,
+          "kd": 10,
+          "displayed_volume": "230"
+        }
+      ],
+      "metric_keyword": "2111 bedeutung engel",
+      "cluster_volume": 230,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 11.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "atementspannung text zum vorlesen",
+      "locale": "de",
+      "intent_key": "atementspannung-text-zum-vorlesen",
+      "slug": "atementspannung-text-zum-vorlesen",
+      "category": "reflection-practice",
+      "angle": "atementspannung text zum vorlesen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "atementspannung text zum vorlesen",
+          "volume": 320,
+          "kd": 18,
+          "displayed_volume": "320"
+        }
+      ],
+      "metric_keyword": "atementspannung text zum vorlesen",
+      "cluster_volume": 320,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 11.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "3 6 9 methode",
+      "locale": "de",
+      "intent_key": "3-6-9-methode",
+      "slug": "3-6-9-methode",
+      "category": "reflection-practice",
+      "angle": "3 6 9 methode: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "3 6 9 methode",
+          "volume": 390,
+          "kd": 26,
+          "displayed_volume": "390"
+        }
+      ],
+      "metric_keyword": "3 6 9 methode",
+      "cluster_volume": 390,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive gedanken am morgen",
+      "locale": "de",
+      "intent_key": "positive-gedanken-am-morgen",
+      "slug": "positive-gedanken-am-morgen",
+      "category": "reflection-practice",
+      "angle": "positive gedanken am morgen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive gedanken am morgen",
+          "volume": 300,
+          "kd": 18,
+          "displayed_volume": "300"
+        }
+      ],
+      "metric_keyword": "positive gedanken am morgen",
+      "cluster_volume": 300,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "6 bedeutung spirituell",
+      "locale": "de",
+      "intent_key": "number-6",
+      "slug": "engelszahl-6",
+      "category": "reflection-practice",
+      "angle": "6 bedeutung spirituell: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "6 bedeutung spirituell",
+          "volume": 160,
+          "kd": 5,
+          "displayed_volume": "160"
+        }
+      ],
+      "metric_keyword": "6 bedeutung spirituell",
+      "cluster_volume": 160,
+      "kd": 5,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "afformationen beispiele",
+      "locale": "de",
+      "intent_key": "afformationen-beispiele",
+      "slug": "afformationen-beispiele",
+      "category": "reflection-practice",
+      "angle": "afformationen beispiele: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "afformationen beispiele",
+          "volume": 180,
+          "kd": 7,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "afformationen beispiele",
+      "cluster_volume": 180,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.59,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive mantras",
+      "locale": "de",
+      "intent_key": "positive-mantras",
+      "slug": "positive-mantras",
+      "category": "reflection-practice",
+      "angle": "positive mantras: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "positive mantras",
+          "volume": 250,
+          "kd": 14,
+          "displayed_volume": "250"
+        }
+      ],
+      "metric_keyword": "positive mantras",
+      "cluster_volume": 250,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.42,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen geld",
+      "locale": "de",
+      "intent_key": "affirmationen geld",
+      "slug": "affirmationen-geld",
+      "category": "reflection-practice",
+      "angle": "affirmationen geld: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen geld",
+          "volume": 170,
+          "kd": 14,
+          "displayed_volume": "170"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "geld affirmationen",
+          "volume": 170,
+          "kd": 10,
+          "displayed_volume": "170"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen geld anziehen",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "affirmationen geld",
+      "cluster_volume": 170,
+      "kd": 14,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 7.08,
+      "secondary_keywords": ["geld affirmationen", "affirmationen geld anziehen"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was ist selbstvertrauen",
+      "locale": "de",
+      "intent_key": "was-ist-selbstvertrauen",
+      "slug": "was-ist-selbstvertrauen",
+      "category": "reflection-practice",
+      "angle": "was ist selbstvertrauen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was ist selbstvertrauen",
+          "volume": 250,
+          "kd": 30,
+          "displayed_volume": "250"
+        }
+      ],
+      "metric_keyword": "was ist selbstvertrauen",
+      "cluster_volume": 250,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.25,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation positive gedanken",
+      "locale": "de",
+      "intent_key": "meditation-positive-gedanken",
+      "slug": "meditation-positive-gedanken",
+      "category": "reflection-practice",
+      "angle": "meditation positive gedanken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation positive gedanken",
+          "volume": 230,
+          "kd": 29,
+          "displayed_volume": "230"
+        }
+      ],
+      "metric_keyword": "meditation positive gedanken",
+      "cluster_volume": 230,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 5.9,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation zum einschlafen",
+      "locale": "de",
+      "intent_key": "affirmation-zum-einschlafen",
+      "slug": "affirmation-zum-einschlafen",
+      "category": "reflection-practice",
+      "angle": "affirmation zum einschlafen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmation zum einschlafen",
+          "volume": 210,
+          "kd": 27,
+          "displayed_volume": "210"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen zum einschlafen",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen zum einschlafen",
+          "volume": 70,
+          "kd": 21,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "affirmation zum einschlafen",
+      "cluster_volume": 210,
+      "kd": 27,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 5.68,
+      "secondary_keywords": [
+        "affirmationen zum einschlafen",
+        "positive affirmationen zum einschlafen"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "gesetz der annahme",
+      "locale": "de",
+      "intent_key": "gesetz-der-annahme",
+      "slug": "gesetz-der-annahme",
+      "category": "reflection-practice",
+      "angle": "gesetz der annahme: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "gesetz der annahme",
+          "volume": 210,
+          "kd": 28,
+          "displayed_volume": "210"
+        }
+      ],
+      "metric_keyword": "gesetz der annahme",
+      "cluster_volume": 210,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 5.53,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen ich bin",
+      "locale": "de",
+      "intent_key": "affirmationen ich bin",
+      "slug": "affirmationen-ich-bin",
+      "category": "reflection-practice",
+      "angle": "affirmationen ich bin: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen ich bin",
+          "volume": 110,
+          "kd": 15,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "ich bin affirmationen",
+          "volume": 110,
+          "kd": 20,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "poster affirmationen ich bin...",
+          "volume": 210,
+          "kd": 7,
+          "displayed_volume": "210"
+        }
+      ],
+      "metric_keyword": "affirmationen ich bin",
+      "cluster_volume": 110,
+      "kd": 15,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.4,
+      "secondary_keywords": ["ich bin affirmationen", "poster affirmationen ich bin..."],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen loslassen",
+      "locale": "de",
+      "intent_key": "affirmationen loslassen",
+      "slug": "affirmationen-loslassen",
+      "category": "reflection-practice",
+      "angle": "affirmationen loslassen: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen loslassen",
+          "volume": 70,
+          "kd": 7,
+          "displayed_volume": "70"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen zum loslassen",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "affirmationen loslassen",
+      "cluster_volume": 70,
+      "kd": 7,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.12,
+      "secondary_keywords": ["affirmationen zum loslassen"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "kurzfristige ziele",
+      "locale": "de",
+      "intent_key": "kurzfristige-ziele",
+      "slug": "kurzfristige-ziele",
+      "category": "reflection-practice",
+      "angle": "kurzfristige ziele: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "kurzfristige ziele",
+          "volume": 140,
+          "kd": 26,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "kurzfristige ziele",
+      "cluster_volume": 140,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 3.89,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen selbstbewusstsein",
+      "locale": "de",
+      "intent_key": "affirmationen selbstbewusstsein",
+      "slug": "affirmationen-selbstbewusstsein",
+      "category": "reflection-practice",
+      "angle": "affirmationen selbstbewusstsein: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen selbstbewusstsein",
+          "volume": 90,
+          "kd": 20,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "selbstvertrauen positive affirmationen",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "affirmationen selbstbewusstsein",
+      "cluster_volume": 90,
+      "kd": 20,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 3.0,
+      "secondary_keywords": ["selbstvertrauen positive affirmationen"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "dankbarkeit affirmationen",
+      "locale": "de",
+      "intent_key": "dankbarkeit affirmationen",
+      "slug": "dankbarkeit-affirmationen",
+      "category": "reflection-practice",
+      "angle": "dankbarkeit affirmationen: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "dankbarkeit affirmationen",
+          "volume": 70,
+          "kd": 16,
+          "displayed_volume": "70"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "dankbarkeits affirmationen",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "dankbarkeit affirmationen",
+      "cluster_volume": 70,
+      "kd": 16,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 2.69,
+      "secondary_keywords": ["dankbarkeits affirmationen"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "smart ziele",
+      "locale": "de",
+      "intent_key": "smart-ziele",
+      "slug": "smart-ziele",
+      "category": "reflection-practice",
+      "angle": "smart ziele: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "smart ziele",
+          "volume": 27200,
+          "kd": 38,
+          "displayed_volume": "27.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "smart bedeutung deutsch",
+          "volume": 200,
+          "kd": 35,
+          "displayed_volume": "200"
+        }
+      ],
+      "metric_keyword": "smart ziele",
+      "cluster_volume": 27200,
+      "kd": 38,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 566.67,
+      "secondary_keywords": ["smart bedeutung deutsch"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "selbstwertgefühl stärken",
+      "locale": "de",
+      "intent_key": "selbstwertgefuhl-starken",
+      "slug": "selbstwertgefuhl-starken",
+      "category": "reflection-practice",
+      "angle": "selbstwertgefühl stärken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "übungen zur stärkung des selbstwertgefühls",
+          "volume": 1100,
+          "kd": 13,
+          "displayed_volume": "1.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "selbstwertgefühl stärken",
+          "volume": 17100,
+          "kd": 34,
+          "displayed_volume": "17.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "übungen zur stärkung des selbstwertgefühls",
+          "volume": 1200,
+          "kd": 14,
+          "displayed_volume": "1.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "selbstwertgefühl stärken",
+          "volume": 17200,
+          "kd": 34,
+          "displayed_volume": "17.2K"
+        }
+      ],
+      "metric_keyword": "selbstwertgefühl stärken",
+      "cluster_volume": 17100,
+      "kd": 34,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 388.64,
+      "secondary_keywords": ["übungen zur stärkung des selbstwertgefühls"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation zum entspannen",
+      "locale": "de",
+      "intent_key": "meditation-zum-entspannen",
+      "slug": "meditation-zum-entspannen",
+      "category": "reflection-practice",
+      "angle": "meditation zum entspannen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation zum entspannen",
+          "volume": 4500,
+          "kd": 37,
+          "displayed_volume": "4.5K"
+        }
+      ],
+      "metric_keyword": "meditation zum entspannen",
+      "cluster_volume": 4500,
+      "kd": 37,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 95.74,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "selbstliebe lernen",
+      "locale": "de",
+      "intent_key": "selbstliebe-lernen",
+      "slug": "selbstliebe-lernen",
+      "category": "reflection-practice",
+      "angle": "selbstliebe lernen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "selbstliebe lernen",
+          "volume": 4100,
+          "kd": 34,
+          "displayed_volume": "4.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "selbstliebe übungen",
+          "volume": 1300,
+          "kd": 9,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was ist selbstliebe",
+          "volume": 350,
+          "kd": 29,
+          "displayed_volume": "350"
+        }
+      ],
+      "metric_keyword": "selbstliebe lernen",
+      "cluster_volume": 4100,
+      "kd": 34,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 93.18,
+      "secondary_keywords": ["selbstliebe übungen", "was ist selbstliebe"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "neville goddard",
+      "locale": "de",
+      "intent_key": "neville-goddard",
+      "slug": "neville-goddard",
+      "category": "reflection-practice",
+      "angle": "neville goddard: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "neville goddard",
+          "volume": 3700,
+          "kd": 36,
+          "displayed_volume": "3.7K"
+        }
+      ],
+      "metric_keyword": "neville goddard",
+      "cluster_volume": 3700,
+      "kd": 36,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 80.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "was ist selbstbewusstsein",
+      "locale": "de",
+      "intent_key": "was-ist-selbstbewusstsein",
+      "slug": "was-ist-selbstbewusstsein",
+      "category": "reflection-practice",
+      "angle": "was ist selbstbewusstsein: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710639.json",
+          "source_list_id": "6710639",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "was ist selbstbewusstsein",
+          "volume": 1200,
+          "kd": 37,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "was ist selbstbewusstsein",
+      "cluster_volume": 1200,
+      "kd": 37,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 25.53,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation 5 minuten",
+      "locale": "de",
+      "intent_key": "meditation-5-minuten",
+      "slug": "meditation-5-minuten",
+      "category": "reflection-practice",
+      "angle": "meditation 5 minuten: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710664.json",
+          "source_list_id": "6710664",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation 5 minuten",
+          "volume": 370,
+          "kd": 31,
+          "displayed_volume": "370"
+        }
+      ],
+      "metric_keyword": "meditation 5 minuten",
+      "cluster_volume": 370,
+      "kd": 31,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 9.02,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "positive affirmationen am morgen",
+      "locale": "de",
+      "intent_key": "positive affirmationen am morgen",
+      "slug": "positive-affirmationen-am-morgen",
+      "category": "reflection-practice",
+      "angle": "positive affirmationen am morgen: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen am morgen",
+          "volume": 260,
+          "kd": 31,
+          "displayed_volume": "260"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen am morgen",
+          "volume": 90,
+          "kd": 35,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "guten morgen affirmationen",
+          "volume": 70,
+          "kd": 35,
+          "displayed_volume": "70"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen für den tag",
+          "volume": 260,
+          "kd": 21,
+          "displayed_volume": "260"
+        }
+      ],
+      "metric_keyword": "positive affirmationen am morgen",
+      "cluster_volume": 260,
+      "kd": 31,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 2,
+      "opportunity": 6.34,
+      "secondary_keywords": [
+        "affirmationen am morgen",
+        "guten morgen affirmationen",
+        "positive affirmationen für den tag"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen englisch",
+      "locale": "de",
+      "intent_key": "affirmationen-englisch",
+      "slug": "affirmationen-englisch",
+      "category": "reflection-practice",
+      "angle": "affirmationen englisch: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-de-6710593.json",
+          "source_list_id": "6710593/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmationen englisch",
+          "volume": 180,
+          "kd": 28,
+          "displayed_volume": "180"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen englisch",
+          "volume": 90,
+          "kd": 31,
+          "displayed_volume": "90"
+        }
+      ],
+      "metric_keyword": "affirmationen englisch",
+      "cluster_volume": 90,
+      "kd": 31,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 2,
+      "opportunity": 2.2,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen erfolg",
+      "locale": "de",
+      "intent_key": "affirmationen erfolg",
+      "slug": "affirmationen-erfolg",
+      "category": "reflection-practice",
+      "angle": "affirmationen erfolg: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen erfolg",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "erfolg affirmationen",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "erfolgs affirmationen",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen für erfolg",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "affirmationen erfolg",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": [
+        "erfolg affirmationen",
+        "erfolgs affirmationen",
+        "positive affirmationen für erfolg"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen gegen stress",
+      "locale": "de",
+      "intent_key": "affirmationen gegen stress",
+      "slug": "affirmationen-gegen-stress",
+      "category": "reflection-practice",
+      "angle": "affirmationen gegen stress: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen gegen stress",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "affirmationen gegen stress",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen karten",
+      "locale": "de",
+      "intent_key": "affirmationen karten",
+      "slug": "affirmationen-karten",
+      "category": "reflection-practice",
+      "angle": "affirmationen karten: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen karten",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "positive affirmationen liste pdf",
+          "volume": 70,
+          "kd": null,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "affirmationen karten",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": ["positive affirmationen liste pdf"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen liebe",
+      "locale": "de",
+      "intent_key": "affirmationen liebe",
+      "slug": "affirmationen-liebe",
+      "category": "reflection-practice",
+      "angle": "affirmationen liebe: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen liebe",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "liebe affirmationen",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "liebes affirmationen",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "affirmationen liebe",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": ["liebe affirmationen", "liebes affirmationen"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen neuer job",
+      "locale": "de",
+      "intent_key": "affirmationen neuer job",
+      "slug": "affirmationen-neuer-job",
+      "category": "reflection-practice",
+      "angle": "affirmationen neuer job: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen neuer job",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "affirmationen neuer job",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen psychologie",
+      "locale": "de",
+      "intent_key": "affirmationen psychologie",
+      "slug": "affirmationen-psychologie",
+      "category": "reflection-practice",
+      "angle": "affirmationen psychologie: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen psychologie",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        }
+      ],
+      "metric_keyword": "affirmationen psychologie",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen arbeit",
+      "locale": "de",
+      "intent_key": "affirmationen arbeit",
+      "slug": "affirmationen-arbeit",
+      "category": "reflection-practice",
+      "angle": "affirmationen arbeit: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen arbeit",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "affirmationen arbeit",
+      "cluster_volume": 40,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.57,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmationen gegen eifersucht",
+      "locale": "de",
+      "intent_key": "affirmationen gegen eifersucht",
+      "slug": "affirmationen-gegen-eifersucht",
+      "category": "reflection-practice",
+      "angle": "affirmationen gegen eifersucht: konkrete Beispiele und eine kurze tägliche Übung; realistische Formulierungen wählen und Grenzen erklären, ohne Ergebnisse oder Einfluss auf andere Menschen zu versprechen.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-de-affirmationen.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmationen&db=de&mode=1&filter=H4sIAAAAAAAAA32NwQ7DIAxD%2FyXnHnbur1QVQmC6SCkgIExTtX8fGzvvZsd23kUunRmNG6doBB1C67Yv5LKbwnMI7FTac3qx8VB7YLiLOHaUBk9rsFKxULeiIyIPpddo53uxFXM5teHoRD2MpIMH47ZQQR3%2F62xVlGwCbNNx%2FgvZ9g%2BhJ9HzR3ik4qtxSWP7xm%2Bo9c9S3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmationen gegen eifersucht",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "affirmationen gegen eifersucht",
+      "cluster_volume": 40,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.57,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    }
+  ]
+}

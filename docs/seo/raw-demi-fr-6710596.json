@@ -1,0 +1,32 @@
+{
+  "site": "demi",
+  "locale": "fr",
+  "list_id": "6710596/444444444",
+  "expected_pages": 20,
+  "rows": [
+    ["attire le positif", "10", "180"],
+    ["tableau de visualisation", "18", "1.9K"],
+    ["rituel du coucher", "15", "310"],
+    ["affirmation positive confiance en soi", "15", "2.1K"],
+    ["pensées positives", "35", "31.6K"],
+    ["elevation spirituelle", "15", "460"],
+    ["phrase pour encourager quelqu un", "25", "320"],
+    ["éveil spirituel symptômes physiques", "17", "350"],
+    ["proverbe de la vie touchant", "41", "310"],
+    ["proverbes citation penser à soi", "28", "390"],
+    ["visualisation board", "32", "1.2K"],
+    ["phrases qui remonte le moral", "22", "140"],
+    ["bonheur pensée positive", "30", "450"],
+    ["encouragement citation sur la vie et l espoir", "38", "530"],
+    ["eveil spirituel", "24", "1.5K"],
+    ["affirmation positive", "22", "7K"],
+    ["loi de l'attraction", "34", "4.5K"],
+    ["imagerie mentale", "21", "790"],
+    ["syndrome de l imposteur", "43", "7.5K"],
+    ["pensée positive du soir", "27", "580"]
+  ],
+  "captured_pages": [1],
+  "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+  "observed_on": "2026-09-08",
+  "metrics_note": "Displayed Page KD and rounded cluster volume; not exact individual-keyword volume."
+}

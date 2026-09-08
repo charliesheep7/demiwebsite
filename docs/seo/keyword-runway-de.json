@@ -1,0 +1,1873 @@
+{
+  "observed_on": "2026-09-08",
+  "locale": "de",
+  "status": "reviewed_partial_batch_not_live_queue",
+  "scope": "All three structured lists captured for this locale. Additional Keyword Magic research still needs consolidation.",
+  "metrics": "Cluster volume is the displayed rounded source value, not individual keyword volume. Never sum overlapping source occurrences.",
+  "runway_status": "Incomplete. Not a certification of a 90-day publishing runway. Not yet imported into the publishing routine.",
+  "assumed_posts_per_day": 3,
+  "required_unwritten_assignments": 270,
+  "assignment_count": 90,
+  "assignments": [
+    {
+      "locale": "de",
+      "intent_key": "journaling-deutsch",
+      "slug": "journaling-deutsch",
+      "primary_keyword": "journaling deutsch",
+      "article_angle": "journaling deutsch: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "journaling deutsch",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "2.2K"
+        },
+        {
+          "keyword": "journaling deutsch",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 25,
+          "displayed_cluster_volume": "2.2K"
+        },
+        {
+          "keyword": "journaling deutsch",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "1.4K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "bestimmte-person-manifestieren-erfahrungen",
+      "slug": "bestimmte-person-manifestieren-erfahrungen",
+      "primary_keyword": "bestimmte person manifestieren erfahrungen",
+      "article_angle": "bestimmte person manifestieren erfahrungen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "bestimmte person manifestieren erfahrungen",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "500"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positive-glaubenssatze",
+      "slug": "positive-glaubenssatze",
+      "primary_keyword": "positive glaubenssätze",
+      "article_angle": "positive glaubenssätze: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "positive glaubenssätze liste pdf",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "2",
+          "displayed_cluster_volume": "640"
+        },
+        {
+          "keyword": "positive glaubenssätze",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "positive glaubenssätze liste pdf",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 2,
+          "displayed_cluster_volume": "370"
+        },
+        {
+          "keyword": "positive glaubenssätze",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "geld-manifestieren",
+      "slug": "geld-manifestieren",
+      "primary_keyword": "geld manifestieren",
+      "article_angle": "geld manifestieren: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "geld manifestieren",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positive-affirmationen",
+      "slug": "positive-affirmationen",
+      "primary_keyword": "positive affirmationen",
+      "article_angle": "positive affirmationen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "100 positive affirmationen",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "6",
+          "displayed_cluster_volume": "900"
+        },
+        {
+          "keyword": "positive affirmation",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "820"
+        },
+        {
+          "keyword": "positive affirmationen",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "18.8K"
+        },
+        {
+          "keyword": "100 positive affirmationen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 6,
+          "displayed_cluster_volume": "900"
+        },
+        {
+          "keyword": "positive affirmationen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 23,
+          "displayed_cluster_volume": "18.8K"
+        },
+        {
+          "keyword": "positive affirmation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "930"
+        },
+        {
+          "keyword": "positive affirmationen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "15.5K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "glaubenssatze-auflosen",
+      "slug": "glaubenssatze-auflosen",
+      "primary_keyword": "glaubenssätze auflösen",
+      "article_angle": "glaubenssätze auflösen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "glaubenssätze auflösen",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "negative glaubenssätze liste",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "2.1K"
+        },
+        {
+          "keyword": "glaubenssätze auflösen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "1.2K"
+        },
+        {
+          "keyword": "negative glaubenssätze liste pdf",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 15,
+          "displayed_cluster_volume": "2.7K"
+        },
+        {
+          "keyword": "glaubenssätze auflösen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "1.2K"
+        },
+        {
+          "keyword": "negative glaubenssätze liste pdf",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "2.7K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "affirmationen-selbstliebe",
+      "slug": "affirmationen-selbstliebe",
+      "primary_keyword": "affirmationen selbstliebe",
+      "article_angle": "affirmationen selbstliebe: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "affirmationen selbstliebe",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "2.9K"
+        },
+        {
+          "keyword": "affirmationen selbstliebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "2.7K"
+        },
+        {
+          "keyword": "affirmationen selbstliebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "2.7K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "dankbarkeitstagebuch-vorlage",
+      "slug": "dankbarkeitstagebuch-vorlage",
+      "primary_keyword": "dankbarkeitstagebuch vorlage",
+      "article_angle": "dankbarkeitstagebuch vorlage: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "dankbarkeitstagebuch vorlage",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "660"
+        },
+        {
+          "keyword": "dankbarkeitstagebuch vorlage",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 8,
+          "displayed_cluster_volume": "660"
+        },
+        {
+          "keyword": "dankbarkeitstagebuch vorlage",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "660"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "liebe-positive-gedanken",
+      "slug": "liebe-positive-gedanken",
+      "primary_keyword": "liebe positive gedanken",
+      "article_angle": "liebe positive gedanken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "liebe positive gedanken",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "640"
+        },
+        {
+          "keyword": "liebe positive gedanken",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 13,
+          "displayed_cluster_volume": "640"
+        },
+        {
+          "keyword": "positive liebevolle gedanken",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 34,
+          "displayed_cluster_volume": "430"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "3-6-9-methode",
+      "slug": "3-6-9-methode",
+      "primary_keyword": "3 6 9 methode",
+      "article_angle": "3 6 9 methode: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "3 6 9 methode",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "390"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positive-spruche",
+      "slug": "positive-spruche",
+      "primary_keyword": "positive sprüche",
+      "article_angle": "positive sprüche: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "positive sprüche",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "38.8K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "afformationen-beispiele",
+      "slug": "afformationen-beispiele",
+      "primary_keyword": "afformationen beispiele",
+      "article_angle": "afformationen beispiele: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "afformationen beispiele",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "selbstwertgefuhl-starken",
+      "slug": "selbstwertgefuhl-starken",
+      "primary_keyword": "selbstwertgefühl stärken",
+      "article_angle": "selbstwertgefühl stärken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "übungen zur stärkung des selbstwertgefühls",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "1.1K"
+        },
+        {
+          "keyword": "selbstwertgefühl stärken",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "34",
+          "displayed_cluster_volume": "17.1K"
+        },
+        {
+          "keyword": "übungen zur stärkung des selbstwertgefühls",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "1.2K"
+        },
+        {
+          "keyword": "selbstwertgefühl stärken",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 34,
+          "displayed_cluster_volume": "17.2K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positive-gedanken-fur-den-tag",
+      "slug": "positive-gedanken-fur-den-tag",
+      "primary_keyword": "positive gedanken für den tag",
+      "article_angle": "positive gedanken für den tag: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "positive gedanken für den tag",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "1.7K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positiv-guten-morgen-motivation",
+      "slug": "positiv-guten-morgen-motivation",
+      "primary_keyword": "positiv guten morgen motivation",
+      "article_angle": "positiv guten morgen motivation: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "positiv guten morgen motivation",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "470"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positive-mantras",
+      "slug": "positive-mantras",
+      "primary_keyword": "positive mantras",
+      "article_angle": "positive mantras: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "positive mantras",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "achtsamkeit-gelassenheit-spruch-positives-denken",
+      "slug": "achtsamkeit-gelassenheit-spruch-positives-denken",
+      "primary_keyword": "achtsamkeit gelassenheit spruch positives denken",
+      "article_angle": "achtsamkeit gelassenheit spruch positives denken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "achtsamkeit gelassenheit spruch positives denken",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "910"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "journaling-fragen",
+      "slug": "journaling-fragen",
+      "primary_keyword": "journaling fragen",
+      "article_angle": "journaling fragen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "journaling fragen",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "390"
+        },
+        {
+          "keyword": "journaling fragen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "390"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "lebensmotto-positiv",
+      "slug": "lebensmotto-positiv",
+      "primary_keyword": "lebensmotto positiv",
+      "article_angle": "lebensmotto positiv: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "lebensmotto positiv",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "570"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "gesetz-der-annahme",
+      "slug": "gesetz-der-annahme",
+      "primary_keyword": "gesetz der annahme",
+      "article_angle": "gesetz der annahme: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "gesetz der annahme",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "210"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "dankbarkeitstagebuch",
+      "slug": "dankbarkeitstagebuch",
+      "primary_keyword": "dankbarkeitstagebuch",
+      "article_angle": "dankbarkeitstagebuch: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "dankbarkeits tagebuch",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "390"
+        },
+        {
+          "keyword": "dankbarkeitstagebuch",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 28,
+          "displayed_cluster_volume": "3.3K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "manifestieren-bedeutung",
+      "slug": "manifestieren-bedeutung",
+      "primary_keyword": "manifestieren bedeutung",
+      "article_angle": "manifestieren bedeutung: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "manifestieren bedeutung",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "14.9K"
+        },
+        {
+          "keyword": "was bedeutet manifestation",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "27",
+          "displayed_cluster_volume": "390"
+        },
+        {
+          "keyword": "manifestieren bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "10.8K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "gesetz-anziehung",
+      "slug": "gesetz-anziehung",
+      "primary_keyword": "gesetz anziehung",
+      "article_angle": "gesetz anziehung: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "gesetz anziehung",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "2.2K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "motivation-positive-gedanken",
+      "slug": "motivation-positive-gedanken",
+      "primary_keyword": "motivation positive gedanken",
+      "article_angle": "motivation positive gedanken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "motivation positive gedanken",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "580"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "neville-goddard",
+      "slug": "neville-goddard",
+      "primary_keyword": "neville goddard",
+      "article_angle": "neville goddard: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "neville goddard",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "36",
+          "displayed_cluster_volume": "3.7K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "affirmationen-englisch",
+      "slug": "affirmationen-englisch",
+      "primary_keyword": "affirmationen englisch",
+      "article_angle": "affirmationen englisch: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "affirmationen englisch",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "meditation-positive-gedanken",
+      "slug": "meditation-positive-gedanken",
+      "primary_keyword": "meditation positive gedanken",
+      "article_angle": "meditation positive gedanken: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation positive gedanken",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "230"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "affirmation-zum-einschlafen",
+      "slug": "affirmation-zum-einschlafen",
+      "primary_keyword": "affirmation zum einschlafen",
+      "article_angle": "affirmation zum einschlafen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "affirmation zum einschlafen",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "27",
+          "displayed_cluster_volume": "210"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "lebensziele-finden",
+      "slug": "lebensziele-finden",
+      "primary_keyword": "lebensziele finden",
+      "article_angle": "lebensziele finden: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "was will ich im leben",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 7,
+          "displayed_cluster_volume": "840"
+        },
+        {
+          "keyword": "lebens ziele",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "720"
+        },
+        {
+          "keyword": "lebensziele finden",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "330"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "achtsamkeit-ubungen",
+      "slug": "achtsamkeit-ubungen",
+      "primary_keyword": "achtsamkeit übungen",
+      "article_angle": "achtsamkeit übungen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "achtsamkeit übungen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 30,
+          "displayed_cluster_volume": "4.4K"
+        },
+        {
+          "keyword": "meditation achtsamkeit",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "27",
+          "displayed_cluster_volume": "570"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "selbstliebe-lernen",
+      "slug": "selbstliebe-lernen",
+      "primary_keyword": "selbstliebe lernen",
+      "article_angle": "selbstliebe lernen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "selbstliebe lernen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 34,
+          "displayed_cluster_volume": "4.1K"
+        },
+        {
+          "keyword": "selbstliebe übungen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 9,
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "was ist selbstliebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "350"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "setzen-von-zielen",
+      "slug": "setzen-von-zielen",
+      "primary_keyword": "setzen von zielen",
+      "article_angle": "setzen von zielen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "setzen von zielen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 20,
+          "displayed_cluster_volume": "790"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "ziele-erreichen",
+      "slug": "ziele-erreichen",
+      "primary_keyword": "ziele erreichen",
+      "article_angle": "ziele erreichen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "ziele erreichen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "990"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "selfcare-ideen",
+      "slug": "selfcare-ideen",
+      "primary_keyword": "selfcare ideen",
+      "article_angle": "selfcare ideen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "selfcare ideen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "300"
+        },
+        {
+          "keyword": "selbstfürsorge ideen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "400"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "kurzfristige-ziele",
+      "slug": "kurzfristige-ziele",
+      "primary_keyword": "kurzfristige ziele",
+      "article_angle": "kurzfristige ziele: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "kurzfristige ziele",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 26,
+          "displayed_cluster_volume": "140"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "was-ist-selbstbewusstsein",
+      "slug": "was-ist-selbstbewusstsein",
+      "primary_keyword": "was ist selbstbewusstsein",
+      "article_angle": "was ist selbstbewusstsein: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "was ist selbstbewusstsein",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 37,
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "was-ist-selbstvertrauen",
+      "slug": "was-ist-selbstvertrauen",
+      "primary_keyword": "was ist selbstvertrauen",
+      "article_angle": "was ist selbstvertrauen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "was ist selbstvertrauen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 30,
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "positive-gedanken-am-morgen",
+      "slug": "positive-gedanken-am-morgen",
+      "primary_keyword": "positive gedanken am morgen",
+      "article_angle": "positive gedanken am morgen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "positive gedanken am morgen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+          "displayed_page_kd": 18,
+          "displayed_cluster_volume": "300"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-777",
+      "slug": "engelszahl-777",
+      "primary_keyword": "was bedeuten 777",
+      "article_angle": "was bedeuten 777: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "was bedeuten 777",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "22.4K"
+        },
+        {
+          "keyword": "was bedeutet 777",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "7.5K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1111",
+      "slug": "engelszahl-1111",
+      "primary_keyword": "11 11 engelszahl",
+      "article_angle": "11 11 engelszahl: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "11 11 engelszahl",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "7.8K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "engelszahlen-rechner",
+      "slug": "engelszahlen-rechner",
+      "primary_keyword": "engelszahlen rechner",
+      "article_angle": "engelszahlen rechner: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahlen rechner",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "2.3K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2121",
+      "slug": "engelszahl-2121",
+      "primary_keyword": "21 21 uhr bedeutet",
+      "article_angle": "21 21 uhr bedeutet: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "21 21 uhr bedeutet",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "42.5K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "engelszahlen",
+      "slug": "engelszahlen",
+      "primary_keyword": "engelszahlen",
+      "article_angle": "engelszahlen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahlen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "16.4K"
+        },
+        {
+          "keyword": "4 stellige zahlen mit bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "310"
+        },
+        {
+          "keyword": "zahlen bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "6.9K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-555",
+      "slug": "engelszahl-555",
+      "primary_keyword": "engelszahlen 555 bedeutung",
+      "article_angle": "engelszahlen 555 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahlen 555 bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "4K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-111",
+      "slug": "engelszahl-111",
+      "primary_keyword": "was bedeutet 111",
+      "article_angle": "was bedeutet 111: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "was bedeutet 111",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "3.3K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2233",
+      "slug": "engelszahl-2233",
+      "primary_keyword": "engelszahl 22 33",
+      "article_angle": "engelszahl 22 33: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahl 22 33",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "3.3K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-444",
+      "slug": "engelszahl-444",
+      "primary_keyword": "444 bedeutung liebe",
+      "article_angle": "444 bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "444 bedeutung liebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "5.7K"
+        },
+        {
+          "keyword": "wofür steht 444",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "35",
+          "displayed_cluster_volume": "990"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-3",
+      "slug": "engelszahl-3",
+      "primary_keyword": "bedeutung zahl 3",
+      "article_angle": "bedeutung zahl 3: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "bedeutung zahl 3",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2",
+      "slug": "engelszahl-2",
+      "primary_keyword": "bedeutung zahl 2",
+      "article_angle": "bedeutung zahl 2: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "bedeutung zahl 2",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "660"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-4444",
+      "slug": "engelszahl-4444",
+      "primary_keyword": "4444 bedeutung liebe",
+      "article_angle": "4444 bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "4444 bedeutung liebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "lernen-zu-meditieren",
+      "slug": "lernen-zu-meditieren",
+      "primary_keyword": "lernen zu meditieren",
+      "article_angle": "lernen zu meditieren: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "lernen zu meditieren",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "11.7K"
+        },
+        {
+          "keyword": "was ist meditation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "2.8K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-99",
+      "slug": "engelszahl-99",
+      "primary_keyword": "was bedeutet 99",
+      "article_angle": "was bedeutet 99: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "was bedeutet 99",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "270"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "vision-board",
+      "slug": "vision-board",
+      "primary_keyword": "vision board",
+      "article_angle": "vision board: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "vision board",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "53.2K"
+        },
+        {
+          "keyword": "vision board bilder",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "980"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-666",
+      "slug": "engelszahl-666",
+      "primary_keyword": "was bedeuten 666",
+      "article_angle": "was bedeuten 666: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "was bedeuten 666",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "666 bedeutung spirituell",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-888",
+      "slug": "engelszahl-888",
+      "primary_keyword": "was bedeutet die zahl 888",
+      "article_angle": "was bedeutet die zahl 888: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "was bedeutet die zahl 888",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "510"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-5555",
+      "slug": "engelszahl-5555",
+      "primary_keyword": "engelszahl 5555 bedeutung",
+      "article_angle": "engelszahl 5555 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahl 5555 bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "460"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "wie-lange-meditieren",
+      "slug": "wie-lange-meditieren",
+      "primary_keyword": "wie lange meditieren",
+      "article_angle": "wie lange meditieren: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "wie lange meditieren",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "340"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-5",
+      "slug": "engelszahl-5",
+      "primary_keyword": "zahl 5 bedeutung spirituell",
+      "article_angle": "zahl 5 bedeutung spirituell: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "zahl 5 bedeutung spirituell",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "700"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-88",
+      "slug": "engelszahl-88",
+      "primary_keyword": "88 bedeutung engelszahl",
+      "article_angle": "88 bedeutung engelszahl: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "88 bedeutung engelszahl",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "6",
+          "displayed_cluster_volume": "500"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-303",
+      "slug": "engelszahl-303",
+      "primary_keyword": "0303 uhrzeit bedeutung",
+      "article_angle": "0303 uhrzeit bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "0303 uhrzeit bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "980"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1616",
+      "slug": "engelszahl-1616",
+      "primary_keyword": "16 16 bedeutung",
+      "article_angle": "16 16 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "16 16 bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "2.8K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-44",
+      "slug": "engelszahl-44",
+      "primary_keyword": "44 bedeutung engelszahl",
+      "article_angle": "44 bedeutung engelszahl: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "44 bedeutung engelszahl",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "990"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-6",
+      "slug": "engelszahl-6",
+      "primary_keyword": "6 bedeutung spirituell",
+      "article_angle": "6 bedeutung spirituell: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "6 bedeutung spirituell",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "5",
+          "displayed_cluster_volume": "160"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "berechnung-namenszahl",
+      "slug": "berechnung-namenszahl",
+      "primary_keyword": "berechnung namenszahl",
+      "article_angle": "berechnung namenszahl: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "berechnung namenszahl",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "2.1K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1444",
+      "slug": "engelszahl-1444",
+      "primary_keyword": "1444 bedeutung zwillingsflammen",
+      "article_angle": "1444 bedeutung zwillingsflammen: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "1444 bedeutung zwillingsflammen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "580"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1818",
+      "slug": "engelszahl-1818",
+      "primary_keyword": "1818 bedeutung engel",
+      "article_angle": "1818 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "1818 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "610"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1010",
+      "slug": "engelszahl-1010",
+      "primary_keyword": "1010 spirituelle bedeutung",
+      "article_angle": "1010 spirituelle bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "1010 spirituelle bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "360"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1555",
+      "slug": "engelszahl-1555",
+      "primary_keyword": "1555 bedeutung engel",
+      "article_angle": "1555 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "1555 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "280"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-7",
+      "slug": "engelszahl-7",
+      "primary_keyword": "7 spirituelle bedeutung",
+      "article_angle": "7 spirituelle bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "7 spirituelle bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "320"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2255",
+      "slug": "engelszahl-2255",
+      "primary_keyword": "2255 bedeutung engel",
+      "article_angle": "2255 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "2255 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "5",
+          "displayed_cluster_volume": "450"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2244",
+      "slug": "engelszahl-2244",
+      "primary_keyword": "2244 bedeutung engel",
+      "article_angle": "2244 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "2244 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "510"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-77",
+      "slug": "engelszahl-77",
+      "primary_keyword": "bedeutung der zahl 77",
+      "article_angle": "bedeutung der zahl 77: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "bedeutung der zahl 77",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "630"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-8888",
+      "slug": "engelszahl-8888",
+      "primary_keyword": "engelszahl 8888 bedeutung",
+      "article_angle": "engelszahl 8888 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahl 8888 bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "430"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-9999",
+      "slug": "engelszahl-9999",
+      "primary_keyword": "engelszahl 9999 bedeutung",
+      "article_angle": "engelszahl 9999 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahl 9999 bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "350"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1144",
+      "slug": "engelszahl-1144",
+      "primary_keyword": "1144 uhr bedeutung liebe",
+      "article_angle": "1144 uhr bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "1144 uhr bedeutung liebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "410"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1919",
+      "slug": "engelszahl-1919",
+      "primary_keyword": "1919 bedeutung engel",
+      "article_angle": "1919 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "1919 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "580"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "lebenszahl-11-charakter",
+      "slug": "lebenszahl-11-charakter",
+      "primary_keyword": "lebenszahl 11 charakter",
+      "article_angle": "lebenszahl 11 charakter: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "lebenszahl 11 charakter",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "270"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2323",
+      "slug": "engelszahl-2323",
+      "primary_keyword": "2323 bedeutung engel",
+      "article_angle": "2323 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "2323 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "350"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2111",
+      "slug": "engelszahl-2111",
+      "primary_keyword": "2111 bedeutung engel",
+      "article_angle": "2111 bedeutung engel: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "2111 bedeutung engel",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "230"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-1414",
+      "slug": "engelszahl-1414",
+      "primary_keyword": "engelszahl 1414 bedeutung",
+      "article_angle": "engelszahl 1414 bedeutung: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "engelszahl 1414 bedeutung",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "350"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "number-2211",
+      "slug": "engelszahl-2211",
+      "primary_keyword": "2211 uhr bedeutung liebe",
+      "article_angle": "2211 uhr bedeutung liebe: verbreitete spirituelle Deutungen, Reflexionsfragen und ein kleines Alltagsritual. Deutungen als Glauben kennzeichnen, keine Vorhersagen versprechen.",
+      "source_occurrences": [
+        {
+          "keyword": "2211 uhr bedeutung liebe",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "480"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "atmung-meditation",
+      "slug": "atmung-meditation",
+      "primary_keyword": "atmung meditation",
+      "article_angle": "atmung meditation: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "atmung meditation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "280"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "morgenroutine-ideen",
+      "slug": "morgenroutine-ideen",
+      "primary_keyword": "morgenroutine ideen",
+      "article_angle": "morgenroutine ideen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "morgenroutine ideen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "engel-symbol",
+      "slug": "engel-symbol",
+      "primary_keyword": "engel symbol",
+      "article_angle": "engel symbol: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "engel symbol",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "2.6K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "smart-ziele",
+      "slug": "smart-ziele",
+      "primary_keyword": "smart ziele",
+      "article_angle": "smart ziele: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "smart ziele",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "38",
+          "displayed_cluster_volume": "27.2K"
+        },
+        {
+          "keyword": "smart bedeutung deutsch",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "35",
+          "displayed_cluster_volume": "200"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "gefuhrte-meditation",
+      "slug": "gefuhrte-meditation",
+      "primary_keyword": "geführte meditation",
+      "article_angle": "geführte meditation: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "geführte meditation",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "3.1K"
+        },
+        {
+          "keyword": "kostenlose meditationen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "46",
+          "displayed_cluster_volume": "4.4K"
+        },
+        {
+          "keyword": "meditation auf deutsch",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "38",
+          "displayed_cluster_volume": "280"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "meditation-zum-entspannen",
+      "slug": "meditation-zum-entspannen",
+      "primary_keyword": "meditation zum entspannen",
+      "article_angle": "meditation zum entspannen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation zum entspannen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "37",
+          "displayed_cluster_volume": "4.5K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "atementspannung-text-zum-vorlesen",
+      "slug": "atementspannung-text-zum-vorlesen",
+      "primary_keyword": "atementspannung text zum vorlesen",
+      "article_angle": "atementspannung text zum vorlesen: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "atementspannung text zum vorlesen",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "320"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "vision-board-vorlage-kostenlos",
+      "slug": "vision-board-vorlage-kostenlos",
+      "primary_keyword": "vision board vorlage kostenlos",
+      "article_angle": "vision board vorlage kostenlos: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "vision board vorlage kostenlos",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "1.5K"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "intent_key": "meditation-5-minuten",
+      "slug": "meditation-5-minuten",
+      "primary_keyword": "meditation 5 minuten",
+      "article_angle": "meditation 5 minuten: verständliche Erklärung, konkrete Beispiele und eine angeleitete Übung für die eigene Reflexionsroutine.",
+      "source_occurrences": [
+        {
+          "keyword": "meditation 5 minuten",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "370"
+        }
+      ]
+    }
+  ],
+  "rejected_occurrences": [
+    {
+      "keyword": "25 affirmationen gesundheit und heilung",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "12",
+      "displayed_cluster_volume": "450",
+      "reason": "Healing intent is outside this manifestation content batch."
+    },
+    {
+      "keyword": "affirmationen gegen angst",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "9",
+      "displayed_cluster_volume": "240",
+      "reason": "Clinical/anxiety drift; prioritize nonclinical manifestation practices."
+    },
+    {
+      "keyword": "positiv denken sprüche lustig",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "21",
+      "displayed_cluster_volume": "1.4K",
+      "reason": "Wrong-language, dictionary-only, or entertainment query outside this native practice queue."
+    },
+    {
+      "keyword": "mantra für gesundheit",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "11",
+      "displayed_cluster_volume": "140",
+      "reason": "Health outcome intent outside this reflection batch."
+    },
+    {
+      "keyword": "coaching selbstwertgefühl",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "10",
+      "displayed_cluster_volume": "200",
+      "reason": "Service-shopping intent."
+    },
+    {
+      "keyword": "geringes selbstwertgefühl symptome",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "19",
+      "displayed_cluster_volume": "900",
+      "reason": "Clinical symptom intent."
+    },
+    {
+      "keyword": "daily affirmations",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "70",
+      "displayed_cluster_volume": "10K",
+      "reason": "Wrong-language, dictionary-only, or entertainment query outside this native practice queue."
+    },
+    {
+      "keyword": "affirmativ bedeutung",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "26",
+      "displayed_cluster_volume": "370",
+      "reason": "Wrong-language, dictionary-only, or entertainment query outside this native practice queue."
+    },
+    {
+      "keyword": "so stärken sie ihr selbstwertgefühl damit das leben einfach wird",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "15",
+      "displayed_cluster_volume": "240",
+      "reason": "Book-title style query and duplicate self-esteem intent."
+    },
+    {
+      "keyword": "affirmation mean",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "65",
+      "displayed_cluster_volume": "460",
+      "reason": "Wrong-language, dictionary-only, or entertainment query outside this native practice queue."
+    },
+    {
+      "keyword": "25 affirmationen gesundheit und heilung",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 12,
+      "displayed_cluster_volume": "450",
+      "reason": "Healing intent is outside this manifestation content batch."
+    },
+    {
+      "keyword": "affirmationen gegen angst",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 9,
+      "displayed_cluster_volume": "240",
+      "reason": "Clinical/anxiety drift; prioritize nonclinical manifestation practices."
+    },
+    {
+      "keyword": "gruppen achtsamkeitsübung",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 12,
+      "displayed_cluster_volume": "2K",
+      "reason": "Facilitated group activity outside the app use case."
+    },
+    {
+      "keyword": "coaching selbstwertgefühl",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 10,
+      "displayed_cluster_volume": "200",
+      "reason": "Service-shopping intent."
+    },
+    {
+      "keyword": "geringes selbstwertgefühl symptome",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 19,
+      "displayed_cluster_volume": "900",
+      "reason": "Clinical symptom intent."
+    },
+    {
+      "keyword": "journal entry starters",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 30,
+      "displayed_cluster_volume": "1.4K",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "so stärken sie ihr selbstwertgefühl damit das leben einfach wird",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710639%2F444444444&tab=0",
+      "displayed_page_kd": 21,
+      "displayed_cluster_volume": "410",
+      "reason": "Book-title style query and duplicate self-esteem intent."
+    },
+    {
+      "keyword": "yoga kissen",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "9",
+      "displayed_cluster_volume": "6.9K",
+      "reason": "Unrelated physical product intent."
+    },
+    {
+      "keyword": "meditationskissen rund",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "7",
+      "displayed_cluster_volume": "160",
+      "reason": "Unrelated physical product intent."
+    },
+    {
+      "keyword": "niesen uhrzeit bedeutung",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "10",
+      "displayed_cluster_volume": "200",
+      "reason": "Off-topic superstition attached to a bodily symptom."
+    },
+    {
+      "keyword": "lebenszahl 10 sexualität",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "22",
+      "displayed_cluster_volume": "950",
+      "reason": "Off-topic sexual compatibility drift."
+    },
+    {
+      "keyword": "organuhr 2 uhr nachts",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "35",
+      "displayed_cluster_volume": "12K",
+      "reason": "Health/body-clock drift."
+    },
+    {
+      "keyword": "nazi zeichen",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "38",
+      "displayed_cluster_volume": "4.1K",
+      "reason": "Unrelated political-symbol query."
+    },
+    {
+      "keyword": "how to build a vision board",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "50",
+      "displayed_cluster_volume": "370",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "uhr organe",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "33",
+      "displayed_cluster_volume": "660",
+      "reason": "Health/body-clock drift."
+    },
+    {
+      "keyword": "meditation kurse",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "38",
+      "displayed_cluster_volume": "470",
+      "reason": "Local/service-shopping intent."
+    },
+    {
+      "keyword": "vision board ideas",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "46",
+      "displayed_cluster_volume": "2.6K",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "aesthetic vision boards",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "37",
+      "displayed_cluster_volume": "400",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "music and meditation",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "53",
+      "displayed_cluster_volume": "1.6K",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "top meditation apps",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "51",
+      "displayed_cluster_volume": "350",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "meditation entspannungsmusik",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "28",
+      "displayed_cluster_volume": "3.6K",
+      "reason": "Audio playback intent; a text article would not fulfill it."
+    },
+    {
+      "keyword": "kognitive verhaltenstherapie übungen für zuhause",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "49",
+      "displayed_cluster_volume": "10.6K",
+      "reason": "Clinical treatment intent."
+    },
+    {
+      "keyword": "entspannungsmusik 10 minuten",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "28",
+      "displayed_cluster_volume": "210",
+      "reason": "Audio playback intent; a text article would not fulfill it."
+    },
+    {
+      "keyword": "entspannungsmusik natur",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710664%2F444444444&tab=0",
+      "displayed_page_kd": "30",
+      "displayed_cluster_volume": "710",
+      "reason": "Audio playback intent; a text article would not fulfill it."
+    }
+  ]
+}

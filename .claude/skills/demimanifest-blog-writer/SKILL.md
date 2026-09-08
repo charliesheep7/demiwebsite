@@ -7,7 +7,7 @@ description: 'Write SEO-optimized blog posts for demimanifest.com. Use when aske
 
 End-to-end pipeline for publishing an SEO-optimized blog post for **demimanifest.com**.
 
-**Default behavior**: Automatically reads the local keyword CSV, finds the next unwritten keyword, and runs the full pipeline. No arguments needed.
+**Default behavior**: Uses the repository keyword tracker, finds the next unwritten keyword, and runs the full pipeline. No arguments needed.
 
 **Input**: `$ARGUMENTS` is optional:
 
@@ -17,7 +17,7 @@ End-to-end pipeline for publishing an SEO-optimized blog post for **demimanifest
 
 ## Batch Mode
 
-When `$ARGUMENTS` is a number N, run the **entire pipeline (Steps 1-9) N times in a loop**. Each iteration auto-picks the next unwritten keyword. Between iterations, re-scan `written.csv` so the next keyword is correctly identified.
+When `$ARGUMENTS` is a number N, run the **entire pipeline (Steps 1-9) N times in a loop**. Each iteration auto-picks the next unwritten keyword. Between iterations, re-run the repository tracker so the next keyword accounts for newly published posts.
 
 Show a progress header before each iteration:
 
@@ -183,16 +183,41 @@ Execute in order. After each step, briefly show the result before proceeding.
 
 ### Step 1: Pick Keyword
 
-1. Read `~/.claude/skills/demimanifest-blog-writer/keywords.csv`.
-2. Read `~/.claude/skills/demimanifest-blog-writer/written.csv` — this tracks every keyword already covered (including secondary keywords clustered into a single post).
-3. Parse keywords, skip the header row and empty cells.
-4. If `$ARGUMENTS` is empty → pick the **first keyword from the list that isn't in `written.csv`**.
-5. If `$ARGUMENTS` is a specific keyword → use that.
-6. Also list files in the host repo's `content/blog/` as a secondary dedupe check.
+Use the repository tracker as the canonical picker. It combines the saved Semrush
+research with the legacy English queue and rechecks published frontmatter and
+written ledgers on every run.
 
-Show: picked keyword + slug.
+```bash
+python3 .claude/skills/demimanifest-blog-writer/tracker.py next 1 --locale en
+```
 
-**After publishing (end of Step 8):** append ALL keywords targeted by the post to `written.csv` — not just the primary. If a post about "manifestation for skeptics" also covers "does manifestation actually work", append both rows.
+Use `de`, `fr`, `tr`, or `it` for the corresponding native research queue. Those
+rows currently return `publish_ready: false`: Demi only has English blog routes.
+Keep them in their own locale; implement and verify the locale routes before
+publishing them. Do not silently publish native topics in the English tree.
+
+Use the returned `keyword`, explicit `slug`, `angle`, `secondary_keywords`, and
+`sources`. Cover the variants in one article and retain the distinction between
+rounded cluster volume and individual keyword volume. Re-run the picker after
+every completed post. An empty result means `NO_KEYWORDS_LEFT <locale>`.
+
+For an explicitly requested keyword, check existing posts and the refresh queue
+before choosing a new URL:
+
+```bash
+python3 .claude/skills/demimanifest-blog-writer/tracker.py refresh --locale en
+```
+
+`manifest sp` belongs to `/blog/manifesting-a-specific-person`; refresh that page
+instead of creating a competing SP article. The refresh command only returns a
+brief; it does not edit or publish the article.
+
+Show the picked keyword, slug, locale, and readiness. Keep the existing near-dupe
+review before writing; the picker cannot replace editorial intent review.
+
+After publishing, append every targeted keyword (primary and secondary) to
+`.claude/skills/demimanifest-blog-writer/written.csv`. Native locales use `written-<locale>.csv` beside it once publishing is
+implemented. Published post frontmatter remains an additional source of truth.
 
 ### Step 2: Research
 
@@ -355,7 +380,7 @@ Show: image path, file size, output of `file <path>` confirming JPEG.
 
 There is **no separate registry** — `lib/blog.ts` auto-discovers posts by globbing `content/blog/*.mdx`. So registration is automatic once the file is saved.
 
-Then **append every targeted keyword** (primary + secondary clustered keywords) to `~/.claude/skills/demimanifest-blog-writer/written.csv`.
+Then **append every targeted keyword** (primary + secondary clustered keywords) to `.claude/skills/demimanifest-blog-writer/written.csv`.
 
 Show: confirmation that written.csv was updated and the post appears when `getAllSlugs()` is re-run (or just that the file exists at the expected path).
 

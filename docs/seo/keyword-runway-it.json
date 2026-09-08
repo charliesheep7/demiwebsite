@@ -1,0 +1,1613 @@
+{
+  "observed_on": "2026-09-08",
+  "locale": "it",
+  "status": "reviewed_partial_batch_not_live_queue",
+  "scope": "All three structured lists captured for this locale. Additional Keyword Magic research still needs consolidation.",
+  "metrics": "Cluster volume is the displayed rounded source value, not individual keyword volume. Never sum overlapping source occurrences.",
+  "runway_status": "Incomplete. Not a certification of a 90-day publishing runway. Not yet imported into the publishing routine.",
+  "assumed_posts_per_day": 3,
+  "required_unwritten_assignments": 270,
+  "assignment_count": 85,
+  "assignments": [
+    {
+      "locale": "it",
+      "intent_key": "manifesting-significato",
+      "slug": "manifesting-significato",
+      "primary_keyword": "manifesting significato",
+      "article_angle": "manifesting significato: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "come manifestare qualcosa",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "1.4K"
+        },
+        {
+          "keyword": "manifesting significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "210"
+        },
+        {
+          "keyword": "come manifestare qualcosa",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "800"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "metodi-per-manifestare-scrivendo",
+      "slug": "metodi-per-manifestare-scrivendo",
+      "primary_keyword": "metodi per manifestare scrivendo",
+      "article_angle": "metodi per manifestare scrivendo: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "metodi per manifestare scrivendo",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "70"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "come-farlo-tornare-col-pensiero",
+      "slug": "come-farlo-tornare-col-pensiero",
+      "primary_keyword": "come farlo tornare col pensiero",
+      "article_angle": "come farlo tornare col pensiero: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "come farlo tornare col pensiero",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "400"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "credenze-limitanti",
+      "slug": "credenze-limitanti",
+      "primary_keyword": "credenze limitanti",
+      "article_angle": "credenze limitanti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "credenze limitanti",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "250"
+        },
+        {
+          "keyword": "credenze limitanti",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 7,
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "visualizzazioni-guidate",
+      "slug": "visualizzazioni-guidate",
+      "primary_keyword": "visualizzazioni guidate",
+      "article_angle": "visualizzazioni guidate: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "visualizzazioni guidate",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "380"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "legge-degli-assunti",
+      "slug": "legge-degli-assunti",
+      "primary_keyword": "legge degli assunti",
+      "article_angle": "legge degli assunti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "legge degli assunti",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "200"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "frasi-motivazionali",
+      "slug": "frasi-motivazionali",
+      "primary_keyword": "frasi motivazionali",
+      "article_angle": "frasi motivazionali: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "frasi motivazionali",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "68.7K"
+        },
+        {
+          "keyword": "frasi motivazionali",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "58K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "metodo-369-esempi",
+      "slug": "metodo-369-esempi",
+      "primary_keyword": "metodo 369 esempi",
+      "article_angle": "metodo 369 esempi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "metodo 369 esempi",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "frasi-su-di-se-stessi",
+      "slug": "frasi-su-di-se-stessi",
+      "primary_keyword": "frasi su di se stessi",
+      "article_angle": "frasi su di se stessi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "frasi su di se stessi",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "14.5K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "frasi-di-incoraggiamento-per-momenti-difficili",
+      "slug": "frasi-di-incoraggiamento-per-momenti-difficili",
+      "primary_keyword": "frasi di incoraggiamento per momenti difficili",
+      "article_angle": "frasi di incoraggiamento per momenti difficili: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "frasi di incoraggiamento per momenti difficili",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "13.9K"
+        },
+        {
+          "keyword": "frasi di incoraggiamento per momenti difficili",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "8.6K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "frasi-motivazionali-lavoro",
+      "slug": "frasi-motivazionali-lavoro",
+      "primary_keyword": "frasi motivazionali lavoro",
+      "article_angle": "frasi motivazionali lavoro: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "frasi motivazionali lavoro",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "5.4K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "frasi-per-un-traguardo-raggiunto",
+      "slug": "frasi-per-un-traguardo-raggiunto",
+      "primary_keyword": "frasi per un traguardo raggiunto",
+      "article_angle": "frasi per un traguardo raggiunto: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "frasi per un traguardo raggiunto",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "2.3K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "pensieri-positivi",
+      "slug": "pensieri-positivi",
+      "primary_keyword": "pensieri positivi",
+      "article_angle": "pensieri positivi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "pensiero positivo frasi",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "3.3K"
+        },
+        {
+          "keyword": "pensiero positivo frasi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "1.1K"
+        },
+        {
+          "keyword": "pensieri positivi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 12,
+          "displayed_cluster_volume": "3.5K"
+        },
+        {
+          "keyword": "frasi positive brevi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "43.9K"
+        },
+        {
+          "keyword": "pensiero positivo frasi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "2.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "frasi-di-soddisfazione",
+      "slug": "frasi-di-soddisfazione",
+      "primary_keyword": "frasi di soddisfazione",
+      "article_angle": "frasi di soddisfazione: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "frasi di soddisfazione",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "sagge-frasi-spirituali",
+      "slug": "sagge-frasi-spirituali",
+      "primary_keyword": "sagge frasi spirituali",
+      "article_angle": "sagge frasi spirituali: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "sagge frasi spirituali",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "490"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "legge-dell-attrazione",
+      "slug": "legge-dell-attrazione",
+      "primary_keyword": "legge dell attrazione",
+      "article_angle": "legge dell attrazione: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "legge dell attrazione",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "3K"
+        },
+        {
+          "keyword": "legge dell attrazione",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 20,
+          "displayed_cluster_volume": "2.5K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "affermazioni-positive",
+      "slug": "affermazioni-positive",
+      "primary_keyword": "affermazioni positive",
+      "article_angle": "affermazioni positive: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "affermazioni positive",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "2.4K"
+        },
+        {
+          "keyword": "affermazioni positive",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 19,
+          "displayed_cluster_volume": "2.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "raggiungere-gli-obiettivi",
+      "slug": "raggiungere-gli-obiettivi",
+      "primary_keyword": "raggiungere gli obiettivi",
+      "article_angle": "raggiungere gli obiettivi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "raggiungere gli obiettivi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 8,
+          "displayed_cluster_volume": "730"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "amare-se-stessi",
+      "slug": "amare-se-stessi",
+      "primary_keyword": "amare se stessi",
+      "article_angle": "amare se stessi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "amare se stessi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "1.8K"
+        },
+        {
+          "keyword": "volersi bene",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "pensare a se stessi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "890"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "autostima-aumentare",
+      "slug": "autostima-aumentare",
+      "primary_keyword": "autostima aumentare",
+      "article_angle": "autostima aumentare: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "credere in se stessi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 12,
+          "displayed_cluster_volume": "1.7K"
+        },
+        {
+          "keyword": "autostima aumentare",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 15,
+          "displayed_cluster_volume": "2K"
+        },
+        {
+          "keyword": "autostima esercizi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 10,
+          "displayed_cluster_volume": "460"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "amare-se-stessi-frasi",
+      "slug": "amare-se-stessi-frasi",
+      "primary_keyword": "amare se stessi frasi",
+      "article_angle": "amare se stessi frasi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "amare se stessi frasi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 15,
+          "displayed_cluster_volume": "1.5K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "come-calmarsi-dal-nervoso",
+      "slug": "come-calmarsi-dal-nervoso",
+      "primary_keyword": "come calmarsi dal nervoso",
+      "article_angle": "come calmarsi dal nervoso: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "come calmarsi dal nervoso",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 18,
+          "displayed_cluster_volume": "220"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "morning-routine",
+      "slug": "morning-routine",
+      "primary_keyword": "morning routine",
+      "article_angle": "morning routine: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "morning routine",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "diario-della-gratitudine",
+      "slug": "diario-della-gratitudine",
+      "primary_keyword": "diario della gratitudine",
+      "article_angle": "diario della gratitudine: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "diario della gratitudine",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 9,
+          "displayed_cluster_volume": "880"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "obiettivi-nella-vita",
+      "slug": "obiettivi-nella-vita",
+      "primary_keyword": "obiettivi nella vita",
+      "article_angle": "obiettivi nella vita: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "obiettivi nella vita",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 12,
+          "displayed_cluster_volume": "380"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "accettarsi-per-come-si-e",
+      "slug": "accettarsi-per-come-si-e",
+      "primary_keyword": "accettarsi per come si è",
+      "article_angle": "accettarsi per come si è: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "accettarsi per come si è",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 10,
+          "displayed_cluster_volume": "140"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "consapevolezza-di-se",
+      "slug": "consapevolezza-di-se",
+      "primary_keyword": "consapevolezza di se",
+      "article_angle": "consapevolezza di se: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "consapevolezza di se",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "670"
+        },
+        {
+          "keyword": "consapevolezza significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "34",
+          "displayed_cluster_volume": "4.5K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "journaling",
+      "slug": "journaling",
+      "primary_keyword": "journaling",
+      "article_angle": "journaling: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "diario per scrivere pensieri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "160"
+        },
+        {
+          "keyword": "journaling",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 27,
+          "displayed_cluster_volume": "6.8K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "meditazione-guidata",
+      "slug": "meditazione-guidata",
+      "primary_keyword": "meditazione guidata",
+      "article_angle": "meditazione guidata: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "meditazioni guidate gratis",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 12,
+          "displayed_cluster_volume": "180"
+        },
+        {
+          "keyword": "meditazione guidata",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 32,
+          "displayed_cluster_volume": "7.4K"
+        },
+        {
+          "keyword": "meditazioni guidate gratis",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "180"
+        },
+        {
+          "keyword": "meditazione guidata",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "32",
+          "displayed_cluster_volume": "7.4K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "routine-quotidiana",
+      "slug": "routine-quotidiana",
+      "primary_keyword": "routine quotidiana",
+      "article_angle": "routine quotidiana: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "routine quotidiana",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "680"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "action-plan-esempio",
+      "slug": "action-plan-esempio",
+      "primary_keyword": "action plan esempio",
+      "article_angle": "action plan esempio: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "action plan esempio",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "320"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "meditazione-principianti",
+      "slug": "meditazione-principianti",
+      "primary_keyword": "meditazione principianti",
+      "article_angle": "meditazione principianti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "meditazione giornaliera",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 28,
+          "displayed_cluster_volume": "490"
+        },
+        {
+          "keyword": "meditazione principianti",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "260"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "attirare-una-persona-con-la-forza-del-pensiero",
+      "slug": "attirare-una-persona-con-la-forza-del-pensiero",
+      "primary_keyword": "attirare una persona con la forza del pensiero",
+      "article_angle": "attirare una persona con la forza del pensiero: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "attirare una persona con la forza del pensiero",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 11,
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "prendersi-cura-di-se-stessi",
+      "slug": "prendersi-cura-di-se-stessi",
+      "primary_keyword": "prendersi cura di se stessi",
+      "article_angle": "prendersi cura di se stessi: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "prendersi cura di se stessi",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 16,
+          "displayed_cluster_volume": "1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "autostima",
+      "slug": "autostima",
+      "primary_keyword": "autostima",
+      "article_angle": "autostima: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "autostima",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 30,
+          "displayed_cluster_volume": "10.5K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "bullet-journal",
+      "slug": "bullet-journal",
+      "primary_keyword": "bullet journal",
+      "article_angle": "bullet journal: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "bullet journal",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "7.9K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "intelligenza-emotiva",
+      "slug": "intelligenza-emotiva",
+      "primary_keyword": "intelligenza emotiva",
+      "article_angle": "intelligenza emotiva: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "intelligenza emotiva",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 31,
+          "displayed_cluster_volume": "18.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "meditazione-guidata-per-rilassare-mente-e-corpo",
+      "slug": "meditazione-guidata-per-rilassare-mente-e-corpo",
+      "primary_keyword": "meditazione guidata per rilassare mente e corpo",
+      "article_angle": "meditazione guidata per rilassare mente e corpo: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "meditazione guidata per rilassare mente e corpo",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 27,
+          "displayed_cluster_volume": "950"
+        },
+        {
+          "keyword": "meditazione guidata per rilassare mente e corpo",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "1.6K"
+        },
+        {
+          "keyword": "meditazione guidata rilassamento profondo",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "230"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "esempi-di-crescita-personale",
+      "slug": "esempi-di-crescita-personale",
+      "primary_keyword": "esempi di crescita personale",
+      "article_angle": "esempi di crescita personale: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "esempi di crescita personale",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "meditazione-mindfulness",
+      "slug": "meditazione-mindfulness",
+      "primary_keyword": "meditazione mindfulness",
+      "article_angle": "meditazione mindfulness: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "meditazione mindfulness",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+          "displayed_page_kd": 33,
+          "displayed_cluster_volume": "1.5K"
+        },
+        {
+          "keyword": "metodo mindfulness",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "500"
+        },
+        {
+          "keyword": "meditazione mindfulness",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "32",
+          "displayed_cluster_volume": "1.9K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "numeri-doppi-significato",
+      "slug": "numeri-doppi-significato",
+      "primary_keyword": "numeri doppi significato",
+      "article_angle": "numeri doppi significato: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "numeri doppi significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "32.9K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "numero-angelico",
+      "slug": "numero-angelico",
+      "primary_keyword": "numero angelico",
+      "article_angle": "numero angelico: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "numero angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "17.7K"
+        },
+        {
+          "keyword": "significati dei numeri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "2.8K"
+        },
+        {
+          "keyword": "numeri angelici da 0 a 100",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-777",
+      "slug": "numero-angelico-777",
+      "primary_keyword": "777 significato angelico",
+      "article_angle": "777 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "777 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "9.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1919",
+      "slug": "numero-angelico-1919",
+      "primary_keyword": "1919 significato angelico",
+      "article_angle": "1919 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "1919 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "6.3K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-111",
+      "slug": "numero-angelico-111",
+      "primary_keyword": "111 significato angelico",
+      "article_angle": "111 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "111 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "12.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "messaggio-angeli",
+      "slug": "messaggio-angeli",
+      "primary_keyword": "messaggio angeli",
+      "article_angle": "messaggio angeli: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "messaggio angeli",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "2.3K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-8",
+      "slug": "numero-angelico-8",
+      "primary_keyword": "numero 8 significato angelico",
+      "article_angle": "numero 8 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 8 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "1.5K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-222",
+      "slug": "numero-angelico-222",
+      "primary_keyword": "significato numero 222",
+      "article_angle": "significato numero 222: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "significato numero 222",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "750"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-18",
+      "slug": "numero-angelico-18",
+      "primary_keyword": "numero 18 significato angelico",
+      "article_angle": "numero 18 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 18 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1551",
+      "slug": "numero-angelico-1551",
+      "primary_keyword": "1551 significato fiamme gemelle",
+      "article_angle": "1551 significato fiamme gemelle: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "1551 significato fiamme gemelle",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "430"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-19",
+      "slug": "numero-angelico-19",
+      "primary_keyword": "numero 19 significato angelico",
+      "article_angle": "numero 19 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 19 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-24",
+      "slug": "numero-angelico-24",
+      "primary_keyword": "numero 24 significato angelico",
+      "article_angle": "numero 24 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 24 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "630"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-2255",
+      "slug": "numero-angelico-2255",
+      "primary_keyword": "2255 significato angelico",
+      "article_angle": "2255 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "2255 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "930"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-4",
+      "slug": "numero-angelico-4",
+      "primary_keyword": "numero 4 significato",
+      "article_angle": "numero 4 significato: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 4 significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "2.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-2112",
+      "slug": "numero-angelico-2112",
+      "primary_keyword": "21 12 significato",
+      "article_angle": "21 12 significato: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "21 12 significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "3.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1010",
+      "slug": "numero-angelico-1010",
+      "primary_keyword": "1010 significato angelico",
+      "article_angle": "1010 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "1010 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "5.3K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1313",
+      "slug": "numero-angelico-1313",
+      "primary_keyword": "1313 significato angelico",
+      "article_angle": "1313 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "1313 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "6K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1212",
+      "slug": "numero-angelico-1212",
+      "primary_keyword": "12 12 numero angelico",
+      "article_angle": "12 12 numero angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "12 12 numero angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-30",
+      "slug": "numero-angelico-30",
+      "primary_keyword": "numero 30 significato angelico",
+      "article_angle": "numero 30 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 30 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "350"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-14",
+      "slug": "numero-angelico-14",
+      "primary_keyword": "numero 14 significato angelico",
+      "article_angle": "numero 14 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 14 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "910"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-9",
+      "slug": "numero-angelico-9",
+      "primary_keyword": "numero 9 significato angelico",
+      "article_angle": "numero 9 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 9 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-16",
+      "slug": "numero-angelico-16",
+      "primary_keyword": "16 significato angelico",
+      "article_angle": "16 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "16 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "380"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-2332",
+      "slug": "numero-angelico-2332",
+      "primary_keyword": "23 32 significato",
+      "article_angle": "23 32 significato: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "23 32 significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "21",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-888",
+      "slug": "numero-angelico-888",
+      "primary_keyword": "888 significato angelico",
+      "article_angle": "888 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "888 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "25",
+          "displayed_cluster_volume": "7.6K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1441",
+      "slug": "numero-angelico-1441",
+      "primary_keyword": "14 41 significato angelico",
+      "article_angle": "14 41 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "14 41 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "560"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-50",
+      "slug": "numero-angelico-50",
+      "primary_keyword": "numero 50 significato angelico",
+      "article_angle": "numero 50 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 50 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "280"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-7",
+      "slug": "numero-angelico-7",
+      "primary_keyword": "numero 7 significato angelico",
+      "article_angle": "numero 7 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 7 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "1.7K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-909",
+      "slug": "numero-angelico-909",
+      "primary_keyword": "0909 numero angelico",
+      "article_angle": "0909 numero angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "0909 numero angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "13",
+          "displayed_cluster_volume": "780"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-56",
+      "slug": "numero-angelico-56",
+      "primary_keyword": "56 significato angelico",
+      "article_angle": "56 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "56 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "200"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-13",
+      "slug": "numero-angelico-13",
+      "primary_keyword": "numero 13 significato angelico",
+      "article_angle": "numero 13 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 13 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "1.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-39",
+      "slug": "numero-angelico-39",
+      "primary_keyword": "numero 39 significato angelico",
+      "article_angle": "numero 39 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 39 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-808",
+      "slug": "numero-angelico-808",
+      "primary_keyword": "0808 significato angelico",
+      "article_angle": "0808 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "0808 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "3.6K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-45",
+      "slug": "numero-angelico-45",
+      "primary_keyword": "numero 45 significato angelico",
+      "article_angle": "numero 45 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 45 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "8",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "numeri-tripli-significato",
+      "slug": "numeri-tripli-significato",
+      "primary_keyword": "numeri tripli significato",
+      "article_angle": "numeri tripli significato: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "numeri tripli significato",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "7",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-11",
+      "slug": "numero-angelico-11",
+      "primary_keyword": "00 11 significato angelico",
+      "article_angle": "00 11 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "00 11 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "9",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-51",
+      "slug": "numero-angelico-51",
+      "primary_keyword": "51 significato angelico",
+      "article_angle": "51 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "51 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "12",
+          "displayed_cluster_volume": "220"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-73",
+      "slug": "numero-angelico-73",
+      "primary_keyword": "73 significato angelico",
+      "article_angle": "73 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "73 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "10",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-0",
+      "slug": "numero-angelico-0",
+      "primary_keyword": "numero 0 significato angelico",
+      "article_angle": "numero 0 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero 0 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "340"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-1244",
+      "slug": "numero-angelico-1244",
+      "primary_keyword": "1244 significato angelico",
+      "article_angle": "1244 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "1244 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "11",
+          "displayed_cluster_volume": "200"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-29",
+      "slug": "numero-angelico-29",
+      "primary_keyword": "29 significato angelico",
+      "article_angle": "29 significato angelico: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "29 significato angelico",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "14",
+          "displayed_cluster_volume": "180"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "migliore-app-meditazione-gratis",
+      "slug": "migliore-app-meditazione-gratis",
+      "primary_keyword": "migliore app meditazione gratis",
+      "article_angle": "migliore app meditazione gratis: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "migliore app meditazione gratis",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "780"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "vision-board",
+      "slug": "vision-board",
+      "primary_keyword": "vision board",
+      "article_angle": "vision board: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "vision board",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "13.1K"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "number-5",
+      "slug": "numero-angelico-5",
+      "primary_keyword": "numero angelico 5",
+      "article_angle": "numero angelico 5: interpretazioni spirituali comuni, domande di journaling e un piccolo rituale personale. Distinguere le credenze dai fatti, senza promettere eventi futuri.",
+      "source_occurrences": [
+        {
+          "keyword": "numero angelico 5",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "16",
+          "displayed_cluster_volume": "520"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "meditazione-guidata-10-minuti",
+      "slug": "meditazione-guidata-10-minuti",
+      "primary_keyword": "meditazione guidata 10 minuti",
+      "article_angle": "meditazione guidata 10 minuti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "meditazione guidata 10 minuti",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "430"
+        }
+      ]
+    },
+    {
+      "locale": "it",
+      "intent_key": "meditazione-guidata-per-dormire-10-minuti",
+      "slug": "meditazione-guidata-per-dormire-10-minuti",
+      "primary_keyword": "meditazione guidata per dormire 10 minuti",
+      "article_angle": "meditazione guidata per dormire 10 minuti: spiegazione accessibile, esempi concreti e un esercizio guidato per la propria routine di riflessione.",
+      "source_occurrences": [
+        {
+          "keyword": "meditazione guidata per dormire 10 minuti",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    }
+  ],
+  "rejected_occurrences": [
+    {
+      "keyword": "allontanarsi per farsi desiderare da un uomo",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "13",
+      "displayed_cluster_volume": "580",
+      "reason": "Broad quotation, sport, or dating-tactic drift outside this manifestation queue."
+    },
+    {
+      "keyword": "frasi motivazionali sport",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "13",
+      "displayed_cluster_volume": "5.9K",
+      "reason": "Broad quotation, sport, or dating-tactic drift outside this manifestation queue."
+    },
+    {
+      "keyword": "belle frasi brevi",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "20",
+      "displayed_cluster_volume": "7.5K",
+      "reason": "Overbroad quotation intent."
+    },
+    {
+      "keyword": "pensieri positivi divertenti",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "25",
+      "displayed_cluster_volume": "1.9K",
+      "reason": "Broad quotation, sport, or dating-tactic drift outside this manifestation queue."
+    },
+    {
+      "keyword": "trucchi per calmare l ansia",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 14,
+      "displayed_cluster_volume": "3.9K",
+      "reason": "Anxiety treatment drift."
+    },
+    {
+      "keyword": "come combattere l ansia",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 25,
+      "displayed_cluster_volume": "16.9K",
+      "reason": "Anxiety treatment drift."
+    },
+    {
+      "keyword": "come aiutare una persona che soffre di ansia",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 8,
+      "displayed_cluster_volume": "140",
+      "reason": "Clinical support intent."
+    },
+    {
+      "keyword": "differenza tra attacco di panico e ansia",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 25,
+      "displayed_cluster_volume": "1.8K",
+      "reason": "Clinical differential intent."
+    },
+    {
+      "keyword": "essere obiettivi",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 34,
+      "displayed_cluster_volume": "700",
+      "reason": "Objectivity meaning, not goal setting."
+    },
+    {
+      "keyword": "ansia senza motivo",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 16,
+      "displayed_cluster_volume": "600",
+      "reason": "Clinical symptom intent."
+    },
+    {
+      "keyword": "autostima bambini",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 14,
+      "displayed_cluster_volume": "180",
+      "reason": "Child-development drift."
+    },
+    {
+      "keyword": "bullet journal ideas",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 53,
+      "displayed_cluster_volume": "430",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "ansia sintomi fisici",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 24,
+      "displayed_cluster_volume": "3.8K",
+      "reason": "Clinical symptom intent."
+    },
+    {
+      "keyword": "journaling application",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710646%2F444444444&tab=0",
+      "displayed_page_kd": 47,
+      "displayed_cluster_volume": "540",
+      "reason": "Wrong-language keyword."
+    },
+    {
+      "keyword": "belle frasi brevi",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "19",
+      "displayed_cluster_volume": "9.1K",
+      "reason": "Overbroad quotation intent."
+    },
+    {
+      "keyword": "frasi per uno sportivo",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "13",
+      "displayed_cluster_volume": "3.6K",
+      "reason": "Sports quotation drift."
+    },
+    {
+      "keyword": "22 33 astrocenter",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "7",
+      "displayed_cluster_volume": "370",
+      "reason": "Specific competitor navigation intent."
+    },
+    {
+      "keyword": "speciale frasi belle da dire",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "22",
+      "displayed_cluster_volume": "2.5K",
+      "reason": "Overbroad quotation intent."
+    },
+    {
+      "keyword": "saggezza pensieri positivi divertenti",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "20",
+      "displayed_cluster_volume": "870",
+      "reason": "Entertainment quotation drift."
+    },
+    {
+      "keyword": "kaizen significato",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "18",
+      "displayed_cluster_volume": "2.8K",
+      "reason": "Workplace methodology outside Demi."
+    },
+    {
+      "keyword": "numeri da tatuare",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "29",
+      "displayed_cluster_volume": "2K",
+      "reason": "Tattoo-design intent."
+    },
+    {
+      "keyword": "meditazione per ansia e stress",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "25",
+      "displayed_cluster_volume": "290",
+      "reason": "Clinical anxiety intent outside this batch."
+    },
+    {
+      "keyword": "meditazione video",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710662%2F444444444&tab=0",
+      "displayed_page_kd": "30",
+      "displayed_cluster_volume": "380",
+      "reason": "Video playback intent."
+    }
+  ]
+}

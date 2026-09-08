@@ -1,0 +1,3374 @@
+{
+  "schema_version": 1,
+  "locale": "tr",
+  "observed_on": "2026-09-08",
+  "status": "wired",
+  "metrics_note": "Volume is source-specific: rounded page-cluster estimates or individual keyword estimates as labeled. Never sum variants or source occurrences.",
+  "rows": [
+    {
+      "keyword": "sayıların anlamları",
+      "locale": "tr",
+      "intent_key": "sayilarin-anlamlari",
+      "slug": "sayilarin-anlamlari",
+      "category": "reflection-practice",
+      "angle": "sayıların anlamları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meleklerin işaretleri",
+          "volume": 160,
+          "kd": 22,
+          "displayed_volume": "160"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "sayıların anlamları",
+          "volume": 14600,
+          "kd": 18,
+          "displayed_volume": "14.6K"
+        }
+      ],
+      "metric_keyword": "sayıların anlamları",
+      "cluster_volume": 14600,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 521.43,
+      "secondary_keywords": ["meleklerin işaretleri"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "özgüven nasıl kazanılır",
+      "locale": "tr",
+      "intent_key": "ozguven-nasil-kazanilir",
+      "slug": "ozguven-nasil-kazanilir",
+      "category": "reflection-practice",
+      "angle": "özgüven nasıl kazanılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "özgüven nasıl kazanılır",
+          "volume": 6700,
+          "kd": 20,
+          "displayed_volume": "6.7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "kendine güven",
+          "volume": 1600,
+          "kd": 19,
+          "displayed_volume": "1.6K"
+        }
+      ],
+      "metric_keyword": "özgüven nasıl kazanılır",
+      "cluster_volume": 6700,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 223.33,
+      "secondary_keywords": ["kendine güven"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "özgüven ne demek",
+      "locale": "tr",
+      "intent_key": "ozguven-ne-demek",
+      "slug": "ozguven-ne-demek",
+      "category": "reflection-practice",
+      "angle": "özgüven ne demek: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "özgüvenli insanların özellikleri",
+          "volume": 250,
+          "kd": 22,
+          "displayed_volume": "250"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "özgüven ne demek",
+          "volume": 6400,
+          "kd": 29,
+          "displayed_volume": "6.4K"
+        }
+      ],
+      "metric_keyword": "özgüven ne demek",
+      "cluster_volume": 6400,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 164.1,
+      "secondary_keywords": ["özgüvenli insanların özellikleri"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "vision board nasıl yapılır",
+      "locale": "tr",
+      "intent_key": "vision-board-nasil-yapilir",
+      "slug": "vision-board-nasil-yapilir",
+      "category": "reflection-practice",
+      "angle": "vision board nasıl yapılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board nasıl yapılır",
+          "volume": 5500,
+          "kd": 27,
+          "displayed_volume": "5.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vizyon panosu",
+          "volume": 920,
+          "kd": 31,
+          "displayed_volume": "920"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "yaratım panosu",
+          "volume": 160,
+          "kd": 29,
+          "displayed_volume": "160"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vizyon panosu",
+          "volume": 920,
+          "kd": 31,
+          "displayed_volume": "920"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board",
+          "volume": 23600,
+          "kd": 34,
+          "displayed_volume": "23.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "yaratım panosu",
+          "volume": 160,
+          "kd": 29,
+          "displayed_volume": "160"
+        }
+      ],
+      "metric_keyword": "vision board nasıl yapılır",
+      "cluster_volume": 5500,
+      "kd": 27,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 148.65,
+      "secondary_keywords": ["vizyon panosu", "yaratım panosu", "vision board"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "evrensel yasa",
+      "locale": "tr",
+      "intent_key": "evrensel-yasa",
+      "slug": "evrensel-yasa",
+      "category": "reflection-practice",
+      "angle": "evrensel yasa: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "evrensel yasa",
+          "volume": 3500,
+          "kd": 19,
+          "displayed_volume": "3.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "evrenin kuralları",
+          "volume": 60,
+          "kd": 19,
+          "displayed_volume": "60"
+        }
+      ],
+      "metric_keyword": "evrensel yasa",
+      "cluster_volume": 3500,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 120.69,
+      "secondary_keywords": ["evrenin kuralları"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "manifest kodları",
+      "locale": "tr",
+      "intent_key": "manifest-kodlari",
+      "slug": "manifest-kodlari",
+      "category": "reflection-practice",
+      "angle": "manifest kodları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manifest kodları",
+          "volume": 3600,
+          "kd": 28,
+          "displayed_volume": "3.6K"
+        }
+      ],
+      "metric_keyword": "manifest kodları",
+      "cluster_volume": 3600,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 94.74,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "özgüven eksikliği",
+      "locale": "tr",
+      "intent_key": "ozguven-eksikligi",
+      "slug": "ozguven-eksikligi",
+      "category": "reflection-practice",
+      "angle": "özgüven eksikliği: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "özgüven eksikliği",
+          "volume": 2500,
+          "kd": 18,
+          "displayed_volume": "2.5K"
+        }
+      ],
+      "metric_keyword": "özgüven eksikliği",
+      "cluster_volume": 2500,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 89.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditasyon nasıl yapılır",
+      "locale": "tr",
+      "intent_key": "meditasyon-nasil-yapilir",
+      "slug": "meditasyon-nasil-yapilir",
+      "category": "reflection-practice",
+      "angle": "meditasyon nasıl yapılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditasyon nasıl yapılır",
+          "volume": 18200,
+          "kd": 29,
+          "displayed_volume": "18.2K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon nasıl yapılır",
+          "volume": 2900,
+          "kd": 23,
+          "displayed_volume": "2,900"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon",
+          "volume": 5400,
+          "kd": 37,
+          "displayed_volume": "5,400"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon nedir",
+          "volume": 5400,
+          "kd": 35,
+          "displayed_volume": "5,400"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon ne demek",
+          "volume": 2400,
+          "kd": 34,
+          "displayed_volume": "2,400"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon nedir nasıl yapılır",
+          "volume": 210,
+          "kd": 27,
+          "displayed_volume": "210"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon nasıl yapılır evde",
+          "volume": 170,
+          "kd": 12,
+          "displayed_volume": "170"
+        }
+      ],
+      "metric_keyword": "meditasyon nasıl yapılır",
+      "cluster_volume": 2900,
+      "kd": 23,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 87.88,
+      "secondary_keywords": [
+        "meditasyon",
+        "meditasyon nedir",
+        "meditasyon ne demek",
+        "meditasyon nedir nasıl yapılır",
+        "meditasyon nasıl yapılır evde"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "olumlama-cumleleri",
+      "slug": "olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "olumlama cümleleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "olumlama cümleleri",
+          "volume": 4200,
+          "kd": 15,
+          "displayed_volume": "4.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "olumlama nedir",
+          "volume": 1600,
+          "kd": 17,
+          "displayed_volume": "1.6K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama cümleleri",
+          "volume": 1600,
+          "kd": 13,
+          "displayed_volume": "1600"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama nedir",
+          "volume": 590,
+          "kd": 12,
+          "displayed_volume": "590"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama cumleleri",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama nasıl yapılır",
+          "volume": 210,
+          "kd": 13,
+          "displayed_volume": "210"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "doğru olumlama nasıl yapılır",
+          "volume": 30,
+          "kd": 8,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama ritüelleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "olumlama cümleleri",
+      "cluster_volume": 1600,
+      "kd": 13,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 69.57,
+      "secondary_keywords": [
+        "olumlama nedir",
+        "olumlama cumleleri",
+        "olumlama nasıl yapılır",
+        "doğru olumlama nasıl yapılır",
+        "olumlama ritüelleri"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "11 11 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-1111",
+      "slug": "melek-sayisi-1111",
+      "category": "reflection-practice",
+      "angle": "11 11 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "11 11 melek sayısı",
+          "volume": 2100,
+          "kd": 24,
+          "displayed_volume": "2.1K"
+        }
+      ],
+      "metric_keyword": "11 11 melek sayısı",
+      "cluster_volume": 2100,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 61.76,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "çekim yasası",
+      "locale": "tr",
+      "intent_key": "cekim-yasasi",
+      "slug": "cekim-yasasi",
+      "category": "reflection-practice",
+      "angle": "çekim yasası: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "çekim yasası",
+          "volume": 2400,
+          "kd": 30,
+          "displayed_volume": "2.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "çekim yasası",
+          "volume": 2400,
+          "kd": 30,
+          "displayed_volume": "2.4K"
+        }
+      ],
+      "metric_keyword": "çekim yasası",
+      "cluster_volume": 2400,
+      "kd": 30,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 60.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "öz şefkat",
+      "locale": "tr",
+      "intent_key": "oz-sefkat",
+      "slug": "oz-sefkat",
+      "category": "reflection-practice",
+      "angle": "öz şefkat: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "öz şefkat",
+          "volume": 1900,
+          "kd": 24,
+          "displayed_volume": "1.9K"
+        }
+      ],
+      "metric_keyword": "öz şefkat",
+      "cluster_volume": 1900,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 55.88,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "kendimi ifade edemiyorum",
+      "locale": "tr",
+      "intent_key": "kendimi-ifade-edemiyorum",
+      "slug": "kendimi-ifade-edemiyorum",
+      "category": "reflection-practice",
+      "angle": "kendimi ifade edemiyorum: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "kendimi ifade edemiyorum",
+          "volume": 1300,
+          "kd": 15,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "kendimi ifade edemiyorum",
+      "cluster_volume": 1300,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 52.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "derin nefes nasıl alınır",
+      "locale": "tr",
+      "intent_key": "derin-nefes-nasil-alinir",
+      "slug": "derin-nefes-nasil-alinir",
+      "category": "reflection-practice",
+      "angle": "derin nefes nasıl alınır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "derin nefes nasıl alınır",
+          "volume": 1400,
+          "kd": 24,
+          "displayed_volume": "1.4K"
+        }
+      ],
+      "metric_keyword": "derin nefes nasıl alınır",
+      "cluster_volume": 1400,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 41.18,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "varsayım yasası nedir",
+      "locale": "tr",
+      "intent_key": "varsayim-yasasi-nedir",
+      "slug": "varsayim-yasasi-nedir",
+      "category": "reflection-practice",
+      "angle": "varsayım yasası nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "varsayım yasası nedir",
+          "volume": 1300,
+          "kd": 22,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "varsayım yasası nedir",
+      "cluster_volume": 1300,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 40.62,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "444 sayısının anlamı",
+      "locale": "tr",
+      "intent_key": "number-444",
+      "slug": "melek-sayisi-444",
+      "category": "reflection-practice",
+      "angle": "444 sayısının anlamı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "444 sayısının anlamı",
+          "volume": 1200,
+          "kd": 22,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "444 sayısının anlamı",
+      "cluster_volume": 1200,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 37.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "222 melek sayısı anlamı",
+      "locale": "tr",
+      "intent_key": "number-222",
+      "slug": "melek-sayisi-222",
+      "category": "reflection-practice",
+      "angle": "222 melek sayısı anlamı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "222 melek sayısı anlamı",
+          "volume": 1300,
+          "kd": 26,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "222 melek sayısı anlamı",
+      "cluster_volume": 1300,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 36.11,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "14 14 saat anlamı melek",
+      "locale": "tr",
+      "intent_key": "number-1414",
+      "slug": "melek-sayisi-1414",
+      "category": "reflection-practice",
+      "angle": "14 14 saat anlamı melek: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "14 14 saat anlamı melek",
+          "volume": 1400,
+          "kd": 29,
+          "displayed_volume": "1.4K"
+        }
+      ],
+      "metric_keyword": "14 14 saat anlamı melek",
+      "cluster_volume": 1400,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 35.9,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "özdeğer nedir",
+      "locale": "tr",
+      "intent_key": "ozdeger-nedir",
+      "slug": "ozdeger-nedir",
+      "category": "reflection-practice",
+      "angle": "özdeğer nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "özdeğer nedir",
+          "volume": 880,
+          "kd": 21,
+          "displayed_volume": "880"
+        }
+      ],
+      "metric_keyword": "özdeğer nedir",
+      "cluster_volume": 880,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.39,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "alışkanlık takip",
+      "locale": "tr",
+      "intent_key": "aliskanlik-takip",
+      "slug": "aliskanlik-takip",
+      "category": "reflection-practice",
+      "angle": "alışkanlık takip: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "alışkanlık takip",
+          "volume": 1000,
+          "kd": 26,
+          "displayed_volume": "1K"
+        }
+      ],
+      "metric_keyword": "alışkanlık takip",
+      "cluster_volume": 1000,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 27.78,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "999 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-999",
+      "slug": "melek-sayisi-999",
+      "category": "reflection-practice",
+      "angle": "999 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "999 melek sayısı",
+          "volume": 930,
+          "kd": 26,
+          "displayed_volume": "930"
+        }
+      ],
+      "metric_keyword": "999 melek sayısı",
+      "cluster_volume": 930,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 25.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "melek sayısı hesaplama",
+      "locale": "tr",
+      "intent_key": "melek-sayisi-hesaplama",
+      "slug": "melek-sayisi-hesaplama",
+      "category": "reflection-practice",
+      "angle": "melek sayısı hesaplama: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "melek sayısı hesaplama",
+          "volume": 800,
+          "kd": 23,
+          "displayed_volume": "800"
+        }
+      ],
+      "metric_keyword": "melek sayısı hesaplama",
+      "cluster_volume": 800,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 24.24,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "555 melek sayısı anlami",
+      "locale": "tr",
+      "intent_key": "number-555",
+      "slug": "melek-sayisi-555",
+      "category": "reflection-practice",
+      "angle": "555 melek sayısı anlami: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "555 melek sayısı anlami",
+          "volume": 750,
+          "kd": 26,
+          "displayed_volume": "750"
+        }
+      ],
+      "metric_keyword": "555 melek sayısı anlami",
+      "cluster_volume": 750,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sabah rutini",
+      "locale": "tr",
+      "intent_key": "sabah-rutini",
+      "slug": "sabah-rutini",
+      "category": "reflection-practice",
+      "angle": "sabah rutini: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "sabah rutini",
+          "volume": 640,
+          "kd": 23,
+          "displayed_volume": "640"
+        }
+      ],
+      "metric_keyword": "sabah rutini",
+      "cluster_volume": 640,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 19.39,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "çekim yasası kitap",
+      "locale": "tr",
+      "intent_key": "cekim-yasasi-kitap",
+      "slug": "cekim-yasasi-kitap",
+      "category": "reflection-practice",
+      "angle": "çekim yasası kitap: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "çekim yasası kitap",
+          "volume": 640,
+          "kd": 23,
+          "displayed_volume": "640"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "çekim yasası kitap",
+          "volume": 640,
+          "kd": 23,
+          "displayed_volume": "640"
+        }
+      ],
+      "metric_keyword": "çekim yasası kitap",
+      "cluster_volume": 640,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 19.39,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "6 sayısının anlamı melekler",
+      "locale": "tr",
+      "intent_key": "number-6",
+      "slug": "melek-sayisi-6",
+      "category": "reflection-practice",
+      "angle": "6 sayısının anlamı melekler: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "6 sayısının anlamı melekler",
+          "volume": 630,
+          "kd": 23,
+          "displayed_volume": "630"
+        }
+      ],
+      "metric_keyword": "6 sayısının anlamı melekler",
+      "cluster_volume": 630,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 19.09,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "duygu düzenleme",
+      "locale": "tr",
+      "intent_key": "duygu-duzenleme",
+      "slug": "duygu-duzenleme",
+      "category": "reflection-practice",
+      "angle": "duygu düzenleme: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "duygu düzenleme",
+          "volume": 470,
+          "kd": 22,
+          "displayed_volume": "470"
+        }
+      ],
+      "metric_keyword": "duygu düzenleme",
+      "cluster_volume": 470,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 14.69,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bağ kesme meditasyonu",
+      "locale": "tr",
+      "intent_key": "bag kesme meditasyonu",
+      "slug": "bag-kesme-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "bağ kesme meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bağ kesme meditasyonu",
+          "volume": 480,
+          "kd": 23,
+          "displayed_volume": "480"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bağ koparma meditasyonu",
+          "volume": 170,
+          "kd": 22,
+          "displayed_volume": "170"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bağ koparma meditasyonu yapanlar",
+          "volume": 70,
+          "kd": 21,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "bağ kesme meditasyonu",
+      "cluster_volume": 480,
+      "kd": 23,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 14.55,
+      "secondary_keywords": ["bağ koparma meditasyonu", "bağ koparma meditasyonu yapanlar"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "günlük nasıl tutulur",
+      "locale": "tr",
+      "intent_key": "gunluk-nasil-tutulur",
+      "slug": "gunluk-nasil-tutulur",
+      "category": "reflection-practice",
+      "angle": "günlük nasıl tutulur: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "günlük yazma",
+          "volume": 1600,
+          "kd": 18,
+          "displayed_volume": "1.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "günlük nasıl tutulur",
+          "volume": 480,
+          "kd": 25,
+          "displayed_volume": "480"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "kısa günlükler",
+          "volume": 140,
+          "kd": 24,
+          "displayed_volume": "140"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "günce tutmak",
+          "volume": 60,
+          "kd": 20,
+          "displayed_volume": "60"
+        }
+      ],
+      "metric_keyword": "günlük nasıl tutulur",
+      "cluster_volume": 480,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 13.71,
+      "secondary_keywords": ["günlük yazma", "kısa günlükler", "günce tutmak"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "33 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-33",
+      "slug": "melek-sayisi-33",
+      "category": "reflection-practice",
+      "angle": "33 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "33 melek sayısı",
+          "volume": 400,
+          "kd": 23,
+          "displayed_volume": "400"
+        }
+      ],
+      "metric_keyword": "33 melek sayısı",
+      "cluster_volume": 400,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 12.12,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditasyon faydaları",
+      "locale": "tr",
+      "intent_key": "meditasyon faydalari",
+      "slug": "meditasyon-faydalari",
+      "category": "reflection-practice",
+      "angle": "meditasyon faydaları: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon faydaları",
+          "volume": 390,
+          "kd": 24,
+          "displayed_volume": "390"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon ne işe yarar",
+          "volume": 90,
+          "kd": 32,
+          "displayed_volume": "90"
+        }
+      ],
+      "metric_keyword": "meditasyon faydaları",
+      "cluster_volume": 390,
+      "kd": 24,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 11.47,
+      "secondary_keywords": ["meditasyon ne işe yarar"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "uyku rutini örnekleri",
+      "locale": "tr",
+      "intent_key": "uyku-rutini-ornekleri",
+      "slug": "uyku-rutini-ornekleri",
+      "category": "reflection-practice",
+      "angle": "uyku rutini örnekleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "uyku rutini örnekleri",
+          "volume": 260,
+          "kd": 14,
+          "displayed_volume": "260"
+        }
+      ],
+      "metric_keyword": "uyku rutini örnekleri",
+      "cluster_volume": 260,
+      "kd": 14,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sakral çakra olumlamaları",
+      "locale": "tr",
+      "intent_key": "sakral-cakra-olumlamalari",
+      "slug": "sakral-cakra-olumlamalari",
+      "category": "reflection-practice",
+      "angle": "sakral çakra olumlamaları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "sakral çakra olumlamaları",
+          "volume": 390,
+          "kd": 28,
+          "displayed_volume": "390"
+        }
+      ],
+      "metric_keyword": "sakral çakra olumlamaları",
+      "cluster_volume": 390,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 10.26,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "duygusal farkindalik",
+      "locale": "tr",
+      "intent_key": "duygusal-farkindalik",
+      "slug": "duygusal-farkindalik",
+      "category": "reflection-practice",
+      "angle": "duygusal farkindalik: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "duygusal farkindalik",
+          "volume": 280,
+          "kd": 22,
+          "displayed_volume": "280"
+        }
+      ],
+      "metric_keyword": "duygusal farkindalik",
+      "cluster_volume": 280,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 8.75,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "nefes meditasyonu",
+      "locale": "tr",
+      "intent_key": "nefes meditasyonu",
+      "slug": "nefes-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "nefes meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "nefes meditasyonu",
+          "volume": 170,
+          "kd": 14,
+          "displayed_volume": "170"
+        }
+      ],
+      "metric_keyword": "nefes meditasyonu",
+      "cluster_volume": 170,
+      "kd": 14,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 7.08,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "evrene enerji nasıl gönderilir",
+      "locale": "tr",
+      "intent_key": "evrene-enerji-nasil-gonderilir",
+      "slug": "evrene-enerji-nasil-gonderilir",
+      "category": "reflection-practice",
+      "angle": "evrene enerji nasıl gönderilir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "evrene enerji nasıl gönderilir",
+          "volume": 210,
+          "kd": 20,
+          "displayed_volume": "210"
+        }
+      ],
+      "metric_keyword": "evrene enerji nasıl gönderilir",
+      "cluster_volume": 210,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 7.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bereket sayısı",
+      "locale": "tr",
+      "intent_key": "bereket-sayisi",
+      "slug": "bereket-sayisi",
+      "category": "reflection-practice",
+      "angle": "bereket sayısı: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bereket sayısı",
+          "volume": 250,
+          "kd": 26,
+          "displayed_volume": "250"
+        }
+      ],
+      "metric_keyword": "bereket sayısı",
+      "cluster_volume": 250,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.94,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "21 günlük olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "21-gunluk-olumlama-cumleleri",
+      "slug": "21-gunluk-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "21 günlük örnek uygulama planı ve ilerleme günlüğü. 21 günün bilimsel bir dönüşüm garantisi olmadığını açıkla.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "21 günlük olumlama cümleleri",
+          "volume": 260,
+          "kd": 28,
+          "displayed_volume": "260"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "21 gün olumlama nedir",
+          "volume": 30,
+          "kd": 20,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "21 günlük olumlama nasıl yapılır",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "21 günde olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "21 günlük olumlama cümleleri",
+      "cluster_volume": 260,
+      "kd": 28,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 6.84,
+      "secondary_keywords": [
+        "21 gün olumlama nedir",
+        "21 günlük olumlama nasıl yapılır",
+        "21 günde olumlama"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "başarı olumlamaları",
+      "locale": "tr",
+      "intent_key": "basari-olumlamalari",
+      "slug": "basari-olumlamalari",
+      "category": "reflection-practice",
+      "angle": "başarı olumlamaları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "başarı olumlamaları",
+          "volume": 230,
+          "kd": 27,
+          "displayed_volume": "230"
+        }
+      ],
+      "metric_keyword": "başarı olumlamaları",
+      "cluster_volume": 230,
+      "kd": 27,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.22,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "manifestasyon nedir",
+      "locale": "tr",
+      "intent_key": "manifestasyon-nedir",
+      "slug": "manifestasyon-nedir",
+      "category": "reflection-practice",
+      "angle": "manifestasyon nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manifestasyon nedir",
+          "volume": 220,
+          "kd": 26,
+          "displayed_volume": "220"
+        }
+      ],
+      "metric_keyword": "manifestasyon nedir",
+      "cluster_volume": 220,
+      "kd": 26,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.11,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "19 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-19",
+      "slug": "melek-sayisi-19",
+      "category": "reflection-practice",
+      "angle": "19 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "19 melek sayısı",
+          "volume": 170,
+          "kd": 19,
+          "displayed_volume": "170"
+        }
+      ],
+      "metric_keyword": "19 melek sayısı",
+      "cluster_volume": 170,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 5.86,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama sözleri",
+      "locale": "tr",
+      "intent_key": "olumlama-sozleri",
+      "slug": "olumlama-sozleri",
+      "category": "reflection-practice",
+      "angle": "olumlama sözleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "olumlama sözleri",
+          "volume": 490,
+          "kd": 17,
+          "displayed_volume": "490"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama sözleri",
+          "volume": 110,
+          "kd": 11,
+          "displayed_volume": "110"
+        }
+      ],
+      "metric_keyword": "olumlama sözleri",
+      "cluster_volume": 110,
+      "kd": 11,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 5.24,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditasyon çeşitleri",
+      "locale": "tr",
+      "intent_key": "meditasyon-cesitleri",
+      "slug": "meditasyon-cesitleri",
+      "category": "reflection-practice",
+      "angle": "meditasyon çeşitleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditasyon çeşitleri",
+          "volume": 320,
+          "kd": 29,
+          "displayed_volume": "320"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon çeşitleri",
+          "volume": 140,
+          "kd": 18,
+          "displayed_volume": "140"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "en etkili meditasyon yöntemi",
+          "volume": 170,
+          "kd": 23,
+          "displayed_volume": "170"
+        }
+      ],
+      "metric_keyword": "meditasyon çeşitleri",
+      "cluster_volume": 140,
+      "kd": 18,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 5.0,
+      "secondary_keywords": ["en etkili meditasyon yöntemi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "hedef nasıl belirlenir",
+      "locale": "tr",
+      "intent_key": "hedef-nasil-belirlenir",
+      "slug": "hedef-nasil-belirlenir",
+      "category": "reflection-practice",
+      "angle": "hedef nasıl belirlenir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "hedef nasıl belirlenir",
+          "volume": 120,
+          "kd": 17,
+          "displayed_volume": "120"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "hedef nasıl belirlenir",
+          "volume": 120,
+          "kd": 17,
+          "displayed_volume": "120"
+        }
+      ],
+      "metric_keyword": "hedef nasıl belirlenir",
+      "cluster_volume": 120,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 4.44,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "ben değerliyim olumlama",
+      "locale": "tr",
+      "intent_key": "ben-degerliyim-olumlama",
+      "slug": "ben-degerliyim-olumlama",
+      "category": "reflection-practice",
+      "angle": "Özdeğer ve özsevgi için kişiselleştirilebilir cümleler, inandırıcı ifadeler seçme ve kısa günlük egzersizi.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "ben değerliyim olumlama",
+          "volume": 110,
+          "kd": 15,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "kendimi seviyorum olumlama",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "hak ediyorum olumlama",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "ben değerliyim olumlama",
+      "cluster_volume": 110,
+      "kd": 15,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.4,
+      "secondary_keywords": ["kendimi seviyorum olumlama", "hak ediyorum olumlama"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditasyon kitapları",
+      "locale": "tr",
+      "intent_key": "meditasyon kitaplari",
+      "slug": "meditasyon-kitaplari",
+      "category": "reflection-practice",
+      "angle": "meditasyon kitapları: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon kitapları",
+          "volume": 140,
+          "kd": 22,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "meditasyon kitapları",
+      "cluster_volume": 140,
+      "kd": 22,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.38,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "yaratım meditasyonu",
+      "locale": "tr",
+      "intent_key": "yaratim meditasyonu",
+      "slug": "yaratim-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "yaratım meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "yaratım meditasyonu",
+          "volume": 170,
+          "kd": 30,
+          "displayed_volume": "170"
+        }
+      ],
+      "metric_keyword": "yaratım meditasyonu",
+      "cluster_volume": 170,
+      "kd": 30,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.25,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "bilinçaltı olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "bilincalti-olumlama-cumleleri",
+      "slug": "bilincalti-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "Bilinçaltı olumlaması denen pratiği açıkla; otomatik inançları sorgulayan örnekler ver. Zihni yeniden programlama garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bilinçaltı olumlama cümleleri",
+          "volume": 110,
+          "kd": 17,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bilinçaltı olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bilinçaltı olumlama nasıl yapılır",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "bilinçaltı olumlama cümleleri",
+      "cluster_volume": 110,
+      "kd": 17,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 4.07,
+      "secondary_keywords": ["bilinçaltı olumlama", "bilinçaltı olumlama nasıl yapılır"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "metta meditasyonu",
+      "locale": "tr",
+      "intent_key": "metta meditasyonu",
+      "slug": "metta-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "metta meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "metta meditasyonu",
+          "volume": 90,
+          "kd": 14,
+          "displayed_volume": "90"
+        }
+      ],
+      "metric_keyword": "metta meditasyonu",
+      "cluster_volume": 90,
+      "kd": 14,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 3.75,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama meditasyonu",
+      "locale": "tr",
+      "intent_key": "olumlama meditasyonu",
+      "slug": "olumlama-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "olumlama meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama meditasyonu",
+          "volume": 140,
+          "kd": 30,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "olumlama meditasyonu",
+      "cluster_volume": 140,
+      "kd": 30,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 3.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditasyon uygulamaları",
+      "locale": "tr",
+      "intent_key": "meditasyon uygulamalari",
+      "slug": "meditasyon-uygulamalari",
+      "category": "reflection-practice",
+      "angle": "meditasyon uygulamaları: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon uygulamaları",
+          "volume": 110,
+          "kd": 24,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon uygulaması",
+          "volume": 110,
+          "kd": 21,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "en iyi meditasyon uygulaması",
+          "volume": 170,
+          "kd": 24,
+          "displayed_volume": "170"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "ücretsiz meditasyon uygulamaları",
+          "volume": 90,
+          "kd": 21,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon ücretsiz",
+          "volume": 110,
+          "kd": 21,
+          "displayed_volume": "110"
+        }
+      ],
+      "metric_keyword": "meditasyon uygulamaları",
+      "cluster_volume": 110,
+      "kd": 24,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 3.24,
+      "secondary_keywords": [
+        "meditasyon uygulaması",
+        "en iyi meditasyon uygulaması",
+        "ücretsiz meditasyon uygulamaları",
+        "meditasyon ücretsiz"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "mindfulness meditasyon",
+      "locale": "tr",
+      "intent_key": "mindfulness meditasyon",
+      "slug": "mindfulness-meditasyon",
+      "category": "reflection-practice",
+      "angle": "mindfulness meditasyon: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "mindfulness meditasyon",
+          "volume": 110,
+          "kd": 29,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "farkındalık meditasyonu",
+          "volume": 70,
+          "kd": 24,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "mindfulness meditasyon",
+      "cluster_volume": 110,
+      "kd": 29,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 2.82,
+      "secondary_keywords": ["farkındalık meditasyonu"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "rahatlama meditasyonu",
+      "locale": "tr",
+      "intent_key": "rahatlama meditasyonu",
+      "slug": "rahatlama-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "rahatlama meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "rahatlama meditasyonu",
+          "volume": 110,
+          "kd": 29,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "zihin boşaltma meditasyonu",
+          "volume": 110,
+          "kd": 29,
+          "displayed_volume": "110"
+        }
+      ],
+      "metric_keyword": "rahatlama meditasyonu",
+      "cluster_volume": 110,
+      "kd": 29,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 2.82,
+      "secondary_keywords": ["zihin boşaltma meditasyonu"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "şükür meditasyonu",
+      "locale": "tr",
+      "intent_key": "sukur meditasyonu",
+      "slug": "sukur-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "şükür meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "şükür meditasyonu",
+          "volume": 110,
+          "kd": 29,
+          "displayed_volume": "110"
+        }
+      ],
+      "metric_keyword": "şükür meditasyonu",
+      "cluster_volume": 110,
+      "kd": 29,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 2.82,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "toksik olumlama",
+      "locale": "tr",
+      "intent_key": "toksik-olumlama",
+      "slug": "toksik-olumlama",
+      "category": "reflection-practice",
+      "angle": "Zor duyguları inkâr eden pozitiflik ile gerçekçi özdestek arasındaki farkı günlük örneklerle anlat.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "toksik olumlama",
+          "volume": 70,
+          "kd": 17,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "toksik olumlama",
+      "cluster_volume": 70,
+      "kd": 17,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 2.59,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama kartları",
+      "locale": "tr",
+      "intent_key": "olumlama-kartlari",
+      "slug": "olumlama-kartlari",
+      "category": "reflection-practice",
+      "angle": "Kendi olumlama kartlarını hazırlama, seçme ve günlük rutin içinde kullanma rehberi.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama kartları",
+          "volume": 90,
+          "kd": 25,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama kartı",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "olumlama kartları",
+      "cluster_volume": 90,
+      "kd": 25,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 2.57,
+      "secondary_keywords": ["olumlama kartı"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama kitapları",
+      "locale": "tr",
+      "intent_key": "olumlama-kitaplari",
+      "slug": "olumlama-kitaplari",
+      "category": "reflection-practice",
+      "angle": "Güncel, gerçekten mevcut kitapları yaklaşım ve okuyucu ihtiyacına göre karşılaştır. Yazar ve kitap bilgilerini yazım sırasında doğrula.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama kitapları",
+          "volume": 50,
+          "kd": 16,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama kitap önerileri",
+          "volume": 30,
+          "kd": 15,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama ile ilgili kitaplar",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "olumlama kitapları",
+      "cluster_volume": 50,
+      "kd": 16,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 1.92,
+      "secondary_keywords": ["olumlama kitap önerileri", "olumlama ile ilgili kitaplar"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "beden olumlama nedir",
+      "locale": "tr",
+      "intent_key": "beden-olumlama-nedir",
+      "slug": "beden-olumlama-nedir",
+      "category": "reflection-practice",
+      "angle": "Beden olumlama ve beden nötrlüğü kavramları, yargısız günlük ifadeleri ve beden saygısı örnekleri. Kilo kaybı vaadi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "beden olumlama nedir",
+          "volume": 30,
+          "kd": 8,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "beden olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "beden olumlama nasıl yapılır",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "beden olumlama nedir",
+      "cluster_volume": 30,
+      "kd": 8,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 1.67,
+      "secondary_keywords": ["beden olumlama", "beden olumlama nasıl yapılır"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "rakamlarla olumlama",
+      "locale": "tr",
+      "intent_key": "rakamlarla-olumlama",
+      "slug": "rakamlarla-olumlama",
+      "category": "reflection-practice",
+      "angle": "Sayılarla niyet belirleme ritüellerinin nasıl kullanıldığını ve sınırlamalarını açıkla. Sayılara bilimsel etki atfetme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "rakamlarla olumlama",
+          "volume": 40,
+          "kd": 29,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "rakamlarla olumlama",
+      "cluster_volume": 40,
+      "kd": 29,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 1.03,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "uyku öncesi olumlama",
+      "locale": "tr",
+      "intent_key": "uyku-oncesi-olumlama",
+      "slug": "uyku-oncesi-olumlama",
+      "category": "reflection-practice",
+      "angle": "Günün değerlendirmesi ve yarının niyeti için yatmadan önce kullanılabilecek kısa cümleler ve yazma rutini.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "uyku öncesi olumlama",
+          "volume": 40,
+          "kd": 29,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "gece yatmadan önce olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "uyumadan önce olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "uyku öncesi olumlama",
+      "cluster_volume": 40,
+      "kd": 29,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 1.03,
+      "secondary_keywords": ["gece yatmadan önce olumlama", "uyumadan önce olumlama"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "başarı için olumlama",
+      "locale": "tr",
+      "intent_key": "basari-icin-olumlama",
+      "slug": "basari-icin-olumlama",
+      "category": "reflection-practice",
+      "angle": "Başarı hedeflerini küçük davranışlarla bağlayan olumlamalar ve haftalık ilerleme soruları.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "başarı için olumlama",
+          "volume": 30,
+          "kd": 21,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "başarı olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "başarı için olumlama",
+      "cluster_volume": 30,
+      "kd": 21,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 0.97,
+      "secondary_keywords": ["başarı olumlama cümleleri"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "ev sahibi olmak için olumlama",
+      "locale": "tr",
+      "intent_key": "ev-sahibi-olmak-icin-olumlama",
+      "slug": "ev-sahibi-olmak-icin-olumlama",
+      "category": "reflection-practice",
+      "angle": "Ev hedefini netleştiren olumlamalar ve eylem günlüğü. Finansal getiri veya satın alma garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "ev sahibi olmak için olumlama",
+          "volume": 30,
+          "kd": 27,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "ev sahibi olmak için olumlama",
+      "cluster_volume": 30,
+      "kd": 27,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 0.81,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "manifest nasıl yapılır",
+      "locale": "tr",
+      "intent_key": "manifest-nasil-yapilir",
+      "slug": "manifest-nasil-yapilir",
+      "category": "reflection-practice",
+      "angle": "manifest nasıl yapılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manifest nasıl yapılır",
+          "volume": 7700,
+          "kd": 35,
+          "displayed_volume": "7.7K"
+        }
+      ],
+      "metric_keyword": "manifest nasıl yapılır",
+      "cluster_volume": 7700,
+      "kd": 35,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 171.11,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "duygu nedir",
+      "locale": "tr",
+      "intent_key": "duygu-nedir",
+      "slug": "duygu-nedir",
+      "category": "reflection-practice",
+      "angle": "duygu nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710645.json",
+          "source_list_id": "6710645",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "duygu nedir",
+          "volume": 2900,
+          "kd": 35,
+          "displayed_volume": "2.9K"
+        }
+      ],
+      "metric_keyword": "duygu nedir",
+      "cluster_volume": 2900,
+      "kd": 35,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 64.44,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "uyku meditasyonu",
+      "locale": "tr",
+      "intent_key": "uyku meditasyonu",
+      "slug": "uyku-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "uyku meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "uyku meditasyonu",
+          "volume": 1900,
+          "kd": 35,
+          "displayed_volume": "1,900"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "derin uyku meditasyonu",
+          "volume": 320,
+          "kd": 25,
+          "displayed_volume": "320"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "meditasyon uyku",
+          "volume": 110,
+          "kd": 18,
+          "displayed_volume": "110"
+        }
+      ],
+      "metric_keyword": "uyku meditasyonu",
+      "cluster_volume": 1900,
+      "kd": 35,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 2,
+      "opportunity": 42.22,
+      "secondary_keywords": ["derin uyku meditasyonu", "meditasyon uyku"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numeroloji 3 sayısı",
+      "locale": "tr",
+      "intent_key": "numeroloji-3-sayisi",
+      "slug": "numeroloji-3-sayisi",
+      "category": "reflection-practice",
+      "angle": "numeroloji 3 sayısı: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numeroloji 3 sayısı",
+          "volume": 1300,
+          "kd": 33,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numerolojide 3 sayısının anlamı",
+          "volume": 240,
+          "kd": 31,
+          "displayed_volume": "240"
+        }
+      ],
+      "metric_keyword": "numeroloji 3 sayısı",
+      "cluster_volume": 1300,
+      "kd": 33,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 30.23,
+      "secondary_keywords": ["numerolojide 3 sayısının anlamı"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "888 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-888",
+      "slug": "melek-sayisi-888",
+      "category": "reflection-practice",
+      "angle": "888 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "888 melek sayısı",
+          "volume": 1300,
+          "kd": 35,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "888 melek sayısı",
+      "cluster_volume": 1300,
+      "kd": 35,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 28.89,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "04 04 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-404",
+      "slug": "melek-sayisi-404",
+      "category": "reflection-practice",
+      "angle": "04 04 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "04 04 melek sayısı",
+          "volume": 290,
+          "kd": 31,
+          "displayed_volume": "290"
+        }
+      ],
+      "metric_keyword": "04 04 melek sayısı",
+      "cluster_volume": 290,
+      "kd": 31,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 7.07,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sabah meditasyonu",
+      "locale": "tr",
+      "intent_key": "sabah meditasyonu",
+      "slug": "sabah-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "sabah meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "sabah meditasyonu",
+          "volume": 210,
+          "kd": 32,
+          "displayed_volume": "210"
+        }
+      ],
+      "metric_keyword": "sabah meditasyonu",
+      "cluster_volume": 210,
+      "kd": 32,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 2,
+      "opportunity": 5.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "9999 melek sayısı",
+      "locale": "tr",
+      "intent_key": "number-9999",
+      "slug": "melek-sayisi-9999",
+      "category": "reflection-practice",
+      "angle": "9999 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710660.json",
+          "source_list_id": "6710660",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "9999 melek sayısı",
+          "volume": 170,
+          "kd": 33,
+          "displayed_volume": "170"
+        }
+      ],
+      "metric_keyword": "9999 melek sayısı",
+      "cluster_volume": 170,
+      "kd": 33,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 3.95,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "para meditasyonu",
+      "locale": "tr",
+      "intent_key": "para meditasyonu",
+      "slug": "para-meditasyonu",
+      "category": "reflection-practice",
+      "angle": "para meditasyonu: somut örnekler ve kısa bir günlük uygulama; gerçekçi beklentileri ve sınırları açıkla. Sonuç veya başka insanların kararlarını kontrol etme garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "para meditasyonu",
+          "volume": 140,
+          "kd": 32,
+          "displayed_volume": "140"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bolluk bereket meditasyon",
+          "volume": 90,
+          "kd": 29,
+          "displayed_volume": "90"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-meditasyon.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=meditasyon&db=tr",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bolluk bereket meditasyonu",
+          "volume": 70,
+          "kd": 0,
+          "displayed_volume": "70"
+        }
+      ],
+      "metric_keyword": "para meditasyonu",
+      "cluster_volume": 140,
+      "kd": 32,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 2,
+      "opportunity": 3.33,
+      "secondary_keywords": ["bolluk bereket meditasyon", "bolluk bereket meditasyonu"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sabah olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "sabah-olumlama-cumleleri",
+      "slug": "sabah-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "Güne başlarken niyet belirlemek için kısa cümleler ve beş dakikalık uygulama akışı.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "sabah olumlama cümleleri",
+          "volume": 70,
+          "kd": 34,
+          "displayed_volume": "70"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "güne başlarken olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "günlük olumlama cümleleri",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "sabah olumlama cümleleri",
+      "cluster_volume": 70,
+      "kd": 34,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 2,
+      "opportunity": 1.59,
+      "secondary_keywords": ["güne başlarken olumlama", "günlük olumlama cümleleri"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama cümleleri aşk",
+      "locale": "tr",
+      "intent_key": "olumlama-cumleleri-ask",
+      "slug": "olumlama-cumleleri-ask",
+      "category": "reflection-practice",
+      "angle": "Karşılıklı saygı, açıklık ve özdeğere odaklanan aşk olumlamaları. Belirli bir kişiyi zorlayabilme iddiası kullanma.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama cümleleri aşk",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "aşk için olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "aşk olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "sevgi olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "olumlama cümleleri aşk",
+      "cluster_volume": 30,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.43,
+      "secondary_keywords": [
+        "aşk için olumlama",
+        "aşk olumlama cümleleri",
+        "sevgi olumlama cümleleri"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama yapmanın faydaları",
+      "locale": "tr",
+      "intent_key": "olumlama-yapmanin-faydalari",
+      "slug": "olumlama-yapmanin-faydalari",
+      "category": "reflection-practice",
+      "angle": "Olumlamaların olası yararları, sınırlamaları ve gerçekçi beklentiler. Araştırma ile kişisel anlatıları ayır; başarı hikâyesi uydurma.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama yapmanın faydaları",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama ile hayatı değişenler",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama yapanların yorumları",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "olumlama yapmanın faydaları",
+      "cluster_volume": 30,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.43,
+      "secondary_keywords": ["olumlama ile hayatı değişenler", "olumlama yapanların yorumları"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "para olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "para-olumlama-cumleleri",
+      "slug": "para-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "para olumlama cümleleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "para olumlama cümleleri",
+          "volume": 250,
+          "kd": 29,
+          "displayed_volume": "250"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "para olumlama cümleleri",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama cümleleri para",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "bolluk bereket olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "para çekmek için olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "para olumlama cümleleri",
+      "cluster_volume": 30,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.43,
+      "secondary_keywords": [
+        "olumlama cümleleri para",
+        "bolluk bereket olumlama cümleleri",
+        "para çekmek için olumlama"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sevgiliyle barışmak için olumlama",
+      "locale": "tr",
+      "intent_key": "sevgiliyle-barismak-icin-olumlama",
+      "slug": "sevgiliyle-barismak-icin-olumlama",
+      "category": "reflection-practice",
+      "angle": "Ayrılık sonrası kendi davranışına, sınırlara ve saygılı iletişime odaklanan cümleler. Karşı tarafın rızasını ve iletişim sınırlarını koru.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "sevgiliyle barışmak için olumlama",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "sevgiliyle barışmak için olumlama",
+      "cluster_volume": 30,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "suya olumlama nasıl yapılır",
+      "locale": "tr",
+      "intent_key": "suya-olumlama-nasil-yapilir",
+      "slug": "suya-olumlama-nasil-yapilir",
+      "category": "reflection-practice",
+      "angle": "Suya niyet söyleme pratiğini sembolik bir ritüel olarak anlat ve alternatif günlük egzersizi sun. Suyun fiziksel özelliklerini değiştirdiğini iddia etme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "suya olumlama nasıl yapılır",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "suya olumlama nasıl yapılır",
+      "cluster_volume": 30,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "dolunay olumlama",
+      "locale": "tr",
+      "intent_key": "dolunay-olumlama",
+      "slug": "dolunay-olumlama",
+      "category": "reflection-practice",
+      "angle": "Dolunayla ilişkilendirilen niyet ve bırakma ritüellerini kültürel/spiritüel pratik olarak anlat; günlük soruları ve örnek cümleler ver.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "dolunay olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "dolunay olumlama",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "evlilik olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "evlilik-olumlama-cumleleri",
+      "slug": "evlilik-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "evlilik olumlama cümleleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-tr-6710599.json",
+          "source_list_id": "6710599/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "evlilik olumlama cümleleri",
+          "volume": 220,
+          "kd": 20,
+          "displayed_volume": "220"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "evlilik olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "evlenmek için olumlama",
+          "volume": 170,
+          "kd": 17,
+          "displayed_volume": "170"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "evlilik için olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "evlilik olumlama cümleleri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["evlenmek için olumlama", "evlilik için olumlama cümleleri"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "iş bulmak için olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "is-bulmak-icin-olumlama-cumleleri",
+      "slug": "is-bulmak-icin-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "İş arama sürecinde hazırlık ve özdesteğe odaklanan cümleler; başvuru ve görüşme eylemleriyle birlikte kullanma örnekleri.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "iş bulmak için olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "işe girmek için olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "iş için olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "iş bulmak için olumlama cümleleri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["işe girmek için olumlama", "iş için olumlama"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama defteri",
+      "locale": "tr",
+      "intent_key": "olumlama-defteri",
+      "slug": "olumlama-defteri",
+      "category": "reflection-practice",
+      "angle": "Olumlama defteri için bölüm düzeni, örnek sayfa ve haftalık değerlendirme şablonu.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama defteri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "olumlama defteri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "olumlama yaparken dikkat edilmesi gerekenler",
+      "locale": "tr",
+      "intent_key": "olumlama-yaparken-dikkat-edilmesi-gerekenler",
+      "slug": "olumlama-yaparken-dikkat-edilmesi-gerekenler",
+      "category": "reflection-practice",
+      "angle": "İnanılmayan cümleler, duyguları bastırma ve eylemsiz beklenti gibi yaygın sorunlar; her biri için daha gerçekçi alternatifler.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "olumlama yaparken dikkat edilmesi gerekenler",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "olumlama yaparken dikkat edilmesi gerekenler",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "ruh eşi olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "ruh-esi-olumlama-cumleleri",
+      "slug": "ruh-esi-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "İdeal ilişki değerleri ve karşılıklı bağlılık üzerine cümleler ve günlük soruları. Ruh eşi fikrini inanç olarak ele al.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "ruh eşi olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "ruh eşi olumlama cümleleri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "satış yapmak için olumlama",
+      "locale": "tr",
+      "intent_key": "satis-yapmak-icin-olumlama",
+      "slug": "satis-yapmak-icin-olumlama",
+      "category": "reflection-practice",
+      "angle": "Satış görüşmesi öncesinde hazırlık, dinleme ve dürüst iletişime odaklanan kısa cümleler. Sonuç garantisi verme.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "satış yapmak için olumlama",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "satış yapmak için olumlama",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "sınav olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "sinav-olumlama-cumleleri",
+      "slug": "sinav-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "Sınav hazırlığında dikkat ve çabayı destekleyen gerçekçi ifadeler, çalışma öncesi kısa rutin ve sınırları.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "sınav olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "sınav olumlama cümleleri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "uyurken olumlama dinlemek",
+      "locale": "tr",
+      "intent_key": "uyurken-olumlama-dinlemek",
+      "slug": "uyurken-olumlama-dinlemek",
+      "category": "reflection-practice",
+      "angle": "Uykuda olumlama dinleme iddialarını kanıt ve sınırlamalarıyla incele; uyku öncesi bilinçli uygulamayla farkını açıkla.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "uyurken olumlama dinlemek",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "uyurken olumlama dinlemek",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "yazarak olumlama yapmak",
+      "locale": "tr",
+      "intent_key": "yazarak-olumlama-yapmak",
+      "slug": "yazarak-olumlama-yapmak",
+      "category": "reflection-practice",
+      "angle": "El yazısıyla olumlama defteri tutmak için yapı, örnek sayfa ve kısa uygulama. Tekrarlama sayılarını garanti gibi sunma.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "yazarak olumlama yapmak",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "yazarak olumlama yapmak",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "özgüven olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "ozguven-olumlama-cumleleri",
+      "slug": "ozguven-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "Özgüven cümlelerini günlük küçük denemelerle eşleştir; kişinin inanabileceği ifadeler oluşturmasına yardım et.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "özgüven olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "özgüven olumlama cümleleri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "şans olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "sans-olumlama-cumleleri",
+      "slug": "sans-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "Şansı kontrol etme iddiası yerine fırsat fark etme ve harekete geçmeye odaklanan cümleler ve günlük soruları.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "şans olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "şans olumlama cümleleri",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affetme olumlama cümleleri",
+      "locale": "tr",
+      "intent_key": "affetme-olumlama-cumleleri",
+      "slug": "affetme-olumlama-cumleleri",
+      "category": "reflection-practice",
+      "angle": "Affetmeyi zorunlu kılmadan özşefkat, duyguları adlandırma ve kişisel sınırlar için örnek ifadeler.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affetme olumlama cümleleri",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "affetme olumlama cümleleri",
+      "cluster_volume": 10,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "alma verme dengesi olumlama",
+      "locale": "tr",
+      "intent_key": "alma-verme-dengesi-olumlama",
+      "slug": "alma-verme-dengesi-olumlama",
+      "category": "reflection-practice",
+      "angle": "İlişkilerde karşılıklılık ve sınır koyma üzerine olumlamalar ve özdeğerlendirme soruları.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "alma verme dengesi olumlama",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "alma verme dengesi olumlama",
+      "cluster_volume": 10,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "mantra olumlama",
+      "locale": "tr",
+      "intent_key": "mantra-olumlama",
+      "slug": "mantra-olumlama",
+      "category": "reflection-practice",
+      "angle": "Mantra ve olumlama arasındaki amaç ve kullanım farklarını, örnekleri ve kişisel rutin seçimlerini karşılaştır.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-tr-olumlama.json",
+          "source_url": null,
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "mantra olumlama",
+          "volume": 10,
+          "kd": null,
+          "displayed_volume": "10"
+        }
+      ],
+      "metric_keyword": "mantra olumlama",
+      "cluster_volume": 10,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "status": "reviewed_partial_batch_not_live_queue",
+  "observed_on": "2026-09-08",
+  "locale": "tr",
+  "scope": "Selected distinct intents from the first 200 captured olumlama results. Unselected source rows are not approved assignments.",
+  "assignment_count": 33,
+  "assignments": [
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-nedir",
+      "slug": "olumlama-nedir",
+      "primary_keyword": "olumlama nedir",
+      "article_angle": "Olumlamanın ne olduğunu, gerçekçi cümle yazmayı ve günlük uygulamayı örneklerle açıklayan başlangıç rehberi.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama nedir",
+          "volume": 590,
+          "kd": 12,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama nasıl yapılır",
+          "volume": 210,
+          "kd": 13,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "doğru olumlama nasıl yapılır",
+          "volume": 30,
+          "kd": 8,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama ritüelleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "21-gunluk-olumlama-cumleleri",
+      "slug": "21-gunluk-olumlama-cumleleri",
+      "primary_keyword": "21 günlük olumlama cümleleri",
+      "article_angle": "21 günlük örnek uygulama planı ve ilerleme günlüğü. 21 günün bilimsel bir dönüşüm garantisi olmadığını açıkla.",
+      "source_occurrences": [
+        {
+          "keyword": "21 günlük olumlama cümleleri",
+          "volume": 260,
+          "kd": 28,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "21 gün olumlama nedir",
+          "volume": 30,
+          "kd": 20,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "21 günlük olumlama nasıl yapılır",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "21 günde olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "evlenmek-icin-olumlama",
+      "slug": "evlenmek-icin-olumlama",
+      "primary_keyword": "evlenmek için olumlama",
+      "article_angle": "Sağlıklı ilişki değerlerini netleştiren evlilik olumlamaları ve günlük soruları. Başkasının kararlarını kontrol etme vaadi verme.",
+      "source_occurrences": [
+        {
+          "keyword": "evlenmek için olumlama",
+          "volume": 170,
+          "kd": 17,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "evlilik için olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "evlilik olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ben-degerliyim-olumlama",
+      "slug": "ben-degerliyim-olumlama",
+      "primary_keyword": "ben değerliyim olumlama",
+      "article_angle": "Özdeğer ve özsevgi için kişiselleştirilebilir cümleler, inandırıcı ifadeler seçme ve kısa günlük egzersizi.",
+      "source_occurrences": [
+        {
+          "keyword": "ben değerliyim olumlama",
+          "volume": 110,
+          "kd": 15,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "kendimi seviyorum olumlama",
+          "volume": 10,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "hak ediyorum olumlama",
+          "volume": 10,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "bilincalti-olumlama-cumleleri",
+      "slug": "bilincalti-olumlama-cumleleri",
+      "primary_keyword": "bilinçaltı olumlama cümleleri",
+      "article_angle": "Bilinçaltı olumlaması denen pratiği açıkla; otomatik inançları sorgulayan örnekler ver. Zihni yeniden programlama garantisi verme.",
+      "source_occurrences": [
+        {
+          "keyword": "bilinçaltı olumlama cümleleri",
+          "volume": 110,
+          "kd": 17,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "bilinçaltı olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "bilinçaltı olumlama nasıl yapılır",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-kartlari",
+      "slug": "olumlama-kartlari",
+      "primary_keyword": "olumlama kartları",
+      "article_angle": "Kendi olumlama kartlarını hazırlama, seçme ve günlük rutin içinde kullanma rehberi.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama kartları",
+          "volume": 90,
+          "kd": 25,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama kartı",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sabah-olumlama-cumleleri",
+      "slug": "sabah-olumlama-cumleleri",
+      "primary_keyword": "sabah olumlama cümleleri",
+      "article_angle": "Güne başlarken niyet belirlemek için kısa cümleler ve beş dakikalık uygulama akışı.",
+      "source_occurrences": [
+        {
+          "keyword": "sabah olumlama cümleleri",
+          "volume": 70,
+          "kd": 34,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "güne başlarken olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "günlük olumlama cümleleri",
+          "volume": 10,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "toksik-olumlama",
+      "slug": "toksik-olumlama",
+      "primary_keyword": "toksik olumlama",
+      "article_angle": "Zor duyguları inkâr eden pozitiflik ile gerçekçi özdestek arasındaki farkı günlük örneklerle anlat.",
+      "source_occurrences": [
+        {
+          "keyword": "toksik olumlama",
+          "volume": 70,
+          "kd": 17,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-kitaplari",
+      "slug": "olumlama-kitaplari",
+      "primary_keyword": "olumlama kitapları",
+      "article_angle": "Güncel, gerçekten mevcut kitapları yaklaşım ve okuyucu ihtiyacına göre karşılaştır. Yazar ve kitap bilgilerini yazım sırasında doğrula.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama kitapları",
+          "volume": 50,
+          "kd": 16,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama kitap önerileri",
+          "volume": 30,
+          "kd": 15,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama ile ilgili kitaplar",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "rakamlarla-olumlama",
+      "slug": "rakamlarla-olumlama",
+      "primary_keyword": "rakamlarla olumlama",
+      "article_angle": "Sayılarla niyet belirleme ritüellerinin nasıl kullanıldığını ve sınırlamalarını açıkla. Sayılara bilimsel etki atfetme.",
+      "source_occurrences": [
+        {
+          "keyword": "rakamlarla olumlama",
+          "volume": 40,
+          "kd": 29,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "uyku-oncesi-olumlama",
+      "slug": "uyku-oncesi-olumlama",
+      "primary_keyword": "uyku öncesi olumlama",
+      "article_angle": "Günün değerlendirmesi ve yarının niyeti için yatmadan önce kullanılabilecek kısa cümleler ve yazma rutini.",
+      "source_occurrences": [
+        {
+          "keyword": "uyku öncesi olumlama",
+          "volume": 40,
+          "kd": 29,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "gece yatmadan önce olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "uyumadan önce olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "basari-icin-olumlama",
+      "slug": "basari-icin-olumlama",
+      "primary_keyword": "başarı için olumlama",
+      "article_angle": "Başarı hedeflerini küçük davranışlarla bağlayan olumlamalar ve haftalık ilerleme soruları.",
+      "source_occurrences": [
+        {
+          "keyword": "başarı için olumlama",
+          "volume": 30,
+          "kd": 21,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "başarı olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "beden-olumlama-nedir",
+      "slug": "beden-olumlama-nedir",
+      "primary_keyword": "beden olumlama nedir",
+      "article_angle": "Beden olumlama ve beden nötrlüğü kavramları, yargısız günlük ifadeleri ve beden saygısı örnekleri. Kilo kaybı vaadi verme.",
+      "source_occurrences": [
+        {
+          "keyword": "beden olumlama nedir",
+          "volume": 30,
+          "kd": 8,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "beden olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "beden olumlama nasıl yapılır",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ev-sahibi-olmak-icin-olumlama",
+      "slug": "ev-sahibi-olmak-icin-olumlama",
+      "primary_keyword": "ev sahibi olmak için olumlama",
+      "article_angle": "Ev hedefini netleştiren olumlamalar ve eylem günlüğü. Finansal getiri veya satın alma garantisi verme.",
+      "source_occurrences": [
+        {
+          "keyword": "ev sahibi olmak için olumlama",
+          "volume": 30,
+          "kd": 27,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-cumleleri-ask",
+      "slug": "olumlama-cumleleri-ask",
+      "primary_keyword": "olumlama cümleleri aşk",
+      "article_angle": "Karşılıklı saygı, açıklık ve özdeğere odaklanan aşk olumlamaları. Belirli bir kişiyi zorlayabilme iddiası kullanma.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama cümleleri aşk",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "aşk için olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "aşk olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "sevgi olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-cumleleri-para",
+      "slug": "olumlama-cumleleri-para",
+      "primary_keyword": "olumlama cümleleri para",
+      "article_angle": "Para hakkındaki inançları fark etmeye yarayan ifadeler ve günlük soruları. Gelir artışı garantisi veya yatırım tavsiyesi verme.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama cümleleri para",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "para olumlama cümleleri",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "bolluk bereket olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "para çekmek için olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-yapmanin-faydalari",
+      "slug": "olumlama-yapmanin-faydalari",
+      "primary_keyword": "olumlama yapmanın faydaları",
+      "article_angle": "Olumlamaların olası yararları, sınırlamaları ve gerçekçi beklentiler. Araştırma ile kişisel anlatıları ayır; başarı hikâyesi uydurma.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama yapmanın faydaları",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama ile hayatı değişenler",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "olumlama yapanların yorumları",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sevgiliyle-barismak-icin-olumlama",
+      "slug": "sevgiliyle-barismak-icin-olumlama",
+      "primary_keyword": "sevgiliyle barışmak için olumlama",
+      "article_angle": "Ayrılık sonrası kendi davranışına, sınırlara ve saygılı iletişime odaklanan cümleler. Karşı tarafın rızasını ve iletişim sınırlarını koru.",
+      "source_occurrences": [
+        {
+          "keyword": "sevgiliyle barışmak için olumlama",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "suya-olumlama-nasil-yapilir",
+      "slug": "suya-olumlama-nasil-yapilir",
+      "primary_keyword": "suya olumlama nasıl yapılır",
+      "article_angle": "Suya niyet söyleme pratiğini sembolik bir ritüel olarak anlat ve alternatif günlük egzersizi sun. Suyun fiziksel özelliklerini değiştirdiğini iddia etme.",
+      "source_occurrences": [
+        {
+          "keyword": "suya olumlama nasıl yapılır",
+          "volume": 30,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "dolunay-olumlama",
+      "slug": "dolunay-olumlama",
+      "primary_keyword": "dolunay olumlama",
+      "article_angle": "Dolunayla ilişkilendirilen niyet ve bırakma ritüellerini kültürel/spiritüel pratik olarak anlat; günlük soruları ve örnek cümleler ver.",
+      "source_occurrences": [
+        {
+          "keyword": "dolunay olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "is-bulmak-icin-olumlama-cumleleri",
+      "slug": "is-bulmak-icin-olumlama-cumleleri",
+      "primary_keyword": "iş bulmak için olumlama cümleleri",
+      "article_angle": "İş arama sürecinde hazırlık ve özdesteğe odaklanan cümleler; başvuru ve görüşme eylemleriyle birlikte kullanma örnekleri.",
+      "source_occurrences": [
+        {
+          "keyword": "iş bulmak için olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "işe girmek için olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        },
+        {
+          "keyword": "iş için olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "alma-verme-dengesi-olumlama",
+      "slug": "alma-verme-dengesi-olumlama",
+      "primary_keyword": "alma verme dengesi olumlama",
+      "article_angle": "İlişkilerde karşılıklılık ve sınır koyma üzerine olumlamalar ve özdeğerlendirme soruları.",
+      "source_occurrences": [
+        {
+          "keyword": "alma verme dengesi olumlama",
+          "volume": 10,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "mantra-olumlama",
+      "slug": "mantra-olumlama",
+      "primary_keyword": "mantra olumlama",
+      "article_angle": "Mantra ve olumlama arasındaki amaç ve kullanım farklarını, örnekleri ve kişisel rutin seçimlerini karşılaştır.",
+      "source_occurrences": [
+        {
+          "keyword": "mantra olumlama",
+          "volume": 10,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ozguven-olumlama-cumleleri",
+      "slug": "ozguven-olumlama-cumleleri",
+      "primary_keyword": "özgüven olumlama cümleleri",
+      "article_angle": "Özgüven cümlelerini günlük küçük denemelerle eşleştir; kişinin inanabileceği ifadeler oluşturmasına yardım et.",
+      "source_occurrences": [
+        {
+          "keyword": "özgüven olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "yazarak-olumlama-yapmak",
+      "slug": "yazarak-olumlama-yapmak",
+      "primary_keyword": "yazarak olumlama yapmak",
+      "article_angle": "El yazısıyla olumlama defteri tutmak için yapı, örnek sayfa ve kısa uygulama. Tekrarlama sayılarını garanti gibi sunma.",
+      "source_occurrences": [
+        {
+          "keyword": "yazarak olumlama yapmak",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sinav-olumlama-cumleleri",
+      "slug": "sinav-olumlama-cumleleri",
+      "primary_keyword": "sınav olumlama cümleleri",
+      "article_angle": "Sınav hazırlığında dikkat ve çabayı destekleyen gerçekçi ifadeler, çalışma öncesi kısa rutin ve sınırları.",
+      "source_occurrences": [
+        {
+          "keyword": "sınav olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "affetme-olumlama-cumleleri",
+      "slug": "affetme-olumlama-cumleleri",
+      "primary_keyword": "affetme olumlama cümleleri",
+      "article_angle": "Affetmeyi zorunlu kılmadan özşefkat, duyguları adlandırma ve kişisel sınırlar için örnek ifadeler.",
+      "source_occurrences": [
+        {
+          "keyword": "affetme olumlama cümleleri",
+          "volume": 10,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ruh-esi-olumlama-cumleleri",
+      "slug": "ruh-esi-olumlama-cumleleri",
+      "primary_keyword": "ruh eşi olumlama cümleleri",
+      "article_angle": "İdeal ilişki değerleri ve karşılıklı bağlılık üzerine cümleler ve günlük soruları. Ruh eşi fikrini inanç olarak ele al.",
+      "source_occurrences": [
+        {
+          "keyword": "ruh eşi olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-defteri",
+      "slug": "olumlama-defteri",
+      "primary_keyword": "olumlama defteri",
+      "article_angle": "Olumlama defteri için bölüm düzeni, örnek sayfa ve haftalık değerlendirme şablonu.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama defteri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-yaparken-dikkat-edilmesi-gerekenler",
+      "slug": "olumlama-yaparken-dikkat-edilmesi-gerekenler",
+      "primary_keyword": "olumlama yaparken dikkat edilmesi gerekenler",
+      "article_angle": "İnanılmayan cümleler, duyguları bastırma ve eylemsiz beklenti gibi yaygın sorunlar; her biri için daha gerçekçi alternatifler.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama yaparken dikkat edilmesi gerekenler",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "satis-yapmak-icin-olumlama",
+      "slug": "satis-yapmak-icin-olumlama",
+      "primary_keyword": "satış yapmak için olumlama",
+      "article_angle": "Satış görüşmesi öncesinde hazırlık, dinleme ve dürüst iletişime odaklanan kısa cümleler. Sonuç garantisi verme.",
+      "source_occurrences": [
+        {
+          "keyword": "satış yapmak için olumlama",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sans-olumlama-cumleleri",
+      "slug": "sans-olumlama-cumleleri",
+      "primary_keyword": "şans olumlama cümleleri",
+      "article_angle": "Şansı kontrol etme iddiası yerine fırsat fark etme ve harekete geçmeye odaklanan cümleler ve günlük soruları.",
+      "source_occurrences": [
+        {
+          "keyword": "şans olumlama cümleleri",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "uyurken-olumlama-dinlemek",
+      "slug": "uyurken-olumlama-dinlemek",
+      "primary_keyword": "uyurken olumlama dinlemek",
+      "article_angle": "Uykuda olumlama dinleme iddialarını kanıt ve sınırlamalarıyla incele; uyku öncesi bilinçli uygulamayla farkını açıkla.",
+      "source_occurrences": [
+        {
+          "keyword": "uyurken olumlama dinlemek",
+          "volume": 20,
+          "kd": null,
+          "source": "https://sem.3ue.com/analytics/keywordmagic/?q=olumlama&db=tr",
+          "metric_type": "individual_keyword"
+        }
+      ]
+    }
+  ],
+  "consolidation_required": "Merge with keyword-runway-tr.json and original Turkish structured list before final runway certification."
+}

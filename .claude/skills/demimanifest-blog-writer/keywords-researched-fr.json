@@ -1,0 +1,4829 @@
+{
+  "schema_version": 1,
+  "locale": "fr",
+  "observed_on": "2026-09-08",
+  "status": "wired",
+  "metrics_note": "Volume is source-specific: rounded page-cluster estimates or individual keyword estimates as labeled. Never sum variants or source occurrences.",
+  "rows": [
+    {
+      "keyword": "heure miroir 22h22",
+      "locale": "fr",
+      "intent_key": "number-2222",
+      "slug": "signification-2222",
+      "category": "reflection-practice",
+      "angle": "heure miroir 22h22 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 22h22",
+          "volume": 127300,
+          "kd": 22,
+          "displayed_volume": "127.3K"
+        }
+      ],
+      "metric_keyword": "heure miroir 22h22",
+      "cluster_volume": 127300,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 3978.12,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 19h19",
+      "locale": "fr",
+      "intent_key": "number-1919",
+      "slug": "signification-1919",
+      "category": "reflection-practice",
+      "angle": "heure miroir 19h19 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 19h19",
+          "volume": 30200,
+          "kd": 15,
+          "displayed_volume": "30.2K"
+        }
+      ],
+      "metric_keyword": "heure miroir 19h19",
+      "cluster_volume": 30200,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 1208.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 17h17",
+      "locale": "fr",
+      "intent_key": "number-1717",
+      "slug": "signification-1717",
+      "category": "reflection-practice",
+      "angle": "heure miroir 17h17 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 17h17",
+          "volume": 32000,
+          "kd": 20,
+          "displayed_volume": "32K"
+        }
+      ],
+      "metric_keyword": "heure miroir 17h17",
+      "cluster_volume": 32000,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 1066.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 10h10",
+      "locale": "fr",
+      "intent_key": "number-1010",
+      "slug": "signification-1010",
+      "category": "reflection-practice",
+      "angle": "heure miroir 10h10 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 10h10",
+          "volume": 26000,
+          "kd": 19,
+          "displayed_volume": "26K"
+        }
+      ],
+      "metric_keyword": "heure miroir 10h10",
+      "cluster_volume": 26000,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 896.55,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 18h18",
+      "locale": "fr",
+      "intent_key": "number-1818",
+      "slug": "signification-1818",
+      "category": "reflection-practice",
+      "angle": "heure miroir 18h18 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 18h18",
+          "volume": 21500,
+          "kd": 15,
+          "displayed_volume": "21.5K"
+        }
+      ],
+      "metric_keyword": "heure miroir 18h18",
+      "cluster_volume": 21500,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 860.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 21h21",
+      "locale": "fr",
+      "intent_key": "number-2121",
+      "slug": "signification-2121",
+      "category": "reflection-practice",
+      "angle": "heure miroir 21h21 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 21h21",
+          "volume": 27500,
+          "kd": 22,
+          "displayed_volume": "27.5K"
+        }
+      ],
+      "metric_keyword": "heure miroir 21h21",
+      "cluster_volume": 27500,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 859.38,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 12h12",
+      "locale": "fr",
+      "intent_key": "number-1212",
+      "slug": "signification-1212",
+      "category": "reflection-practice",
+      "angle": "heure miroir 12h12 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 12h12",
+          "volume": 24100,
+          "kd": 19,
+          "displayed_volume": "24.1K"
+        }
+      ],
+      "metric_keyword": "heure miroir 12h12",
+      "cluster_volume": 24100,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 831.03,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 16h16",
+      "locale": "fr",
+      "intent_key": "number-1616",
+      "slug": "signification-1616",
+      "category": "reflection-practice",
+      "angle": "heure miroir 16h16 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 16h16",
+          "volume": 21600,
+          "kd": 16,
+          "displayed_volume": "21.6K"
+        }
+      ],
+      "metric_keyword": "heure miroir 16h16",
+      "cluster_volume": 21600,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 830.77,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 13h13",
+      "locale": "fr",
+      "intent_key": "number-1313",
+      "slug": "signification-1313",
+      "category": "reflection-practice",
+      "angle": "heure miroir 13h13 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 13h13",
+          "volume": 23900,
+          "kd": 21,
+          "displayed_volume": "23.9K"
+        }
+      ],
+      "metric_keyword": "heure miroir 13h13",
+      "cluster_volume": 23900,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 770.97,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 14h14",
+      "locale": "fr",
+      "intent_key": "number-1414",
+      "slug": "signification-1414",
+      "category": "reflection-practice",
+      "angle": "heure miroir 14h14 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 14h14",
+          "volume": 19700,
+          "kd": 17,
+          "displayed_volume": "19.7K"
+        }
+      ],
+      "metric_keyword": "heure miroir 14h14",
+      "cluster_volume": 19700,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 729.63,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 15h15",
+      "locale": "fr",
+      "intent_key": "number-1515",
+      "slug": "signification-1515",
+      "category": "reflection-practice",
+      "angle": "heure miroir 15h15 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 15h15",
+          "volume": 19300,
+          "kd": 17,
+          "displayed_volume": "19.3K"
+        }
+      ],
+      "metric_keyword": "heure miroir 15h15",
+      "cluster_volume": 19300,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 714.81,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 20h20",
+      "locale": "fr",
+      "intent_key": "number-2020",
+      "slug": "signification-2020",
+      "category": "reflection-practice",
+      "angle": "heure miroir 20h20 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 20h20",
+          "volume": 20700,
+          "kd": 23,
+          "displayed_volume": "20.7K"
+        }
+      ],
+      "metric_keyword": "heure miroir 20h20",
+      "cluster_volume": 20700,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 627.27,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "10h01 signification",
+      "locale": "fr",
+      "intent_key": "number-1001",
+      "slug": "signification-1001",
+      "category": "reflection-practice",
+      "angle": "10h01 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "10h01 signification",
+          "volume": 15800,
+          "kd": 17,
+          "displayed_volume": "15.8K"
+        }
+      ],
+      "metric_keyword": "10h01 signification",
+      "cluster_volume": 15800,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 585.19,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 00h00",
+      "locale": "fr",
+      "intent_key": "number-0",
+      "slug": "signification-0",
+      "category": "reflection-practice",
+      "angle": "heure miroir 00h00 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 00h00",
+          "volume": 16200,
+          "kd": 20,
+          "displayed_volume": "16.2K"
+        }
+      ],
+      "metric_keyword": "heure miroir 00h00",
+      "cluster_volume": 16200,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 540.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation pour dormir",
+      "locale": "fr",
+      "intent_key": "meditation-pour-dormir",
+      "slug": "meditation-pour-dormir",
+      "category": "reflection-practice",
+      "angle": "meditation pour dormir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation pour s endormir",
+          "volume": 1500,
+          "kd": 31,
+          "displayed_volume": "1.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation pour dormir",
+          "volume": 20300,
+          "kd": 28,
+          "displayed_volume": "20.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation pour dormir et lacher prise",
+          "volume": 2500,
+          "kd": 30,
+          "displayed_volume": "2.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "méditation pour se rendormir",
+          "volume": 600,
+          "kd": 30,
+          "displayed_volume": "600"
+        }
+      ],
+      "metric_keyword": "meditation pour dormir",
+      "cluster_volume": 20300,
+      "kd": 28,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 534.21,
+      "secondary_keywords": [
+        "meditation pour s endormir",
+        "meditation pour dormir et lacher prise",
+        "méditation pour se rendormir"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 08h08",
+      "locale": "fr",
+      "intent_key": "number-808",
+      "slug": "signification-808",
+      "category": "reflection-practice",
+      "angle": "heure miroir 08h08 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 08h08",
+          "volume": 14300,
+          "kd": 18,
+          "displayed_volume": "14.3K"
+        }
+      ],
+      "metric_keyword": "heure miroir 08h08",
+      "cluster_volume": 14300,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 510.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 09h09 signification",
+      "locale": "fr",
+      "intent_key": "number-909",
+      "slug": "signification-909",
+      "category": "reflection-practice",
+      "angle": "heure miroir 09h09 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 09h09 signification",
+          "volume": 13400,
+          "kd": 18,
+          "displayed_volume": "13.4K"
+        }
+      ],
+      "metric_keyword": "heure miroir 09h09 signification",
+      "cluster_volume": 13400,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 478.57,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 07h07",
+      "locale": "fr",
+      "intent_key": "number-707",
+      "slug": "signification-707",
+      "category": "reflection-practice",
+      "angle": "heure miroir 07h07 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 07h07",
+          "volume": 13100,
+          "kd": 20,
+          "displayed_volume": "13.1K"
+        }
+      ],
+      "metric_keyword": "heure miroir 07h07",
+      "cluster_volume": 13100,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 436.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "23h32 signification",
+      "locale": "fr",
+      "intent_key": "number-2332",
+      "slug": "signification-2332",
+      "category": "reflection-practice",
+      "angle": "23h32 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "23h32 signification",
+          "volume": 12900,
+          "kd": 21,
+          "displayed_volume": "12.9K"
+        }
+      ],
+      "metric_keyword": "23h32 signification",
+      "cluster_volume": 12900,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 416.13,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "vision board",
+      "locale": "fr",
+      "intent_key": "vision-board",
+      "slug": "vision-board",
+      "category": "reflection-practice",
+      "angle": "vision board : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "tableau de visualisation",
+          "volume": 1900,
+          "kd": 18,
+          "displayed_volume": "1.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "visualisation board",
+          "volume": 1200,
+          "kd": 32,
+          "displayed_volume": "1.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "vision board",
+          "volume": 13300,
+          "kd": 25,
+          "displayed_volume": "13.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "tableau de visualisation",
+          "volume": 1900,
+          "kd": 18,
+          "displayed_volume": "1.9K"
+        }
+      ],
+      "metric_keyword": "vision board",
+      "cluster_volume": 13300,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 380.0,
+      "secondary_keywords": ["tableau de visualisation", "visualisation board"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 01h01",
+      "locale": "fr",
+      "intent_key": "number-101",
+      "slug": "signification-101",
+      "category": "reflection-practice",
+      "angle": "heure miroir 01h01 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 01h01",
+          "volume": 7000,
+          "kd": 17,
+          "displayed_volume": "7K"
+        }
+      ],
+      "metric_keyword": "heure miroir 01h01",
+      "cluster_volume": 7000,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 259.26,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 06h06",
+      "locale": "fr",
+      "intent_key": "number-606",
+      "slug": "signification-606",
+      "category": "reflection-practice",
+      "angle": "heure miroir 06h06 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 06h06",
+          "volume": 6600,
+          "kd": 16,
+          "displayed_volume": "6.6K"
+        }
+      ],
+      "metric_keyword": "heure miroir 06h06",
+      "cluster_volume": 6600,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 253.85,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 12h21",
+      "locale": "fr",
+      "intent_key": "number-1221",
+      "slug": "signification-1221",
+      "category": "reflection-practice",
+      "angle": "heure miroir 12h21 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 12h21",
+          "volume": 6300,
+          "kd": 16,
+          "displayed_volume": "6.3K"
+        }
+      ],
+      "metric_keyword": "heure miroir 12h21",
+      "cluster_volume": 6300,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 242.31,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "journal intime fille",
+      "locale": "fr",
+      "intent_key": "journal-intime-fille",
+      "slug": "journal-intime-fille",
+      "category": "reflection-practice",
+      "angle": "journal intime fille : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal intime fille",
+          "volume": 7200,
+          "kd": 21,
+          "displayed_volume": "7.2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal intime fille",
+          "volume": 3900,
+          "kd": 22,
+          "displayed_volume": "3.9K"
+        }
+      ],
+      "metric_keyword": "journal intime fille",
+      "cluster_volume": 7200,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 232.26,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive",
+      "locale": "fr",
+      "intent_key": "affirmation-positive",
+      "slug": "affirmation-positive",
+      "category": "reflection-practice",
+      "angle": "affirmation positive : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmation positive",
+          "volume": 7000,
+          "kd": 22,
+          "displayed_volume": "7K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmation positive",
+          "volume": 6000,
+          "kd": 21,
+          "displayed_volume": "6K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives puissantes",
+          "volume": 480,
+          "kd": 36,
+          "displayed_volume": "480"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive puissante",
+          "volume": 70,
+          "kd": 18,
+          "displayed_volume": "70"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positif",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives en français",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive en francais",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive exemple",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "les affirmations positives",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "affirmation positive",
+      "cluster_volume": 7000,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 218.75,
+      "secondary_keywords": [
+        "affirmations positives puissantes",
+        "affirmation positive puissante",
+        "affirmation positif",
+        "affirmations positives en français",
+        "affirmation positive en francais",
+        "affirmation positive exemple",
+        "les affirmations positives"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "22h11 signification",
+      "locale": "fr",
+      "intent_key": "number-2211",
+      "slug": "signification-2211",
+      "category": "reflection-practice",
+      "angle": "22h11 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "22h11 signification",
+          "volume": 5800,
+          "kd": 18,
+          "displayed_volume": "5.8K"
+        }
+      ],
+      "metric_keyword": "22h11 signification",
+      "cluster_volume": 5800,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 207.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "valeurs humaines",
+      "locale": "fr",
+      "intent_key": "valeurs-humaines",
+      "slug": "valeurs-humaines",
+      "category": "reflection-practice",
+      "angle": "valeurs humaines : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "valeurs humaines",
+          "volume": 7800,
+          "kd": 29,
+          "displayed_volume": "7.8K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "qu est ce qu une valeur",
+          "volume": 3600,
+          "kd": 43,
+          "displayed_volume": "3.6K"
+        }
+      ],
+      "metric_keyword": "valeurs humaines",
+      "cluster_volume": 7800,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 200.0,
+      "secondary_keywords": ["qu est ce qu une valeur"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 14h41",
+      "locale": "fr",
+      "intent_key": "number-1441",
+      "slug": "signification-1441",
+      "category": "reflection-practice",
+      "angle": "heure miroir 14h41 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 14h41",
+          "volume": 4500,
+          "kd": 16,
+          "displayed_volume": "4.5K"
+        }
+      ],
+      "metric_keyword": "heure miroir 14h41",
+      "cluster_volume": 4500,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 173.08,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 20h02",
+      "locale": "fr",
+      "intent_key": "number-2002",
+      "slug": "signification-2002",
+      "category": "reflection-practice",
+      "angle": "heure miroir 20h02 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 20h02",
+          "volume": 4500,
+          "kd": 16,
+          "displayed_volume": "4.5K"
+        }
+      ],
+      "metric_keyword": "heure miroir 20h02",
+      "cluster_volume": 4500,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 173.08,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 03h03",
+      "locale": "fr",
+      "intent_key": "number-303",
+      "slug": "signification-303",
+      "category": "reflection-practice",
+      "angle": "heure miroir 03h03 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 03h03",
+          "volume": 4700,
+          "kd": 19,
+          "displayed_volume": "4.7K"
+        }
+      ],
+      "metric_keyword": "heure miroir 03h03",
+      "cluster_volume": 4700,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 162.07,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 02h02",
+      "locale": "fr",
+      "intent_key": "number-202",
+      "slug": "signification-202",
+      "category": "reflection-practice",
+      "angle": "heure miroir 02h02 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 02h02",
+          "volume": 4300,
+          "kd": 17,
+          "displayed_volume": "4.3K"
+        }
+      ],
+      "metric_keyword": "heure miroir 02h02",
+      "cluster_volume": 4300,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 159.26,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 04h04",
+      "locale": "fr",
+      "intent_key": "number-404",
+      "slug": "signification-404",
+      "category": "reflection-practice",
+      "angle": "heure miroir 04h04 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 04h04",
+          "volume": 3700,
+          "kd": 15,
+          "displayed_volume": "3.7K"
+        }
+      ],
+      "metric_keyword": "heure miroir 04h04",
+      "cluster_volume": 3700,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 148.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "journal de gratitude",
+      "locale": "fr",
+      "intent_key": "journal-de-gratitude",
+      "slug": "journal-de-gratitude",
+      "category": "reflection-practice",
+      "angle": "journal de gratitude : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal de gratitude",
+          "volume": 4400,
+          "kd": 21,
+          "displayed_volume": "4.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal de gratitude",
+          "volume": 2800,
+          "kd": 21,
+          "displayed_volume": "2.8K"
+        }
+      ],
+      "metric_keyword": "journal de gratitude",
+      "cluster_volume": 4400,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 141.94,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heures miroirs 15h51",
+      "locale": "fr",
+      "intent_key": "number-1551",
+      "slug": "signification-1551",
+      "category": "reflection-practice",
+      "angle": "heures miroirs 15h51 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heures miroirs 15h51",
+          "volume": 3400,
+          "kd": 16,
+          "displayed_volume": "3.4K"
+        }
+      ],
+      "metric_keyword": "heures miroirs 15h51",
+      "cluster_volume": 3400,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 130.77,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 3 h 33",
+      "locale": "fr",
+      "intent_key": "number-333",
+      "slug": "signification-333",
+      "category": "reflection-practice",
+      "angle": "heure miroir 3 h 33 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 3 h 33",
+          "volume": 3600,
+          "kd": 19,
+          "displayed_volume": "3.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 03h33",
+          "volume": 760,
+          "kd": 11,
+          "displayed_volume": "760"
+        }
+      ],
+      "metric_keyword": "heure miroir 3 h 33",
+      "cluster_volume": 3600,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 124.14,
+      "secondary_keywords": ["heure miroir 03h33"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heures miroir 05h05",
+      "locale": "fr",
+      "intent_key": "number-505",
+      "slug": "signification-505",
+      "category": "reflection-practice",
+      "angle": "heures miroir 05h05 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heures miroir 05h05",
+          "volume": 2900,
+          "kd": 16,
+          "displayed_volume": "2.9K"
+        }
+      ],
+      "metric_keyword": "heures miroir 05h05",
+      "cluster_volume": 2900,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 111.54,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "livre confiance en soi",
+      "locale": "fr",
+      "intent_key": "livre-confiance-en-soi",
+      "slug": "livre-confiance-en-soi",
+      "category": "reflection-practice",
+      "angle": "livre confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "livre confiance en soi",
+          "volume": 2600,
+          "kd": 23,
+          "displayed_volume": "2.6K"
+        }
+      ],
+      "metric_keyword": "livre confiance en soi",
+      "cluster_volume": 2600,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 78.79,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heures miroirs 1h11",
+      "locale": "fr",
+      "intent_key": "number-111",
+      "slug": "signification-111",
+      "category": "reflection-practice",
+      "angle": "heures miroirs 1h11 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heures miroirs 1h11",
+          "volume": 1800,
+          "kd": 13,
+          "displayed_volume": "1.8K"
+        }
+      ],
+      "metric_keyword": "heures miroirs 1h11",
+      "cluster_volume": 1800,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 78.26,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heures miroir 13h33",
+      "locale": "fr",
+      "intent_key": "number-1333",
+      "slug": "signification-1333",
+      "category": "reflection-practice",
+      "angle": "heures miroir 13h33 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heures miroir 13h33",
+          "volume": 2000,
+          "kd": 16,
+          "displayed_volume": "2K"
+        }
+      ],
+      "metric_keyword": "heures miroir 13h33",
+      "cluster_volume": 2000,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 76.92,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "17h07 signification",
+      "locale": "fr",
+      "intent_key": "number-1707",
+      "slug": "signification-1707",
+      "category": "reflection-practice",
+      "angle": "17h07 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "17h07 signification",
+          "volume": 1500,
+          "kd": 10,
+          "displayed_volume": "1.5K"
+        }
+      ],
+      "metric_keyword": "17h07 signification",
+      "cluster_volume": 1500,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 75.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "communication assertive",
+      "locale": "fr",
+      "intent_key": "communication-assertive",
+      "slug": "communication-assertive",
+      "category": "reflection-practice",
+      "angle": "communication assertive : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "communication assertive",
+          "volume": 2000,
+          "kd": 17,
+          "displayed_volume": "2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "assertivité définition",
+          "volume": 13200,
+          "kd": 34,
+          "displayed_volume": "13.2K"
+        }
+      ],
+      "metric_keyword": "communication assertive",
+      "cluster_volume": 2000,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 74.07,
+      "secondary_keywords": ["assertivité définition"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "roue de la vie",
+      "locale": "fr",
+      "intent_key": "roue-de-la-vie",
+      "slug": "roue-de-la-vie",
+      "category": "reflection-practice",
+      "angle": "roue de la vie : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "roue de la vie",
+          "volume": 1500,
+          "kd": 11,
+          "displayed_volume": "1.5K"
+        }
+      ],
+      "metric_keyword": "roue de la vie",
+      "cluster_volume": 1500,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 71.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "nombre des anges",
+      "locale": "fr",
+      "intent_key": "nombre-des-anges",
+      "slug": "nombre-des-anges",
+      "category": "reflection-practice",
+      "angle": "nombre des anges : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "nombre des anges",
+          "volume": 2000,
+          "kd": 19,
+          "displayed_volume": "2K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "signification nombres",
+          "volume": 440,
+          "kd": 19,
+          "displayed_volume": "440"
+        }
+      ],
+      "metric_keyword": "nombre des anges",
+      "cluster_volume": 2000,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 68.97,
+      "secondary_keywords": ["signification nombres"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "22h12 signification",
+      "locale": "fr",
+      "intent_key": "number-2212",
+      "slug": "signification-2212",
+      "category": "reflection-practice",
+      "angle": "22h12 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "22h12 signification",
+          "volume": 1200,
+          "kd": 8,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "22h12 signification",
+      "cluster_volume": 1200,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 66.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "18h08 signification",
+      "locale": "fr",
+      "intent_key": "number-1808",
+      "slug": "signification-1808",
+      "category": "reflection-practice",
+      "angle": "18h08 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "18h08 signification",
+          "volume": 1500,
+          "kd": 13,
+          "displayed_volume": "1.5K"
+        }
+      ],
+      "metric_keyword": "18h08 signification",
+      "cluster_volume": 1500,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 65.22,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "7h17 signification",
+      "locale": "fr",
+      "intent_key": "number-717",
+      "slug": "signification-717",
+      "category": "reflection-practice",
+      "angle": "7h17 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "7h17 signification",
+          "volume": 1600,
+          "kd": 15,
+          "displayed_volume": "1.6K"
+        }
+      ],
+      "metric_keyword": "7h17 signification",
+      "cluster_volume": 1600,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 64.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "question existentielle",
+      "locale": "fr",
+      "intent_key": "question-existentielle",
+      "slug": "question-existentielle",
+      "category": "reflection-practice",
+      "angle": "question existentielle : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "question existentielle",
+          "volume": 2100,
+          "kd": 24,
+          "displayed_volume": "2.1K"
+        }
+      ],
+      "metric_keyword": "question existentielle",
+      "cluster_volume": 2100,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 61.76,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "13h00 signification",
+      "locale": "fr",
+      "intent_key": "number-1300",
+      "slug": "signification-1300",
+      "category": "reflection-practice",
+      "angle": "13h00 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "13h00 signification",
+          "volume": 1200,
+          "kd": 10,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "13h00 signification",
+      "cluster_volume": 1200,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 60.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "21h11 signification flamme jumelle separation",
+      "locale": "fr",
+      "intent_key": "number-2111",
+      "slug": "signification-2111",
+      "category": "reflection-practice",
+      "angle": "21h11 signification flamme jumelle separation : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "21h11 signification flamme jumelle separation",
+          "volume": 1300,
+          "kd": 13,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "21h11 signification flamme jumelle separation",
+      "cluster_volume": 1300,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 56.52,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 23h33",
+      "locale": "fr",
+      "intent_key": "number-2333",
+      "slug": "signification-2333",
+      "category": "reflection-practice",
+      "angle": "heure miroir 23h33 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 23h33",
+          "volume": 1200,
+          "kd": 12,
+          "displayed_volume": "1.2K"
+        }
+      ],
+      "metric_keyword": "heure miroir 23h33",
+      "cluster_volume": 1200,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 54.55,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "12h02 signification",
+      "locale": "fr",
+      "intent_key": "number-1202",
+      "slug": "signification-1202",
+      "category": "reflection-practice",
+      "angle": "12h02 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "12h02 signification",
+          "volume": 1000,
+          "kd": 9,
+          "displayed_volume": "1K"
+        }
+      ],
+      "metric_keyword": "12h02 signification",
+      "cluster_volume": 1000,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 52.63,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "8h18 signification",
+      "locale": "fr",
+      "intent_key": "number-818",
+      "slug": "signification-818",
+      "category": "reflection-practice",
+      "angle": "8h18 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "8h18 signification",
+          "volume": 1100,
+          "kd": 11,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "8h18 signification",
+      "cluster_volume": 1100,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 52.38,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "croyance limitante",
+      "locale": "fr",
+      "intent_key": "croyance-limitante",
+      "slug": "croyance-limitante",
+      "category": "reflection-practice",
+      "angle": "croyance limitante : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "croyance limitante",
+          "volume": 1700,
+          "kd": 25,
+          "displayed_volume": "1.7K"
+        }
+      ],
+      "metric_keyword": "croyance limitante",
+      "cluster_volume": 1700,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 48.57,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "22h00 signification",
+      "locale": "fr",
+      "intent_key": "number-2200",
+      "slug": "signification-2200",
+      "category": "reflection-practice",
+      "angle": "22h00 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "22h00 signification",
+          "volume": 950,
+          "kd": 10,
+          "displayed_volume": "950"
+        }
+      ],
+      "metric_keyword": "22h00 signification",
+      "cluster_volume": 950,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 47.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "10h11 signification",
+      "locale": "fr",
+      "intent_key": "number-1011",
+      "slug": "signification-1011",
+      "category": "reflection-practice",
+      "angle": "10h11 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "10h11 signification",
+          "volume": 930,
+          "kd": 10,
+          "displayed_volume": "930"
+        }
+      ],
+      "metric_keyword": "10h11 signification",
+      "cluster_volume": 930,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 46.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "16h06 signification",
+      "locale": "fr",
+      "intent_key": "number-1606",
+      "slug": "signification-1606",
+      "category": "reflection-practice",
+      "angle": "16h06 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "16h06 signification",
+          "volume": 1000,
+          "kd": 12,
+          "displayed_volume": "1K"
+        }
+      ],
+      "metric_keyword": "16h06 signification",
+      "cluster_volume": 1000,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 45.45,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "routine matinale",
+      "locale": "fr",
+      "intent_key": "routine-matinale",
+      "slug": "routine-matinale",
+      "category": "reflection-practice",
+      "angle": "routine matinale : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "routine matinale",
+          "volume": 1300,
+          "kd": 20,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "routine matinale",
+      "cluster_volume": 1300,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 43.33,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "estime de soi confiance en soi",
+      "locale": "fr",
+      "intent_key": "estime-de-soi-confiance-en-soi",
+      "slug": "estime-de-soi-confiance-en-soi",
+      "category": "reflection-practice",
+      "angle": "estime de soi confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "estime de soi confiance en soi",
+          "volume": 1300,
+          "kd": 23,
+          "displayed_volume": "1.3K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "estime de soi confiance en soi",
+          "volume": 1300,
+          "kd": 23,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "estime de soi confiance en soi",
+      "cluster_volume": 1300,
+      "kd": 23,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 39.39,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 10h00",
+      "locale": "fr",
+      "intent_key": "number-1000",
+      "slug": "signification-1000",
+      "category": "reflection-practice",
+      "angle": "heure miroir 10h00 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 10h00",
+          "volume": 860,
+          "kd": 12,
+          "displayed_volume": "860"
+        }
+      ],
+      "metric_keyword": "heure miroir 10h00",
+      "cluster_volume": 860,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 39.09,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "15h05 signification",
+      "locale": "fr",
+      "intent_key": "number-1505",
+      "slug": "signification-1505",
+      "category": "reflection-practice",
+      "angle": "15h05 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "15h05 signification",
+          "volume": 700,
+          "kd": 8,
+          "displayed_volume": "700"
+        }
+      ],
+      "metric_keyword": "15h05 signification",
+      "cluster_volume": 700,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 38.89,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "13h03 signification",
+      "locale": "fr",
+      "intent_key": "number-1303",
+      "slug": "signification-1303",
+      "category": "reflection-practice",
+      "angle": "13h03 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "13h03 signification",
+          "volume": 800,
+          "kd": 11,
+          "displayed_volume": "800"
+        }
+      ],
+      "metric_keyword": "13h03 signification",
+      "cluster_volume": 800,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 38.1,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "couple et confiance",
+      "locale": "fr",
+      "intent_key": "couple-et-confiance",
+      "slug": "couple-et-confiance",
+      "category": "reflection-practice",
+      "angle": "couple et confiance : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "couple et confiance",
+          "volume": 750,
+          "kd": 10,
+          "displayed_volume": "750"
+        }
+      ],
+      "metric_keyword": "couple et confiance",
+      "cluster_volume": 750,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 37.5,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "14h04 signification",
+      "locale": "fr",
+      "intent_key": "number-1404",
+      "slug": "signification-1404",
+      "category": "reflection-practice",
+      "angle": "14h04 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "14h04 signification",
+          "volume": 680,
+          "kd": 9,
+          "displayed_volume": "680"
+        }
+      ],
+      "metric_keyword": "14h04 signification",
+      "cluster_volume": 680,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 35.79,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "scan corporel",
+      "locale": "fr",
+      "intent_key": "scan-corporel",
+      "slug": "scan-corporel",
+      "category": "reflection-practice",
+      "angle": "scan corporel : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "scan corporel",
+          "volume": 1300,
+          "kd": 29,
+          "displayed_volume": "1.3K"
+        }
+      ],
+      "metric_keyword": "scan corporel",
+      "cluster_volume": 1300,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 33.33,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "comment manifester",
+      "locale": "fr",
+      "intent_key": "comment-manifester",
+      "slug": "comment-manifester",
+      "category": "reflection-practice",
+      "angle": "comment manifester : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "comment manifester",
+          "volume": 840,
+          "kd": 17,
+          "displayed_volume": "840"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "technique de manifestation puissante",
+          "volume": 140,
+          "kd": 11,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "comment manifester",
+      "cluster_volume": 840,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 31.11,
+      "secondary_keywords": ["technique de manifestation puissante"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "06 09 signification",
+      "locale": "fr",
+      "intent_key": "number-609",
+      "slug": "signification-609",
+      "category": "reflection-practice",
+      "angle": "06 09 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "06 09 signification",
+          "volume": 630,
+          "kd": 11,
+          "displayed_volume": "630"
+        }
+      ],
+      "metric_keyword": "06 09 signification",
+      "cluster_volume": 630,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 30.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "21h00 signification",
+      "locale": "fr",
+      "intent_key": "number-2100",
+      "slug": "signification-2100",
+      "category": "reflection-practice",
+      "angle": "21h00 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "21h00 signification",
+          "volume": 530,
+          "kd": 8,
+          "displayed_volume": "530"
+        }
+      ],
+      "metric_keyword": "21h00 signification",
+      "cluster_volume": 530,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 29.44,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "21h31 signification",
+      "locale": "fr",
+      "intent_key": "number-2131",
+      "slug": "signification-2131",
+      "category": "reflection-practice",
+      "angle": "21h31 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "21h31 signification",
+          "volume": 460,
+          "kd": 6,
+          "displayed_volume": "460"
+        }
+      ],
+      "metric_keyword": "21h31 signification",
+      "cluster_volume": 460,
+      "kd": 6,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.75,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "exercice sur la confiance en soi",
+      "locale": "fr",
+      "intent_key": "exercice-sur-la-confiance-en-soi",
+      "slug": "exercice-sur-la-confiance-en-soi",
+      "category": "reflection-practice",
+      "angle": "exercice sur la confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "exercice sur la confiance en soi",
+          "volume": 650,
+          "kd": 13,
+          "displayed_volume": "650"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "développement personnel confiance en soi",
+          "volume": 160,
+          "kd": 21,
+          "displayed_volume": "160"
+        }
+      ],
+      "metric_keyword": "exercice sur la confiance en soi",
+      "cluster_volume": 650,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.26,
+      "secondary_keywords": ["développement personnel confiance en soi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "20h10 signification",
+      "locale": "fr",
+      "intent_key": "number-2010",
+      "slug": "signification-2010",
+      "category": "reflection-practice",
+      "angle": "20h10 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "20h10 signification",
+          "volume": 480,
+          "kd": 7,
+          "displayed_volume": "480"
+        }
+      ],
+      "metric_keyword": "20h10 signification",
+      "cluster_volume": 480,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.24,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heures miroir 20h00",
+      "locale": "fr",
+      "intent_key": "number-2000",
+      "slug": "signification-2000",
+      "category": "reflection-practice",
+      "angle": "heures miroir 20h00 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heures miroir 20h00",
+          "volume": 620,
+          "kd": 12,
+          "displayed_volume": "620"
+        }
+      ],
+      "metric_keyword": "heures miroir 20h00",
+      "cluster_volume": 620,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 28.18,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "21h01 signification",
+      "locale": "fr",
+      "intent_key": "number-2101",
+      "slug": "signification-2101",
+      "category": "reflection-practice",
+      "angle": "21h01 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "21h01 signification",
+          "volume": 480,
+          "kd": 8,
+          "displayed_volume": "480"
+        }
+      ],
+      "metric_keyword": "21h01 signification",
+      "cluster_volume": 480,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 26.67,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "imagerie mentale",
+      "locale": "fr",
+      "intent_key": "imagerie-mentale",
+      "slug": "imagerie-mentale",
+      "category": "reflection-practice",
+      "angle": "imagerie mentale : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "imagerie mentale",
+          "volume": 790,
+          "kd": 21,
+          "displayed_volume": "790"
+        }
+      ],
+      "metric_keyword": "imagerie mentale",
+      "cluster_volume": 790,
+      "kd": 21,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 25.48,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "exemple objectif professionnel",
+      "locale": "fr",
+      "intent_key": "exemple-objectif-professionnel",
+      "slug": "exemple-objectif-professionnel",
+      "category": "reflection-practice",
+      "angle": "exemple objectif professionnel : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "exemple objectif professionnel",
+          "volume": 680,
+          "kd": 19,
+          "displayed_volume": "680"
+        }
+      ],
+      "metric_keyword": "exemple objectif professionnel",
+      "cluster_volume": 680,
+      "kd": 19,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 23.45,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "00h22 signification amour",
+      "locale": "fr",
+      "intent_key": "number-22",
+      "slug": "signification-22",
+      "category": "reflection-practice",
+      "angle": "00h22 signification amour : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "00h22 signification amour",
+          "volume": 390,
+          "kd": 8,
+          "displayed_volume": "390"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "22 signification spirituelle",
+          "volume": 550,
+          "kd": 17,
+          "displayed_volume": "550"
+        }
+      ],
+      "metric_keyword": "00h22 signification amour",
+      "cluster_volume": 390,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 21.67,
+      "secondary_keywords": ["22 signification spirituelle"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "13h30 signification",
+      "locale": "fr",
+      "intent_key": "number-1330",
+      "slug": "signification-1330",
+      "category": "reflection-practice",
+      "angle": "13h30 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "13h30 signification",
+          "volume": 410,
+          "kd": 9,
+          "displayed_volume": "410"
+        }
+      ],
+      "metric_keyword": "13h30 signification",
+      "cluster_volume": 410,
+      "kd": 9,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 21.58,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "estime de soi livre",
+      "locale": "fr",
+      "intent_key": "estime-de-soi-livre",
+      "slug": "estime-de-soi-livre",
+      "category": "reflection-practice",
+      "angle": "estime de soi livre : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "estime de soi livre",
+          "volume": 800,
+          "kd": 29,
+          "displayed_volume": "800"
+        }
+      ],
+      "metric_keyword": "estime de soi livre",
+      "cluster_volume": 800,
+      "kd": 29,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.51,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "11h22 signification amour célibataire",
+      "locale": "fr",
+      "intent_key": "number-1122",
+      "slug": "signification-1122",
+      "category": "reflection-practice",
+      "angle": "11h22 signification amour célibataire : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "11h22 signification amour célibataire",
+          "volume": 450,
+          "kd": 12,
+          "displayed_volume": "450"
+        }
+      ],
+      "metric_keyword": "11h22 signification amour célibataire",
+      "cluster_volume": 450,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.45,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "11 signification spirituelle",
+      "locale": "fr",
+      "intent_key": "number-11",
+      "slug": "signification-11",
+      "category": "reflection-practice",
+      "angle": "11 signification spirituelle : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "11 signification spirituelle",
+          "volume": 500,
+          "kd": 15,
+          "displayed_volume": "500"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "00h11 signification",
+          "volume": 1100,
+          "kd": 11,
+          "displayed_volume": "1.1K"
+        }
+      ],
+      "metric_keyword": "11 signification spirituelle",
+      "cluster_volume": 500,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.0,
+      "secondary_keywords": ["00h11 signification"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "chiffre 12 signification spirituelle",
+      "locale": "fr",
+      "intent_key": "number-12",
+      "slug": "signification-12",
+      "category": "reflection-practice",
+      "angle": "chiffre 12 signification spirituelle : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "chiffre 12 signification spirituelle",
+          "volume": 520,
+          "kd": 16,
+          "displayed_volume": "520"
+        }
+      ],
+      "metric_keyword": "chiffre 12 signification spirituelle",
+      "cluster_volume": 520,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 20.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "amour de soi",
+      "locale": "fr",
+      "intent_key": "amour-de-soi",
+      "slug": "amour-de-soi",
+      "category": "reflection-practice",
+      "angle": "amour de soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "s aimer soi même",
+          "volume": 500,
+          "kd": 25,
+          "displayed_volume": "500"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "amour propre def",
+          "volume": 4500,
+          "kd": 34,
+          "displayed_volume": "4.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "amour de soi",
+          "volume": 640,
+          "kd": 24,
+          "displayed_volume": "640"
+        }
+      ],
+      "metric_keyword": "amour de soi",
+      "cluster_volume": 640,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.82,
+      "secondary_keywords": ["s aimer soi même", "amour propre def"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "elevation spirituelle",
+      "locale": "fr",
+      "intent_key": "elevation-spirituelle",
+      "slug": "elevation-spirituelle",
+      "category": "reflection-practice",
+      "angle": "elevation spirituelle : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "elevation spirituelle",
+          "volume": 460,
+          "kd": 15,
+          "displayed_volume": "460"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "eveil spirituel",
+          "volume": 1500,
+          "kd": 24,
+          "displayed_volume": "1.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "eveil spirituel",
+          "volume": 1700,
+          "kd": 23,
+          "displayed_volume": "1.7K"
+        }
+      ],
+      "metric_keyword": "elevation spirituelle",
+      "cluster_volume": 460,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.4,
+      "secondary_keywords": ["eveil spirituel"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "mieux se connaitre",
+      "locale": "fr",
+      "intent_key": "mieux-se-connaitre",
+      "slug": "mieux-se-connaitre",
+      "category": "reflection-practice",
+      "angle": "mieux se connaitre : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "comment faire une introspection de soi",
+          "volume": 660,
+          "kd": 19,
+          "displayed_volume": "660"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "mieux se connaitre",
+          "volume": 470,
+          "kd": 16,
+          "displayed_volume": "470"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bilan personnel",
+          "volume": 550,
+          "kd": 23,
+          "displayed_volume": "550"
+        }
+      ],
+      "metric_keyword": "mieux se connaitre",
+      "cluster_volume": 470,
+      "kd": 16,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 18.08,
+      "secondary_keywords": ["comment faire une introspection de soi", "bilan personnel"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive confiance en soi",
+      "locale": "fr",
+      "intent_key": "affirmation-positive-confiance-en-soi",
+      "slug": "affirmation-positive-confiance-en-soi",
+      "category": "reflection-practice",
+      "angle": "affirmation positive confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmation positive confiance en soi",
+          "volume": 2100,
+          "kd": 15,
+          "displayed_volume": "2.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "affirmation positive confiance en soi",
+          "volume": 2000,
+          "kd": 16,
+          "displayed_volume": "2K"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive confiance en soi",
+          "volume": 260,
+          "kd": 6,
+          "displayed_volume": "260"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives confiance en soi",
+          "volume": 110,
+          "kd": 11,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive confiance",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour avoir confiance en soi",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive estime de soi",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive confiance en soi et estime de soi",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positives confiance en soi",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive confiance en soi",
+      "cluster_volume": 260,
+      "kd": 6,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 16.25,
+      "secondary_keywords": [
+        "affirmations positives confiance en soi",
+        "affirmation positive confiance",
+        "affirmation positive pour avoir confiance en soi",
+        "affirmation positive estime de soi",
+        "affirmation positive confiance en soi et estime de soi",
+        "affirmation positives confiance en soi"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "numerologie tableau",
+      "locale": "fr",
+      "intent_key": "numerologie-tableau",
+      "slug": "numerologie-tableau",
+      "category": "reflection-practice",
+      "angle": "numerologie tableau : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "numerologie tableau",
+          "volume": 370,
+          "kd": 13,
+          "displayed_volume": "370"
+        }
+      ],
+      "metric_keyword": "numerologie tableau",
+      "cluster_volume": 370,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.09,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "00h10 signification",
+      "locale": "fr",
+      "intent_key": "number-10",
+      "slug": "signification-10",
+      "category": "reflection-practice",
+      "angle": "00h10 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "00h10 signification",
+          "volume": 240,
+          "kd": 5,
+          "displayed_volume": "240"
+        }
+      ],
+      "metric_keyword": "00h10 signification",
+      "cluster_volume": 240,
+      "kd": 5,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 16.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "pensée positive du soir",
+      "locale": "fr",
+      "intent_key": "pensee-positive-du-soir",
+      "slug": "pensee-positive-du-soir",
+      "category": "reflection-practice",
+      "angle": "pensée positive du soir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensée positive du soir",
+          "volume": 580,
+          "kd": 27,
+          "displayed_volume": "580"
+        }
+      ],
+      "metric_keyword": "pensée positive du soir",
+      "cluster_volume": 580,
+      "kd": 27,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 15.68,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "100 objectifs de vie",
+      "locale": "fr",
+      "intent_key": "100-objectifs-de-vie",
+      "slug": "100-objectifs-de-vie",
+      "category": "reflection-practice",
+      "angle": "100 objectifs de vie : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "100 objectifs de vie",
+          "volume": 420,
+          "kd": 17,
+          "displayed_volume": "420"
+        }
+      ],
+      "metric_keyword": "100 objectifs de vie",
+      "cluster_volume": 420,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 15.56,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmations positives du matin",
+      "locale": "fr",
+      "intent_key": "affirmations positives du matin",
+      "slug": "affirmations-positives-du-matin",
+      "category": "reflection-practice",
+      "angle": "affirmations positives du matin : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives du matin",
+          "volume": 480,
+          "kd": 26,
+          "displayed_volume": "480"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive du matin",
+          "volume": 260,
+          "kd": 31,
+          "displayed_volume": "260"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positives du matin",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive du jour",
+          "volume": 140,
+          "kd": 14,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "affirmations positives du matin",
+      "cluster_volume": 480,
+      "kd": 26,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 13.33,
+      "secondary_keywords": [
+        "affirmation positive du matin",
+        "affirmation positives du matin",
+        "affirmation positive du jour"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "pratiquer la gratitude",
+      "locale": "fr",
+      "intent_key": "pratiquer-la-gratitude",
+      "slug": "pratiquer-la-gratitude",
+      "category": "reflection-practice",
+      "angle": "pratiquer la gratitude : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pratiquer la gratitude",
+          "volume": 450,
+          "kd": 24,
+          "displayed_volume": "450"
+        }
+      ],
+      "metric_keyword": "pratiquer la gratitude",
+      "cluster_volume": 450,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 13.24,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "rituel du coucher",
+      "locale": "fr",
+      "intent_key": "rituel-du-coucher",
+      "slug": "rituel-du-coucher",
+      "category": "reflection-practice",
+      "angle": "rituel du coucher : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "rituel du coucher",
+          "volume": 310,
+          "kd": 15,
+          "displayed_volume": "310"
+        }
+      ],
+      "metric_keyword": "rituel du coucher",
+      "cluster_volume": 310,
+      "kd": 15,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 12.4,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "travailler sur soi",
+      "locale": "fr",
+      "intent_key": "travailler-sur-soi",
+      "slug": "travailler-sur-soi",
+      "category": "reflection-practice",
+      "angle": "travailler sur soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "travailler sur soi",
+          "volume": 260,
+          "kd": 12,
+          "displayed_volume": "260"
+        }
+      ],
+      "metric_keyword": "travailler sur soi",
+      "cluster_volume": 260,
+      "kd": 12,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 11.82,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir 20h22",
+      "locale": "fr",
+      "intent_key": "number-2022",
+      "slug": "signification-2022",
+      "category": "reflection-practice",
+      "angle": "heure miroir 20h22 : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir 20h22",
+          "volume": 190,
+          "kd": 7,
+          "displayed_volume": "190"
+        }
+      ],
+      "metric_keyword": "heure miroir 20h22",
+      "cluster_volume": 190,
+      "kd": 7,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 11.18,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "13h22 signification",
+      "locale": "fr",
+      "intent_key": "number-1322",
+      "slug": "signification-1322",
+      "category": "reflection-practice",
+      "angle": "13h22 signification : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "13h22 signification",
+          "volume": 200,
+          "kd": 8,
+          "displayed_volume": "200"
+        }
+      ],
+      "metric_keyword": "13h22 signification",
+      "cluster_volume": 200,
+      "kd": 8,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 11.11,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "phrase pour encourager quelqu un",
+      "locale": "fr",
+      "intent_key": "phrase-pour-encourager-quelqu-un",
+      "slug": "phrase-pour-encourager-quelqu-un",
+      "category": "reflection-practice",
+      "angle": "phrase pour encourager quelqu un : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "phrase pour encourager quelqu un",
+          "volume": 320,
+          "kd": 25,
+          "displayed_volume": "320"
+        }
+      ],
+      "metric_keyword": "phrase pour encourager quelqu un",
+      "cluster_volume": 320,
+      "kd": 25,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 9.14,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "attire le positif",
+      "locale": "fr",
+      "intent_key": "attire-le-positif",
+      "slug": "attire-le-positif",
+      "category": "reflection-practice",
+      "angle": "attire le positif : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "attire le positif",
+          "volume": 180,
+          "kd": 10,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "attire le positif",
+      "cluster_volume": 180,
+      "kd": 10,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 9.0,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "comment refaire confiance",
+      "locale": "fr",
+      "intent_key": "comment-refaire-confiance",
+      "slug": "comment-refaire-confiance",
+      "category": "reflection-practice",
+      "angle": "comment refaire confiance : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "comment refaire confiance",
+          "volume": 190,
+          "kd": 17,
+          "displayed_volume": "190"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "confiance en personne",
+          "volume": 160,
+          "kd": 17,
+          "displayed_volume": "160"
+        }
+      ],
+      "metric_keyword": "comment refaire confiance",
+      "cluster_volume": 190,
+      "kd": 17,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 7.04,
+      "secondary_keywords": ["confiance en personne"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "exemple de phrase de gratitude",
+      "locale": "fr",
+      "intent_key": "exemple-de-phrase-de-gratitude",
+      "slug": "exemple-de-phrase-de-gratitude",
+      "category": "reflection-practice",
+      "angle": "exemple de phrase de gratitude : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "exemple de phrase de gratitude",
+          "volume": 160,
+          "kd": 13,
+          "displayed_volume": "160"
+        }
+      ],
+      "metric_keyword": "exemple de phrase de gratitude",
+      "cluster_volume": 160,
+      "kd": 13,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.96,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "atteindre ses objectif",
+      "locale": "fr",
+      "intent_key": "atteindre-ses-objectif",
+      "slug": "atteindre-ses-objectif",
+      "category": "reflection-practice",
+      "angle": "atteindre ses objectif : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "atteindre ses objectif",
+          "volume": 180,
+          "kd": 18,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "atteindre ses objectif",
+      "cluster_volume": 180,
+      "kd": 18,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 6.43,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive du soir",
+      "locale": "fr",
+      "intent_key": "affirmation positive du soir",
+      "slug": "affirmation-positive-du-soir",
+      "category": "reflection-practice",
+      "angle": "affirmation positive du soir : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive du soir",
+          "volume": 210,
+          "kd": 30,
+          "displayed_volume": "210"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives du soir",
+          "volume": 110,
+          "kd": 20,
+          "displayed_volume": "110"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive avant de dormir",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive du soir pour dormir",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive du soir sommeil profond",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour dormir",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive sommeil",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive du soir",
+      "cluster_volume": 210,
+      "kd": 30,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 1,
+      "opportunity": 5.25,
+      "secondary_keywords": [
+        "affirmations positives du soir",
+        "affirmation positive avant de dormir",
+        "affirmation positive du soir pour dormir",
+        "affirmation positive du soir sommeil profond",
+        "affirmation positive pour dormir",
+        "affirmation positive sommeil"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "stress au travail manque de confiance en soi",
+      "locale": "fr",
+      "intent_key": "stress-au-travail-manque-de-confiance-en-soi",
+      "slug": "stress-au-travail-manque-de-confiance-en-soi",
+      "category": "reflection-practice",
+      "angle": "stress au travail manque de confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "stress au travail manque de confiance en soi",
+          "volume": 100,
+          "kd": 11,
+          "displayed_volume": "100"
+        }
+      ],
+      "metric_keyword": "stress au travail manque de confiance en soi",
+      "cluster_volume": 100,
+      "kd": 11,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 4.76,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "13 signification spirituelle",
+      "locale": "fr",
+      "intent_key": "number-13",
+      "slug": "signification-13",
+      "category": "reflection-practice",
+      "angle": "13 signification spirituelle : interprétations spirituelles courantes, questions de réflexion et petit rituel personnel. Présenter ces interprétations comme des croyances, sans promettre un événement.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "13 signification spirituelle",
+          "volume": 160,
+          "kd": 24,
+          "displayed_volume": "160"
+        }
+      ],
+      "metric_keyword": "13 signification spirituelle",
+      "cluster_volume": 160,
+      "kd": 24,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 4.71,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "la visualisation positive",
+      "locale": "fr",
+      "intent_key": "la-visualisation-positive",
+      "slug": "la-visualisation-positive",
+      "category": "reflection-practice",
+      "angle": "la visualisation positive : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "la visualisation positive",
+          "volume": 140,
+          "kd": 20,
+          "displayed_volume": "140"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "visualisation créatrice",
+          "volume": 340,
+          "kd": 18,
+          "displayed_volume": "340"
+        }
+      ],
+      "metric_keyword": "la visualisation positive",
+      "cluster_volume": 140,
+      "kd": 20,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 4.67,
+      "secondary_keywords": ["visualisation créatrice"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "phrases qui remonte le moral",
+      "locale": "fr",
+      "intent_key": "phrases-qui-remonte-le-moral",
+      "slug": "phrases-qui-remonte-le-moral",
+      "category": "reflection-practice",
+      "angle": "phrases qui remonte le moral : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "phrases qui remonte le moral",
+          "volume": 140,
+          "kd": 22,
+          "displayed_volume": "140"
+        }
+      ],
+      "metric_keyword": "phrases qui remonte le moral",
+      "cluster_volume": 140,
+      "kd": 22,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 1,
+      "opportunity": 4.38,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "heure miroir",
+      "locale": "fr",
+      "intent_key": "heure-miroir",
+      "slug": "heure-miroir",
+      "category": "reflection-practice",
+      "angle": "heure miroir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "heure miroir",
+          "volume": 180200,
+          "kd": 37,
+          "displayed_volume": "180.2K"
+        }
+      ],
+      "metric_keyword": "heure miroir",
+      "cluster_volume": 180200,
+      "kd": 37,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 3834.04,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "pensées positives",
+      "locale": "fr",
+      "intent_key": "pensees-positives",
+      "slug": "pensees-positives",
+      "category": "reflection-practice",
+      "angle": "pensées positives : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "pensées positives",
+          "volume": 31600,
+          "kd": 35,
+          "displayed_volume": "31.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "bonheur pensée positive",
+          "volume": 450,
+          "kd": 30,
+          "displayed_volume": "450"
+        }
+      ],
+      "metric_keyword": "pensées positives",
+      "cluster_volume": 31600,
+      "kd": 35,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 702.22,
+      "secondary_keywords": ["bonheur pensée positive"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "manque de confiance en soi",
+      "locale": "fr",
+      "intent_key": "manque-de-confiance-en-soi",
+      "slug": "manque-de-confiance-en-soi",
+      "category": "reflection-practice",
+      "angle": "manque de confiance en soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manque de confiance en soi",
+          "volume": 17400,
+          "kd": 37,
+          "displayed_volume": "17.4K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "12 signes de manque de confiance en soi",
+          "volume": 1800,
+          "kd": 22,
+          "displayed_volume": "1.8K"
+        }
+      ],
+      "metric_keyword": "manque de confiance en soi",
+      "cluster_volume": 17400,
+      "kd": 37,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 370.21,
+      "secondary_keywords": ["12 signes de manque de confiance en soi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "estime de soi",
+      "locale": "fr",
+      "intent_key": "estime-de-soi",
+      "slug": "estime-de-soi",
+      "category": "reflection-practice",
+      "angle": "estime de soi : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "manque d estime de soi",
+          "volume": 580,
+          "kd": 20,
+          "displayed_volume": "580"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "estime de soi",
+          "volume": 8600,
+          "kd": 31,
+          "displayed_volume": "8.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "faible estime de soi",
+          "volume": 320,
+          "kd": 22,
+          "displayed_volume": "320"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "estime de soi",
+          "volume": 8600,
+          "kd": 31,
+          "displayed_volume": "8.6K"
+        }
+      ],
+      "metric_keyword": "estime de soi",
+      "cluster_volume": 8600,
+      "kd": 31,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 209.76,
+      "secondary_keywords": ["manque d estime de soi", "faible estime de soi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "journal intime",
+      "locale": "fr",
+      "intent_key": "journal-intime",
+      "slug": "journal-intime",
+      "category": "reflection-practice",
+      "angle": "journal intime : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "définition du journal intime",
+          "volume": 410,
+          "kd": 25,
+          "displayed_volume": "410"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal intime",
+          "volume": 7800,
+          "kd": 31,
+          "displayed_volume": "7.8K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal intime adulte",
+          "volume": 840,
+          "kd": 16,
+          "displayed_volume": "840"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "journal intime",
+          "volume": 6700,
+          "kd": 33,
+          "displayed_volume": "6.7K"
+        }
+      ],
+      "metric_keyword": "journal intime",
+      "cluster_volume": 7800,
+      "kd": 31,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 190.24,
+      "secondary_keywords": ["définition du journal intime", "journal intime adulte"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "méditation pleine conscience",
+      "locale": "fr",
+      "intent_key": "meditation-pleine-conscience",
+      "slug": "meditation-pleine-conscience",
+      "category": "reflection-practice",
+      "angle": "méditation pleine conscience : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "méditation pleine conscience",
+          "volume": 9500,
+          "kd": 45,
+          "displayed_volume": "9.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "la pleine conscience",
+          "volume": 11200,
+          "kd": 41,
+          "displayed_volume": "11.2K"
+        }
+      ],
+      "metric_keyword": "méditation pleine conscience",
+      "cluster_volume": 9500,
+      "kd": 45,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 172.73,
+      "secondary_keywords": ["la pleine conscience"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "syndrome de l imposteur",
+      "locale": "fr",
+      "intent_key": "syndrome-de-l-imposteur",
+      "slug": "syndrome-de-l-imposteur",
+      "category": "reflection-practice",
+      "angle": "syndrome de l imposteur : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "syndrome de l imposteur",
+          "volume": 7500,
+          "kd": 43,
+          "displayed_volume": "7.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "syndrome de l imposteur",
+          "volume": 7500,
+          "kd": 43,
+          "displayed_volume": "7.5K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "syndrome de l imposteur",
+          "volume": 7500,
+          "kd": 43,
+          "displayed_volume": "7.5K"
+        }
+      ],
+      "metric_keyword": "syndrome de l imposteur",
+      "cluster_volume": 7500,
+      "kd": 43,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 141.51,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "synchronicité amoureuse",
+      "locale": "fr",
+      "intent_key": "synchronicite-amoureuse",
+      "slug": "synchronicite-amoureuse",
+      "category": "reflection-practice",
+      "angle": "synchronicité amoureuse : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "synchronicité amoureuse",
+          "volume": 5200,
+          "kd": 34,
+          "displayed_volume": "5.2K"
+        }
+      ],
+      "metric_keyword": "synchronicité amoureuse",
+      "cluster_volume": 5200,
+      "kd": 34,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 118.18,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "loi de l'attraction",
+      "locale": "fr",
+      "intent_key": "loi-de-l-attraction",
+      "slug": "loi-de-l-attraction",
+      "category": "reflection-practice",
+      "angle": "loi de l'attraction : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710596.json",
+          "source_list_id": "6710596/444444444",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "loi de l'attraction",
+          "volume": 4500,
+          "kd": 34,
+          "displayed_volume": "4.5K"
+        }
+      ],
+      "metric_keyword": "loi de l'attraction",
+      "cluster_volume": 4500,
+      "kd": 34,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 102.27,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "méditation du soir",
+      "locale": "fr",
+      "intent_key": "meditation-du-soir",
+      "slug": "meditation-du-soir",
+      "category": "reflection-practice",
+      "angle": "méditation du soir : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation du soir",
+          "volume": 13100,
+          "kd": 31,
+          "displayed_volume": "13.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "méditation du soir",
+          "volume": 2200,
+          "kd": 32,
+          "displayed_volume": "2.2K"
+        }
+      ],
+      "metric_keyword": "méditation du soir",
+      "cluster_volume": 2200,
+      "kd": 32,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 52.38,
+      "secondary_keywords": ["meditation du soir"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "petit bambou gratuit",
+      "locale": "fr",
+      "intent_key": "petit-bambou-gratuit",
+      "slug": "petit-bambou-gratuit",
+      "category": "reflection-practice",
+      "angle": "petit bambou gratuit : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "petit bambou gratuit",
+          "volume": 2200,
+          "kd": 38,
+          "displayed_volume": "2.2K"
+        }
+      ],
+      "metric_keyword": "petit bambou gratuit",
+      "cluster_volume": 2200,
+      "kd": 38,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 45.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "relaxation meditation",
+      "locale": "fr",
+      "intent_key": "relaxation-meditation",
+      "slug": "relaxation-meditation",
+      "category": "reflection-practice",
+      "angle": "relaxation meditation : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "relaxation meditation",
+          "volume": 1900,
+          "kd": 33,
+          "displayed_volume": "1.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "séance relaxation",
+          "volume": 740,
+          "kd": 33,
+          "displayed_volume": "740"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation calme profond",
+          "volume": 200,
+          "kd": 38,
+          "displayed_volume": "200"
+        }
+      ],
+      "metric_keyword": "relaxation meditation",
+      "cluster_volume": 1900,
+      "kd": 33,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 44.19,
+      "secondary_keywords": ["séance relaxation", "meditation calme profond"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation guidee",
+      "locale": "fr",
+      "intent_key": "meditation-guidee",
+      "slug": "meditation-guidee",
+      "category": "reflection-practice",
+      "angle": "meditation guidee : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "méditation guidée",
+          "volume": 4600,
+          "kd": 41,
+          "displayed_volume": "4.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation gratuite",
+          "volume": 2900,
+          "kd": 32,
+          "displayed_volume": "2.9K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "séance de méditation",
+          "volume": 1100,
+          "kd": 36,
+          "displayed_volume": "1.1K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation guidee",
+          "volume": 1600,
+          "kd": 40,
+          "displayed_volume": "1.6K"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "méditation relaxation guidée gratuite",
+          "volume": 230,
+          "kd": 44,
+          "displayed_volume": "230"
+        }
+      ],
+      "metric_keyword": "meditation guidee",
+      "cluster_volume": 1600,
+      "kd": 40,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 32.0,
+      "secondary_keywords": [
+        "méditation guidée",
+        "meditation gratuite",
+        "séance de méditation",
+        "méditation relaxation guidée gratuite"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation definition",
+      "locale": "fr",
+      "intent_key": "meditation-definition",
+      "slug": "meditation-definition",
+      "category": "reflection-practice",
+      "angle": "meditation definition : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation definition",
+          "volume": 820,
+          "kd": 35,
+          "displayed_volume": "820"
+        }
+      ],
+      "metric_keyword": "meditation definition",
+      "cluster_volume": 820,
+      "kd": 35,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 18.22,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation bienfait",
+      "locale": "fr",
+      "intent_key": "meditation-bienfait",
+      "slug": "meditation-bienfait",
+      "category": "reflection-practice",
+      "angle": "meditation bienfait : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation bienfait",
+          "volume": 490,
+          "kd": 33,
+          "displayed_volume": "490"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation bienfait",
+          "volume": 630,
+          "kd": 33,
+          "displayed_volume": "630"
+        }
+      ],
+      "metric_keyword": "meditation bienfait",
+      "cluster_volume": 490,
+      "kd": 33,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 11.4,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "meditation courte",
+      "locale": "fr",
+      "intent_key": "meditation-courte",
+      "slug": "meditation-courte",
+      "category": "reflection-practice",
+      "angle": "meditation courte : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "meditation courte",
+          "volume": 280,
+          "kd": 31,
+          "displayed_volume": "280"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710663.json",
+          "source_list_id": "6710663",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "10 minutes de méditation de pleine conscience",
+          "volume": 180,
+          "kd": 32,
+          "displayed_volume": "180"
+        }
+      ],
+      "metric_keyword": "meditation courte",
+      "cluster_volume": 280,
+      "kd": 31,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 6.83,
+      "secondary_keywords": ["10 minutes de méditation de pleine conscience"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "confiance en soi definition",
+      "locale": "fr",
+      "intent_key": "confiance-en-soi-definition",
+      "slug": "confiance-en-soi-definition",
+      "category": "reflection-practice",
+      "angle": "confiance en soi definition : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "confiance en soi definition",
+          "volume": 280,
+          "kd": 37,
+          "displayed_volume": "280"
+        },
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "etre sur de soi",
+          "volume": 4200,
+          "kd": 21,
+          "displayed_volume": "4.2K"
+        }
+      ],
+      "metric_keyword": "confiance en soi definition",
+      "cluster_volume": 280,
+      "kd": 37,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 5.96,
+      "secondary_keywords": ["etre sur de soi"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "application méditation",
+      "locale": "fr",
+      "intent_key": "application-meditation",
+      "slug": "application-meditation",
+      "category": "reflection-practice",
+      "angle": "application méditation : explication accessible, exemples concrets et exercice guidé pour une pratique personnelle de réflexion.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-fr-6710642.json",
+          "source_list_id": "6710642",
+          "observed_on": "2026-09-08",
+          "metric_kind": "page_cluster_rounded",
+          "keyword": "application méditation",
+          "volume": 350,
+          "kd": 50,
+          "displayed_volume": "350"
+        }
+      ],
+      "metric_keyword": "application méditation",
+      "cluster_volume": 350,
+      "kd": 50,
+      "volume_status": "semrush_page_cluster_rounded",
+      "tier": 2,
+      "opportunity": 5.83,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive argent",
+      "locale": "fr",
+      "intent_key": "affirmation positive argent",
+      "slug": "affirmation-positive-argent",
+      "category": "reflection-practice",
+      "angle": "affirmation positive argent : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive argent",
+          "volume": 50,
+          "kd": null,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives argent",
+          "volume": 50,
+          "kd": 21,
+          "displayed_volume": "50"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives pour attirer l'abondance",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive abondance financière",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour attirer l'argent",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive argent",
+      "cluster_volume": 50,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.71,
+      "secondary_keywords": [
+        "affirmations positives argent",
+        "affirmations positives pour attirer l'abondance",
+        "affirmation positive abondance financière",
+        "affirmation positive pour attirer l'argent"
+      ],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmations positives je suis",
+      "locale": "fr",
+      "intent_key": "affirmations positives je suis",
+      "slug": "affirmations-positives-je-suis",
+      "category": "reflection-practice",
+      "angle": "affirmations positives je suis : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives je suis",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive je suis",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive avec je suis",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmations positives je suis",
+      "cluster_volume": 40,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.57,
+      "secondary_keywords": ["affirmation positive je suis", "affirmation positive avec je suis"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmations positives à imprimer",
+      "locale": "fr",
+      "intent_key": "affirmations positives a imprimer",
+      "slug": "affirmations-positives-a-imprimer",
+      "category": "reflection-practice",
+      "angle": "affirmations positives à imprimer : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives à imprimer",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "carte affirmation positive",
+          "volume": 40,
+          "kd": null,
+          "displayed_volume": "40"
+        }
+      ],
+      "metric_keyword": "affirmations positives à imprimer",
+      "cluster_volume": 40,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.57,
+      "secondary_keywords": ["carte affirmation positive"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive 21 jours",
+      "locale": "fr",
+      "intent_key": "affirmation positive 21 jours",
+      "slug": "affirmation-positive-21-jours",
+      "category": "reflection-practice",
+      "angle": "affirmation positive 21 jours : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive 21 jours",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "21 jours pour maîtriser les affirmations positives",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive 21 jours",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["21 jours pour maîtriser les affirmations positives"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive amour de soi",
+      "locale": "fr",
+      "intent_key": "affirmation positive amour de soi",
+      "slug": "affirmation-positive-amour-de-soi",
+      "category": "reflection-practice",
+      "angle": "affirmation positive amour de soi : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive amour de soi",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive confiance en soi et amour propre",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive amour de soi",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmation positive confiance en soi et amour propre"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive beauté",
+      "locale": "fr",
+      "intent_key": "affirmation positive beaute",
+      "slug": "affirmation-positive-beaute",
+      "category": "reflection-practice",
+      "angle": "affirmation positive beauté : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive beauté",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive beauté",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive de gratitude",
+      "locale": "fr",
+      "intent_key": "affirmation positive de gratitude",
+      "slug": "affirmation-positive-de-gratitude",
+      "category": "reflection-practice",
+      "angle": "affirmation positive de gratitude : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive de gratitude",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive de gratitude",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive lâcher prise",
+      "locale": "fr",
+      "intent_key": "affirmation positive lacher prise",
+      "slug": "affirmation-positive-lacher-prise",
+      "category": "reflection-practice",
+      "angle": "affirmation positive lâcher prise : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive lâcher prise",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour lacher prise",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive lâcher prise",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmation positive pour lacher prise"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive permis de conduire",
+      "locale": "fr",
+      "intent_key": "affirmation positive permis de conduire",
+      "slug": "affirmation-positive-permis-de-conduire",
+      "category": "reflection-practice",
+      "angle": "affirmation positive permis de conduire : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive permis de conduire",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive permis de conduire",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour attirer l'amour",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour attirer l amour",
+      "slug": "affirmation-positive-pour-attirer-l-amour",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour attirer l'amour : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour attirer l'amour",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour trouver l amour",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour attirer l'amour",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmation positive pour trouver l amour"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour attirer la chance",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour attirer la chance",
+      "slug": "affirmation-positive-pour-attirer-la-chance",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour attirer la chance : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour attirer la chance",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour attirer la chance",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour attirer une personne spécifique",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour attirer une personne specifique",
+      "slug": "affirmation-positive-pour-attirer-une-personne-specifique",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour attirer une personne spécifique : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour attirer une personne spécifique",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour attirer un homme",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour attirer une personne spécifique",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmation positive pour attirer un homme"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour changer sa vie",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour changer sa vie",
+      "slug": "affirmation-positive-pour-changer-sa-vie",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour changer sa vie : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour changer sa vie",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour changer sa vie",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour le travail",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour le travail",
+      "slug": "affirmation-positive-pour-le-travail",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour le travail : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour le travail",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive travail",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour le travail",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmation positive travail"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour oublier son ex",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour oublier son ex",
+      "slug": "affirmation-positive-pour-oublier-son-ex",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour oublier son ex : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour oublier son ex",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour oublier son ex",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive pour trouver du travail",
+      "locale": "fr",
+      "intent_key": "affirmation positive pour trouver du travail",
+      "slug": "affirmation-positive-pour-trouver-du-travail",
+      "category": "reflection-practice",
+      "angle": "affirmation positive pour trouver du travail : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour trouver du travail",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive pour trouver du travail",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": [],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive réussite",
+      "locale": "fr",
+      "intent_key": "affirmation positive reussite",
+      "slug": "affirmation-positive-reussite",
+      "category": "reflection-practice",
+      "angle": "affirmation positive réussite : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive réussite",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive pour reussir",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        }
+      ],
+      "metric_keyword": "affirmation positive réussite",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmation positive pour reussir"],
+      "intent": "Informational"
+    },
+    {
+      "keyword": "affirmation positive spirituelle",
+      "locale": "fr",
+      "intent_key": "affirmation positive spirituelle",
+      "slug": "affirmation-positive-spirituelle",
+      "category": "reflection-practice",
+      "angle": "affirmation positive spirituelle : exemples concrets et courte pratique quotidienne, avec des formulations crédibles et des limites claires ; aucune promesse de résultat ni de contrôle sur autrui.",
+      "sources": [
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmation positive spirituelle",
+          "volume": 20,
+          "kd": null,
+          "displayed_volume": "20"
+        },
+        {
+          "source_file": "docs/seo/magic-demi-fr-affirmations-positives.json",
+          "source_url": "https://sem.3ue.com/analytics/keywordmagic/?q=affirmations+positives&db=fr&mode=1&filter=H4sIAAAAAAAAA32NsQ7DIAxE%2F8UzQ%2Bf8ShQhCwy15AACTFVF%2FffS0rnbne%2FO7wKXz0KdO%2BdkhQYJbPthwBW3hOcQ2Kn05%2FKCKSpGmu4CToNqJw9bQGlkYKDojCBUhNdsl3vFRmu5tOXkRD1ZyZEn42agUpv%2F22o1qsUGwq7z%2FBeyHx%2FCyKLnj%2FDI1Tfrsqb%2Bjd87V02%2B3gAAAA%3D%3D",
+          "observed_on": "2026-09-08",
+          "metric_kind": "individual_keyword",
+          "keyword": "affirmations positives spirituelles",
+          "volume": 30,
+          "kd": null,
+          "displayed_volume": "30"
+        }
+      ],
+      "metric_keyword": "affirmation positive spirituelle",
+      "cluster_volume": 20,
+      "kd": null,
+      "volume_status": "semrush_individual_keyword",
+      "tier": 3,
+      "opportunity": 0.29,
+      "secondary_keywords": ["affirmations positives spirituelles"],
+      "intent": "Informational"
+    }
+  ]
+}

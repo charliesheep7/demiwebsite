@@ -1,0 +1,33 @@
+{
+  "site": "demi",
+  "locale": "it",
+  "list_id": "6710601/444444444",
+  "expected_pages": 21,
+  "rows": [
+    ["come manifestare qualcosa", "14", "1.4K"],
+    ["allontanarsi per farsi desiderare da un uomo", "13", "580"],
+    ["metodi per manifestare scrivendo", "9", "70"],
+    ["come farlo tornare col pensiero", "7", "400"],
+    ["credenze limitanti", "7", "250"],
+    ["visualizzazioni guidate", "11", "380"],
+    ["legge degli assunti", "13", "200"],
+    ["frasi motivazionali", "25", "68.7K"],
+    ["metodo 369 esempi", "23", "180"],
+    ["frasi motivazionali sport", "13", "5.9K"],
+    ["frasi su di se stessi", "20", "14.5K"],
+    ["belle frasi brevi", "20", "7.5K"],
+    ["frasi di incoraggiamento per momenti difficili", "24", "13.9K"],
+    ["frasi motivazionali lavoro", "20", "5.4K"],
+    ["frasi per un traguardo raggiunto", "17", "2.3K"],
+    ["pensiero positivo frasi", "18", "3.3K"],
+    ["frasi di soddisfazione", "16", "1.2K"],
+    ["sagge frasi spirituali", "18", "490"],
+    ["pensieri positivi divertenti", "25", "1.9K"],
+    ["legge dell attrazione", "20", "3K"],
+    ["affermazioni positive", "18", "2.4K"]
+  ],
+  "captured_pages": [1],
+  "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+  "observed_on": "2026-09-08",
+  "metrics_note": "Displayed Page KD and rounded cluster volume; not exact individual-keyword volume."
+}

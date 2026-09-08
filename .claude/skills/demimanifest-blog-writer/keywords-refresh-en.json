@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "rows": [
+    {
+      "keyword": "manifest sp",
+      "locale": "en",
+      "action": "refresh_existing_page",
+      "slug": "manifesting-a-specific-person",
+      "url": "https://demimanifest.com/blog/manifesting-a-specific-person",
+      "secondary_keywords": ["sp manifestation", "manifesting sp", "manifest a specific person"],
+      "angle": "Explain what SP means, connect the query naturally to the existing article, and preserve its distinction between personal reflection and controlling another person. Update this page rather than making another SP article.",
+      "sources": [
+        {
+          "source_file": "docs/seo/raw-demi-en-6710603.json",
+          "source_list_id": "6710603",
+          "observed_on": "2026-09-08",
+          "keyword": "manifest sp",
+          "metric_kind": "individual_keyword",
+          "volume": 110,
+          "kd": 34
+        }
+      ]
+    }
+  ]
+}

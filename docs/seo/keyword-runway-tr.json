@@ -1,0 +1,970 @@
+{
+  "observed_on": "2026-09-08",
+  "locale": "tr",
+  "status": "reviewed_partial_batch_not_live_queue",
+  "scope": "All three structured lists captured for this locale. Additional Keyword Magic research still needs consolidation.",
+  "metrics": "Cluster volume is the displayed rounded source value, not individual keyword volume. Never sum overlapping source occurrences.",
+  "runway_status": "Incomplete. Not a certification of a 90-day publishing runway. Not yet imported into the publishing routine.",
+  "assumed_posts_per_day": 3,
+  "required_unwritten_assignments": 270,
+  "assignment_count": 48,
+  "assignments": [
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-cumleleri",
+      "slug": "olumlama-cumleleri",
+      "primary_keyword": "olumlama cümleleri",
+      "article_angle": "olumlama cümleleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama cümleleri",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "15",
+          "displayed_cluster_volume": "4.2K"
+        },
+        {
+          "keyword": "olumlama nedir",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "1.6K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "evrensel-yasa",
+      "slug": "evrensel-yasa",
+      "primary_keyword": "evrensel yasa",
+      "article_angle": "evrensel yasa: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "evrensel yasa",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "3.5K"
+        },
+        {
+          "keyword": "evrenin kuralları",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "60"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "evrene-enerji-nasil-gonderilir",
+      "slug": "evrene-enerji-nasil-gonderilir",
+      "primary_keyword": "evrene enerji nasıl gönderilir",
+      "article_angle": "evrene enerji nasıl gönderilir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "evrene enerji nasıl gönderilir",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "210"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "cekim-yasasi-kitap",
+      "slug": "cekim-yasasi-kitap",
+      "primary_keyword": "çekim yasası kitap",
+      "article_angle": "çekim yasası kitap: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "çekim yasası kitap",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "640"
+        },
+        {
+          "keyword": "çekim yasası kitap",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "640"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "evlilik-olumlama-cumleleri",
+      "slug": "evlilik-olumlama-cumleleri",
+      "primary_keyword": "evlilik olumlama cümleleri",
+      "article_angle": "evlilik olumlama cümleleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "evlilik olumlama cümleleri",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "20",
+          "displayed_cluster_volume": "220"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "manifest-kodlari",
+      "slug": "manifest-kodlari",
+      "primary_keyword": "manifest kodları",
+      "article_angle": "manifest kodları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "manifest kodları",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "3.6K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "basari-olumlamalari",
+      "slug": "basari-olumlamalari",
+      "primary_keyword": "başarı olumlamaları",
+      "article_angle": "başarı olumlamaları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "başarı olumlamaları",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "27",
+          "displayed_cluster_volume": "230"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "para-olumlama-cumleleri",
+      "slug": "para-olumlama-cumleleri",
+      "primary_keyword": "para olumlama cümleleri",
+      "article_angle": "para olumlama cümleleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "para olumlama cümleleri",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "varsayim-yasasi-nedir",
+      "slug": "varsayim-yasasi-nedir",
+      "primary_keyword": "varsayım yasası nedir",
+      "article_angle": "varsayım yasası nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "varsayım yasası nedir",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "manifestasyon-nedir",
+      "slug": "manifestasyon-nedir",
+      "primary_keyword": "manifestasyon nedir",
+      "article_angle": "manifestasyon nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "manifestasyon nedir",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "220"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "cekim-yasasi",
+      "slug": "cekim-yasasi",
+      "primary_keyword": "çekim yasası",
+      "article_angle": "çekim yasası: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "çekim yasası",
+          "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "2.4K"
+        },
+        {
+          "keyword": "çekim yasası",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "30",
+          "displayed_cluster_volume": "2.4K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "gunluk-nasil-tutulur",
+      "slug": "gunluk-nasil-tutulur",
+      "primary_keyword": "günlük nasıl tutulur",
+      "article_angle": "günlük nasıl tutulur: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "günlük yazma",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 18,
+          "displayed_cluster_volume": "1.6K"
+        },
+        {
+          "keyword": "günlük nasıl tutulur",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 25,
+          "displayed_cluster_volume": "480"
+        },
+        {
+          "keyword": "kısa günlükler",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "140"
+        },
+        {
+          "keyword": "günce tutmak",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 20,
+          "displayed_cluster_volume": "60"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "derin-nefes-nasil-alinir",
+      "slug": "derin-nefes-nasil-alinir",
+      "primary_keyword": "derin nefes nasıl alınır",
+      "article_angle": "derin nefes nasıl alınır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "derin nefes nasıl alınır",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "1.4K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ozguven-nasil-kazanilir",
+      "slug": "ozguven-nasil-kazanilir",
+      "primary_keyword": "özgüven nasıl kazanılır",
+      "article_angle": "özgüven nasıl kazanılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "özgüven nasıl kazanılır",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 20,
+          "displayed_cluster_volume": "6.7K"
+        },
+        {
+          "keyword": "kendine güven",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 19,
+          "displayed_cluster_volume": "1.6K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "vision-board-nasil-yapilir",
+      "slug": "vision-board-nasil-yapilir",
+      "primary_keyword": "vision board nasıl yapılır",
+      "article_angle": "vision board nasıl yapılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "vision board nasıl yapılır",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 27,
+          "displayed_cluster_volume": "5.5K"
+        },
+        {
+          "keyword": "vizyon panosu",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 31,
+          "displayed_cluster_volume": "920"
+        },
+        {
+          "keyword": "yaratım panosu",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "160"
+        },
+        {
+          "keyword": "vizyon panosu",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "920"
+        },
+        {
+          "keyword": "vision board",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "34",
+          "displayed_cluster_volume": "23.6K"
+        },
+        {
+          "keyword": "yaratım panosu",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "160"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ozdeger-nedir",
+      "slug": "ozdeger-nedir",
+      "primary_keyword": "özdeğer nedir",
+      "article_angle": "özdeğer nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "özdeğer nedir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 21,
+          "displayed_cluster_volume": "880"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "kendimi-ifade-edemiyorum",
+      "slug": "kendimi-ifade-edemiyorum",
+      "primary_keyword": "kendimi ifade edemiyorum",
+      "article_angle": "kendimi ifade edemiyorum: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "kendimi ifade edemiyorum",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 15,
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "aliskanlik-takip",
+      "slug": "aliskanlik-takip",
+      "primary_keyword": "alışkanlık takip",
+      "article_angle": "alışkanlık takip: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "alışkanlık takip",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 26,
+          "displayed_cluster_volume": "1K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "duygusal-farkindalik",
+      "slug": "duygusal-farkindalik",
+      "primary_keyword": "duygusal farkindalik",
+      "article_angle": "duygusal farkindalik: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "duygusal farkindalik",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "280"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sabah-rutini",
+      "slug": "sabah-rutini",
+      "primary_keyword": "sabah rutini",
+      "article_angle": "sabah rutini: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "sabah rutini",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 23,
+          "displayed_cluster_volume": "640"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "manifest-nasil-yapilir",
+      "slug": "manifest-nasil-yapilir",
+      "primary_keyword": "manifest nasıl yapılır",
+      "article_angle": "manifest nasıl yapılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "manifest nasıl yapılır",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 35,
+          "displayed_cluster_volume": "7.7K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "hedef-nasil-belirlenir",
+      "slug": "hedef-nasil-belirlenir",
+      "primary_keyword": "hedef nasıl belirlenir",
+      "article_angle": "hedef nasıl belirlenir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "hedef nasıl belirlenir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 17,
+          "displayed_cluster_volume": "120"
+        },
+        {
+          "keyword": "hedef nasıl belirlenir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "120"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "uyku-rutini-ornekleri",
+      "slug": "uyku-rutini-ornekleri",
+      "primary_keyword": "uyku rutini örnekleri",
+      "article_angle": "uyku rutini örnekleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "uyku rutini örnekleri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 14,
+          "displayed_cluster_volume": "260"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ozguven-ne-demek",
+      "slug": "ozguven-ne-demek",
+      "primary_keyword": "özgüven ne demek",
+      "article_angle": "özgüven ne demek: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "özgüvenli insanların özellikleri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "250"
+        },
+        {
+          "keyword": "özgüven ne demek",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 29,
+          "displayed_cluster_volume": "6.4K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "oz-sefkat",
+      "slug": "oz-sefkat",
+      "primary_keyword": "öz şefkat",
+      "article_angle": "öz şefkat: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "öz şefkat",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 24,
+          "displayed_cluster_volume": "1.9K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "ozguven-eksikligi",
+      "slug": "ozguven-eksikligi",
+      "primary_keyword": "özgüven eksikliği",
+      "article_angle": "özgüven eksikliği: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "özgüven eksikliği",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 18,
+          "displayed_cluster_volume": "2.5K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "duygu-duzenleme",
+      "slug": "duygu-duzenleme",
+      "primary_keyword": "duygu düzenleme",
+      "article_angle": "duygu düzenleme: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "duygu düzenleme",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 22,
+          "displayed_cluster_volume": "470"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "duygu-nedir",
+      "slug": "duygu-nedir",
+      "primary_keyword": "duygu nedir",
+      "article_angle": "duygu nedir: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "duygu nedir",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+          "displayed_page_kd": 35,
+          "displayed_cluster_volume": "2.9K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "olumlama-sozleri",
+      "slug": "olumlama-sozleri",
+      "primary_keyword": "olumlama sözleri",
+      "article_angle": "olumlama sözleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "olumlama sözleri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "17",
+          "displayed_cluster_volume": "490"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-444",
+      "slug": "melek-sayisi-444",
+      "primary_keyword": "444 sayısının anlamı",
+      "article_angle": "444 sayısının anlamı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "444 sayısının anlamı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "1.2K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "meditasyon-nasil-yapilir",
+      "slug": "meditasyon-nasil-yapilir",
+      "primary_keyword": "meditasyon nasıl yapılır",
+      "article_angle": "meditasyon nasıl yapılır: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "meditasyon nasıl yapılır",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "18.2K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-999",
+      "slug": "melek-sayisi-999",
+      "primary_keyword": "999 melek sayısı",
+      "article_angle": "999 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "999 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "930"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-1111",
+      "slug": "melek-sayisi-1111",
+      "primary_keyword": "11 11 melek sayısı",
+      "article_angle": "11 11 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "11 11 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "24",
+          "displayed_cluster_volume": "2.1K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-6",
+      "slug": "melek-sayisi-6",
+      "primary_keyword": "6 sayısının anlamı melekler",
+      "article_angle": "6 sayısının anlamı melekler: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "6 sayısının anlamı melekler",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "630"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-19",
+      "slug": "melek-sayisi-19",
+      "primary_keyword": "19 melek sayısı",
+      "article_angle": "19 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "19 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "19",
+          "displayed_cluster_volume": "170"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "melek-sayisi-hesaplama",
+      "slug": "melek-sayisi-hesaplama",
+      "primary_keyword": "melek sayısı hesaplama",
+      "article_angle": "melek sayısı hesaplama: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "melek sayısı hesaplama",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "800"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-1414",
+      "slug": "melek-sayisi-1414",
+      "primary_keyword": "14 14 saat anlamı melek",
+      "article_angle": "14 14 saat anlamı melek: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "14 14 saat anlamı melek",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "1.4K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-33",
+      "slug": "melek-sayisi-33",
+      "primary_keyword": "33 melek sayısı",
+      "article_angle": "33 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "33 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "23",
+          "displayed_cluster_volume": "400"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sayilarin-anlamlari",
+      "slug": "sayilarin-anlamlari",
+      "primary_keyword": "sayıların anlamları",
+      "article_angle": "sayıların anlamları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "meleklerin işaretleri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "22",
+          "displayed_cluster_volume": "160"
+        },
+        {
+          "keyword": "sayıların anlamları",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "18",
+          "displayed_cluster_volume": "14.6K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "numeroloji-3-sayisi",
+      "slug": "numeroloji-3-sayisi",
+      "primary_keyword": "numeroloji 3 sayısı",
+      "article_angle": "numeroloji 3 sayısı: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "numeroloji 3 sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "33",
+          "displayed_cluster_volume": "1.3K"
+        },
+        {
+          "keyword": "numerolojide 3 sayısının anlamı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "240"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "bereket-sayisi",
+      "slug": "bereket-sayisi",
+      "primary_keyword": "bereket sayısı",
+      "article_angle": "bereket sayısı: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "bereket sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "250"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-404",
+      "slug": "melek-sayisi-404",
+      "primary_keyword": "04 04 melek sayısı",
+      "article_angle": "04 04 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "04 04 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "31",
+          "displayed_cluster_volume": "290"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "meditasyon-cesitleri",
+      "slug": "meditasyon-cesitleri",
+      "primary_keyword": "meditasyon çeşitleri",
+      "article_angle": "meditasyon çeşitleri: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "meditasyon çeşitleri",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "29",
+          "displayed_cluster_volume": "320"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-222",
+      "slug": "melek-sayisi-222",
+      "primary_keyword": "222 melek sayısı anlamı",
+      "article_angle": "222 melek sayısı anlamı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "222 melek sayısı anlamı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-555",
+      "slug": "melek-sayisi-555",
+      "primary_keyword": "555 melek sayısı anlami",
+      "article_angle": "555 melek sayısı anlami: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "555 melek sayısı anlami",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "26",
+          "displayed_cluster_volume": "750"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-888",
+      "slug": "melek-sayisi-888",
+      "primary_keyword": "888 melek sayısı",
+      "article_angle": "888 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "888 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "35",
+          "displayed_cluster_volume": "1.3K"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "sakral-cakra-olumlamalari",
+      "slug": "sakral-cakra-olumlamalari",
+      "primary_keyword": "sakral çakra olumlamaları",
+      "article_angle": "sakral çakra olumlamaları: anlaşılır açıklama, somut örnekler ve kişisel farkındalık rutini için adım adım bir uygulama.",
+      "source_occurrences": [
+        {
+          "keyword": "sakral çakra olumlamaları",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "28",
+          "displayed_cluster_volume": "390"
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "intent_key": "number-9999",
+      "slug": "melek-sayisi-9999",
+      "primary_keyword": "9999 melek sayısı",
+      "article_angle": "9999 melek sayısı: yaygın spiritüel yorumlar, günlük soruları ve küçük bir kişisel ritüel. Yorumları inanç olarak sun; geleceğe ilişkin garanti verme.",
+      "source_occurrences": [
+        {
+          "keyword": "9999 melek sayısı",
+          "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+          "displayed_page_kd": "33",
+          "displayed_cluster_volume": "170"
+        }
+      ]
+    }
+  ],
+  "rejected_occurrences": [
+    {
+      "keyword": "sünnetullah yasaları",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "23",
+      "displayed_cluster_volume": "370",
+      "reason": "Religious law outside Demi."
+    },
+    {
+      "keyword": "manifesto ne demek",
+      "source": "sem.3ue.com Keyword Strategy Builder; complete rendered All Pages > List capture",
+      "displayed_page_kd": "37",
+      "displayed_cluster_volume": "30.4K",
+      "reason": "Political/dictionary manifesto intent, not manifestation."
+    },
+    {
+      "keyword": "gece cilt bakımı sıralaması",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 18,
+      "displayed_cluster_volume": "1.8K",
+      "reason": "Unrelated skincare query."
+    },
+    {
+      "keyword": "çocuğumun özgüvenini nasıl geliştirebilirim",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 11,
+      "displayed_cluster_volume": "1.1K",
+      "reason": "Child-development drift."
+    },
+    {
+      "keyword": "sosyal anksiyete nedir",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 28,
+      "displayed_cluster_volume": "28.2K",
+      "reason": "Clinical condition intent."
+    },
+    {
+      "keyword": "şükür namazından sonra okunacak dua",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 29,
+      "displayed_cluster_volume": "950",
+      "reason": "Religious worship query outside Demi."
+    },
+    {
+      "keyword": "duygu etkinliği",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 20,
+      "displayed_cluster_volume": "380",
+      "reason": "Child-development/classroom drift."
+    },
+    {
+      "keyword": "erkeğe güven nasıl verilir",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 18,
+      "displayed_cluster_volume": "930",
+      "reason": "Relationship control/communication drift."
+    },
+    {
+      "keyword": "hedef belirleme sunum",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 14,
+      "displayed_cluster_volume": "80",
+      "reason": "Slide-deck intent; merge useful planning ideas into goal setting."
+    },
+    {
+      "keyword": "sevgi eksikliği nasıl giderilir",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 18,
+      "displayed_cluster_volume": "230",
+      "reason": "Clinical/attachment drift."
+    },
+    {
+      "keyword": "duygu kavramı okul öncesi",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 18,
+      "displayed_cluster_volume": "60",
+      "reason": "Child-development/classroom drift."
+    },
+    {
+      "keyword": "478 nefes teknigi",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 31,
+      "displayed_cluster_volume": "170",
+      "reason": "Physiological technique outside this batch."
+    },
+    {
+      "keyword": "doğru nefesin faydaları",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710645%2F444444444&tab=0",
+      "displayed_page_kd": 20,
+      "displayed_cluster_volume": "60",
+      "reason": "Health-benefit intent."
+    },
+    {
+      "keyword": "melek kartları",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+      "displayed_page_kd": "33",
+      "displayed_cluster_volume": "26.9K",
+      "reason": "Card-reading/product intent outside the current number-sign practice."
+    },
+    {
+      "keyword": "tasavvufta sayıların anlamı",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+      "displayed_page_kd": "12",
+      "displayed_cluster_volume": "180",
+      "reason": "Religious tradition outside Demi."
+    },
+    {
+      "keyword": "hedef belirleme sunum",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+      "displayed_page_kd": "14",
+      "displayed_cluster_volume": "80",
+      "reason": "Slide-deck intent; merge useful planning ideas into goal setting."
+    },
+    {
+      "keyword": "dijital pano örnekleri",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+      "displayed_page_kd": "24",
+      "displayed_cluster_volume": "790",
+      "reason": "Ambiguous display-board query, not clearly a vision board."
+    },
+    {
+      "keyword": "çakra açma",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+      "displayed_page_kd": "22",
+      "displayed_cluster_volume": "1.1K",
+      "reason": "Specific energy-healing practice outside this batch."
+    },
+    {
+      "keyword": "melek tarot kartları",
+      "source": "https://sem.3ue.com/analytics/keywordmanager/list?listId=6710660%2F444444444&tab=0",
+      "displayed_page_kd": "24",
+      "displayed_cluster_volume": "360",
+      "reason": "Card-reading/product intent outside the current number-sign practice."
+    }
+  ]
+}
