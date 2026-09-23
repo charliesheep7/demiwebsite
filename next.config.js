@@ -62,6 +62,15 @@ module.exports = () => {
     pageExtensions: ['ts', 'tsx', 'js', 'jsx'],
     compress: true,
     poweredByHeader: false,
+    async redirects() {
+      return [
+        {
+          source: '/blog/1010-angel-number-what-it-means-and-what-to-do-with',
+          destination: '/blog/angel-number-1010',
+          permanent: true,
+        },
+      ]
+    },
     eslint: {
       dirs: ['app', 'components'],
     },
