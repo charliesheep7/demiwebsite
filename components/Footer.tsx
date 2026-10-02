@@ -1,3 +1,4 @@
+import { PlayStoreButton } from './PlayStoreButton'
 import Link from './Link'
 import { AppStoreButton } from './AppStoreButton'
 
@@ -44,7 +45,10 @@ export default function Footer() {
           <h2 className="t-display text-ink font-serif leading-[0.9]">
             Dem<em className="text-lav-500 italic">i.</em>
           </h2>
-          <AppStoreButton size="md" />
+          <div className="flex flex-wrap gap-3">
+            <AppStoreButton size="md" />
+            <PlayStoreButton size="md" />
+          </div>
         </div>
 
         <div className="border-line-soft mt-20 grid grid-cols-2 gap-10 border-t pt-14 md:grid-cols-4">

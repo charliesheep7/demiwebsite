@@ -1,3 +1,4 @@
+import { PlayStoreButton } from '../PlayStoreButton'
 import { AppStoreButton } from '../AppStoreButton'
 import { Em } from '../Em'
 import { Stardust } from '../Stardust'
@@ -29,10 +30,11 @@ export default function RareModule() {
 
         <div className="mt-12 flex flex-col items-center justify-center gap-4 md:flex-row md:gap-6">
           <AppStoreButton size="lg" />
+          <PlayStoreButton size="lg" />
         </div>
 
         <p className="font-ui text-ink-dim mt-8 text-[10px] tracking-[0.25em] uppercase">
-          free to download · iOS · made in San Francisco
+          free to download · iOS &amp; Android · made in San Francisco
         </p>
       </div>
     </section>
