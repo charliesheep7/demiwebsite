@@ -22,8 +22,8 @@ export const FAQ_ITEMS: FAQItem[] = [
     a: 'Nothing leaves your device unless you sync. Your goal is end-to-end encrypted. We literally can’t read it — that was a design constraint, not a promise.',
   },
   {
-    q: 'When Android?',
-    a: 'Soon. Sign up and we’ll tell you the week it lands.',
+    q: 'Is Demi available on Android?',
+    a: 'Yes. Demi is available now on Android through Google Play, as well as on iOS through the App Store.',
   },
   {
     q: 'Who made this?',
