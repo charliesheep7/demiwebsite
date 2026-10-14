@@ -72,6 +72,8 @@ Cadence recommendation: one carefully reviewed article per locale per week, plus
 
 ## Analytics and measurement
 
+A private [conversion setup board](https://eu.mixpanel.com/project/4073625/view/4570155/app/boards#id=11587477) records the pending activation and intended funnel. It is not yet a populated conversion dashboard.
+
 Dedicated Mixpanel project: [demimanifest_website, project 4073625](https://eu.mixpanel.com/project/4073625/view/4570155/app/home), EU residency, Asia/Shanghai reporting time. Never reuse the DeenUp token or mix these events into Demi app analytics.
 
 Events: `demi_web_page_view`, `demi_web_article_view`, `demi_web_article_engaged`, `demi_web_cta_impression`, `demi_web_store_click`. Properties include locale, clean page path, article slug, topic, placement, CTA variant, platform/store, environment and release. Engaged means at least 30 seconds visible with consent plus reaching 50% of document height. Impression means at least 50% of the CTA block is visible. An outbound click is not an install or a purchase.
