@@ -1,56 +1,37 @@
 import { AppStoreButton } from './AppStoreButton'
-import { Em } from './Em'
+import { PlayStoreButton } from './PlayStoreButton'
 import { BlogLocale, blogCopy } from '@/lib/blog-locales'
-
-export function BlogCTA({ locale = 'en' }: { locale?: BlogLocale }) {
-  const copy = blogCopy(locale)
-  if (locale !== 'en')
-    return (
-      <aside
-        aria-label={copy.download}
-        className="not-prose bg-cream-2 mt-20 rounded-[var(--radius-lg)] px-7 py-12 md:px-12"
-      >
-        <h2 className="t-h2 mb-4">{copy.ctaTitle}</h2>
-        <p className="t-body-l mb-8">{copy.ctaBody}</p>
-        <AppStoreButton size="lg" label={copy.download} kicker={copy.downloadOn} />
-      </aside>
-    )
+import { Topic } from '@/lib/topics'
+import { siteCopy, isSiteLocale } from '@/lib/site-locales'
+import ctaCopy from '@/data/ctaCopy.json'
+export function BlogCTA({
+  locale = 'en',
+  topic = 'methods',
+  placement = 'article_end',
+}: {
+  locale?: BlogLocale
+  topic?: Topic
+  placement?: string
+}) {
+  const copy = siteCopy(locale),
+    [title, body] = isSiteLocale(locale)
+      ? ctaCopy[locale][topic]
+      : [blogCopy(locale).ctaTitle, blogCopy(locale).ctaBody]
   return (
     <aside
-      aria-label="Download Demi"
-      className="not-prose relative mt-20 overflow-hidden rounded-[var(--radius-lg)]"
+      aria-label={copy.download}
+      data-cta-placement={placement}
+      data-cta-variant={topic}
+      className="not-prose border-lav-200 from-lav-100 via-cream-2 to-yel-50 relative my-12 overflow-hidden rounded-3xl border bg-gradient-to-br px-6 py-9 md:px-10"
     >
-      <div
-        aria-hidden="true"
-        className="from-lav-100 via-cream-2 to-yel-50 absolute inset-0 bg-gradient-to-br"
-      />
-      <div
-        aria-hidden="true"
-        className="text-lav-500/60 absolute -top-6 -right-4 text-[110px] leading-none select-none"
-        style={{ textShadow: '0 0 50px rgba(255,223,122,0.55)' }}
-      >
-        ✦
+      <p className="t-eyebrow text-lav-500 mb-4">Demi</p>
+      <h2 className="t-h2 mb-4">{title}</h2>
+      <p className="t-body mb-6 max-w-[580px]">{body}</p>
+      <div className="flex flex-wrap gap-3">
+        <AppStoreButton size="md" label={copy.download} kicker={copy.downloadOn} />
+        <PlayStoreButton size="md" label={copy.download} kicker={copy.downloadOn} />
       </div>
-
-      <div className="relative px-7 py-12 md:px-12 md:py-14">
-        <p className="font-ui text-ink-dim mb-4 text-[10px] font-semibold tracking-[0.3em] uppercase">
-          your daily manifestation app
-        </p>
-        <h2 className="t-h2 mb-4">
-          Claim it. Script it. <Em>Watch it land.</Em>
-        </h2>
-        <p className="t-body-l text-ink-2 mb-8 max-w-[520px]">
-          Demi is the daily practice: tap the orb to claim your SP or anything you&rsquo;re calling
-          in, read today&rsquo;s lucky number and signs, write it in your script, pin it to your
-          vision board. Show up. Keep the streak.
-        </p>
-        <div className="flex flex-col items-start gap-4 md:flex-row md:items-center md:gap-6">
-          <AppStoreButton size="lg" />
-          <span className="font-ui text-ink-dim text-[10px] tracking-[0.25em] uppercase">
-            free · iOS
-          </span>
-        </div>
-      </div>
+      <p className="t-meta mt-4">{copy.platforms}</p>
     </aside>
   )
 }

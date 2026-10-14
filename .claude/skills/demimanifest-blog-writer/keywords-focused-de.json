@@ -1,0 +1,198 @@
+{
+  "locale": "de",
+  "observed_on": "2026-10-15",
+  "rows": [
+    {
+      "keyword": "manifestieren",
+      "locale": "de",
+      "country": "DE",
+      "volume": 12100,
+      "kd": 35,
+      "category": "methods",
+      "slug": "manifestieren",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": ["manifestieren methoden"],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 12100,
+          "kd": 35
+        }
+      ]
+    },
+    {
+      "keyword": "affirmationen selbstliebe",
+      "locale": "de",
+      "country": "DE",
+      "volume": 720,
+      "kd": 15,
+      "category": "affirmations",
+      "slug": "affirmationen-selbstliebe",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 720,
+          "kd": 15
+        }
+      ]
+    },
+    {
+      "keyword": "369 methode",
+      "locale": "de",
+      "country": "DE",
+      "volume": 390,
+      "kd": 23,
+      "category": "methods",
+      "slug": "369-methode",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 390,
+          "kd": 23
+        }
+      ]
+    },
+    {
+      "keyword": "geld manifestieren",
+      "locale": "de",
+      "country": "DE",
+      "volume": 260,
+      "kd": 11,
+      "category": "money-career",
+      "slug": "geld-manifestieren",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 260,
+          "kd": 11
+        }
+      ]
+    },
+    {
+      "keyword": "liebe manifestieren",
+      "locale": "de",
+      "country": "DE",
+      "volume": 140,
+      "kd": 13,
+      "category": "love",
+      "slug": "liebe-manifestieren",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 140,
+          "kd": 13
+        }
+      ]
+    },
+    {
+      "keyword": "bestimmte person manifestieren",
+      "locale": "de",
+      "country": "DE",
+      "volume": 70,
+      "kd": 15,
+      "category": "love",
+      "slug": "bestimmte-person-manifestieren",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 70,
+          "kd": 15
+        }
+      ]
+    },
+    {
+      "keyword": "affirmationen liebe",
+      "locale": "de",
+      "country": "DE",
+      "volume": 50,
+      "kd": null,
+      "category": "love",
+      "slug": "affirmationen-liebe",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 50,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "job manifestieren",
+      "locale": "de",
+      "country": "DE",
+      "volume": 30,
+      "kd": null,
+      "category": "money-career",
+      "slug": "job-manifestieren",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "DE",
+          "metric_kind": "individual_keyword",
+          "volume": 30,
+          "kd": null
+        }
+      ]
+    }
+  ]
+}

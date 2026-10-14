@@ -6,8 +6,10 @@ import { Eyebrow } from '@/components/Eyebrow'
 import { JsonLd } from '@/components/JsonLd'
 import { ShareButtons } from '@/components/ShareButtons'
 import { BlogCTA } from '@/components/BlogCTA'
-import { getPostBySlug, renderPost } from '@/lib/blog'
+import { getAllPosts, getPostBySlug, renderPost } from '@/lib/blog'
 import siteMetadata from '@/data/siteMetadata'
+import { topicFor, topicLabel } from '@/lib/topics'
+import { siteCopy, sitePath } from '@/lib/site-locales'
 import { BlogLocale, blogCopy, blogPath, formatBlogDate } from '@/lib/blog-locales'
 
 export function blogArticleMetadata(slug: string, locale: BlogLocale = 'en'): Metadata {
@@ -16,7 +18,7 @@ export function blogArticleMetadata(slug: string, locale: BlogLocale = 'en'): Me
   const { title, description, date, updated, image, keywords } = post.frontmatter
   const url = blogPath(locale, slug)
   return {
-    title,
+    title: post.frontmatter.seoTitle || title,
     description,
     keywords,
     alternates: { canonical: url },
@@ -51,7 +53,24 @@ export default async function BlogArticle({
   const copy = blogCopy(locale)
   if (!post) notFound()
 
+  const topic = topicFor(
+    `${post.slug} ${post.frontmatter.title} ${(post.frontmatter.keywords || []).join(' ')}`,
+    post.frontmatter.topic
+  )
+  const candidates = getAllPosts(locale).filter((p) => p.slug !== slug)
+  const sameTopic = candidates.filter(
+    (p) =>
+      topicFor(
+        `${p.slug} ${p.frontmatter.title} ${(p.frontmatter.keywords || []).join(' ')}`,
+        p.frontmatter.topic
+      ) === topic
+  )
+  const related = [...sameTopic, ...candidates.filter((p) => !sameTopic.includes(p))].slice(0, 3)
   const rendered = await renderPost(post)
+  // Answer the reader's question before presenting the first app offer.
+  const firstSection = rendered.html.search(/<h2\b/)
+  const introHtml = firstSection > 0 ? rendered.html.slice(0, firstSection) : ''
+  const bodyHtml = firstSection > 0 ? rendered.html.slice(firstSection) : rendered.html
   const url = `${siteMetadata.siteUrl}${blogPath(locale, slug)}`
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -78,7 +97,12 @@ export default async function BlogArticle({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: copy.home, item: siteMetadata.siteUrl },
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: copy.home,
+        item: `${siteMetadata.siteUrl}${sitePath(locale)}`,
+      },
       {
         '@type': 'ListItem',
         position: 2,
@@ -90,7 +114,11 @@ export default async function BlogArticle({
   }
 
   return (
-    <article className="mx-auto max-w-[760px] px-5 py-24 md:px-8 md:py-32">
+    <article
+      data-article-slug={slug}
+      data-article-topic={topic}
+      className="mx-auto max-w-[760px] px-5 py-24 md:px-8 md:py-32"
+    >
       <JsonLd data={articleSchema} />
       <JsonLd data={breadcrumbSchema} />
 
@@ -141,9 +169,30 @@ export default async function BlogArticle({
         ) : null}
       </div>
 
-      <div className="prose-demi" dangerouslySetInnerHTML={{ __html: rendered.html }} />
+      {introHtml && <div className="prose-demi" dangerouslySetInnerHTML={{ __html: introHtml }} />}
+      <BlogCTA locale={locale} topic={topic} placement="article_intro" />
 
-      <BlogCTA locale={locale} />
+      <div className="prose-demi" dangerouslySetInnerHTML={{ __html: bodyHtml }} />
+
+      <BlogCTA locale={locale} topic={topic} />
+      <section aria-label={siteCopy(locale).related} className="mt-10">
+        <h2 className="t-h2 mb-6">{siteCopy(locale).related}</h2>
+        <Link href={`${blogPath(locale)}/topics/${topic}`} className="text-lav-500 underline">
+          {topicLabel(topic, locale)}
+        </Link>
+        <ul className="mt-6 space-y-4">
+          {related.map((p) => (
+            <li key={p.slug}>
+              <Link
+                href={blogPath(locale, p.slug)}
+                className="hover:text-lav-500 font-serif text-2xl"
+              >
+                {p.frontmatter.title} →
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <div className="border-line-soft mt-12 border-t pt-8">
         <p className="t-body-s text-ink-dim">

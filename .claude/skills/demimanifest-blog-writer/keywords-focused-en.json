@@ -1,0 +1,179 @@
+{
+  "locale": "en",
+  "observed_on": "2026-10-15",
+  "rows": [
+    {
+      "keyword": "manifest sp",
+      "locale": "en",
+      "country": "US",
+      "volume": 140,
+      "kd": 39,
+      "category": "love",
+      "slug": "manifesting-a-specific-person",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [
+        "manifesting sp",
+        "sp manifestation",
+        "sp affirmations",
+        "law of assumption sp"
+      ],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 140,
+          "kd": 39
+        }
+      ]
+    },
+    {
+      "keyword": "how to manifest love",
+      "locale": "en",
+      "country": "US",
+      "volume": 390,
+      "kd": 35,
+      "category": "love",
+      "slug": "how-to-manifest-love",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 390,
+          "kd": 35
+        }
+      ]
+    },
+    {
+      "keyword": "369 method",
+      "locale": "en",
+      "country": "US",
+      "volume": 2900,
+      "kd": 41,
+      "category": "methods",
+      "slug": "369-manifestation-method",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 2900,
+          "kd": 41
+        }
+      ]
+    },
+    {
+      "keyword": "manifestation journal prompts",
+      "locale": "en",
+      "country": "US",
+      "volume": 320,
+      "kd": 6,
+      "category": "methods",
+      "slug": "manifestation-journal-prompts",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 320,
+          "kd": 6
+        }
+      ]
+    },
+    {
+      "keyword": "scripting manifestation examples",
+      "locale": "en",
+      "country": "US",
+      "volume": 110,
+      "kd": 15,
+      "category": "methods",
+      "slug": "scripting-manifestation",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 110,
+          "kd": 15
+        }
+      ]
+    },
+    {
+      "keyword": "manifesting money",
+      "locale": "en",
+      "country": "US",
+      "volume": 1300,
+      "kd": 29,
+      "category": "money-career",
+      "slug": "manifesting-money",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 1300,
+          "kd": 29
+        }
+      ]
+    },
+    {
+      "keyword": "manifesting a job",
+      "locale": "en",
+      "country": "US",
+      "volume": 90,
+      "kd": 16,
+      "category": "money-career",
+      "slug": "manifesting-a-job",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "US",
+          "metric_kind": "individual_keyword",
+          "volume": 90,
+          "kd": 16
+        }
+      ]
+    }
+  ]
+}
