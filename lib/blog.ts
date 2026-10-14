@@ -1,3 +1,4 @@
+import type { Topic } from './topics'
 import fs from 'node:fs'
 import path from 'node:path'
 import matter from 'gray-matter'
@@ -13,6 +14,8 @@ import { BlogLocale, blogCopy, isBlogLocale } from './blog-locales'
 
 export type PostFrontmatter = {
   title: string
+  seoTitle?: string
+  topic?: Topic
   description: string
   date: string
   updated?: string
@@ -74,11 +77,16 @@ export function getPostBySlug(slug: string, locale: BlogLocale = 'en'): Post | n
   }
 }
 
+const productionPostCache = new Map<BlogLocale, Post[]>()
 export function getAllPosts(locale: BlogLocale = 'en'): Post[] {
-  return getAllSlugs(locale)
+  const cached = productionPostCache.get(locale)
+  if (process.env.NODE_ENV === 'production' && cached) return cached
+  const posts = getAllSlugs(locale)
     .map((slug) => getPostBySlug(slug, locale))
     .filter((p): p is Post => p !== null)
     .sort((a, b) => (a.frontmatter.date < b.frontmatter.date ? 1 : -1))
+  if (process.env.NODE_ENV === 'production') productionPostCache.set(locale, posts)
+  return posts
 }
 
 export async function renderPost(post: Post): Promise<RenderedPost> {

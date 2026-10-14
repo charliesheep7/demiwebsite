@@ -1,0 +1,198 @@
+{
+  "locale": "fr",
+  "observed_on": "2026-10-15",
+  "rows": [
+    {
+      "keyword": "affirmation positive confiance en soi",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 260,
+      "kd": 7,
+      "category": "affirmations",
+      "slug": "affirmations-confiance-en-soi",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 260,
+          "kd": 7
+        }
+      ]
+    },
+    {
+      "keyword": "loi de l’attraction amour",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 40,
+      "kd": null,
+      "category": "love",
+      "slug": "loi-attraction-amour",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 40,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "manifester une personne",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 30,
+      "kd": null,
+      "category": "love",
+      "slug": "manifester-une-personne",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": ["manifester une personne spécifique"],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 30,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "affirmations positives amour",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 20,
+      "kd": null,
+      "category": "love",
+      "slug": "affirmations-positives-amour",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 20,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "manifester l’amour",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 20,
+      "kd": null,
+      "category": "love",
+      "slug": "manifester-amour",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 20,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "manifester un travail",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 20,
+      "kd": null,
+      "category": "money-career",
+      "slug": "manifester-un-travail",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 20,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "méthode 369",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 20,
+      "kd": null,
+      "category": "methods",
+      "slug": "methode-369",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 20,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "manifester de l’argent",
+      "locale": "fr",
+      "country": "FR",
+      "volume": 10,
+      "kd": null,
+      "category": "money-career",
+      "slug": "manifester-argent",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "FR",
+          "metric_kind": "individual_keyword",
+          "volume": 10,
+          "kd": null
+        }
+      ]
+    }
+  ]
+}

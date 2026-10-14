@@ -1,14 +1,14 @@
 import 'css/tailwind.css'
 
 import { Instrument_Serif, Libre_Caslon_Text, Inter } from 'next/font/google'
-import Header from '@/components/Header'
-import Footer from '@/components/Footer'
+import { SiteHeader, SiteFooter } from '@/components/SiteChrome'
+import { Consent } from '@/components/analytics/Consent'
+import { WebsiteAnalytics } from '@/components/analytics/WebsiteAnalytics'
 import { PaperGrain } from '@/components/PaperGrain'
 import { JsonLd } from '@/components/JsonLd'
 import siteMetadata from '@/data/siteMetadata'
 import { Metadata, Viewport } from 'next'
 import { BlogLocale } from '@/lib/blog-locales'
-import { NativeBlogHeader, NativeBlogFooter } from '@/components/blog/NativeBlogChrome'
 
 const serif = Instrument_Serif({
   weight: '400',
@@ -129,10 +129,6 @@ export const metadata: Metadata = {
     ],
   },
   manifest: '/site.webmanifest',
-  other: {
-    // AI search / GEO hints — emerging 2026 practice for ChatGPT, Perplexity, Claude search.
-    'ai-content-declaration': 'human-authored',
-  },
   verification: {
     // Fill in once available from Search Console / Bing Webmaster:
     // google: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
@@ -160,11 +156,6 @@ const graph = {
       image: { '@id': `${siteMetadata.siteUrl}#logo` },
       email: siteMetadata.email,
       description: siteMetadata.description,
-      foundingDate: '2026',
-      foundingLocation: {
-        '@type': 'Place',
-        name: 'San Francisco, California, United States',
-      },
       contactPoint: [
         {
           '@type': 'ContactPoint',
@@ -177,7 +168,7 @@ const graph = {
       // links to, both verified live before being cited here. This was an empty
       // array, which tells an engine nothing about which Demi this is.
       sameAs: [
-        'https://apps.apple.com/vn/app/demi-manifest-affirm/id6763245058',
+        'https://apps.apple.com/app/id6763245058',
         'https://play.google.com/store/apps/details?id=com.demimanifest',
       ],
     },
@@ -211,9 +202,11 @@ export default function SiteLayout({
         <JsonLd data={graph} />
         <PaperGrain />
         <div className="relative flex min-h-screen flex-col">
-          {locale === 'en' ? <Header /> : <NativeBlogHeader locale={locale} />}
-          <main className="flex-1 pt-16 md:pt-[72px]">{children}</main>
-          {locale === 'en' ? <Footer /> : <NativeBlogFooter locale={locale} />}
+          <SiteHeader locale={locale} />
+          <main className="flex-1 pt-28 md:pt-[88px]">{children}</main>
+          <SiteFooter locale={locale} />
+          <Consent locale={locale} />
+          <WebsiteAnalytics locale={locale} />
         </div>
       </body>
     </html>

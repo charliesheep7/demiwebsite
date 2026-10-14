@@ -40,7 +40,8 @@ def front_keywords(text):
 
 
 def read_rows(locale):
-    path = SKILL / f'keywords-researched-{locale}.json'
+    focused = SKILL / f'keywords-focused-{locale}.json'
+    path = focused if focused.exists() else SKILL / f'keywords-researched-{locale}.json'
     if not path.exists():
         return []
     data = json.loads(path.read_text())
@@ -75,9 +76,9 @@ def covered_terms(locale):
     return terms, {p.stem for p in paths}
 
 
-def candidates(locale):
+def candidates(locale, include_legacy=False):
     rows = [dict(r, queue='researched') for r in read_rows(locale)]
-    if locale == 'en':
+    if locale == 'en' and include_legacy:
         with (SKILL / 'keywords.csv').open(newline='') as f:
             for row in csv.DictReader(f):
                 keyword = row.get('keyword', '').strip()
@@ -95,7 +96,7 @@ def publish_ready(locale):
     return config.exists() and locale in json.loads(config.read_text()) and all((SITE / path).exists() for path in routes)
 
 
-def available(locale):
+def available(locale, include_legacy=False):
     covered, slugs = covered_terms(locale)
     seen_terms, seen_slugs, out = set(), set(), []
     if locale == 'en':
@@ -103,7 +104,7 @@ def available(locale):
         dupe = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(dupe)
         existing = [dupe.words(term) for term in covered]
-    for row in candidates(locale):
+    for row in candidates(locale, include_legacy):
         terms = {key(k) for k in [row['keyword']] + row.get('secondary_keywords', [])}
         if terms & (covered | seen_terms) or row['slug'] in slugs | seen_slugs:
             continue
@@ -120,7 +121,18 @@ def available(locale):
                         url_path=f'/blog/{row["slug"]}' if locale == 'en' else f'/{locale}/blog/{row["slug"]}',
                         image_directory=f'public/blog/{row["slug"]}' if locale == 'en' else f'public/blog/{locale}/{row["slug"]}',
                         readiness_note='Locale blog routes are configured; publish in the returned content_path.' if publish_ready(locale) else 'Locale routes are not configured.'))
-    return out
+    # Editorial allocation is a starting hypothesis, not a proven optimum.
+    buckets = {'love': [], 'support': [], 'money-career': [], 'signs': []}
+    for row in out:
+        category = row.get('category', '')
+        bucket = category if category in buckets else 'support'
+        buckets[bucket].append(row)
+    schedule = ['love'] * 9 + ['support'] * 6 + ['money-career'] * 3 + ['signs'] * 2
+    ordered = []
+    while any(buckets.values()):
+        for bucket in schedule:
+            if buckets[bucket]: ordered.append(buckets[bucket].pop(0))
+    return ordered
 
 
 def main():
@@ -128,14 +140,16 @@ def main():
     parser.add_argument('command', choices=('next', 'stats', 'refresh'))
     parser.add_argument('count', nargs='?', default=1, type=int)
     parser.add_argument('--locale', choices=LOCALES, default='en')
+    parser.add_argument('--include-legacy', action='store_true', help='Opt in to unverified historic English keywords; excluded by default.')
     args = parser.parse_args()
     if args.count < 1:
         parser.error('count must be positive')
     if args.command == 'refresh':
         path = SKILL / f'keywords-refresh-{args.locale}.json'
-        result = json.loads(path.read_text())['rows'] if path.exists() else []
+        result = [r for r in read_rows(args.locale) if r.get('action') == 'refresh_existing_page']
+        if not result and path.exists(): result = json.loads(path.read_text())['rows']
     else:
-        rows = available(args.locale)
+        rows = available(args.locale, args.include_legacy)
         result = rows[:args.count] if args.command == 'next' else {
             'locale': args.locale, 'researched_rows_saved': len(read_rows(args.locale)),
             'researched_available': sum(r['queue'] == 'researched' for r in rows),
