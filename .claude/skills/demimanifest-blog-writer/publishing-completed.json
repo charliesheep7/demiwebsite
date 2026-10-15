@@ -21,6 +21,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-15",
       "verification": "implemented locally; production verification by release step"
+    },
+    {
+      "locale": "it",
+      "slug": "legge-attrazione-amore",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-15",
+      "verification": "implemented locally; production verification by release step"
     }
   ]
 }
