@@ -17,7 +17,7 @@ export function genPageMetadata({ title, description, image, ...rest }: PageSEOP
       title: `${title} | ${siteMetadata.title}`,
       description: description || siteMetadata.description,
       url: './',
-      siteName: siteMetadata.title,
+      siteName: 'Demi',
       images: image ? [image] : [],
       type: 'website',
     },

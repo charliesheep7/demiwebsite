@@ -1,9 +1,13 @@
 {
   "en": {
     "about": {
-      "title": "A daily practice for your next chapter.",
+      "title": "About Demi, the manifestation app",
       "description": "Meet Demi: a manifestation app for SP, love, affirmations, scripting and visualization.",
       "sections": [
+        [
+          "What is Demi?",
+          "Demi is a daily manifestation app for iPhone and Android. Use affirmations, intention-setting and visualization to reflect on love, a specific person (SP), or your next personal goal. This is Demi’s official website."
+        ],
         [
           "Why Demi exists",
           "Demi brings intentions, affirmations, scripting and vision boards into one daily practice. Start with a specific person, the relationship you want, or another goal that matters to you."
@@ -15,6 +19,10 @@
         [
           "Explore the app",
           "Demi is available on iPhone and Android. The store listing and in-app offer show current features, supported languages and pricing."
+        ],
+        [
+          "Find the official Demi app",
+          "On the App Store, look for “Demi: Manifest and Affirm” by Sihan Cheng. On Google Play, look for “Demi: Manifest & Affirm” by h&h technology ltd. The links below take you to these listings. Store availability, features and subscription details can vary by platform and region."
         ]
       ]
     },
@@ -124,9 +132,13 @@
   },
   "fr": {
     "about": {
-      "title": "Une pratique quotidienne pour la suite de votre histoire.",
+      "title": "À propos de Demi, l’application de manifestation",
       "description": "Découvrez Demi : une application pour l’amour, les affirmations, le scripting et la visualisation.",
       "sections": [
+        [
+          "Qu’est-ce que Demi ?",
+          "Demi est une application de manifestation pour iPhone et Android. Affirmations, intentions et visualisation vous accompagnent dans votre réflexion sur l’amour, une personne précise (SP) ou un projet personnel. Vous êtes sur le site officiel de Demi."
+        ],
         [
           "Pourquoi Demi existe",
           "Demi réunit intentions, affirmations, scripting et tableaux de visualisation dans une pratique quotidienne. Commencez par une personne précise, la relation souhaitée ou un autre projet qui compte pour vous."
@@ -138,6 +150,10 @@
         [
           "Découvrir l’application",
           "Demi est disponible sur iPhone et Android. La fiche de la boutique et l’offre dans l’application indiquent les fonctionnalités, les langues et les tarifs actuels."
+        ],
+        [
+          "Trouver l’application officielle Demi",
+          "Sur l’App Store, recherchez « Demi: Manifest and Affirm » de Sihan Cheng. Sur Google Play, recherchez « Demi: Manifest & Affirm » de h&h technology ltd. Les liens ci-dessous mènent à ces fiches. La disponibilité, les fonctionnalités et les abonnements peuvent varier selon la plateforme et le pays."
         ]
       ]
     },
@@ -250,9 +266,13 @@
   },
   "de": {
     "about": {
-      "title": "Eine tägliche Praxis für dein nächstes Kapitel.",
+      "title": "Über Demi, die Manifestations-App",
       "description": "Entdecke Demi: die App für SP, Liebe, Affirmationen, Scripting und Visualisierung.",
       "sections": [
+        [
+          "Was ist Demi?",
+          "Demi ist eine Manifestations-App für iPhone und Android. Mit Affirmationen, Intentionen und Visualisierung kannst du über Liebe, eine bestimmte Person (SP) oder dein nächstes persönliches Ziel nachdenken. Dies ist die offizielle Website von Demi."
+        ],
         [
           "Warum es Demi gibt",
           "Demi vereint Intentionen, Affirmationen, Scripting und Vision Boards in einer täglichen Praxis. Beginne mit einer bestimmten Person, deinem Beziehungswunsch oder einem anderen Ziel, das dir wichtig ist."
@@ -264,6 +284,10 @@
         [
           "Die App entdecken",
           "Demi gibt es für iPhone und Android. Im Store und im Angebot innerhalb der App findest du aktuelle Funktionen, unterstützte Sprachen und Preise."
+        ],
+        [
+          "Die offizielle Demi-App finden",
+          "Im App Store heißt die App „Demi: Manifest and Affirm“ von Sihan Cheng. Bei Google Play findest du „Demi: Manifest & Affirm“ von h&h technology ltd. Die folgenden Links führen zu diesen Einträgen. Verfügbarkeit, Funktionen und Abonnements können je nach Plattform und Region variieren."
         ]
       ]
     },
@@ -373,9 +397,13 @@
   },
   "it": {
     "about": {
-      "title": "Una pratica quotidiana per il tuo prossimo capitolo.",
+      "title": "Informazioni su Demi, l’app di manifestazione",
       "description": "Scopri Demi: l’app per SP, amore, affermazioni, scripting e visualizzazione.",
       "sections": [
+        [
+          "Che cos’è Demi?",
+          "Demi è un’app di manifestazione per iPhone e Android. Affermazioni, intenzioni e visualizzazione ti aiutano a riflettere sull’amore, su una persona specifica (SP) o sul tuo prossimo obiettivo personale. Questo è il sito ufficiale di Demi."
+        ],
         [
           "Perché esiste Demi",
           "Demi riunisce intenzioni, affermazioni, scripting e vision board in una pratica quotidiana. Parti da una persona specifica, dalla relazione desiderata o da un altro obiettivo importante per te."
@@ -387,6 +415,10 @@
         [
           "Scopri l’app",
           "Demi è disponibile per iPhone e Android. La pagina dello store e l’offerta nell’app riportano funzioni, lingue supportate e prezzi aggiornati."
+        ],
+        [
+          "Trova l’app ufficiale Demi",
+          "Nell’App Store cerca “Demi: Manifest and Affirm” di Sihan Cheng. Su Google Play cerca “Demi: Manifest & Affirm” di h&h technology ltd. I link qui sotto portano a queste schede. Disponibilità, funzioni e abbonamenti possono variare in base alla piattaforma e al paese."
         ]
       ]
     },

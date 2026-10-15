@@ -2,7 +2,8 @@ import { AppStoreButton } from './AppStoreButton'
 import { PlayStoreButton } from './PlayStoreButton'
 import { BlogLocale, blogCopy } from '@/lib/blog-locales'
 import { Topic } from '@/lib/topics'
-import { siteCopy, isSiteLocale } from '@/lib/site-locales'
+import Link from 'next/link'
+import { sitePath, siteCopy, isSiteLocale } from '@/lib/site-locales'
 import ctaCopy from '@/data/ctaCopy.json'
 export function BlogCTA({
   locale = 'en',
@@ -24,7 +25,11 @@ export function BlogCTA({
       data-cta-variant={topic}
       className="not-prose border-lav-200 from-lav-100 via-cream-2 to-yel-50 relative my-12 overflow-hidden rounded-3xl border bg-gradient-to-br px-6 py-9 md:px-10"
     >
-      <p className="t-eyebrow text-lav-500 mb-4">Demi</p>
+      <p className="t-eyebrow text-lav-500 mb-4">
+        <Link href={sitePath(locale)} className="underline underline-offset-4">
+          Demi
+        </Link>
+      </p>
       <h2 className="t-h2 mb-4">{title}</h2>
       <p className="t-body mb-6 max-w-[580px]">{body}</p>
       <div className="flex flex-wrap gap-3">

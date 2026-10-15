@@ -1,6 +1,6 @@
 import { ImageResponse } from 'next/og'
 
-export const alt = 'Demi — manifest to make it come true.'
+export const alt = 'Demi — Manifestation App for Love & SP'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
@@ -30,7 +30,7 @@ export default async function OpengraphImage() {
             color: '#6b5f4e',
           }}
         >
-          Demi · est. 2026
+          Demi · Manifestation app
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column' }}>
@@ -46,7 +46,7 @@ export default async function OpengraphImage() {
               marginBottom: 28,
             }}
           >
-            Manifest to make it come true.
+            Demi. Make room for love.
           </div>
           <div
             style={{
@@ -57,8 +57,8 @@ export default async function OpengraphImage() {
               maxWidth: 880,
             }}
           >
-            Claim your SP. Script the scene. Build your vision board. Demi is the daily practice
-            that holds your manifestation until it lands.
+            Affirmations, intentions and visualization. A daily practice for love, SP and your next
+            chapter.
           </div>
         </div>
 
@@ -74,7 +74,7 @@ export default async function OpengraphImage() {
           }}
         >
           <div style={{ display: 'flex' }}>demimanifest.com</div>
-          <div style={{ display: 'flex' }}>a small studio, San Francisco</div>
+          <div style={{ display: 'flex' }}>iPhone & Android</div>
         </div>
       </div>
     ),

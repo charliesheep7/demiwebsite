@@ -1,4 +1,8 @@
 import { Metadata } from 'next'
+import BrandDetails from './BrandDetails'
+import { JsonLd } from './JsonLd'
+import { APP_ID, WEBSITE_ID } from '@/lib/brand'
+import siteMetadata from '@/data/siteMetadata'
 import pages from '@/data/infoPages.json'
 import { SiteLocale, sitePath, languageAlternates } from '@/lib/site-locales'
 export type InfoSlug = keyof typeof pages.en
@@ -39,6 +43,20 @@ export default function InfoPage({ locale, slug }: { locale: SiteLocale; slug: I
   const p = pages[locale][slug]
   return (
     <article className="mx-auto max-w-[820px] px-5 py-20 md:px-8">
+      {slug === 'about' && (
+        <JsonLd
+          data={{
+            '@context': 'https://schema.org',
+            '@type': 'AboutPage',
+            '@id': `${siteMetadata.siteUrl}${sitePath(locale, '/about')}#webpage`,
+            url: `${siteMetadata.siteUrl}${sitePath(locale, '/about')}`,
+            name: p.title,
+            inLanguage: locale,
+            isPartOf: { '@id': WEBSITE_ID },
+            about: { '@id': APP_ID },
+          }}
+        />
+      )}
       <h1 className="t-h1 mb-10">{p.title}</h1>
       <div className="space-y-10">
         {p.sections.map(([title, body]) => (
@@ -50,6 +68,7 @@ export default function InfoPage({ locale, slug }: { locale: SiteLocale; slug: I
           </section>
         ))}
       </div>
+      {slug === 'about' && <BrandDetails locale={locale} detailed />}
     </article>
   )
 }

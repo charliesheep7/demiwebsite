@@ -23,6 +23,10 @@ This is the canonical workflow for the existing 09:00 and 21:00 Asia/Shanghai Cl
 - IndexNow is best-effort after the page is live: use the canonical host and the actual locale path, existing deployed key file, one request. Network failures are logged, never treated as Google indexing success; the existing local IndexNow sweep remains separate. Do not change authentication/network security to make a cloud request work.
 - If one assignment fails, record its stage and continue other distinct assignments. Retry failed verification rather than replaying an already pushed article. End with keyword, locale, new/update, URL, commit SHA, validation/deployment/IndexNow states and queue runway. No additional scheduled jobs are created.
 
+## Brand identity: exact query Demi
+
+The canonical product/brand destination is the localized homepage. Use “Demi” consistently, explaining “manifestation app” when context needs it. The article CTA already links the brand to that homepage. Link naturally when introducing the app; do not add repetitive exact-match links. Preserve the homepage/About identity graph and verified app-store URLs. Do not create a blog post or duplicate landing page targeting only `demi`, and do not replace the researched nonbrand queues with brand-name filler. Never invent a company legal name, office location, social handle, awards or reviews. Brand facts: `public/brand/demi-facts.txt`. Bare `demi` rankings are measured separately from `demi app` and nonbrand traffic.
+
 ## Evaluation
 
 Initial content direction: SP/love 45%, affirmations/methods 30%, money/career 15%, signs 10%; a hypothesis rather than a quota. Review new nonbrand impressions/clicks and indexing by locale/topic. Mixpanel production token remains unconfigured as of 2026-10-15; do not report live store-click data until activation and a real event are verified. Outbound clicks are not installs or purchases.

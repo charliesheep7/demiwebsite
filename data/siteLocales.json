@@ -13,10 +13,10 @@
     "download": "Download Demi",
     "downloadOn": "Download on the",
     "platforms": "Free to download · iOS & Android",
-    "title": "Manifestation App for SP, Love & Daily Practice | Demi",
-    "description": "Make space for love and your next chapter. Explore SP manifestation, affirmations, scripting and vision boards with Demi for iPhone and Android.",
+    "title": "Demi — Manifestation App for Love & SP",
+    "description": "Meet Demi, the manifestation app for love and SP. Build a daily practice with affirmations, intentions and visualization. Available on iPhone and Android.",
     "eyebrow": "your daily manifestation practice",
-    "hero": "Make room for the love you want.",
+    "hero": "Demi. Make room for love.",
     "heroAccent": "Start with you.",
     "intro": "Your specific person. A relationship that feels mutual. A future you can picture. Bring your intentions, affirmations, scripts and vision board together in Demi.",
     "featuresTitle": "A little practice, every day.",
@@ -58,6 +58,10 @@
     "faqTitle": "Before you begin",
     "faqs": [
       [
+        "What is Demi?",
+        "Demi is a daily manifestation app for iPhone and Android. Use affirmations, intention-setting and visualization to reflect on love, a specific person (SP), or your next personal goal. This is Demi’s official website."
+      ],
+      [
         "What does SP mean?",
         "SP means specific person: someone you have in mind when you think about a relationship. The practice can help you clarify your own intentions; it cannot control another person’s choices."
       ],
@@ -94,7 +98,15 @@
     "saved": "Your choice is saved.",
     "notFound": "This page could not be found.",
     "backHome": "Back to home",
-    "heroImageAlt": "An open journal, pencil and lavender orb in soft morning light"
+    "heroImageAlt": "An open journal, pencil and lavender orb in soft morning light",
+    "brandTitle": "What is Demi?",
+    "brandBody": "Demi is a daily manifestation app for iPhone and Android. Use affirmations, intention-setting and visualization to reflect on love, a specific person (SP), or your next personal goal. This is Demi’s official website.",
+    "brandAbout": "Meet Demi",
+    "brandFacts": "Official app details",
+    "brandWebsite": "Official website",
+    "brandStores": "Find Demi in the app stores",
+    "brandKit": "Download brand facts (English)",
+    "brandLogo": "Download the Demi website logo"
   },
   "fr": {
     "name": "Français",
@@ -110,10 +122,10 @@
     "download": "Télécharger Demi",
     "downloadOn": "Télécharger sur",
     "platforms": "Téléchargement gratuit · iOS et Android",
-    "title": "Manifester l’amour : affirmations et scripting | Demi",
+    "title": "Demi — Application pour manifester l’amour",
     "description": "Faites une place à l’amour et à vos projets. Affirmations, scripting et tableaux de visualisation avec Demi, sur iPhone et Android.",
     "eyebrow": "votre pratique quotidienne de manifestation",
-    "hero": "Faites une place à l’amour que vous souhaitez.",
+    "hero": "Demi. Faites une place à l’amour.",
     "heroAccent": "Commencez par vous.",
     "intro": "Une personne en particulier. Une relation réciproque. Un avenir qui vous ressemble. Réunissez vos intentions, vos affirmations, vos textes de scripting et votre tableau de visualisation dans Demi.",
     "featuresTitle": "Une petite pratique, chaque jour.",
@@ -161,6 +173,10 @@
     "faqTitle": "Avant de commencer",
     "faqs": [
       [
+        "Qu’est-ce que Demi ?",
+        "Demi est une application de manifestation pour iPhone et Android. Affirmations, intentions et visualisation vous accompagnent dans votre réflexion sur l’amour, une personne précise (SP) ou un projet personnel. Vous êtes sur le site officiel de Demi."
+      ],
+      [
         "Que signifie SP ?",
         "SP vient de l’anglais specific person : une personne précise avec laquelle vous imaginez une relation. La pratique aide à clarifier vos intentions, sans contrôler les choix de l’autre."
       ],
@@ -197,7 +213,15 @@
     "saved": "Votre choix est enregistré.",
     "notFound": "Cette page est introuvable.",
     "backHome": "Retour à l’accueil",
-    "heroImageAlt": "Un carnet ouvert, un crayon et une sphère lavande dans la lumière du matin"
+    "heroImageAlt": "Un carnet ouvert, un crayon et une sphère lavande dans la lumière du matin",
+    "brandTitle": "Qu’est-ce que Demi ?",
+    "brandBody": "Demi est une application de manifestation pour iPhone et Android. Affirmations, intentions et visualisation vous accompagnent dans votre réflexion sur l’amour, une personne précise (SP) ou un projet personnel. Vous êtes sur le site officiel de Demi.",
+    "brandAbout": "Découvrir Demi",
+    "brandFacts": "L’application officielle",
+    "brandWebsite": "Site officiel",
+    "brandStores": "Retrouver Demi dans les boutiques",
+    "brandKit": "Télécharger la fiche de présentation (anglais)",
+    "brandLogo": "Télécharger le logo du site Demi"
   },
   "de": {
     "name": "Deutsch",
@@ -213,10 +237,10 @@
     "download": "Demi herunterladen",
     "downloadOn": "Jetzt laden im",
     "platforms": "Kostenlos herunterladen · iOS und Android",
-    "title": "Liebe manifestieren: Affirmationen & Scripting | Demi",
+    "title": "Demi — Manifestations-App für Liebe & SP",
     "description": "Gib Liebe und deinen Zielen Raum. Entdecke Affirmationen, Scripting und Vision Boards mit Demi für iPhone und Android.",
     "eyebrow": "deine tägliche Manifestationspraxis",
-    "hero": "Gib der Liebe, die du dir wünschst, Raum.",
+    "hero": "Demi. Gib der Liebe Raum.",
     "heroAccent": "Fang bei dir an.",
     "intro": "Eine bestimmte Person. Eine Beziehung, die auf Gegenseitigkeit beruht. Eine Zukunft, die du dir vorstellen kannst. Sammle deine Intentionen, Affirmationen, Scripting-Texte und dein Vision Board in Demi.",
     "featuresTitle": "Eine kleine Übung. Jeden Tag.",
@@ -261,6 +285,10 @@
     "faqTitle": "Bevor du beginnst",
     "faqs": [
       [
+        "Was ist Demi?",
+        "Demi ist eine Manifestations-App für iPhone und Android. Mit Affirmationen, Intentionen und Visualisierung kannst du über Liebe, eine bestimmte Person (SP) oder dein nächstes persönliches Ziel nachdenken. Dies ist die offizielle Website von Demi."
+      ],
+      [
         "Was bedeutet SP?",
         "SP steht für specific person, also eine bestimmte Person, mit der du dir eine Beziehung vorstellst. Die Praxis kann deine eigenen Wünsche klären; sie kann die Entscheidungen eines anderen Menschen nicht steuern."
       ],
@@ -297,7 +325,15 @@
     "saved": "Deine Auswahl wurde gespeichert.",
     "notFound": "Diese Seite wurde nicht gefunden.",
     "backHome": "Zur Startseite",
-    "heroImageAlt": "Ein offenes Journal, ein Bleistift und eine lavendelfarbene Kugel im Morgenlicht"
+    "heroImageAlt": "Ein offenes Journal, ein Bleistift und eine lavendelfarbene Kugel im Morgenlicht",
+    "brandTitle": "Was ist Demi?",
+    "brandBody": "Demi ist eine Manifestations-App für iPhone und Android. Mit Affirmationen, Intentionen und Visualisierung kannst du über Liebe, eine bestimmte Person (SP) oder dein nächstes persönliches Ziel nachdenken. Dies ist die offizielle Website von Demi.",
+    "brandAbout": "Demi kennenlernen",
+    "brandFacts": "Die offizielle App",
+    "brandWebsite": "Offizielle Website",
+    "brandStores": "Demi in den App-Stores finden",
+    "brandKit": "Markeninformationen herunterladen (Englisch)",
+    "brandLogo": "Logo der Demi-Website herunterladen"
   },
   "it": {
     "name": "Italiano",
@@ -313,10 +349,10 @@
     "download": "Scarica Demi",
     "downloadOn": "Scarica su",
     "platforms": "Download gratuito · iOS e Android",
-    "title": "Manifestare amore: affermazioni e scripting | Demi",
+    "title": "Demi — App per manifestare amore e SP",
     "description": "Fai spazio all’amore e ai tuoi progetti. Scopri affermazioni, scripting e vision board con Demi per iPhone e Android.",
     "eyebrow": "la tua pratica quotidiana di manifestazione",
-    "hero": "Fai spazio all’amore che desideri.",
+    "hero": "Demi. Fai spazio all’amore.",
     "heroAccent": "Comincia da te.",
     "intro": "Una persona specifica. Una relazione reciproca. Un futuro che riesci a immaginare. Riunisci intenzioni, affermazioni, testi di scripting e vision board in Demi.",
     "featuresTitle": "Una piccola pratica, ogni giorno.",
@@ -361,6 +397,10 @@
     "faqTitle": "Prima di iniziare",
     "faqs": [
       [
+        "Che cos’è Demi?",
+        "Demi è un’app di manifestazione per iPhone e Android. Affermazioni, intenzioni e visualizzazione ti aiutano a riflettere sull’amore, su una persona specifica (SP) o sul tuo prossimo obiettivo personale. Questo è il sito ufficiale di Demi."
+      ],
+      [
         "Che cosa significa SP?",
         "SP significa specific person: una persona specifica con cui immagini una relazione. La pratica può chiarire le tue intenzioni, ma non controllare le scelte di un’altra persona."
       ],
@@ -397,6 +437,14 @@
     "saved": "La tua scelta è stata salvata.",
     "notFound": "Questa pagina non è stata trovata.",
     "backHome": "Torna alla home",
-    "heroImageAlt": "Un diario aperto, una matita e una sfera color lavanda nella luce del mattino"
+    "heroImageAlt": "Un diario aperto, una matita e una sfera color lavanda nella luce del mattino",
+    "brandTitle": "Che cos’è Demi?",
+    "brandBody": "Demi è un’app di manifestazione per iPhone e Android. Affermazioni, intenzioni e visualizzazione ti aiutano a riflettere sull’amore, su una persona specifica (SP) o sul tuo prossimo obiettivo personale. Questo è il sito ufficiale di Demi.",
+    "brandAbout": "Scopri Demi",
+    "brandFacts": "L’app ufficiale",
+    "brandWebsite": "Sito ufficiale",
+    "brandStores": "Trova Demi negli store",
+    "brandKit": "Scarica la scheda del marchio (inglese)",
+    "brandLogo": "Scarica il logo del sito Demi"
   }
 }
