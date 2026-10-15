@@ -3,6 +3,13 @@
   "items": [
     {
       "locale": "en",
+      "slug": "how-to-manifest-love",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-15",
+      "verification": "PUSHED_LIVE_VERIFICATION_PENDING: added concrete practice section with 3-step exercise, love-scripting internal link, and updated `updated` date; build passed locally"
+    },
+    {
+      "locale": "en",
       "slug": "manifesting-a-specific-person",
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-15",
