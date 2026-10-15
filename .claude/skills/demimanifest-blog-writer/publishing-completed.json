@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "locale": "en",
+      "slug": "manifesting-a-specific-person",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-15",
+      "verification": "Production verified in release 7c3c707; PR #2."
+    }
+  ]
+}

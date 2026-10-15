@@ -41,6 +41,8 @@ The website supports English, French, German and Italian. Turkish blog infrastru
 
 ### Current publication pipeline
 
+Scheduled runs must first read `ROUTINE.md` and use `routine.py --slot morning|evening`. Its focused queues and completion receipts override the legacy CSV examples below. Morning publishes up to one native article per DE/FR/IT; evening refreshes up to three researched existing English targets. Empty queues never fall back to legacy keywords.
+
 Use the versioned repository workflow, not a stale global keyword CSV. Work in the active clean checkout of `charliesheep7/demiwebsite`; preserve unrelated dirty changes.
 
 1. Run `python3 .claude/skills/demimanifest-blog-writer/tracker.py next 5 --locale fr` (replace locale with en/de/fr/it). The default queue uses country-specific research observed 2026-10-15. Missing metrics mean unavailable, not zero. Historic English keywords require explicit `--include-legacy` and fresh intent validation.
