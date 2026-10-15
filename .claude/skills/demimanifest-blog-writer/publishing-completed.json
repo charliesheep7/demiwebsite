@@ -3,6 +3,13 @@
   "items": [
     {
       "locale": "en",
+      "slug": "369-manifestation-method",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-15",
+      "verification": "PUSHED_LIVE_VERIFICATION_PENDING: added spaced repetition mechanism paragraph to psychological section, added concrete intention-writing guidance to 'A version worth trying'; build passed locally"
+    },
+    {
+      "locale": "en",
       "slug": "how-to-manifest-love",
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-15",
