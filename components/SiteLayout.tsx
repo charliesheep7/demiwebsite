@@ -1,3 +1,4 @@
+import { brandGraph } from '@/lib/brand'
 import 'css/tailwind.css'
 
 import { Instrument_Serif, Libre_Caslon_Text, Inter } from 'next/font/google'
@@ -110,8 +111,6 @@ export const metadata: Metadata = {
     title: 'Demi',
     description: siteMetadata.description,
     card: 'summary_large_image',
-    site: '@demimanifest',
-    creator: '@demimanifest',
   },
   icons: {
     icon: [
@@ -136,55 +135,6 @@ export const metadata: Metadata = {
   },
 }
 
-const graph = {
-  '@context': 'https://schema.org',
-  '@graph': [
-    {
-      '@type': 'Organization',
-      '@id': `${siteMetadata.siteUrl}#organization`,
-      name: 'Demi',
-      legalName: 'Demimanifest',
-      url: siteMetadata.siteUrl,
-      logo: {
-        '@type': 'ImageObject',
-        '@id': `${siteMetadata.siteUrl}#logo`,
-        url: `${siteMetadata.siteUrl}/icon.svg`,
-        width: 512,
-        height: 512,
-        caption: 'Demi',
-      },
-      image: { '@id': `${siteMetadata.siteUrl}#logo` },
-      email: siteMetadata.email,
-      description: siteMetadata.description,
-      contactPoint: [
-        {
-          '@type': 'ContactPoint',
-          email: siteMetadata.email,
-          contactType: 'customer support',
-          availableLanguage: ['English'],
-        },
-      ],
-      // The identities we can prove: the two store listings the site already
-      // links to, both verified live before being cited here. This was an empty
-      // array, which tells an engine nothing about which Demi this is.
-      sameAs: [
-        'https://apps.apple.com/app/id6763245058',
-        'https://play.google.com/store/apps/details?id=com.demimanifest',
-      ],
-    },
-    {
-      '@type': 'WebSite',
-      '@id': `${siteMetadata.siteUrl}#website`,
-      name: 'Demi',
-      alternateName: 'Demimanifest',
-      url: siteMetadata.siteUrl,
-      description: siteMetadata.description,
-      inLanguage: ['en-US', 'de-DE', 'fr-FR', 'tr-TR', 'it-IT'],
-      publisher: { '@id': `${siteMetadata.siteUrl}#organization` },
-    },
-  ],
-}
-
 export default function SiteLayout({
   children,
   locale = 'en',
@@ -199,7 +149,7 @@ export default function SiteLayout({
       suppressHydrationWarning
     >
       <body className="text-ink font-body antialiased">
-        <JsonLd data={graph} />
+        <JsonLd data={brandGraph} />
         <PaperGrain />
         <div className="relative flex min-h-screen flex-col">
           <SiteHeader locale={locale} />

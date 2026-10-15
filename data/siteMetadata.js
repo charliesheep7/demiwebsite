@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Demi — manifest to make it come true.',
+  title: 'Demi — Manifestation App for Love & SP',
   author: 'Demi',
   authorSlug: 'demimanifest',
   headerTitle: 'Demi',

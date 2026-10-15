@@ -8,6 +8,8 @@ import { AppStoreButton } from './AppStoreButton'
 import { PlayStoreButton } from './PlayStoreButton'
 import { JsonLd } from './JsonLd'
 import siteMetadata from '@/data/siteMetadata'
+import { APP_ID, WEBSITE_ID } from '@/lib/brand'
+import BrandDetails from './BrandDetails'
 export function landingMetadata(locale: BlogLocale): Metadata {
   const c = siteCopy(locale),
     path = sitePath(locale)
@@ -20,6 +22,7 @@ export function landingMetadata(locale: BlogLocale): Metadata {
       description: c.description,
       url: path,
       type: 'website',
+      siteName: 'Demi',
       images: [{ url: '/opengraph-image', width: 1200, height: 630 }],
     },
     twitter: {
@@ -32,18 +35,34 @@ export function landingMetadata(locale: BlogLocale): Metadata {
 }
 export default function LocalizedLanding({ locale }: { locale: BlogLocale }) {
   const c = siteCopy(locale),
-    posts = getAllPosts(locale).slice(0, 3)
+    allPosts = getAllPosts(locale)
+  const featured: Partial<Record<BlogLocale, string[]>> = {
+    en: ['manifesting-a-specific-person', 'how-to-manifest-love', 'manifestation-journal-prompts'],
+    fr: [
+      'manifester-une-personne',
+      'affirmations-confiance-en-soi',
+      'scripting-manifestation-exemples',
+    ],
+    de: ['bestimmte-person-manifestieren', 'affirmationen-selbstliebe', '369-methode'],
+    it: ['come-manifestare-una-persona', 'affermazioni-positive', 'metodo-369'],
+  }
+  const selected = (featured[locale] || []).flatMap((slug) =>
+    allPosts.filter((post) => post.slug === slug)
+  )
+  const posts = [...selected, ...allPosts.filter((post) => !selected.includes(post))].slice(0, 3)
   return (
     <>
       <JsonLd
         data={{
           '@context': 'https://schema.org',
-          '@type': 'SoftwareApplication',
-          name: 'Demi',
-          applicationCategory: 'LifestyleApplication',
-          operatingSystem: 'iOS, Android',
+          '@type': 'WebPage',
+          '@id': `${siteMetadata.siteUrl}${sitePath(locale)}#webpage`,
           url: `${siteMetadata.siteUrl}${sitePath(locale)}`,
+          name: c.title,
           description: c.description,
+          inLanguage: locale,
+          isPartOf: { '@id': WEBSITE_ID },
+          mainEntity: { '@id': APP_ID },
         }}
       />
       <section className="relative mx-auto max-w-[1280px] px-5 pt-24 pb-20 md:px-8 md:pt-32">
@@ -72,6 +91,7 @@ export default function LocalizedLanding({ locale }: { locale: BlogLocale }) {
           className="mt-14 aspect-[1200/500] w-full rounded-3xl object-cover"
         />
       </section>
+      <BrandDetails locale={locale} />
       <section id="rituals" className="bg-cream-2 px-5 py-20 md:px-8">
         <div className="mx-auto max-w-[1100px]">
           <h2 className="t-h1 mb-12">{c.featuresTitle}</h2>
