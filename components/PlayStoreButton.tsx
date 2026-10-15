@@ -32,7 +32,11 @@ export function PlayStoreButton({
   size = 'lg',
   href = 'https://play.google.com/store/apps/details?id=com.demimanifest',
   className = '',
+  label = 'Download Demi on Google Play',
+  kicker = 'Get it on',
 }: {
+  label?: string
+  kicker?: string
   size?: Size
   href?: string
   className?: string
@@ -40,7 +44,7 @@ export function PlayStoreButton({
   return (
     <a
       href={href}
-      aria-label="Download Demi on Google Play"
+      aria-label={label}
       className={`group relative inline-flex items-center ${sizeClasses[size]} text-ink from-yel-200 to-yel-300 font-ui shadow-sd-glow rounded-full bg-gradient-to-br font-bold tracking-[0.18em] uppercase transition-all duration-300 hover:-translate-y-0.5 active:translate-y-0 ${className}`}
     >
       <svg viewBox="0 0 512 512" className={`${iconSize[size]} fill-ink`} aria-hidden="true">
@@ -48,10 +52,10 @@ export function PlayStoreButton({
       </svg>
       <span className="flex flex-col items-start leading-none">
         <span className={`${kickerSize[size]} mb-0.5 font-medium tracking-[0.2em] opacity-70`}>
-          DOWNLOAD ON THE
+          {kicker}
         </span>
         <span className={`${labelSize[size]} font-bold tracking-tight normal-case`}>
-          Play Store
+          Google Play
         </span>
       </span>
     </a>

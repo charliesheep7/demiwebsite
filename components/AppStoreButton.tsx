@@ -32,7 +32,7 @@ export function AppStoreButton({
   size = 'lg',
   label = 'Download Demi on the App Store',
   kicker = 'DOWNLOAD ON THE',
-  href = 'https://apps.apple.com/vn/app/demi-manifest-affirm/id6763245058',
+  href = 'https://apps.apple.com/app/id6763245058',
   className = '',
 }: {
   label?: string

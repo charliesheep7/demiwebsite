@@ -1,0 +1,402 @@
+{
+  "en": {
+    "name": "English",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "support": "Support",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "blog": "Journal",
+    "guides": "Guides",
+    "language": "Language",
+    "download": "Download Demi",
+    "downloadOn": "Download on the",
+    "platforms": "Free to download · iOS & Android",
+    "title": "Manifestation App for SP, Love & Daily Practice | Demi",
+    "description": "Make space for love and your next chapter. Explore SP manifestation, affirmations, scripting and vision boards with Demi for iPhone and Android.",
+    "eyebrow": "your daily manifestation practice",
+    "hero": "Make room for the love you want.",
+    "heroAccent": "Start with you.",
+    "intro": "Your specific person. A relationship that feels mutual. A future you can picture. Bring your intentions, affirmations, scripts and vision board together in Demi.",
+    "featuresTitle": "A little practice, every day.",
+    "features": [
+      [
+        "Set your intention",
+        "Use the claiming orb to give your daily intention a moment of attention."
+      ],
+      [
+        "Find your words",
+        "Return to a daily affirmation and choose language that feels believable to you."
+      ],
+      [
+        "Script the scene",
+        "Write about the relationship, work or everyday life you want to build."
+      ],
+      ["Picture your next chapter", "Collect images and ideas on a vision board you can revisit."],
+      ["Reflect on your day", "Explore daily prompts and signs as starting points for reflection."],
+      [
+        "Keep a gentle rhythm",
+        "Build a streak, return when you miss a day, and make the practice your own."
+      ]
+    ],
+    "stepsTitle": "From an idea to a daily ritual.",
+    "steps": [
+      [
+        "Choose one intention",
+        "Start with SP, love, confidence, money or career. Name the quality of life you want, not a deadline for someone else."
+      ],
+      [
+        "Write and visualize",
+        "Describe one ordinary scene. Add an affirmation or a picture that brings it into focus."
+      ],
+      [
+        "Take it into your day",
+        "Choose a small action you control. Come back tomorrow to reflect and adjust."
+      ]
+    ],
+    "faqTitle": "Before you begin",
+    "faqs": [
+      [
+        "What does SP mean?",
+        "SP means specific person: someone you have in mind when you think about a relationship. The practice can help you clarify your own intentions; it cannot control another person’s choices."
+      ],
+      [
+        "Does Demi guarantee manifestation results?",
+        "No. Demi offers tools for reflection, affirmations, scripting and visualization. It does not promise a relationship, money or a particular outcome."
+      ],
+      [
+        "Is Demi available on iPhone and Android?",
+        "Yes. Use the App Store or Google Play links to see availability, supported languages and current subscription details for your device."
+      ],
+      [
+        "Can I use it for money or career goals?",
+        "Yes. Use the same practices to clarify a goal, prepare for an opportunity and identify a practical next step."
+      ],
+      [
+        "Is the app free?",
+        "Demi is free to download. Some features may require a subscription. Check the store listing and in-app offer for current pricing."
+      ]
+    ],
+    "readTitle": "Begin with a useful guide.",
+    "readBody": "Practical examples for SP, love, affirmations, money and your next move.",
+    "related": "Keep exploring",
+    "allPosts": "All articles",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "topics": "Explore a topic",
+    "consentTitle": "Help us improve Demi",
+    "consentBody": "With your permission, we use Mixpanel to measure page visits and app-store clicks. We do not send journal text or personal intentions. You can change this choice at any time.",
+    "accept": "Allow analytics",
+    "reject": "No thanks",
+    "preferences": "Analytics preferences",
+    "saved": "Your choice is saved.",
+    "notFound": "This page could not be found.",
+    "backHome": "Back to home",
+    "heroImageAlt": "An open journal, pencil and lavender orb in soft morning light"
+  },
+  "fr": {
+    "name": "Français",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "support": "Aide",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "blog": "Journal",
+    "guides": "Guides",
+    "language": "Langue",
+    "download": "Télécharger Demi",
+    "downloadOn": "Télécharger sur",
+    "platforms": "Téléchargement gratuit · iOS et Android",
+    "title": "Manifester l’amour : affirmations et scripting | Demi",
+    "description": "Faites une place à l’amour et à vos projets. Affirmations, scripting et tableaux de visualisation avec Demi, sur iPhone et Android.",
+    "eyebrow": "votre pratique quotidienne de manifestation",
+    "hero": "Faites une place à l’amour que vous souhaitez.",
+    "heroAccent": "Commencez par vous.",
+    "intro": "Une personne en particulier. Une relation réciproque. Un avenir qui vous ressemble. Réunissez vos intentions, vos affirmations, vos textes de scripting et votre tableau de visualisation dans Demi.",
+    "featuresTitle": "Une petite pratique, chaque jour.",
+    "features": [
+      [
+        "Posez votre intention",
+        "Accordez un moment à votre intention du jour avec l’orbe de manifestation."
+      ],
+      [
+        "Trouvez vos mots",
+        "Revenez à une affirmation quotidienne et choisissez des mots auxquels vous pouvez croire."
+      ],
+      [
+        "Écrivez la scène",
+        "Décrivez la relation, le travail ou le quotidien que vous souhaitez construire."
+      ],
+      [
+        "Imaginez la suite",
+        "Rassemblez des images et des idées dans un tableau de visualisation à consulter régulièrement."
+      ],
+      [
+        "Prenez du recul",
+        "Explorez les suggestions et les signes du jour comme points de départ d’une réflexion."
+      ],
+      [
+        "Gardez votre rythme",
+        "Créez une habitude, reprenez après une pause et adaptez la pratique à votre vie."
+      ]
+    ],
+    "stepsTitle": "D’une envie à un rituel quotidien.",
+    "steps": [
+      [
+        "Choisissez une intention",
+        "Une personne précise, l’amour, la confiance, l’argent ou le travail : précisez ce que vous recherchez sans imposer un délai à quelqu’un d’autre."
+      ],
+      [
+        "Écrivez et visualisez",
+        "Décrivez une scène ordinaire. Ajoutez une affirmation ou une image qui la rend concrète."
+      ],
+      [
+        "Passez à une action",
+        "Choisissez un petit geste qui dépend de vous. Revenez demain pour faire le point."
+      ]
+    ],
+    "faqTitle": "Avant de commencer",
+    "faqs": [
+      [
+        "Que signifie SP ?",
+        "SP vient de l’anglais specific person : une personne précise avec laquelle vous imaginez une relation. La pratique aide à clarifier vos intentions, sans contrôler les choix de l’autre."
+      ],
+      [
+        "Demi garantit-elle un résultat ?",
+        "Non. Demi propose des outils de réflexion, d’affirmation, de scripting et de visualisation. L’application ne promet ni relation, ni argent, ni résultat particulier."
+      ],
+      [
+        "Demi existe-t-elle sur iPhone et Android ?",
+        "Oui. Consultez l’App Store ou Google Play pour connaître la disponibilité, les langues prises en charge et les abonnements proposés sur votre appareil."
+      ],
+      [
+        "Puis-je travailler sur mes objectifs professionnels ?",
+        "Oui. Les mêmes exercices peuvent vous aider à préciser un objectif, préparer une occasion et choisir une prochaine étape concrète."
+      ],
+      [
+        "L’application est-elle gratuite ?",
+        "Le téléchargement est gratuit. Certaines fonctionnalités peuvent nécessiter un abonnement. Les tarifs actuels figurent dans la boutique et dans l’application."
+      ]
+    ],
+    "readTitle": "Commencez par un guide utile.",
+    "readBody": "Des exemples pour l’amour, une personne précise, la confiance et vos projets.",
+    "related": "Pour poursuivre",
+    "allPosts": "Tous les articles",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page",
+    "topics": "Explorer un thème",
+    "consentTitle": "Aidez-nous à améliorer Demi",
+    "consentBody": "Avec votre accord, Mixpanel mesure les visites et les clics vers les boutiques d’applications. Nous n’envoyons ni textes de journal ni intentions personnelles. Vous pouvez modifier ce choix à tout moment.",
+    "accept": "Autoriser les statistiques",
+    "reject": "Non merci",
+    "preferences": "Préférences de statistiques",
+    "saved": "Votre choix est enregistré.",
+    "notFound": "Cette page est introuvable.",
+    "backHome": "Retour à l’accueil",
+    "heroImageAlt": "Un carnet ouvert, un crayon et une sphère lavande dans la lumière du matin"
+  },
+  "de": {
+    "name": "Deutsch",
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "support": "Hilfe",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "blog": "Journal",
+    "guides": "Ratgeber",
+    "language": "Sprache",
+    "download": "Demi herunterladen",
+    "downloadOn": "Jetzt laden im",
+    "platforms": "Kostenlos herunterladen · iOS und Android",
+    "title": "Liebe manifestieren: Affirmationen & Scripting | Demi",
+    "description": "Gib Liebe und deinen Zielen Raum. Entdecke Affirmationen, Scripting und Vision Boards mit Demi für iPhone und Android.",
+    "eyebrow": "deine tägliche Manifestationspraxis",
+    "hero": "Gib der Liebe, die du dir wünschst, Raum.",
+    "heroAccent": "Fang bei dir an.",
+    "intro": "Eine bestimmte Person. Eine Beziehung, die auf Gegenseitigkeit beruht. Eine Zukunft, die du dir vorstellen kannst. Sammle deine Intentionen, Affirmationen, Scripting-Texte und dein Vision Board in Demi.",
+    "featuresTitle": "Eine kleine Übung. Jeden Tag.",
+    "features": [
+      [
+        "Setze deine Intention",
+        "Schenke deinem Tageswunsch mit der Manifestationskugel einen Moment Aufmerksamkeit."
+      ],
+      [
+        "Finde deine Worte",
+        "Kehre zu einer täglichen Affirmation zurück und wähle Worte, die sich glaubwürdig anfühlen."
+      ],
+      [
+        "Schreibe die Szene",
+        "Beschreibe die Beziehung, den Beruf oder den Alltag, den du gestalten möchtest."
+      ],
+      [
+        "Mach deine Zukunft sichtbar",
+        "Sammle Bilder und Ideen auf einem Vision Board, das du immer wieder ansehen kannst."
+      ],
+      ["Blicke auf deinen Tag", "Nutze tägliche Impulse und Zeichen als Anlass zum Nachdenken."],
+      [
+        "Finde deinen Rhythmus",
+        "Baue eine Gewohnheit auf, kehre nach einer Pause zurück und gestalte die Praxis so, dass sie zu dir passt."
+      ]
+    ],
+    "stepsTitle": "Von einer Idee zu deinem täglichen Ritual.",
+    "steps": [
+      [
+        "Wähle eine Intention",
+        "SP, Liebe, Selbstvertrauen, Geld oder Beruf: Benenne, was du dir wünschst, ohne einer anderen Person eine Frist zu setzen."
+      ],
+      [
+        "Schreibe und visualisiere",
+        "Beschreibe eine alltägliche Szene. Ergänze eine Affirmation oder ein Bild, das sie greifbar macht."
+      ],
+      [
+        "Handle im Alltag",
+        "Wähle einen kleinen Schritt, den du selbst beeinflussen kannst. Reflektiere morgen, was du erlebt hast."
+      ]
+    ],
+    "faqTitle": "Bevor du beginnst",
+    "faqs": [
+      [
+        "Was bedeutet SP?",
+        "SP steht für specific person, also eine bestimmte Person, mit der du dir eine Beziehung vorstellst. Die Praxis kann deine eigenen Wünsche klären; sie kann die Entscheidungen eines anderen Menschen nicht steuern."
+      ],
+      [
+        "Garantiert Demi Ergebnisse?",
+        "Nein. Demi bietet Werkzeuge für Reflexion, Affirmationen, Scripting und Visualisierung. Die App verspricht weder eine Beziehung noch Geld oder ein bestimmtes Ergebnis."
+      ],
+      [
+        "Gibt es Demi für iPhone und Android?",
+        "Ja. Im App Store und bei Google Play findest du Informationen zur Verfügbarkeit, zu unterstützten Sprachen und zu Abonnements für dein Gerät."
+      ],
+      [
+        "Kann ich auch berufliche Ziele verfolgen?",
+        "Ja. Die Übungen helfen dir, ein Ziel zu formulieren, eine Gelegenheit vorzubereiten und einen konkreten nächsten Schritt festzulegen."
+      ],
+      [
+        "Ist die App kostenlos?",
+        "Der Download ist kostenlos. Einige Funktionen können ein Abonnement erfordern. Aktuelle Preise stehen im Store und im Angebot innerhalb der App."
+      ]
+    ],
+    "readTitle": "Starte mit einem hilfreichen Ratgeber.",
+    "readBody": "Konkrete Beispiele für SP, Liebe, Affirmationen, Geld und deinen nächsten Schritt.",
+    "related": "Weiterlesen",
+    "allPosts": "Alle Artikel",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "page": "Seite",
+    "topics": "Thema entdecken",
+    "consentTitle": "Hilf uns, Demi zu verbessern",
+    "consentBody": "Mit deiner Zustimmung messen wir über Mixpanel Seitenaufrufe und Klicks zu den App-Stores. Wir senden keine Tagebuchtexte oder persönlichen Wünsche. Du kannst deine Auswahl jederzeit ändern.",
+    "accept": "Statistik erlauben",
+    "reject": "Nein danke",
+    "preferences": "Statistik-Einstellungen",
+    "saved": "Deine Auswahl wurde gespeichert.",
+    "notFound": "Diese Seite wurde nicht gefunden.",
+    "backHome": "Zur Startseite",
+    "heroImageAlt": "Ein offenes Journal, ein Bleistift und eine lavendelfarbene Kugel im Morgenlicht"
+  },
+  "it": {
+    "name": "Italiano",
+    "home": "Home",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "support": "Assistenza",
+    "privacy": "Privacy",
+    "terms": "Condizioni",
+    "blog": "Diario",
+    "guides": "Guide",
+    "language": "Lingua",
+    "download": "Scarica Demi",
+    "downloadOn": "Scarica su",
+    "platforms": "Download gratuito · iOS e Android",
+    "title": "Manifestare amore: affermazioni e scripting | Demi",
+    "description": "Fai spazio all’amore e ai tuoi progetti. Scopri affermazioni, scripting e vision board con Demi per iPhone e Android.",
+    "eyebrow": "la tua pratica quotidiana di manifestazione",
+    "hero": "Fai spazio all’amore che desideri.",
+    "heroAccent": "Comincia da te.",
+    "intro": "Una persona specifica. Una relazione reciproca. Un futuro che riesci a immaginare. Riunisci intenzioni, affermazioni, testi di scripting e vision board in Demi.",
+    "featuresTitle": "Una piccola pratica, ogni giorno.",
+    "features": [
+      [
+        "Scegli la tua intenzione",
+        "Dedica un momento alla tua intenzione del giorno con la sfera di manifestazione."
+      ],
+      [
+        "Trova le tue parole",
+        "Ritorna a un’affermazione quotidiana e scegli parole che senti credibili."
+      ],
+      ["Scrivi la scena", "Descrivi la relazione, il lavoro o la quotidianità che vuoi costruire."],
+      [
+        "Immagina il prossimo capitolo",
+        "Raccogli immagini e idee in una vision board da riguardare nel tempo."
+      ],
+      [
+        "Rifletti sulla giornata",
+        "Esplora gli spunti e i segni del giorno come occasioni di riflessione."
+      ],
+      [
+        "Mantieni il tuo ritmo",
+        "Crea un’abitudine, riprendi dopo una pausa e adatta la pratica alla tua vita."
+      ]
+    ],
+    "stepsTitle": "Da un’idea a un rituale quotidiano.",
+    "steps": [
+      [
+        "Scegli un’intenzione",
+        "SP, amore, fiducia, denaro o lavoro: definisci ciò che desideri senza imporre scadenze a un’altra persona."
+      ],
+      [
+        "Scrivi e visualizza",
+        "Descrivi una scena ordinaria. Aggiungi un’affermazione o un’immagine che la renda concreta."
+      ],
+      [
+        "Portala nella tua giornata",
+        "Scegli un piccolo passo che dipende da te. Torna domani per riflettere e adattare il percorso."
+      ]
+    ],
+    "faqTitle": "Prima di iniziare",
+    "faqs": [
+      [
+        "Che cosa significa SP?",
+        "SP significa specific person: una persona specifica con cui immagini una relazione. La pratica può chiarire le tue intenzioni, ma non controllare le scelte di un’altra persona."
+      ],
+      [
+        "Demi garantisce risultati?",
+        "No. Demi offre strumenti di riflessione, affermazioni, scripting e visualizzazione. Non promette una relazione, denaro o un risultato particolare."
+      ],
+      [
+        "Demi è disponibile su iPhone e Android?",
+        "Sì. Consulta l’App Store o Google Play per disponibilità, lingue supportate e dettagli degli abbonamenti sul tuo dispositivo."
+      ],
+      [
+        "Posso usarla per obiettivi di lavoro?",
+        "Sì. Le stesse pratiche possono aiutarti a chiarire un obiettivo, prepararti a un’opportunità e scegliere un passo concreto."
+      ],
+      [
+        "L’app è gratuita?",
+        "Il download è gratuito. Alcune funzioni possono richiedere un abbonamento. Controlla i prezzi aggiornati nello store e nell’offerta mostrata nell’app."
+      ]
+    ],
+    "readTitle": "Comincia da una guida utile.",
+    "readBody": "Esempi pratici per SP, amore, affermazioni, denaro e il tuo prossimo passo.",
+    "related": "Continua a leggere",
+    "allPosts": "Tutti gli articoli",
+    "previous": "Precedente",
+    "next": "Successivo",
+    "page": "Pagina",
+    "topics": "Esplora un tema",
+    "consentTitle": "Aiutaci a migliorare Demi",
+    "consentBody": "Con il tuo consenso usiamo Mixpanel per misurare visite e clic verso gli store. Non inviamo testi del diario o intenzioni personali. Puoi modificare la scelta in qualsiasi momento.",
+    "accept": "Consenti le statistiche",
+    "reject": "No grazie",
+    "preferences": "Preferenze statistiche",
+    "saved": "La tua scelta è stata salvata.",
+    "notFound": "Questa pagina non è stata trovata.",
+    "backHome": "Torna alla home",
+    "heroImageAlt": "Un diario aperto, una matita e una sfera color lavanda nella luce del mattino"
+  }
+}

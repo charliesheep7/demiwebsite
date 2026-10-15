@@ -1,0 +1,222 @@
+{
+  "locale": "it",
+  "observed_on": "2026-10-15",
+  "rows": [
+    {
+      "keyword": "manifestare",
+      "locale": "it",
+      "country": "IT",
+      "volume": 880,
+      "kd": 31,
+      "category": "methods",
+      "slug": "manifestare",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 880,
+          "kd": 31
+        }
+      ]
+    },
+    {
+      "keyword": "affermazioni positive",
+      "locale": "it",
+      "country": "IT",
+      "volume": 720,
+      "kd": 15,
+      "category": "affirmations",
+      "slug": "affermazioni-positive",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 720,
+          "kd": 15
+        }
+      ]
+    },
+    {
+      "keyword": "come manifestare una persona",
+      "locale": "it",
+      "country": "IT",
+      "volume": 260,
+      "kd": 24,
+      "category": "love",
+      "slug": "come-manifestare-una-persona",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": ["manifestare una persona specifica"],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 260,
+          "kd": 24
+        }
+      ]
+    },
+    {
+      "keyword": "metodo 369",
+      "locale": "it",
+      "country": "IT",
+      "volume": 170,
+      "kd": 27,
+      "category": "methods",
+      "slug": "metodo-369",
+      "action": "refresh_existing_page",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 170,
+          "kd": 27
+        }
+      ]
+    },
+    {
+      "keyword": "legge di attrazione amore",
+      "locale": "it",
+      "country": "IT",
+      "volume": 90,
+      "kd": 13,
+      "category": "love",
+      "slug": "legge-attrazione-amore",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 90,
+          "kd": 13
+        }
+      ]
+    },
+    {
+      "keyword": "manifestare amore",
+      "locale": "it",
+      "country": "IT",
+      "volume": 20,
+      "kd": null,
+      "category": "love",
+      "slug": "manifestare-amore",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 20,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "manifestare soldi",
+      "locale": "it",
+      "country": "IT",
+      "volume": 20,
+      "kd": null,
+      "category": "money-career",
+      "slug": "manifestare-soldi",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "individual_keyword",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": 20,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "affermazioni amore",
+      "locale": "it",
+      "country": "IT",
+      "volume": null,
+      "kd": null,
+      "category": "love",
+      "slug": "affermazioni-amore",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "not_returned",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": null,
+          "kd": null
+        }
+      ]
+    },
+    {
+      "keyword": "manifestare un lavoro",
+      "locale": "it",
+      "country": "IT",
+      "volume": null,
+      "kd": null,
+      "category": "money-career",
+      "slug": "manifestare-un-lavoro",
+      "action": "new_article",
+      "observed_on": "2026-10-15",
+      "source": "Semrush Keyword Overview / Bulk Analysis, desktop country database",
+      "volume_status": "not_returned",
+      "secondary_keywords": [],
+      "sources": [
+        {
+          "observed_on": "2026-10-15",
+          "source": "Semrush UI",
+          "country": "IT",
+          "metric_kind": "individual_keyword",
+          "volume": null,
+          "kd": null
+        }
+      ]
+    }
+  ]
+}

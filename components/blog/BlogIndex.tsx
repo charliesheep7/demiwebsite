@@ -1,3 +1,7 @@
+import topicDescriptions from '@/data/topicDescriptions.json'
+import { notFound } from 'next/navigation'
+import { TOPICS, Topic, topicFor, topicLabel } from '@/lib/topics'
+import { siteCopy, languageAlternates } from '@/lib/site-locales'
 import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from '@/components/Link'
@@ -10,20 +14,41 @@ import siteMetadata from '@/data/siteMetadata'
 import { BlogLocale, blogCopy, blogPath, formatBlogDate } from '@/lib/blog-locales'
 import { BlogLanguageNav } from './BlogLanguageNav'
 
-export function blogIndexMetadata(locale: BlogLocale = 'en'): Metadata {
+export const PAGE_SIZE = 24
+export function filteredPosts(locale: BlogLocale, topic?: Topic) {
+  return getAllPosts(locale).filter(
+    (p) =>
+      !topic ||
+      topicFor(
+        `${p.slug} ${p.frontmatter.title} ${(p.frontmatter.keywords || []).join(' ')}`,
+        p.frontmatter.topic
+      ) === topic
+  )
+}
+export function indexPath(locale: BlogLocale, page = 1, topic?: Topic) {
+  const base = blogPath(locale) + (topic ? `/topics/${topic}` : '')
+  return base + (page > 1 ? `/page/${page}` : '')
+}
+export function blogIndexMetadata(locale: BlogLocale = 'en', page = 1, topic?: Topic): Metadata {
   const copy = blogCopy(locale)
-  const url = blogPath(locale)
+  const url = indexPath(locale, page, topic)
+  const description = topic
+    ? topicDescriptions[locale === 'tr' ? 'en' : locale][topic]
+    : copy.description
   return {
-    title: copy.blog,
-    description: copy.description,
+    title: `${topic ? topicLabel(topic, locale) : copy.blog}${page > 1 ? ` — ${siteCopy(locale).page} ${page}` : ''}`,
+    description,
     keywords: [],
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      ...(!topic && page === 1 ? { languages: languageAlternates('/blog') } : {}),
+    },
     robots: getAllPosts(locale).length
       ? { index: true, follow: true }
       : { index: false, follow: true },
     openGraph: {
       title: `${copy.blog} · Demi`,
-      description: copy.description,
+      description,
       url,
       type: 'website',
       locale: copy.ogLocale,
@@ -31,15 +56,26 @@ export function blogIndexMetadata(locale: BlogLocale = 'en'): Metadata {
     twitter: {
       card: 'summary_large_image',
       title: `${copy.blog} · Demi`,
-      description: copy.description,
+      description,
     },
   }
 }
 
-export default function BlogIndex({ locale = 'en' }: { locale?: BlogLocale }) {
-  const posts = getAllPosts(locale)
+export default function BlogIndex({
+  locale = 'en',
+  page = 1,
+  topic,
+}: {
+  locale?: BlogLocale
+  page?: number
+  topic?: Topic
+}) {
+  const allPosts = filteredPosts(locale, topic)
+  const pageCount = Math.max(1, Math.ceil(allPosts.length / PAGE_SIZE))
+  if (!Number.isSafeInteger(page) || page < 1 || page > pageCount) notFound()
+  const posts = allPosts.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
   const copy = blogCopy(locale)
-  const base = blogPath(locale)
+  const base = indexPath(locale, page, topic)
 
   const listSchema = {
     '@context': 'https://schema.org',
@@ -65,7 +101,7 @@ export default function BlogIndex({ locale = 'en' }: { locale?: BlogLocale }) {
       <JsonLd data={listSchema} />
       <BreadcrumbSchema
         crumbs={[
-          { name: copy.home, path: '' },
+          { name: copy.home, path: locale === 'en' || locale === 'tr' ? '' : `/${locale}` },
           { name: copy.blog, path: base },
         ]}
       />
@@ -75,7 +111,9 @@ export default function BlogIndex({ locale = 'en' }: { locale?: BlogLocale }) {
       </div>
       <Eyebrow>{copy.journal}</Eyebrow>
       <h1 className="t-h1 mt-6 mb-6">
-        {locale === 'en' ? (
+        {topic ? (
+          topicLabel(topic, locale)
+        ) : locale === 'en' ? (
           <>
             The <Em>manifestation</Em> journal.
           </>
@@ -84,16 +122,27 @@ export default function BlogIndex({ locale = 'en' }: { locale?: BlogLocale }) {
         )}
       </h1>
       <p className="t-lead mb-20 max-w-[640px]">
-        {locale === 'en' ? (
-          <>
-            Scripting, SP, vision boards, signs, and the daily practices that turn what you&rsquo;re
-            calling in into what arrives.
-          </>
-        ) : (
-          copy.description
-        )}
+        {topic ? topicDescriptions[locale === 'tr' ? 'en' : locale][topic] : copy.description}
       </p>
 
+      <nav aria-label={siteCopy(locale).topics} className="mb-12 flex flex-wrap gap-3">
+        <Link
+          href={blogPath(locale)}
+          className="border-line-soft font-ui rounded-full border px-4 py-2 text-sm"
+        >
+          {siteCopy(locale).allPosts}
+        </Link>
+        {TOPICS.filter((t) => filteredPosts(locale, t).length).map((t) => (
+          <Link
+            key={t}
+            href={indexPath(locale, 1, t)}
+            aria-current={t === topic ? 'page' : undefined}
+            className="border-line-soft font-ui hover:border-lav-500 rounded-full border px-4 py-2 text-sm"
+          >
+            {topicLabel(t, locale)}
+          </Link>
+        ))}
+      </nav>
       {posts.length === 0 ? (
         <p className="t-body text-ink-dim">{copy.empty}</p>
       ) : (
@@ -143,6 +192,30 @@ export default function BlogIndex({ locale = 'en' }: { locale?: BlogLocale }) {
             </li>
           ))}
         </ul>
+      )}
+      {pageCount > 1 && (
+        <nav
+          aria-label={siteCopy(locale).page}
+          className="font-ui mt-10 flex flex-wrap items-center justify-between gap-4 text-sm"
+        >
+          {page > 1 ? (
+            <Link rel="prev" href={indexPath(locale, page - 1, topic)}>
+              ← {siteCopy(locale).previous}
+            </Link>
+          ) : (
+            <span />
+          )}
+          <span>
+            {siteCopy(locale).page} {page} / {pageCount}
+          </span>
+          {page < pageCount ? (
+            <Link rel="next" href={indexPath(locale, page + 1, topic)}>
+              {siteCopy(locale).next} →
+            </Link>
+          ) : (
+            <span />
+          )}
+        </nav>
       )}
     </div>
   )

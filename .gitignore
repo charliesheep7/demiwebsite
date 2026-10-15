@@ -52,3 +52,7 @@ prd-seogen.md
 
 # Python keyword tracker and research helpers
 __pycache__/
+
+*.tsbuildinfo
+!app/feed.xml/
+!app/feed.xml/route.ts

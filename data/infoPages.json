@@ -1,0 +1,497 @@
+{
+  "en": {
+    "about": {
+      "title": "A daily practice for your next chapter.",
+      "description": "Meet Demi: a manifestation app for SP, love, affirmations, scripting and visualization.",
+      "sections": [
+        [
+          "Why Demi exists",
+          "Demi brings intentions, affirmations, scripting and vision boards into one daily practice. Start with a specific person, the relationship you want, or another goal that matters to you."
+        ],
+        [
+          "Our approach",
+          "We make space for imagination and reflection, while keeping your choices and actions at the center. No app can guarantee another person’s feelings or a particular outcome."
+        ],
+        [
+          "Explore the app",
+          "Demi is available on iPhone and Android. The store listing and in-app offer show current features, supported languages and pricing."
+        ]
+      ]
+    },
+    "contact": {
+      "title": "Get in touch.",
+      "description": "Contact the Demi team for feedback, support, press and collaboration.",
+      "sections": [
+        [
+          "Feedback and collaboration",
+          "Send a note to hello@demimanifest.com. Tell us what you would like to share or discuss."
+        ],
+        ["Press", "For press enquiries, contact press@demimanifest.com."],
+        [
+          "App support",
+          "For app problems or privacy requests, email hello@infinique.org. Include your device model and a description of the issue; do not include passwords or private journal entries."
+        ]
+      ]
+    },
+    "support": {
+      "title": "Help with Demi.",
+      "description": "Find help with Demi downloads, subscriptions, purchase restoration and privacy requests.",
+      "sections": [
+        [
+          "Contact support",
+          "Email hello@infinique.org with your device model, app version and a description of the issue. Do not send passwords or private journal entries."
+        ],
+        [
+          "Subscriptions",
+          "Manage or cancel an iPhone subscription in Apple account settings under Subscriptions. For Android, open Google Play, then Payments and subscriptions. Access normally continues until the end of the paid period."
+        ],
+        [
+          "Restore a purchase",
+          "Use Restore Purchases in the app while signed into the store account that made the purchase. If access is still missing, contact support with the order reference."
+        ],
+        [
+          "Data and deletion",
+          "For help accessing or deleting app data, use the account controls available in your version of Demi or email support. Uninstalling an app does not cancel a store subscription."
+        ],
+        [
+          "Download and language availability",
+          "Use the official App Store and Google Play links. Your store listing shows availability, device requirements and supported app languages. Website language options are separate from app language support."
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Terms of service",
+      "description": "Terms for using Demi and its daily reflection tools.",
+      "sections": [
+        [
+          "Using Demi",
+          "By using Demi you agree to these terms. If anything is unclear, contact hello@demimanifest.com."
+        ],
+        [
+          "The ritual is not medical advice",
+          "Demi is a daily focus and reflection tool. It is not therapy, medicine or a substitute for professional care. Seek qualified help when you need it."
+        ],
+        [
+          "Your account",
+          "You are responsible for the content you create. Do not share your login or use Demi to harass or harm anyone."
+        ],
+        [
+          "Changes",
+          "These terms may change as the product grows. We will notify you in the app when they do."
+        ],
+        ["Contact", "Questions about these terms can be sent to hello@demimanifest.com."]
+      ]
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "description": "How Demi handles information, optional website analytics and privacy requests.",
+      "sections": [
+        [
+          "Scope",
+          "This page describes privacy information for Demi, operated by Infinique, and this website. For questions about your app data or your installed version, contact hello@infinique.org."
+        ],
+        [
+          "Optional website analytics",
+          "With your consent, we use Mixpanel to measure page visits, article engagement, displayed download cards and clicks to the App Store or Google Play. Events include the page path, article topic, website language, placement and destination store. We do not send query strings, journal text, personal intentions or email addresses with these events. IP geolocation is disabled in these website requests."
+        ],
+        [
+          "Your choice and browser storage",
+          "Analytics are off until you allow them. We save your choice in your browser and, after consent, create a random anonymous identifier. You can refuse or withdraw consent through Analytics preferences in the footer. Withdrawal stops new analytics and removes this website identifier from your browser; it does not automatically erase events already received by Mixpanel."
+        ],
+        [
+          "App data and support",
+          "App features may process information needed to provide the service. Do not send private journal entries or passwords to support. If you contact us, we use the information you provide to respond to your request. Contact support for help accessing or deleting data associated with your app account."
+        ],
+        [
+          "Third-party services",
+          "Apple and Google operate the app stores under their own policies. Mixpanel processes optional website analytics for us. Website analytics are not used to create advertising profiles, and we do not sell this event data."
+        ],
+        [
+          "Retention and deletion",
+          "To request deletion of information held by us, contact hello@infinique.org. If your request concerns website analytics, we may need the anonymous browser identifier to locate the relevant events. Clearing browser storage alone does not delete data already sent."
+        ],
+        [
+          "Children",
+          "Demi is not directed to children under 13. If you believe a child has provided personal information, contact us so we can review and address it."
+        ],
+        [
+          "Policy updates",
+          "We may update this page when features or data practices change. This website notice was updated on 15 October 2026."
+        ],
+        ["Contact", "For privacy questions or deletion requests, email hello@infinique.org."]
+      ]
+    }
+  },
+  "fr": {
+    "about": {
+      "title": "Une pratique quotidienne pour la suite de votre histoire.",
+      "description": "Découvrez Demi : une application pour l’amour, les affirmations, le scripting et la visualisation.",
+      "sections": [
+        [
+          "Pourquoi Demi existe",
+          "Demi réunit intentions, affirmations, scripting et tableaux de visualisation dans une pratique quotidienne. Commencez par une personne précise, la relation souhaitée ou un autre projet qui compte pour vous."
+        ],
+        [
+          "Notre approche",
+          "Nous faisons une place à l’imagination et à la réflexion, en gardant vos choix et vos actions au centre. Aucune application ne peut garantir les sentiments d’une autre personne ou un résultat particulier."
+        ],
+        [
+          "Découvrir l’application",
+          "Demi est disponible sur iPhone et Android. La fiche de la boutique et l’offre dans l’application indiquent les fonctionnalités, les langues et les tarifs actuels."
+        ]
+      ]
+    },
+    "contact": {
+      "title": "Écrivez-nous.",
+      "description": "Contactez l’équipe Demi pour vos retours, une demande d’aide, la presse ou une collaboration.",
+      "sections": [
+        [
+          "Retours et collaborations",
+          "Écrivez à hello@demimanifest.com en précisant ce que vous souhaitez partager ou proposer."
+        ],
+        ["Presse", "Pour les demandes de presse, contactez press@demimanifest.com."],
+        [
+          "Aide et confidentialité",
+          "Pour un problème avec l’application ou une demande relative à vos données, écrivez à hello@infinique.org. Indiquez votre appareil et décrivez le problème, sans envoyer de mot de passe ni de texte privé de votre journal."
+        ]
+      ]
+    },
+    "support": {
+      "title": "Besoin d’aide avec Demi ?",
+      "description": "Aide pour le téléchargement de Demi, les abonnements, la restauration des achats et les données.",
+      "sections": [
+        [
+          "Contacter l’assistance",
+          "Écrivez à hello@infinique.org avec le modèle de votre appareil, la version de l’application et une description du problème. N’envoyez ni mot de passe ni texte privé de votre journal."
+        ],
+        [
+          "Abonnements",
+          "Sur iPhone, gérez ou résiliez l’abonnement dans les réglages de votre compte Apple, rubrique Abonnements. Sur Android, ouvrez Google Play, puis Paiements et abonnements. L’accès reste normalement actif jusqu’à la fin de la période payée."
+        ],
+        [
+          "Restaurer un achat",
+          "Utilisez l’option de restauration des achats dans l’application avec le compte de la boutique ayant effectué l’achat. Si l’accès n’est pas rétabli, contactez l’assistance avec la référence de commande."
+        ],
+        [
+          "Données et suppression",
+          "Pour accéder à vos données ou les supprimer, utilisez les options de compte disponibles dans votre version de Demi ou contactez l’assistance. Désinstaller l’application ne résilie pas un abonnement."
+        ],
+        [
+          "Disponibilité et langues",
+          "Utilisez les liens officiels de l’App Store et de Google Play. La fiche précise la disponibilité, les appareils compatibles et les langues de l’application. Les langues du site ne déterminent pas celles de l’application."
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Conditions d’utilisation",
+      "description": "Conditions d’utilisation de Demi et de ses outils de réflexion quotidienne.",
+      "sections": [
+        [
+          "Utiliser Demi",
+          "En utilisant Demi, vous acceptez ces conditions. Pour toute question, contactez hello@demimanifest.com."
+        ],
+        [
+          "Le rituel n’est pas un avis médical",
+          "Demi est un outil quotidien de concentration et de réflexion. Ce n’est ni une thérapie, ni un médicament, ni un remplacement d’une prise en charge professionnelle. Consultez un professionnel qualifié lorsque vous en avez besoin."
+        ],
+        [
+          "Votre compte",
+          "Vous êtes responsable du contenu que vous créez. Ne partagez pas vos identifiants et n’utilisez pas Demi pour harceler quelqu’un ou lui nuire."
+        ],
+        [
+          "Modifications",
+          "Ces conditions peuvent évoluer avec le produit. Nous vous en informerons dans l’application."
+        ],
+        ["Contact", "Adressez vos questions à hello@demimanifest.com."]
+      ]
+    },
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "description": "Informations sur les données, les statistiques facultatives du site et les demandes de confidentialité.",
+      "sections": [
+        [
+          "Champ d’application",
+          "Cette page présente les informations de confidentialité de Demi, exploité par Infinique, et de ce site. Pour toute question sur les données de l’application ou votre version, contactez hello@infinique.org."
+        ],
+        [
+          "Statistiques facultatives du site",
+          "Avec votre consentement, Mixpanel mesure les visites, la lecture des articles, l’affichage des encarts de téléchargement et les clics vers l’App Store ou Google Play. Les événements comprennent le chemin de la page, le thème, la langue, l’emplacement et la boutique cible. Nous n’envoyons ni paramètres d’URL, ni textes de journal, ni intentions personnelles, ni adresses e-mail avec ces événements. La géolocalisation par adresse IP est désactivée pour ces requêtes."
+        ],
+        [
+          "Votre choix et le stockage du navigateur",
+          "Les statistiques restent désactivées jusqu’à votre accord. Nous enregistrons votre choix dans le navigateur puis, après consentement, créons un identifiant anonyme aléatoire. Vous pouvez refuser ou retirer votre accord via les préférences de statistiques en bas de page. Le retrait arrête les nouveaux envois et supprime cet identifiant du navigateur, sans effacer automatiquement les événements déjà reçus par Mixpanel."
+        ],
+        [
+          "Données de l’application et assistance",
+          "Les fonctionnalités peuvent traiter les informations nécessaires au service. N’envoyez ni texte privé de journal ni mot de passe à l’assistance. Nous utilisons les informations que vous transmettez pour répondre à votre demande. Contactez l’assistance pour accéder aux données de votre compte ou les supprimer."
+        ],
+        [
+          "Services tiers",
+          "Apple et Google gèrent leurs boutiques selon leurs propres politiques. Mixpanel traite pour nous les statistiques facultatives du site. Ces statistiques ne servent pas à créer des profils publicitaires et nous ne vendons pas ces données d’événements."
+        ],
+        [
+          "Conservation et suppression",
+          "Pour demander la suppression d’informations détenues par nous, contactez hello@infinique.org. Pour les statistiques du site, l’identifiant anonyme du navigateur peut être nécessaire afin de retrouver les événements. Effacer le stockage du navigateur ne supprime pas les données déjà envoyées."
+        ],
+        [
+          "Enfants",
+          "Demi ne s’adresse pas aux enfants de moins de 13 ans. Si vous pensez qu’un enfant a fourni des informations personnelles, contactez-nous afin que nous puissions examiner la situation."
+        ],
+        [
+          "Mises à jour",
+          "Cette page peut évoluer avec les fonctionnalités ou les pratiques de traitement. Cette notice du site a été mise à jour le 15 octobre 2026."
+        ],
+        [
+          "Contact",
+          "Pour les questions de confidentialité ou les demandes de suppression : hello@infinique.org."
+        ]
+      ]
+    }
+  },
+  "de": {
+    "about": {
+      "title": "Eine tägliche Praxis für dein nächstes Kapitel.",
+      "description": "Entdecke Demi: die App für SP, Liebe, Affirmationen, Scripting und Visualisierung.",
+      "sections": [
+        [
+          "Warum es Demi gibt",
+          "Demi vereint Intentionen, Affirmationen, Scripting und Vision Boards in einer täglichen Praxis. Beginne mit einer bestimmten Person, deinem Beziehungswunsch oder einem anderen Ziel, das dir wichtig ist."
+        ],
+        [
+          "Unser Ansatz",
+          "Wir geben Vorstellungskraft und Reflexion Raum. Deine eigenen Entscheidungen und Handlungen stehen dabei im Mittelpunkt. Keine App kann die Gefühle eines anderen Menschen oder ein bestimmtes Ergebnis garantieren."
+        ],
+        [
+          "Die App entdecken",
+          "Demi gibt es für iPhone und Android. Im Store und im Angebot innerhalb der App findest du aktuelle Funktionen, unterstützte Sprachen und Preise."
+        ]
+      ]
+    },
+    "contact": {
+      "title": "Schreib uns.",
+      "description": "Kontaktiere das Demi-Team für Feedback, Hilfe, Presseanfragen und Zusammenarbeit.",
+      "sections": [
+        [
+          "Feedback und Zusammenarbeit",
+          "Schreib an hello@demimanifest.com und beschreibe, was du teilen oder besprechen möchtest."
+        ],
+        ["Presse", "Presseanfragen bitte an press@demimanifest.com."],
+        [
+          "App-Hilfe und Datenschutz",
+          "Bei Problemen mit der App oder Fragen zu deinen Daten hilft hello@infinique.org. Nenne dein Gerätemodell und beschreibe das Problem. Sende keine Passwörter oder privaten Tagebuchtexte."
+        ]
+      ]
+    },
+    "support": {
+      "title": "Hilfe mit Demi.",
+      "description": "Hilfe beim Download, bei Abonnements, der Wiederherstellung von Käufen und bei Datenanfragen.",
+      "sections": [
+        [
+          "Support kontaktieren",
+          "Schreib an hello@infinique.org mit Gerätemodell, App-Version und einer Beschreibung des Problems. Sende keine Passwörter oder privaten Tagebuchtexte."
+        ],
+        [
+          "Abonnements",
+          "Auf dem iPhone verwaltest oder kündigst du dein Abonnement in den Apple-Accounteinstellungen unter Abonnements. Auf Android öffnest du Google Play und dann Zahlungen und Abos. Der Zugang bleibt normalerweise bis zum Ende des bezahlten Zeitraums bestehen."
+        ],
+        [
+          "Kauf wiederherstellen",
+          "Nutze die Funktion zum Wiederherstellen von Käufen in der App mit dem Store-Konto, über das du bezahlt hast. Fehlt der Zugang weiterhin, kontaktiere den Support mit der Bestellreferenz."
+        ],
+        [
+          "Daten und Löschung",
+          "Für Zugriff auf deine Daten oder deren Löschung nutze die Kontoeinstellungen deiner Demi-Version oder kontaktiere den Support. Das Deinstallieren der App kündigt kein Store-Abonnement."
+        ],
+        [
+          "Verfügbarkeit und Sprachen",
+          "Nutze die offiziellen Links zum App Store und zu Google Play. Dort stehen Verfügbarkeit, Geräteanforderungen und unterstützte App-Sprachen. Die Sprachen der Website sind davon unabhängig."
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "description": "Bedingungen für die Nutzung von Demi und seinen täglichen Reflexionswerkzeugen.",
+      "sections": [
+        [
+          "Demi nutzen",
+          "Mit der Nutzung von Demi stimmst du diesen Bedingungen zu. Bei Fragen wende dich an hello@demimanifest.com."
+        ],
+        [
+          "Das Ritual ist keine medizinische Beratung",
+          "Demi ist ein Werkzeug für tägliche Konzentration und Reflexion. Es ist weder Therapie noch Medizin und ersetzt keine professionelle Behandlung. Suche bei Bedarf qualifizierte Unterstützung."
+        ],
+        [
+          "Dein Konto",
+          "Du bist für die Inhalte verantwortlich, die du erstellst. Teile deine Zugangsdaten nicht und nutze Demi nicht, um andere zu belästigen oder ihnen zu schaden."
+        ],
+        [
+          "Änderungen",
+          "Diese Bedingungen können sich mit dem Produkt weiterentwickeln. Wir informieren dich dann in der App."
+        ],
+        ["Kontakt", "Fragen zu diesen Bedingungen kannst du an hello@demimanifest.com senden."]
+      ]
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "description": "Informationen zu Daten, optionaler Website-Analyse und Datenschutzanfragen bei Demi.",
+      "sections": [
+        [
+          "Geltungsbereich",
+          "Diese Seite beschreibt Datenschutzinformationen zu Demi, betrieben von Infinique, und zu dieser Website. Bei Fragen zu App-Daten oder deiner installierten Version kontaktiere hello@infinique.org."
+        ],
+        [
+          "Optionale Website-Analyse",
+          "Mit deiner Einwilligung misst Mixpanel Seitenaufrufe, Artikelnutzung, angezeigte Download-Karten und Klicks zum App Store oder zu Google Play. Ereignisse enthalten Seitenpfad, Artikelthema, Sprache, Position und Ziel-Store. Wir senden dabei keine URL-Parameter, Tagebuchtexte, persönlichen Wünsche oder E-Mail-Adressen. Die IP-Geolokalisierung ist für diese Anfragen deaktiviert."
+        ],
+        [
+          "Deine Auswahl und Browserspeicher",
+          "Die Analyse bleibt bis zu deiner Zustimmung ausgeschaltet. Wir speichern deine Auswahl im Browser und erstellen nach der Zustimmung eine zufällige anonyme Kennung. Du kannst die Einwilligung über die Statistik-Einstellungen im Seitenfuß verweigern oder widerrufen. Ein Widerruf beendet neue Übertragungen und entfernt die Website-Kennung aus dem Browser; bereits bei Mixpanel eingegangene Ereignisse werden dadurch nicht automatisch gelöscht."
+        ],
+        [
+          "App-Daten und Support",
+          "App-Funktionen können Informationen verarbeiten, die zur Bereitstellung des Dienstes nötig sind. Sende dem Support keine privaten Tagebuchtexte oder Passwörter. Wir verwenden deine Angaben, um deine Anfrage zu beantworten. Für Zugriff auf oder Löschung von Kontodaten kontaktiere den Support."
+        ],
+        [
+          "Dienste Dritter",
+          "Apple und Google betreiben ihre Stores nach eigenen Datenschutzregeln. Mixpanel verarbeitet die optionale Website-Analyse für uns. Wir nutzen diese Ereignisse nicht für Werbeprofile und verkaufen sie nicht."
+        ],
+        [
+          "Aufbewahrung und Löschung",
+          "Für die Löschung von Informationen, die wir speichern, wende dich an hello@infinique.org. Bei Website-Analysedaten benötigen wir gegebenenfalls die anonyme Browserkennung, um Ereignisse zuzuordnen. Das Leeren des Browserspeichers löscht keine bereits übertragenen Daten."
+        ],
+        [
+          "Kinder",
+          "Demi richtet sich nicht an Kinder unter 13 Jahren. Wenn du vermutest, dass ein Kind personenbezogene Daten übermittelt hat, kontaktiere uns, damit wir dies prüfen können."
+        ],
+        [
+          "Aktualisierungen",
+          "Diese Seite kann bei Änderungen an Funktionen oder Datenverarbeitung aktualisiert werden. Dieser Website-Hinweis wurde am 15. Oktober 2026 aktualisiert."
+        ],
+        ["Kontakt", "Datenschutzfragen und Löschanfragen: hello@infinique.org."]
+      ]
+    }
+  },
+  "it": {
+    "about": {
+      "title": "Una pratica quotidiana per il tuo prossimo capitolo.",
+      "description": "Scopri Demi: l’app per SP, amore, affermazioni, scripting e visualizzazione.",
+      "sections": [
+        [
+          "Perché esiste Demi",
+          "Demi riunisce intenzioni, affermazioni, scripting e vision board in una pratica quotidiana. Parti da una persona specifica, dalla relazione desiderata o da un altro obiettivo importante per te."
+        ],
+        [
+          "Il nostro approccio",
+          "Diamo spazio all’immaginazione e alla riflessione, mantenendo al centro le tue scelte e le tue azioni. Nessuna app può garantire i sentimenti di un’altra persona o un risultato preciso."
+        ],
+        [
+          "Scopri l’app",
+          "Demi è disponibile per iPhone e Android. La pagina dello store e l’offerta nell’app riportano funzioni, lingue supportate e prezzi aggiornati."
+        ]
+      ]
+    },
+    "contact": {
+      "title": "Scrivici.",
+      "description": "Contatta il team Demi per feedback, assistenza, stampa e collaborazioni.",
+      "sections": [
+        [
+          "Feedback e collaborazioni",
+          "Scrivi a hello@demimanifest.com e raccontaci cosa vorresti condividere o proporre."
+        ],
+        ["Stampa", "Per richieste stampa, contatta press@demimanifest.com."],
+        [
+          "Assistenza e privacy",
+          "Per problemi con l’app o richieste sui dati, scrivi a hello@infinique.org. Indica il modello del dispositivo e descrivi il problema, senza inviare password o testi privati del diario."
+        ]
+      ]
+    },
+    "support": {
+      "title": "Assistenza per Demi.",
+      "description": "Aiuto per download, abbonamenti, ripristino degli acquisti e richieste sui dati.",
+      "sections": [
+        [
+          "Contatta l’assistenza",
+          "Scrivi a hello@infinique.org con modello del dispositivo, versione dell’app e descrizione del problema. Non inviare password o testi privati del diario."
+        ],
+        [
+          "Abbonamenti",
+          "Su iPhone puoi gestire o annullare l’abbonamento nelle impostazioni dell’account Apple, alla voce Abbonamenti. Su Android apri Google Play, poi Pagamenti e abbonamenti. L’accesso normalmente continua fino alla fine del periodo pagato."
+        ],
+        [
+          "Ripristina un acquisto",
+          "Usa la funzione di ripristino degli acquisti nell’app con l’account dello store usato per il pagamento. Se manca ancora l’accesso, contatta l’assistenza con il riferimento dell’ordine."
+        ],
+        [
+          "Dati ed eliminazione",
+          "Per accedere ai dati o eliminarli, usa i controlli dell’account disponibili nella tua versione di Demi oppure contatta l’assistenza. Disinstallare l’app non annulla un abbonamento dello store."
+        ],
+        [
+          "Disponibilità e lingue",
+          "Usa i link ufficiali all’App Store e a Google Play. La scheda mostra disponibilità, requisiti del dispositivo e lingue supportate nell’app. Le lingue del sito sono indipendenti da quelle dell’app."
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Condizioni di utilizzo",
+      "description": "Condizioni per utilizzare Demi e i suoi strumenti di riflessione quotidiana.",
+      "sections": [
+        [
+          "Usare Demi",
+          "Usando Demi accetti queste condizioni. Per qualsiasi dubbio, contatta hello@demimanifest.com."
+        ],
+        [
+          "Il rituale non è un consiglio medico",
+          "Demi è uno strumento quotidiano di concentrazione e riflessione. Non è una terapia, un farmaco o un sostituto delle cure professionali. Rivolgiti a una persona qualificata quando ne hai bisogno."
+        ],
+        [
+          "Il tuo account",
+          "Sei responsabile dei contenuti che crei. Non condividere le credenziali e non usare Demi per molestare o danneggiare altre persone."
+        ],
+        [
+          "Modifiche",
+          "Queste condizioni possono cambiare con l’evoluzione del prodotto. Ti informeremo nell’app."
+        ],
+        ["Contatti", "Invia le domande sulle condizioni a hello@demimanifest.com."]
+      ]
+    },
+    "privacy": {
+      "title": "Informativa sulla privacy",
+      "description": "Informazioni sui dati, sulle statistiche facoltative del sito e sulle richieste di privacy.",
+      "sections": [
+        [
+          "Ambito",
+          "Questa pagina descrive le informazioni sulla privacy di Demi, gestita da Infinique, e di questo sito. Per domande sui dati dell’app o sulla versione installata, contatta hello@infinique.org."
+        ],
+        [
+          "Statistiche facoltative del sito",
+          "Con il tuo consenso, Mixpanel misura visite, lettura degli articoli, visualizzazione delle schede di download e clic verso App Store o Google Play. Gli eventi includono percorso della pagina, argomento, lingua, posizione e store di destinazione. Non inviamo parametri URL, testi del diario, intenzioni personali o indirizzi e-mail con questi eventi. La geolocalizzazione IP è disattivata per queste richieste."
+        ],
+        [
+          "La tua scelta e il browser",
+          "Le statistiche restano disattivate fino al consenso. Salviamo la tua scelta nel browser e, dopo il consenso, creiamo un identificativo anonimo casuale. Puoi rifiutare o revocare il consenso nelle preferenze statistiche in fondo alla pagina. La revoca interrompe i nuovi invii e rimuove l’identificativo dal browser, senza cancellare automaticamente gli eventi già ricevuti da Mixpanel."
+        ],
+        [
+          "Dati dell’app e assistenza",
+          "Le funzioni dell’app possono trattare informazioni necessarie al servizio. Non inviare testi privati del diario o password all’assistenza. Usiamo le informazioni fornite per rispondere alla richiesta. Contatta l’assistenza per accedere ai dati dell’account o eliminarli."
+        ],
+        [
+          "Servizi di terze parti",
+          "Apple e Google gestiscono i rispettivi store secondo le proprie informative. Mixpanel elabora per noi le statistiche facoltative del sito. Non utilizziamo questi eventi per creare profili pubblicitari e non li vendiamo."
+        ],
+        [
+          "Conservazione ed eliminazione",
+          "Per chiedere l’eliminazione delle informazioni in nostro possesso, contatta hello@infinique.org. Per le statistiche del sito potrebbe servire l’identificativo anonimo del browser per individuare gli eventi. Cancellare i dati del browser non elimina quelli già inviati."
+        ],
+        [
+          "Minori",
+          "Demi non è rivolta ai minori di 13 anni. Se ritieni che un minore abbia fornito informazioni personali, contattaci per consentirci di verificare la situazione."
+        ],
+        [
+          "Aggiornamenti",
+          "Questa pagina può cambiare con le funzioni o le modalità di trattamento dei dati. L’informativa del sito è stata aggiornata il 15 ottobre 2026."
+        ],
+        ["Contatti", "Per domande sulla privacy o richieste di eliminazione: hello@infinique.org."]
+      ]
+    }
+  }
+}

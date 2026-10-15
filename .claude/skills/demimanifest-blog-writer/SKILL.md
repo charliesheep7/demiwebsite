@@ -5,6 +5,8 @@ description: 'Write SEO-optimized blog posts for demimanifest.com. Use when aske
 
 # Demi Blog Writer
 
+The 2026-10-15 product and publication instructions below supersede older product descriptions, CTA examples, paths and keyword-picking instructions elsewhere in this document.
+
 End-to-end pipeline for publishing an SEO-optimized blog post for **demimanifest.com**.
 
 **Default behavior**: Uses the repository keyword tracker, finds the next unwritten keyword, and runs the full pipeline. No arguments needed.
@@ -31,40 +33,30 @@ After all iterations, show a final batch summary listing every published slug + 
 
 ---
 
-## About Demi
+## Product and SEO strategy — updated 2026-10-15
 
-**One-liner**: A 30-second daily ritual for people who half-believe in manifestation.
+Demi is an iOS and Android manifestation app focused primarily on SP (specific person) and love intentions. It includes affirmations, scripting, a claiming orb and vision boards. Do not describe it as iOS-only, a fixed 30-second product, or an app without affirmations or vision boards. Do not promise another person's behavior, money, employment or a deadline. Explain spiritual beliefs as beliefs, distinguish reflection from evidence, and respect consent and boundaries.
 
-Demi is a **manifestation app for skeptics**. No affirmations you have to perform. No vision boards. No forty-five-minute morning pages. You open the app, hold your future self in view for thirty seconds, close it, and go live your ordinary Tuesday. Key ideas that run through everything Demi publishes:
+The website supports English, French, German and Italian. Turkish blog infrastructure is retained but is outside the current expansion campaign. Write in the intended language from its native keyword research; do not mass-translate English keywords. The French bare word “manifestation” and Italian “manifesti/manifestazione” often mean protests, events or posters and are excluded unless spiritual intent is verified.
 
-- **Half-belief is enough.** You don't need to believe. You need to show up.
-- **Attention, not faith.** Manifestation — honestly — is paying attention, on purpose, to what you actually want. The woo is aesthetic; the practice is attention.
-- **Ordinary Tuesdays.** The life you want lives inside ordinary Tuesdays, not mountaintop moments. A 30-second ritual survives every week.
-- **Deliberately unambitious.** A workout works whether or not you believe in it. So does thirty seconds of attention.
+### Current publication pipeline
 
-**Pricing / distribution**: iOS app. Free to download. (Price tiers may change — don't invent specifics unless the host repo's pricing page confirms them.)
+Use the versioned repository workflow, not a stale global keyword CSV. Work in the active clean checkout of `charliesheep7/demiwebsite`; preserve unrelated dirty changes.
 
-**Audience**: smart, slightly skeptical women (and men) in their late 20s–40s who would roll their eyes at most manifestation content and open Demi anyway. Therapy-literate, burned out by hustle content, tired of routines that don't survive a normal week.
+1. Run `python3 .claude/skills/demimanifest-blog-writer/tracker.py next 5 --locale fr` (replace locale with en/de/fr/it). The default queue uses country-specific research observed 2026-10-15. Missing metrics mean unavailable, not zero. Historic English keywords require explicit `--include-legacy` and fresh intent validation.
+2. Run `tracker.py refresh --locale en` before inventing a new URL. Existing SP, 369, scripting and prompt pages should be refreshed; avoid competing near-duplicates. If the queue is empty, research a distinct intent rather than reverting to hundreds of angel-number variants.
+3. Target an initial editorial mix of 45% SP/love, 30% affirmations and practical methods, 15% money/career, 10% signs. This is a planning hypothesis; adjust from GSC reach and consented store-click rates. Never sacrifice article quality to fill quotas.
+4. Research the native search intent and sources. Write an answer-first original guide with useful examples, a usable exercise, topic-specific FAQs and relevant internal links. Label invented examples. Avoid unverifiable science and testimonials.
+5. Save English posts at `content/blog/<slug>.mdx`; other languages at `content/blog/<locale>/<slug>.mdx`. Use YAML frontmatter with title, description, date, optional updated, optional concise seoTitle, topic (love/affirmations/methods/money-career/signs), keywords, image. Bodies are plain Markdown, no JSX. Preserve original publication date when updating.
+6. Save a text-free relevant hero at `public/blog/<locale>/<slug>/hero.jpg` (English omits locale). Reuse a suitable owned image when appropriate; do not add untranslated lettering. Validate the image exists and provide native alt text through the title.
+7. The shared article layout automatically renders localized topic-specific CTAs with **both direct App Store and Google Play links**, plus related articles and topic hubs. Do not add duplicate store buttons in the Markdown. A short product bridge may mention real features without making outcome claims.
+8. Add primary and secondary terms to `.claude/skills/demimanifest-blog-writer/written-<locale>.csv` (English `written.csv`). The tracker also reads published frontmatter, so a missing ledger never justifies a duplicate.
+9. Run `npm run check:seo`, `npm run test:analytics`, and `npm run build`. Check the rendered target page, native navigation, metadata, canonical and image. Sitemap generation includes published articles, real topic hubs and paginated indexes automatically. Native product pages have reciprocal hreflang; independently researched articles must not claim translation equivalence.
+10. Publish only within the user's authorized scope. Verify production pages and sitemap after deployment. Store clicks are outbound interest, not installs or purchases. Never claim attribution beyond the measured event.
 
-**Voice**: literary-direct. Short sentences. Dry warmth. Anti-hype, anti-guru, anti-performative-belief. Concrete images ("oat milk on the keyboard") over abstractions ("manifest abundance"). Permission, not pressure.
+### CTA voice
 
----
-
-## CTA Guidelines
-
-Every article ends with a moderate, natural CTA (2-3 sentences) that ties the topic back to Demi. Rules:
-
-- Mention "Demi" by name once or twice — never more
-- Tie to the article's topic (half-belief, attention, ordinary Tuesdays, 30 seconds, the life you're after quietly finding you)
-- Soft call to action: "[Download Demi](https://demimanifest.com)" or "Try it on one ordinary Tuesday at [demimanifest.com](https://demimanifest.com)"
-- Never pressure, never promise outcomes
-- Never use: "manifest your best life", "abundance mindset", "high-vibe", "the universe has your back", "unlock", "10x", "revolutionize", "game-changer", "unleash"
-
-**Examples (use as seeds, never copy verbatim):**
-
-- _"If you've tried the forty-five-minute morning routines and quietly stopped, [Demi](https://demimanifest.com) is thirty seconds. Small enough to survive a normal Tuesday. Honest enough to start with half-belief."_
-- _"Most manifestation apps ask you to perform belief. [Demi](https://demimanifest.com) asks you to show up for thirty seconds. That's the whole deal."_
-- _"The life you're after tends to find you when you keep showing up. [Demi](https://demimanifest.com) is the smallest ritual we could build that still does that."_
+Use direct, kind, specific copy. Connect the article's need to a realistic feature: SP/love → intentions and scripting; affirmations → daily practice; methods → guided writing; money/career → goals and one real-world action; signs → a reflection prompt. Avoid hype, guarantees and pressure. Refer to `data/ctaCopy.json` and `docs/seo/2026-10-15/README.md` for the current implementation and evidence.
 
 ---
 
