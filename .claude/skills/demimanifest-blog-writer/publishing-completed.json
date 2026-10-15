@@ -7,6 +7,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-15",
       "verification": "Production verified in release 7c3c707; PR #2."
+    },
+    {
+      "locale": "de",
+      "slug": "liebe-manifestieren",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-15",
+      "verification": "implemented locally; production verification by release step"
     }
   ]
 }
