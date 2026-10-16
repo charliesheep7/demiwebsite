@@ -25,13 +25,20 @@
     "slug": "scripting-manifestation",
     "research_date": "2026-10-15",
     "implemented_on": "2026-10-16",
-    "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: expanded sample scripts section with career-change, relationship and health examples; added structured five-minute exercise ('Write your first script right now'). Internal links: existing links preserved. No new external URLs added. IndexNow: pending live verification. PUSHED_LIVE_VERIFICATION_PENDING."
+    "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: expanded sample scripts section with career-change, relationship and health examples; added structured five-minute exercise ('Write your first script right now'). Internal links: existing links preserved. No new external URLs added. PUSHED_LIVE_VERIFICATION_PENDING."
   },
   {
     "locale": "en",
     "slug": "manifest-money",
     "research_date": "2026-10-15",
     "implemented_on": "2026-10-16",
-    "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: added 'A ten-minute WOOP exercise for money' section with step-by-step Wish/Outcome/Obstacle/Plan walkthrough specific to financial goals; added internal link to scripting-manifestation. No new external URLs added (existing woopmylife.org, journals.sagepub.com and badcredit.org links preserved). IndexNow: pending live verification. PUSHED_LIVE_VERIFICATION_PENDING."
+    "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: added 'A ten-minute WOOP exercise for money' section with step-by-step Wish/Outcome/Obstacle/Plan walkthrough specific to financial goals; added internal link to scripting-manifestation. No new external URLs added. PUSHED_LIVE_VERIFICATION_PENDING."
+  },
+  {
+    "locale": "en",
+    "slug": "how-to-manifest-a-job",
+    "research_date": "2026-10-15",
+    "implemented_on": "2026-10-16",
+    "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: added 'A fifteen-minute exercise to start today' section applying WOOP to job search with networking prompt; fixed missing '---' footer; added internal cross-link to scripting-manifestation. No new external URLs added. PUSHED_LIVE_VERIFICATION_PENDING."
   }
 ]
