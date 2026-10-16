@@ -19,5 +19,12 @@
     "research_date": "2026-10-15",
     "implemented_on": "2026-10-16",
     "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Hero: owned manifestation-journal.jpg 1200x630 JPEG reused. External links: gottman.com link reused from existing articles (previously verified). IndexNow: network restricted."
+  },
+  {
+    "locale": "en",
+    "slug": "scripting-manifestation",
+    "research_date": "2026-10-15",
+    "implemented_on": "2026-10-16",
+    "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: expanded sample scripts section with career-change, relationship and health examples; added structured five-minute exercise ('Write your first script right now'). Internal links: existing links preserved. No new external URLs added. IndexNow: pending live verification."
   }
 ]
