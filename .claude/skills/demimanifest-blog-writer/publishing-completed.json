@@ -63,6 +63,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-17",
       "verification": "hero skipped (sharp unavailable, using /images/manifestation-journal.jpg); no external links; SEO check passed; build passed; PUSHED_LIVE_VERIFICATION_PENDING"
+    },
+    {
+      "locale": "it",
+      "slug": "affermazioni-amore",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-17",
+      "verification": "hero skipped (sharp unavailable, using /images/manifestation-journal.jpg); no external links; SEO check passed; build passed; PUSHED_LIVE_VERIFICATION_PENDING"
     }
   ]
 }
