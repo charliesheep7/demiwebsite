@@ -49,6 +49,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-15",
       "verification": "implemented locally; production verification by release step"
+    },
+    {
+      "locale": "de",
+      "slug": "manifestieren",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-17",
+      "verification": "hero skipped (sharp unavailable, using /images/manifestation-journal.jpg); external links to de.wikipedia.org and woopmylife.org unverifiable due to cloud network restriction (known-good authoritative URLs); SEO check passed; build passed (541 pages); PUSHED_LIVE_VERIFICATION_PENDING"
     }
   ]
 }
