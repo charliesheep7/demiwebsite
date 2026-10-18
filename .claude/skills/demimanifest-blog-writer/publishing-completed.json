@@ -77,6 +77,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-18",
       "verification": "Added topic: methods, expanded Sample Scripts section with SP/love examples (reconnection, new relationship, reconciliation), added Demi product bridge in closing section; npm run check:seo passed; npm run test:analytics passed; npm run build passed; canonical https://www.demimanifest.com/blog/scripting-manifestation verified; PUSHED_LIVE_VERIFICATION_PENDING"
+    },
+    {
+      "locale": "en",
+      "slug": "manifest-money",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-18",
+      "verification": "Added topic: money-career, added scripting bridge paragraph connecting WOOP to scripting practice with internal link, update updated to 2026-10-18; npm run check:seo passed; npm run test:analytics passed; npm run build passed; canonical https://www.demimanifest.com/blog/manifest-money verified; PUSHED_LIVE_VERIFICATION_PENDING"
     }
   ]
 }
