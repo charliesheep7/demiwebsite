@@ -70,6 +70,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-17",
       "verification": "hero skipped (sharp unavailable, using /images/manifestation-journal.jpg); no external links; SEO check passed; build passed; PUSHED_LIVE_VERIFICATION_PENDING"
+    },
+    {
+      "locale": "en",
+      "slug": "scripting-manifestation",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-18",
+      "verification": "Added topic: methods, expanded Sample Scripts section with SP/love examples (reconnection, new relationship, reconciliation), added Demi product bridge in closing section; npm run check:seo passed; npm run test:analytics passed; npm run build passed; canonical https://www.demimanifest.com/blog/scripting-manifestation verified; PUSHED_LIVE_VERIFICATION_PENDING"
     }
   ]
 }
