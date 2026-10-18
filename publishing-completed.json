@@ -40,5 +40,12 @@
     "research_date": "2026-10-15",
     "implemented_on": "2026-10-16",
     "verification": "SEO check passed (448 articles checked), analytics check passed. Build failed in cloud environment due to pre-existing missing lightningcss linux-x64-gnu native binary — identical failure without new articles. Substantive edits: added 'A fifteen-minute exercise to start today' section applying WOOP to job search with networking prompt; fixed missing '---' footer; added internal cross-link to scripting-manifestation. No new external URLs added. PUSHED_LIVE_VERIFICATION_PENDING."
+  },
+  {
+    "locale": "de",
+    "slug": "geld-manifestieren",
+    "research_date": "2026-10-15",
+    "implemented_on": "2026-10-18",
+    "verification": "SEO check passed (454 articles checked), analytics check passed, build passed. Hero: owned manifestation-journal.jpg 1200x630 JPEG reused. External links: de.wikipedia.org/wiki/Gesetz_der_Anziehung and de.wikipedia.org/wiki/Bestätigungsfehler and de.wikipedia.org/wiki/Gabriele_Oettingen referenced (Wikipedia, network-restricted curl verify). Internal links: /de/blog/manifestieren, /de/blog/369-methode, /de/blog/affirmationen-selbstliebe. IndexNow: attempted post-push."
   }
 ]
