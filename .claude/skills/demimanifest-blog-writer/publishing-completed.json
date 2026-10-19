@@ -91,6 +91,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-18",
       "verification": "Added topic: money-career, added scripting example section for job search with concrete Tuesday scene including action step, update updated to 2026-10-18; npm run check:seo passed; npm run test:analytics passed; npm run build passed; canonical https://www.demimanifest.com/blog/how-to-manifest-a-job verified; PUSHED_LIVE_VERIFICATION_PENDING"
+    },
+    {
+      "locale": "de",
+      "slug": "job-manifestieren",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-19",
+      "verification": "hero using /images/manifestation-journal.jpg (sharp unavailable); external links to karrierebibel.de and de.wikipedia.org unverifiable due to cloud network restriction (known-good authoritative URLs); npm run check:seo passed (550 pages); npm run test:analytics passed; npm run build passed; PUSHED_LIVE_VERIFICATION_PENDING"
     }
   ]
 }
