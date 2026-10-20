@@ -112,6 +112,13 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-19",
       "verification": "hero using /images/manifestation-journal.jpg (sharp unavailable); external links to it.wikipedia.org unverifiable due to cloud network restriction (known-good authoritative URLs); npm run check:seo passed; npm run test:analytics passed; npm run build passed; PUSHED_LIVE_VERIFICATION_PENDING"
+    },
+    {
+      "locale": "fr",
+      "slug": "manifester-argent",
+      "research_date": "2026-10-15",
+      "implemented_on": "2026-10-20",
+      "verification": "hero using /images/manifestation-journal.jpg (sharp unavailable); no external links; npm run check:seo passed (459 articles); npm run test:analytics passed; npm run build passed; compiled at .next/server/app/fr/blog/manifester-argent.html; PUSHED_LIVE_VERIFICATION_PENDING"
     }
   ]
 }
