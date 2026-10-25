@@ -12,7 +12,8 @@
     "format": "prettier --write .",
     "prepare": "husky",
     "check:seo": "node scripts/check-seo.mjs",
-    "test:analytics": "node scripts/test-analytics.mjs"
+    "test:analytics": "node scripts/test-analytics.mjs",
+    "test:reading-paths": "node scripts/test-reading-paths.mjs"
   },
   "dependencies": {
     "@next/bundle-analyzer": "15.2.9",

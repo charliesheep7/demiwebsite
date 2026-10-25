@@ -1,0 +1,74 @@
+{
+  "en": {
+    "featured": [
+      "manifesting-a-specific-person",
+      "single-word-affirmations",
+      "manifest-writing-examples",
+      "pillow-method",
+      "angel-number-444444",
+      "angel-number-1015"
+    ],
+    "love": ["manifesting-a-specific-person", "love-letter-method", "how-to-manifest-love"],
+    "affirmations": ["single-word-affirmations", "self-concept-and-self-esteem"],
+    "methods": [
+      "manifest-writing-examples",
+      "pillow-method",
+      "manifestation-journal-prompts",
+      "manifestation-journal-template"
+    ],
+    "money-career": ["how-to-manifest-a-job", "manifest-money"],
+    "signs": ["angel-number-444444", "angel-number-1015"]
+  },
+  "fr": {
+    "featured": [
+      "scripting-manifestation-exemples",
+      "affirmations-positives-matin",
+      "manifester-une-personne",
+      "methode-369",
+      "manifester-argent"
+    ],
+    "love": [
+      "manifester-une-personne",
+      "manifester-amour",
+      "loi-attraction-amour",
+      "affirmations-positives-amour"
+    ],
+    "affirmations": ["affirmations-positives-matin", "affirmations-confiance-en-soi"],
+    "methods": ["scripting-manifestation-exemples", "methode-369"],
+    "money-career": ["manifester-argent", "manifester-un-travail"],
+    "signs": []
+  },
+  "de": {
+    "featured": [
+      "manifestieren",
+      "affirmationen-selbstbewusstsein",
+      "affirmationen-selbstliebe",
+      "bestimmte-person-manifestieren",
+      "369-methode"
+    ],
+    "love": ["bestimmte-person-manifestieren", "liebe-manifestieren", "affirmationen-liebe"],
+    "affirmations": ["affirmationen-selbstbewusstsein", "affirmationen-selbstliebe"],
+    "methods": ["manifestieren", "369-methode"],
+    "money-career": ["geld-manifestieren", "job-manifestieren"],
+    "signs": []
+  },
+  "it": {
+    "featured": [
+      "affermazioni-positive",
+      "diario-della-gratitudine",
+      "come-manifestare-una-persona",
+      "metodo-369",
+      "manifestare-soldi"
+    ],
+    "love": [
+      "come-manifestare-una-persona",
+      "manifestare-amore",
+      "legge-attrazione-amore",
+      "affermazioni-amore"
+    ],
+    "affirmations": ["affermazioni-positive"],
+    "methods": ["diario-della-gratitudine", "manifestare", "metodo-369"],
+    "money-career": ["manifestare-soldi", "manifestare-un-lavoro"],
+    "signs": []
+  }
+}

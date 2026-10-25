@@ -1,3 +1,4 @@
+import { guidePosts, guideHeading } from '@/lib/reading-paths'
 import topicDescriptions from '@/data/topicDescriptions.json'
 import { notFound } from 'next/navigation'
 import { TOPICS, Topic, topicFor, topicLabel } from '@/lib/topics'
@@ -74,6 +75,7 @@ export default function BlogIndex({
   const pageCount = Math.max(1, Math.ceil(allPosts.length / PAGE_SIZE))
   if (!Number.isSafeInteger(page) || page < 1 || page > pageCount) notFound()
   const posts = allPosts.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+  const guides = page === 1 ? guidePosts(allPosts, locale, topic) : []
   const copy = blogCopy(locale)
   const base = indexPath(locale, page, topic)
 
@@ -143,6 +145,26 @@ export default function BlogIndex({
           </Link>
         ))}
       </nav>
+      {guides.length > 0 && (
+        <section aria-labelledby="guide-heading" className="mb-14">
+          <h2 id="guide-heading" className="t-h2 mb-6">
+            {guideHeading[locale]}
+          </h2>
+          <ul className="grid gap-4 sm:grid-cols-2">
+            {guides.map((post) => (
+              <li key={post.slug}>
+                <Link
+                  href={blogPath(locale, post.slug)}
+                  className="border-line-soft hover:border-lav-500 block h-full rounded-[var(--radius-md)] border p-5 transition-colors"
+                >
+                  <h3 className="font-serif text-xl leading-snug">{post.frontmatter.title}</h3>
+                  <p className="t-body mt-2 text-sm">{post.frontmatter.description}</p>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
       {posts.length === 0 ? (
         <p className="t-body text-ink-dim">{copy.empty}</p>
       ) : (
