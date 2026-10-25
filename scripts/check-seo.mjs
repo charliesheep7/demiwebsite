@@ -25,6 +25,8 @@ for (const locale of locales) {
     if (data.updated && data.updated < data.date)
       failures.push(`${file}: updated before publication`)
     if (locale !== 'en' && !data.topic) failures.push(`${file}: native page needs explicit topic`)
+    if (/\s[|·–—-]\s*Demi\s*$/i.test(data.seoTitle || ''))
+      failures.push(`${file}: seoTitle must not repeat the layout's Demi suffix`)
     if (data.description?.length > 180)
       warnings.push(`${file}: long description (${data.description.length})`)
   }
@@ -38,6 +40,16 @@ for (const post of posts) {
     const target = decodeURI(m[1]).replace(/\/$/, '') || '/'
     if (!urls.has(target) && !fs.existsSync(`public${target}`))
       failures.push(`${post.file}: broken internal link ${target}`)
+  }
+}
+const readingPaths = JSON.parse(fs.readFileSync('data/readingPaths.json'))
+for (const [locale, groups] of Object.entries(readingPaths)) {
+  for (const [group, slugs] of Object.entries(groups)) {
+    if (new Set(slugs).size !== slugs.length) failures.push(`${locale}/${group}: duplicate guide`)
+    for (const slug of slugs) {
+      const url = `${locale === 'en' ? '' : `/${locale}`}/blog/${slug}`
+      if (!urls.has(url)) failures.push(`${locale}/${group}: missing guide ${url}`)
+    }
   }
 }
 const site = JSON.parse(fs.readFileSync('data/siteLocales.json')),

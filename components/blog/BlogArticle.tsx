@@ -1,3 +1,4 @@
+import { relatedPosts } from '@/lib/reading-paths'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import Image from 'next/image'
@@ -57,15 +58,7 @@ export default async function BlogArticle({
     `${post.slug} ${post.frontmatter.title} ${(post.frontmatter.keywords || []).join(' ')}`,
     post.frontmatter.topic
   )
-  const candidates = getAllPosts(locale).filter((p) => p.slug !== slug)
-  const sameTopic = candidates.filter(
-    (p) =>
-      topicFor(
-        `${p.slug} ${p.frontmatter.title} ${(p.frontmatter.keywords || []).join(' ')}`,
-        p.frontmatter.topic
-      ) === topic
-  )
-  const related = [...sameTopic, ...candidates.filter((p) => !sameTopic.includes(p))].slice(0, 3)
+  const related = relatedPosts(post, getAllPosts(locale))
   const rendered = await renderPost(post)
   // Answer the reader's question before presenting the first app offer.
   const firstSection = rendered.html.search(/<h2\b/)

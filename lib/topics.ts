@@ -11,7 +11,7 @@ export function topicFor(text: string, explicit?: Topic): Topic {
   )
     return 'money-career'
   if (
-    /specific.person|\bsp\b|love|soulmate|relationship|ex.back|someone|liebe|person.manifest|amour|personne|amore|persona/.test(
+    /specific.person|\bsp\b|love|soulmate|relationship|ex.back|someone|liebe|person.manifest|amour|personne|amore|\bpersona\b/.test(
       t
     )
   )

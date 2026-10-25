@@ -126,6 +126,62 @@
       "research_date": "2026-10-15",
       "implemented_on": "2026-10-20",
       "verification": "hero using /images/manifestation-journal.jpg (sharp unavailable); no external links; npm run check:seo passed; npm run test:analytics passed; npm run build passed; compiled at .next/server/app/it/blog/manifestare-un-lavoro.html; PUSHED_LIVE_VERIFICATION_PENDING"
+    },
+    {
+      "locale": "en",
+      "slug": "pillow-method",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "en",
+      "slug": "manifest-writing-examples",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "en",
+      "slug": "love-letter-method",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "en",
+      "slug": "angel-number-444444",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "en",
+      "slug": "angel-number-1015",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "fr",
+      "slug": "affirmations-positives-matin",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "de",
+      "slug": "affirmationen-selbstbewusstsein",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
+    },
+    {
+      "locale": "it",
+      "slug": "diario-della-gratitudine",
+      "research_date": "2026-10-25",
+      "implemented_on": "2026-10-25",
+      "verification": "Implemented in the search growth batch; release checks and production delivery are recorded in the release commit and deployment. This receipt prevents duplicate authoring, not a claim of indexing."
     }
   ]
 }
