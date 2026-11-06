@@ -69,6 +69,11 @@ module.exports = () => {
           destination: '/blog/angel-number-1010',
           permanent: true,
         },
+        {
+          source: '/:locale/blog/page/1',
+          destination: '/:locale/blog',
+          permanent: true,
+        },
       ]
     },
     eslint: {

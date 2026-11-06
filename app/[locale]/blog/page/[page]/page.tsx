@@ -6,10 +6,13 @@ type Params = { locale: string; page: string }
 export const dynamicParams = false
 export function generateStaticParams({ params }: { params: { locale: string } }) {
   const locale = params.locale as BlogLocale
-  return Array.from(
+  const pages = Array.from(
     { length: Math.max(0, Math.ceil(filteredPosts(locale).length / PAGE_SIZE) - 1) },
     (_, i) => ({ page: String(i + 2) })
   )
+  // A static export rejects a route with no params, so locales without a second
+  // page get /page/1, which next.config redirects to the locale's blog index
+  return pages.length || !process.env.EXPORT ? pages : [{ page: '1' }]
 }
 async function resolve(params: Promise<Params>) {
   const p = await params
