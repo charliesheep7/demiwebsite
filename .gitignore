@@ -56,3 +56,6 @@ __pycache__/
 *.tsbuildinfo
 !app/feed.xml/
 !app/feed.xml/route.ts
+
+# cloudflare
+.wrangler
